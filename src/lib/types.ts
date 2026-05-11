@@ -53,6 +53,8 @@ export type HondiusCase = {
   exposureGroup: string | null;
   onset: string | null;
   firstSeenAt: string | null;
+  reportedDate: string | null;
+  reportedDateSource: "onset" | "narrative" | "first-seen" | null;
   lat: number;
   lng: number;
 };
@@ -67,6 +69,7 @@ export type HondiusSource = {
   cases: HondiusCase[];
   dailySeries?: DailyPoint[];
   cumulativeSeries?: DailyPoint[];
+  datedCounts?: { onset: number; narrative: number; firstSeen: number; undated: number };
 };
 
 export type GDELTSampleTitle = { title: string; url: string; language: string | null };

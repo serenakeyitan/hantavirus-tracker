@@ -239,6 +239,7 @@ async function main() {
         cases: hondius.cases,
         dailySeries: hondius.dailySeries,
         cumulativeSeries: hondius.cumulativeSeries,
+        datedCounts: hondius.datedCounts,
       },
       gdelt: gdelt && {
         name: gdelt.name,

@@ -2,16 +2,19 @@
 
 import type { DailyPoint } from "@/lib/types";
 
+type DatedCounts = { onset: number; narrative: number; firstSeen: number; undated: number };
+
 type Props = {
   daily: DailyPoint[];
   cumulative: DailyPoint[];
+  datedCounts?: DatedCounts;
   className?: string;
 };
 
 // Tiny in-house chart — daily bars + cumulative line, no chart lib.
 // The two series share the same X axis (days). Daily uses the left scale
 // (bars), cumulative uses the right (line). Renders even with sparse data.
-export default function TrendChart({ daily, cumulative, className }: Props) {
+export default function TrendChart({ daily, cumulative, datedCounts, className }: Props) {
   if (!daily.length) {
     return (
       <div className={"px-3 py-4 text-center text-xs text-zinc-500 " + (className ?? "")}>
@@ -66,8 +69,8 @@ export default function TrendChart({ daily, cumulative, className }: Props) {
   return (
     <div className={"px-3 py-2 " + (className ?? "")}>
       <div className="flex items-baseline justify-between text-[10px] uppercase tracking-wider text-zinc-500">
-        <span>Cluster growth</span>
-        <span className="font-semibold text-zinc-700">{totalCases} total</span>
+        <span>Reported events by date</span>
+        <span className="font-semibold text-zinc-700">{totalCases} dated</span>
       </div>
       <svg viewBox={`0 0 ${W} ${H}`} className="mt-1 h-20 w-full">
         {/* Daily bars (slate) */}
@@ -112,7 +115,15 @@ export default function TrendChart({ daily, cumulative, className }: Props) {
         <span><span className="inline-block h-px w-3 bg-zinc-900 align-middle" /> cumulative</span>
       </div>
       <p className="mt-1 text-[10px] leading-snug text-zinc-400">
-        Counts reflect when cases were logged to the maintainer&apos;s line-list, not when illness started. Updates hourly.
+        {datedCounts ? (
+          <>
+            Dates reported by source: <b>{datedCounts.onset}</b> illness onsets,{" "}
+            <b>{datedCounts.narrative}</b> cruise event dates from narratives.
+            {datedCounts.undated > 0 && <> {datedCounts.undated} undated.</>}
+          </>
+        ) : (
+          <>Dates from the maintainer&apos;s line-list. Updates hourly.</>
+        )}
       </p>
     </div>
   );

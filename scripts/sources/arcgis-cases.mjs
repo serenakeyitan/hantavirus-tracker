@@ -37,6 +37,32 @@ function saveHistory(history) {
   writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2));
 }
 
+// Parse the first "Month Day" pattern from a case's narrative. Matches both
+// "April 24th" and "April 24". Defaults the year to the current year — the
+// MV Hondius cluster is 2026, so this is correct for now; revisit if we
+// extend to older outbreaks.
+const MONTHS = {
+  jan: 0, january: 0, feb: 1, february: 1, mar: 2, march: 2, apr: 3, april: 3,
+  may: 4, jun: 5, june: 5, jul: 6, july: 6, aug: 7, august: 7,
+  sep: 8, september: 8, oct: 9, october: 9, nov: 10, november: 10, dec: 11, december: 11,
+};
+const DATE_RX = /\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})(?:st|nd|rd|th)?\b/i;
+
+function parseDateFromText(text) {
+  if (!text) return null;
+  const m = text.match(DATE_RX);
+  if (!m) return null;
+  const monthIdx = MONTHS[m[1].toLowerCase()];
+  if (monthIdx == null) return null;
+  const day = Number(m[2]);
+  if (!day || day < 1 || day > 31) return null;
+  const year = new Date().getUTCFullYear();
+  const yyyy = String(year);
+  const mm = String(monthIdx + 1).padStart(2, "0");
+  const dd = String(day).padStart(2, "0");
+  return `${yyyy}-${mm}-${dd}`;
+}
+
 export async function fetchArcgisCases() {
   const params = new URLSearchParams({
     f: "geojson",
@@ -84,7 +110,7 @@ export async function fetchArcgisCases() {
   };
 
   // Update first-seen history. Each cron run records the date for any caseId
-  // not previously seen. Old entries are kept forever (immutable observation).
+  // not previously seen. Used as a fallback when no source date is available.
   const now = new Date().toISOString();
   const history = loadHistory();
   let newSeen = 0;
@@ -98,30 +124,53 @@ export async function fetchArcgisCases() {
   }
   saveHistory(history);
 
-  // Annotate cases with firstSeenAt so the UI can build daily/cumulative charts.
+  // For each case, pick the most authoritative reported date:
+  //   1. onset (illness onset, ~7% of cases)
+  //   2. Date parsed from the details narrative (~85% — usually the cruise
+  //      disembark/event date, not illness onset, but it's a real source-
+  //      reported date)
+  //   3. firstSeenAt (when our cron first observed the caseId, last resort)
+  // reportedDateSource tracks which one was used so the UI can be honest.
   for (const c of cases) {
-    if (c.caseId == null) { c.firstSeenAt = null; continue; }
-    c.firstSeenAt = history[String(c.caseId)] ?? null;
+    c.firstSeenAt = c.caseId != null ? history[String(c.caseId)] ?? null : null;
+    const parsed = parseDateFromText(c.details);
+    if (c.onset) {
+      c.reportedDate = c.onset.slice(0, 10);
+      c.reportedDateSource = "onset";
+    } else if (parsed) {
+      c.reportedDate = parsed;
+      c.reportedDateSource = "narrative";
+    } else if (c.firstSeenAt) {
+      c.reportedDate = c.firstSeenAt.slice(0, 10);
+      c.reportedDateSource = "first-seen";
+    } else {
+      c.reportedDate = null;
+      c.reportedDateSource = null;
+    }
   }
 
-  // Daily series: count cases bucketed by firstSeenAt date (UTC). For cron
-  // runs that observed many cases at once (the initial backfill), this puts
-  // them all in the same bucket — that's the truth: we saw them all then.
+  // Daily series: bucket cases by their reportedDate (best available source date).
   const dailyMap = new Map();
   for (const c of cases) {
-    if (!c.firstSeenAt) continue;
-    const day = c.firstSeenAt.slice(0, 10);
-    dailyMap.set(day, (dailyMap.get(day) ?? 0) + 1);
+    if (!c.reportedDate) continue;
+    dailyMap.set(c.reportedDate, (dailyMap.get(c.reportedDate) ?? 0) + 1);
   }
   const dailySeries = Array.from(dailyMap.entries())
     .sort(([a], [b]) => a.localeCompare(b))
     .map(([day, count]) => ({ day, count }));
-  // Cumulative for the trend line.
+  // Cumulative running total.
   let cum = 0;
   const cumulativeSeries = dailySeries.map(({ day, count }) => {
     cum += count;
     return { day, count: cum };
   });
+  // Provenance summary for the UI caption.
+  const datedCounts = {
+    onset: cases.filter(c => c.reportedDateSource === "onset").length,
+    narrative: cases.filter(c => c.reportedDateSource === "narrative").length,
+    firstSeen: cases.filter(c => c.reportedDateSource === "first-seen").length,
+    undated: cases.filter(c => !c.reportedDate).length,
+  };
 
   return {
     name: "MV Hondius case line-list (K. Panozzo, University of Toledo)",
@@ -133,6 +182,7 @@ export async function fetchArcgisCases() {
     cases,
     dailySeries,         // [{day: "2026-05-11", count: 4}, ...]
     cumulativeSeries,    // [{day: "2026-05-11", count: 4}, ...] running total
+    datedCounts,         // {onset, narrative, firstSeen, undated} for caption
   };
 }
 
