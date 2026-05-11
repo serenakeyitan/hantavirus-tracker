@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import type { DailyPoint } from "@/lib/types";
 
 type DatedCounts = { onset: number; narrative: number; firstSeen: number; undated: number };
@@ -33,9 +34,9 @@ export default function TrendChart({ daily, cumulative, datedCounts, className }
         variant="compact"
         onExpand={() => setExpanded(true)}
       />
-      {expanded && (
+      {expanded && typeof document !== "undefined" && createPortal(
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
+          className="fixed inset-0 z-[1000] flex items-center justify-center bg-black/60 p-4"
           onClick={() => setExpanded(false)}
         >
           <div
@@ -56,7 +57,8 @@ export default function TrendChart({ daily, cumulative, datedCounts, className }
               variant="expanded"
             />
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </>
   );
@@ -186,7 +188,7 @@ function ChartSurface({ daily, cumulative, datedCounts, className, variant, onEx
           </span>
           {isCompact && onExpand && (
             <button
-              onClick={onExpand}
+              onClick={e => { e.stopPropagation(); onExpand(); }}
               className="rounded p-0.5 text-zinc-400 hover:bg-zinc-100 hover:text-zinc-900"
               aria-label="Expand chart"
               title="Expand"
