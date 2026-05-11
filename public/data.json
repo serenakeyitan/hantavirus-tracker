@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T21:58:14.570Z",
+  "generatedAt": "2026-05-11T22:28:04.085Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1581,35 +1581,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 80,
+      "totalArticles": 82,
       "languages": {
-        "English": 64,
-        "Hungarian": 3,
-        "Portuguese": 9,
-        "Turkish": 3,
-        "Bulgarian": 1
+        "Bulgarian": 1,
+        "English": 66,
+        "Turkish": 4,
+        "Portuguese": 8,
+        "Spanish": 1,
+        "Hungarian": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 40,
-          "latest": "2026-05-11T21:30:00Z",
+          "count": 42,
+          "latest": "2026-05-11T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "US says 18 passengers flown back after hantavirus outbreak on ship",
-              "url": "https://journalrecord.com/2026/05/11/18-passengers-flown-us-hantavirus-outbreak-cruise-ship/",
+              "title": "Hantavirus outbreak  under control , RFK Jr . says after cruise passengers return to the US",
+              "url": "https://www.king5.com/article/news/nation-world/hantavirus-outbreak-under-control-rfk-jr-says-american-cruise-ship-passengers-arrive-us/507-ecc26b75-8206-4580-8e02-b377d8fa5548",
               "language": "English"
             },
             {
-              "title": "2 more passengers evacuated from cruise ship test positive for hantavirus",
-              "url": "https://www.wtva.com/news/2-more-passengers-evacuated-from-cruise-ship-test-positive-for-hantavirus/article_b67b5234-5a8c-57c1-8853-34366630d1d9.html",
+              "title": "18 passengers return to U . S . after weeks on cruise ship hit with hantavirus outbreak",
+              "url": "https://www.ksmu.org/2026-05-11/18-passengers-return-to-u-s-after-weeks-on-cruise-ship-hit-with-hantavirus-outbreak",
               "language": "English"
             },
             {
-              "title": "All passengers evacuated from cruise ship hit by deadly hantavirus",
-              "url": "https://www.eastidahonews.com/2026/05/all-passengers-evacuated-from-cruise-ship-hit-by-deadly-hantavirus/",
+              "title": "5 things to know for May 11 : Hantavirus , gas prices , Iran war , runway fatality , World Cup",
+              "url": "https://krdo.com/news/national-world/cnn-national/2026/05/11/5-things-to-know-for-may-11-hantavirus-gas-prices-iran-war-runway-fatality-world-cup/",
               "language": "English"
             }
           ]
@@ -1618,22 +1619,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 17,
-          "latest": "2026-05-11T21:30:00Z",
+          "count": 14,
+          "latest": "2026-05-11T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "Four passengers from hantavirus - hit cruise ship arrive in B . C . ",
-              "url": "https://vancouversun.com:443/news/four-passengers-hantavirus-hit-cruise-ship-arrive-bc",
+              "title": "4 Canadians connected to hantavirus cruise ship isolating on Vancouver Island",
+              "url": "https://grandforksgazette.ca/2026/05/11/4-canadians-connected-to-hantavirus-cruise-ship-isolating-on-vancouver-island/",
               "language": "English"
             },
             {
-              "title": "2 passengers test positive for hantavirus as a third shows symptoms after cruise ship evacuation",
-              "url": "https://www.cjme.com/2026/05/11/2-passengers-test-positive-for-hantavirus-as-a-third-shows-symptoms-after-cruise-ship-evacuation/",
+              "title": "1 person in Peel isolating , being monitored for hantavirus",
+              "url": "https://www.wellandtribune.ca/politics/provincial/peel-region-resident-isolating-being-monitored-for-hantavirus-symptoms-ontario-health-minister-says/article_6a6e647c-9b8a-5c81-b517-d83288ddbde8.html",
               "language": "English"
             },
             {
-              "title": "Four passengers from hantavirus - hit cruise ship arrive in B . C . ",
-              "url": "https://theprovince.com/news/four-passengers-hantavirus-hit-cruise-ship-arrive-bc/wcm/88f13aa9-f8d5-4546-a19d-62ebc785bcf5",
+              "title": "Ontario hantavirus : What you need to know",
+              "url": "https://www.orangeville.com/news/ontario-hantavirus-isolation-peel-grey-bruce/article_99734340-c8f8-543c-bbb8-7449d9373a9a.html",
               "language": "English"
             }
           ]
@@ -1643,21 +1644,21 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 5,
-          "latest": "2026-05-11T21:30:00Z",
+          "latest": "2026-05-11T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "Minas Gerais confirma primeira morte por hantavírus em 2026",
-              "url": "https://tribunahoje.com/noticias/cidades/2026/05/11/184669-minas-gerais-confirma-primeira-morte-por-hantavirus-em-2026",
+              "title": "Hantavírus : o que é a doença , sintomas e o que se sabe sobre o surto em navio",
+              "url": "https://www.terra.com.br/vida-e-estilo/saude/hantavirus-o-que-e-a-doenca-sintomas-e-o-que-se-sabe-sobre-o-surto-em-navio,5a35f137d4960a9b0cd30edfcd0aa4a9yv9khvds.html",
               "language": "Portuguese"
             },
             {
-              "title": "Hantavírus : após morte confirmada , governo de MG reforça orientaes de preveno em áreas rurais",
-              "url": "https://cbn.globo.com/brasil/noticia/2026/05/11/hantavirus-apos-morte-confirmada-governo-de-mg-reforca-orientacoes-de-prevencao-em-areas-rurais.ghtml",
+              "title": "Especialistas independentes pedem que gestão da crise do hantavírus seja avaliada",
+              "url": "https://jornaldebrasilia.com.br/noticias/mundo/especialistas-independentes-pedem-que-gestao-da-crise-do-hantavirus-seja-avaliada/",
               "language": "Portuguese"
             },
             {
-              "title": "Quarentena e sinais da infeco : as recomendaes da OMS para lidar com os casos de hantavírus",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/05/11/quarentena-e-sinais-da-infeccao-as-recomendacoes-da-oms-para-lidar-com-os-casos-de-hantavirus.ghtml",
+              "title": "RS tem morte por hantavírus este ano ; caso não tem relao com surto em navio que partiu Argentina",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/rs-tem-morte-por-hantavirus-este-ano-caso-nao-tem-relacao-com-surto-em-navio-que-partiu-argentina-1.1712754",
               "language": "Portuguese"
             }
           ]
@@ -1666,42 +1667,70 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-11T21:30:00Z",
+          "count": 4,
+          "latest": "2026-05-11T22:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Sağlık Bakanlığı  ndan Hantavirüs Açıklaması",
+              "url": "https://www.kocaeligazetesi.com.tr/haber/27968363/saglik-bakanligindan-hantavirus-aciklamasi",
+              "language": "Turkish"
+            },
+            {
+              "title": "  Dünyanın sonundaki  turizm merkezi , hantavirüsün kaynağı olduğu iddialarını reddediyor",
+              "url": "https://www.haberler.com/dunya/dunyanin-sonundaki-turizm-merkezi-hantavirusun-19837125-haberi/",
+              "language": "Turkish"
+            },
             {
               "title": "Hantavirus most infectious as soon as symptoms begin , WHO says",
               "url": "https://www.dailysabah.com/world/hantavirus-most-infectious-as-soon-as-symptoms-begin-who-says/news",
               "language": "English"
-            },
-            {
-              "title": "Hantavirüs gemisi yola çıktı : Yeni rotası belli oldu – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı",
-              "url": "https://www.turktime.com/haber/hantavirus-gemisi-yola-cikti-yeni-rotasi-belli-oldu/744602",
-              "language": "Turkish"
-            },
-            {
-              "title": "Ruhi Çenetin hantavirüs testi pozitif mi çıktı ? ",
-              "url": "https://www.haberler.com/haber/ruhi-cenetin-hantavirus-testi-pozitif-mi-cikti-19837002-haberi/",
-              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 2,
-          "latest": "2026-05-11T21:15:00Z",
+          "latest": "2026-05-11T21:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus - Az EU segíti a járvány megelőzését célzó európai válaszlépések összehangolását",
-              "url": "https://profitline.hu/hantavirus-az-eu-segiti-a-jarvany-megelozeset-celzo-europai-valaszlepesek-osszehangolasat-486671",
-              "language": "Hungarian"
+              "title": "Hantavirus WA : Bullsbrook quarantine centre is finally being put to use",
+              "url": "https://www.smh.com.au/national/western-australia/behind-the-covid-era-wa-quarantine-centre-that-is-finally-being-put-to-use-20260511-p5zvsd.html",
+              "language": "English"
             },
             {
-              "title": "Kemenesi Gábor : Iszonyú konteó - és dezinformációs zaj van a hantavírus körül",
-              "url": "https://privatbankar.hu/cikkek/makro/kemenesi-gabor-iszonyu-konteo-es-dezinformacios-zaj-van-a-hantavirus-korul.html",
-              "language": "Hungarian"
+              "title": "Australia news LIVE : Chalmers to hand down federal budget tonight ; Australians leave hantavirus ship ; Trump says ceasefire  on life support  ",
+              "url": "https://www.brisbanetimes.com.au/national/australia-news-live-chalmers-to-hand-down-federal-budget-tonight-australians-leave-hantavirus-ship-trump-says-ceasefire-on-life-support-20260512-p5zvui.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-11T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "САЩ прибраха и поставиха под карантина за хантавирус 18 души от круизния кораб",
+              "url": "https://news.bg/disasters/sasht-pribraha-i-postaviha-pod-karantina-za-hantavirus-18-dushi-ot-kruizniya-korab.html",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-11T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Indian Crew In Dutch Quarantine After Hantavirus Outbreak",
+              "url": "https://indiawest.com/indian-crew-in-dutch-quarantine-after-hantavirus-outbreak/",
+              "language": "English"
             }
           ]
         },
@@ -1720,16 +1749,16 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
           "count": 1,
           "latest": "2026-05-11T21:15:00Z",
           "sampleTitles": [
             {
-              "title": "Australia news LIVE : Chalmers to hand down federal budget tonight ; Australians leave hantavirus ship ; Trump says ceasefire  on life support  ",
-              "url": "https://www.brisbanetimes.com.au/national/australia-news-live-chalmers-to-hand-down-federal-budget-tonight-australians-leave-hantavirus-ship-trump-says-ceasefire-on-life-support-20260512-p5zvui.html",
-              "language": "English"
+              "title": "Hantavírus - Az EU segíti a járvány megelőzését célzó európai válaszlépések összehangolását",
+              "url": "https://profitline.hu/hantavirus-az-eu-segiti-a-jarvany-megelozeset-celzo-europai-valaszlepesek-osszehangolasat-486671",
+              "language": "Hungarian"
             }
           ]
         },
@@ -1744,48 +1773,6 @@
               "title": "Hantavirus cruise ship passengers begin isolation period",
               "url": "https://www.channel4.com/news/hantavirus-cruise-ship-passengers-begin-isolation-period",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-11T21:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Евакуираха пътниците от кораба с хантавирус",
-              "url": "https://www.vesti.bg/sviat/evakuiraha-pytnicite-ot-koraba-s-hantavirus-6259314",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-11T20:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Risk of further hantavirus cases among cruise ship evacuees , WHO warns",
-              "url": "https://www.irishtimes.com/world/europe/2026/05/11/risk-of-further-hantavirus-cases-among-cruise-ship-evacuees-who-warns/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-11T20:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "  Missão cumprida : OMS diz que  tudo acabou bem  em Espanha e olha para a reta final do surto de Hantavírus",
-              "url": "https://tvi.iol.pt/noticias/hantavirus/hondius/missao-cumprida-oms-diz-que-tudo-acabou-bem-em-espanha-e-olha-para-a-reta-final-do-hantavirus/20260511/6a021f26d34edcee7c640677",
-              "language": "Portuguese"
             }
           ]
         }
