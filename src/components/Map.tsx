@@ -90,6 +90,33 @@ export default function Map({ data, mode }: Props) {
           .addTo(layer);
       }
 
+      // Argentina BEN: purple markers, size scales with cases-per-province for the current season.
+      const argRows = data.sources.argentina?.rows ?? [];
+      const maxAr = Math.max(1, ...argRows.map(r => r.cases));
+      for (const prov of argRows) {
+        const radius = 6 + 16 * Math.sqrt(prov.cases / maxAr);
+        const speciesNote = prov.isAndesRegion
+          ? "Andes virus prevalent in this region (per BEN genotype surveillance)"
+          : "Sin Nombre / other hantavirus genotypes";
+        L.circleMarker([prov.lat, prov.lng], {
+          radius,
+          color: prov.isAndesRegion ? "#7c3aed" : "#a78bfa",
+          weight: 1.5,
+          fillColor: "#a855f7",
+          fillOpacity: 0.55,
+        })
+          .bindPopup(
+            `<div style="font:13px/1.4 system-ui">
+              <div style="font-weight:600;margin-bottom:4px">${prov.jurisdiction} <span style="color:#666;font-weight:normal">(${prov.region})</span></div>
+              <div style="color:#666;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px">Argentina BEN &middot; season ${prov.seasonLabel}</div>
+              <div>Confirmed cases: <b>${prov.cases}</b></div>
+              <div>Rate: ${prov.ratePer100k.toFixed(2)} / 100k</div>
+              <div style="margin-top:6px;color:#666;font-size:11px">${speciesNote}</div>
+            </div>`
+          )
+          .addTo(layer);
+      }
+
       const whoRows = data.sources.who.rows;
       for (const post of whoRows) {
         const date = post.publishedAt.slice(0, 10);
@@ -119,6 +146,7 @@ export default function Map({ data, mode }: Props) {
       // fall back to a sensible default per mode if there are none.
       const points: [number, number][] = [
         ...cdcRows.map(r => [r.lat, r.lng] as [number, number]),
+        ...argRows.map(r => [r.lat, r.lng] as [number, number]),
         ...whoRows.flatMap(p => p.countries.map(c => [c.lat, c.lng] as [number, number])),
       ];
       if (points.length >= 2) {

@@ -20,6 +20,30 @@ export type WHORow = {
   countries: WHOCountry[];
 };
 
+export type ArgentinaProvinceRow = {
+  jurisdiction: string;
+  region: string;
+  lat: number;
+  lng: number;
+  cases: number;
+  ratePer100k: number;
+  isAndesRegion: boolean;
+  seasonLabel: string;
+};
+
+export type ArgentinaSource = {
+  name: string;
+  url: string;
+  bulletinIssue: number;
+  tier: SourceTier;
+  seasonLabel: string;
+  totalCases: number;
+  andesCases: number;
+  rows: ArgentinaProvinceRow[];
+};
+
+export type BlockedSource = { name: string; reason: string; url: string };
+
 export type ViewMode = "outbreak" | "endemic";
 
 export type SourceTier = "confirmed" | "reported";
@@ -29,5 +53,7 @@ export type DataPayload = {
   sources: {
     cdc: { name: string; url: string; tier: SourceTier; rows: StateRow[] };
     who: { name: string; url: string; tier: SourceTier; rows: WHORow[] };
+    argentina?: ArgentinaSource | null;
   };
+  blockedSources?: BlockedSource[];
 };

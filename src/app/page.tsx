@@ -11,6 +11,7 @@ async function loadData(): Promise<DataPayload> {
 export default async function Home() {
   const data = await loadData();
   const generated = new Date(data.generatedAt).toUTCString();
+  const ar = data.sources.argentina;
 
   return (
     <div className="flex h-dvh flex-col bg-zinc-50 text-zinc-900">
@@ -19,7 +20,7 @@ export default async function Home() {
           <div>
             <h1 className="text-xl font-semibold tracking-tight">Hantavirus Tracker</h1>
             <p className="text-sm text-zinc-600">
-              Live outbreak + endemic surveillance map &middot; WHO DON + CDC NNDSS
+              Live outbreak + endemic surveillance map &middot; WHO DON + CDC NNDSS + Argentina BEN
             </p>
           </div>
           <p className="text-xs text-zinc-500">Data refreshed {generated}</p>
@@ -28,12 +29,39 @@ export default async function Home() {
 
       <Tracker data={data} />
 
-      <footer className="border-t border-zinc-200 bg-white px-6 py-3 text-xs text-zinc-500">
-        <div className="mx-auto max-w-6xl">
-          Sources:{" "}
-          <a href={data.sources.who.url} className="underline" target="_blank" rel="noopener">WHO DON</a>{" "}&middot;{" "}
-          <a href={data.sources.cdc.url} className="underline" target="_blank" rel="noopener">CDC NNDSS</a>{" "}&middot;{" "}
-          Not a medical resource. For public health information consult your local authority.
+      <footer className="border-t border-zinc-200 bg-white px-6 py-3 text-xs leading-relaxed text-zinc-500">
+        <div className="mx-auto max-w-6xl space-y-1">
+          <div>
+            <b>Sources used:</b>{" "}
+            <a href={data.sources.who.url} className="underline" target="_blank" rel="noopener">WHO Disease Outbreak News</a>
+            {" · "}
+            <a href={data.sources.cdc.url} className="underline" target="_blank" rel="noopener">CDC NNDSS</a>
+            {ar && (
+              <>
+                {" · "}
+                <a href={ar.url} className="underline" target="_blank" rel="noopener">
+                  Argentina BEN #{ar.bulletinIssue}
+                </a>
+              </>
+            )}
+          </div>
+          {data.blockedSources && data.blockedSources.length > 0 && (
+            <div>
+              <b>Sources we tried but cannot integrate:</b>{" "}
+              {data.blockedSources.map((s, i) => (
+                <span key={s.name}>
+                  {i > 0 && " · "}
+                  <a href={s.url} className="underline" target="_blank" rel="noopener" title={s.reason}>
+                    {s.name}
+                  </a>
+                </span>
+              ))}
+              {" — hover for reason. The map under-counts global Andes virus surveillance as a result."}
+            </div>
+          )}
+          <div>
+            Not a medical resource. For public health information consult your local authority.
+          </div>
         </div>
       </footer>
     </div>

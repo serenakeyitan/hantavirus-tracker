@@ -2,6 +2,7 @@
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { fetchArgentinaBEN } from "./sources/argentina-ben.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = resolve(__dirname, "..", "public", "data.json");
@@ -177,12 +178,40 @@ async function main() {
   });
   console.log(`  -> ${who.length} hantavirus-relevant outbreak posts`);
 
+  console.log("Fetching Argentina BEN...");
+  const argentina = await fetchArgentinaBEN().catch(err => {
+    console.error("Argentina BEN fetch failed:", err.message);
+    return null;
+  });
+  if (argentina) {
+    console.log(`  -> bulletin ${argentina.bulletinIssue}: ${argentina.provinces.length} provinces, ${argentina.totalCases} total cases, ${argentina.andesCases} Andes-region cases`);
+  }
+
+  // Sources we attempted but cannot integrate (no machine-readable surface).
+  // Recorded so the UI can show users what coverage we don't have.
+  const blockedSources = [
+    { name: "Chile MINSAL / DEIS", reason: "Data is published only via Power BI iframes and SAS Visual Analytics dashboards; no CSV/JSON export.", url: "https://deis.minsal.cl/" },
+    { name: "PAHO PLISA", reason: "PAHO publishes regional hantavirus surveillance only through interactive dashboards; no public dataset API.", url: "https://www.paho.org/data/" },
+    { name: "ProMED-mail archive", reason: "After ProMED's 2025 redesign the post archive is paywalled; the public API only exposes the corporate blog.", url: "https://promedmail.org/" },
+  ];
+
   const payload = {
     generatedAt: new Date().toISOString(),
     sources: {
       cdc: { name: "CDC NNDSS Weekly", url: "https://data.cdc.gov/resource/x9gk-5huc", tier: "confirmed", rows: cdc },
       who: { name: "WHO Disease Outbreak News", url: "https://www.who.int/emergencies/disease-outbreak-news", tier: "confirmed", rows: who },
+      argentina: argentina && {
+        name: argentina.name,
+        url: argentina.sourceUrl,
+        bulletinIssue: argentina.bulletinIssue,
+        tier: "confirmed",
+        seasonLabel: argentina.seasonLabel,
+        totalCases: argentina.totalCases,
+        andesCases: argentina.andesCases,
+        rows: argentina.provinces,
+      },
     },
+    blockedSources,
   };
 
   mkdirSync(dirname(OUT_PATH), { recursive: true });

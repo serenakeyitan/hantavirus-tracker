@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T00:24:22.036Z",
+  "generatedAt": "2026-05-11T01:00:53.117Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -284,6 +284,124 @@
           ]
         }
       ]
+    },
+    "argentina": {
+      "name": "Argentina BEN (Ministerio de Salud)",
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_806_se_16_vf.pdf",
+      "bulletinIssue": 806,
+      "tier": "confirmed",
+      "seasonLabel": "2025-2026 SE 27→",
+      "totalCases": 101,
+      "andesCases": 10,
+      "rows": [
+        {
+          "jurisdiction": "Buenos Aires",
+          "region": "Centro",
+          "lat": -36.6769,
+          "lng": -60.5588,
+          "cases": 42,
+          "ratePer100k": 0.23,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Entre Ríos",
+          "region": "Centro",
+          "lat": -32.0589,
+          "lng": -59.2014,
+          "cases": 5,
+          "ratePer100k": 0.34,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Santa Fe",
+          "region": "Centro",
+          "lat": -30.7069,
+          "lng": -60.9494,
+          "cases": 7,
+          "ratePer100k": 0.19,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Formosa",
+          "region": "NEA",
+          "lat": -25,
+          "lng": -59.5,
+          "cases": 1,
+          "ratePer100k": 0.16,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Jujuy",
+          "region": "NOA",
+          "lat": -23.3,
+          "lng": -65.7,
+          "cases": 6,
+          "ratePer100k": 0.74,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Salta",
+          "region": "NOA",
+          "lat": -24.7859,
+          "lng": -65.4117,
+          "cases": 30,
+          "ratePer100k": 1.98,
+          "isAndesRegion": false,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Chubut",
+          "region": "Sur",
+          "lat": -43.3,
+          "lng": -68.7,
+          "cases": 4,
+          "ratePer100k": 0.59,
+          "isAndesRegion": true,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Neuquén",
+          "region": "Sur",
+          "lat": -38.95,
+          "lng": -69.9,
+          "cases": 1,
+          "ratePer100k": 0.14,
+          "isAndesRegion": true,
+          "seasonLabel": "2025-2026"
+        },
+        {
+          "jurisdiction": "Rio Negro",
+          "region": "Sur",
+          "lat": -40.5,
+          "lng": -67,
+          "cases": 5,
+          "ratePer100k": 0.63,
+          "isAndesRegion": true,
+          "seasonLabel": "2025-2026"
+        }
+      ]
     }
-  }
+  },
+  "blockedSources": [
+    {
+      "name": "Chile MINSAL / DEIS",
+      "reason": "Data is published only via Power BI iframes and SAS Visual Analytics dashboards; no CSV/JSON export.",
+      "url": "https://deis.minsal.cl/"
+    },
+    {
+      "name": "PAHO PLISA",
+      "reason": "PAHO publishes regional hantavirus surveillance only through interactive dashboards; no public dataset API.",
+      "url": "https://www.paho.org/data/"
+    },
+    {
+      "name": "ProMED-mail archive",
+      "reason": "After ProMED's 2025 redesign the post archive is paywalled; the public API only exposes the corporate blog.",
+      "url": "https://promedmail.org/"
+    }
+  ]
 }
