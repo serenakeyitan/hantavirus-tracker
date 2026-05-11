@@ -2,8 +2,10 @@ name: Refresh data
 
 on:
   schedule:
-    # Daily at 07:00 UTC — runs after CDC's typical Thursday-night NNDSS push.
-    - cron: "0 7 * * *"
+    # Hourly. Most upstream sources (CDC, WHO, Argentina BEN) update at most
+    # weekly, but ArcGIS line-list and GDELT news both refresh continuously
+    # during active outbreaks — hourly captures those.
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 permissions:
