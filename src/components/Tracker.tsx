@@ -138,12 +138,20 @@ export default function Tracker({ data }: Props) {
                   <b>{h.cases.length}</b> cruise-cluster cases
                 </span>
               )}
-              {g && (
-                <span>
-                  <span className="inline-block h-3 w-3 rounded-full bg-teal-500 align-middle" />{" "}
-                  <b>{g.totalArticles}</b> news signals across <b>{g.countries.length}</b> countries (last {g.timespan})
-                </span>
-              )}
+              {g && (() => {
+                const whoSet = new Set(data.sources.who.rows.flatMap(r => r.countries.map(c => c.name)));
+                const newCountries = g.countries.filter(c => !whoSet.has(c.country));
+                const newArticles = newCountries.reduce((a, c) => a + c.count, 0);
+                return (
+                  <span>
+                    <span className="inline-block h-3 w-3 rounded-full bg-teal-500 align-middle" />{" "}
+                    <b>{newArticles}</b> news signals from <b>{newCountries.length}</b> countries
+                    {newCountries.length < g.countries.length && (
+                      <> <span className="text-zinc-500">(of {g.totalArticles} total &mdash; {g.totalArticles - newArticles} from countries already on map)</span></>
+                    )}
+                  </span>
+                );
+              })()}
             </div>
           ) : (
             <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-zinc-700">
