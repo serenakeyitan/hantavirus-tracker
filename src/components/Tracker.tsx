@@ -90,15 +90,15 @@ export default function Tracker({ data }: Props) {
 
   return (
     <>
-      {/* Big headline KPI bar. Numbers are oversized so the outbreak status is
-          legible at a glance even on a mobile screen. */}
+      {/* Headline KPI bar. Tight layout — numbers clustered like a scoreboard
+          rather than spread across the full width. */}
       {mode === "outbreak" && h && (
         <section className="border-b border-zinc-800 bg-zinc-900 px-6 py-4 text-white">
           <div className="mx-auto max-w-6xl">
-            <div className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
+            <div className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
               MV Hondius cluster · Andes virus
             </div>
-            <div className="grid grid-cols-4 gap-3 sm:gap-6">
+            <div className="flex flex-wrap items-end gap-x-8 gap-y-3 sm:gap-x-10">
               <KpiCell label="Deceased" value={h.counts.deceased} color="#ffffff" emphasis />
               <KpiCell label="Confirmed" value={h.counts.confirmed} color="#fca5a5" />
               <KpiCell label="Suspected" value={h.counts.suspected} color="#fbbf24" />
@@ -233,10 +233,12 @@ function KpiCell({
   label, value, color, emphasis,
 }: { label: string; value: number; color: string; emphasis?: boolean }) {
   return (
-    <div>
-      <div className={"text-[11px] font-semibold uppercase tracking-widest " + (emphasis ? "text-zinc-200" : "text-zinc-400")}>{label}</div>
+    <div className="flex flex-col items-start">
+      <div className={"mb-1 text-[10px] font-semibold uppercase tracking-widest " + (emphasis ? "text-zinc-200" : "text-zinc-400")}>
+        {label}
+      </div>
       <div
-        className="font-bold tabular-nums leading-none text-5xl sm:text-6xl"
+        className="font-bold tabular-nums leading-none text-4xl sm:text-5xl"
         style={{ color }}
       >
         {value}
