@@ -20,9 +20,11 @@ jobs:
       - name: Fetch latest data
         run: node scripts/fetch-data.mjs
       - name: Commit if changed
+        id: commit
         run: |
           if git diff --quiet -- public/data.json; then
             echo "No data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
@@ -30,3 +32,12 @@ jobs:
           git add public/data.json
           git commit -m "chore: refresh data $(date -u +%Y-%m-%d)"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Belt-and-suspenders: even if the git push doesn't trigger a Vercel
+      # rebuild for some reason, the deploy hook forces one.
+      - name: Trigger Vercel rebuild
+        if: steps.commit.outputs.changed == 'true' && env.VERCEL_DEPLOY_HOOK != ''
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: curl -fsSL -X POST "$VERCEL_DEPLOY_HOOK" -o /dev/null -w "vercel hook: HTTP %{http_code}\n"
