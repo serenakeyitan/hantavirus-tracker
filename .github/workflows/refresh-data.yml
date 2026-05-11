@@ -35,9 +35,15 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       # Belt-and-suspenders: even if the git push doesn't trigger a Vercel
-      # rebuild for some reason, the deploy hook forces one.
+      # rebuild for some reason, the deploy hook forces one. Skips quietly
+      # when the secret isn't configured.
       - name: Trigger Vercel rebuild
-        if: steps.commit.outputs.changed == 'true' && env.VERCEL_DEPLOY_HOOK != ''
+        if: steps.commit.outputs.changed == 'true'
         env:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-        run: curl -fsSL -X POST "$VERCEL_DEPLOY_HOOK" -o /dev/null -w "vercel hook: HTTP %{http_code}\n"
+        run: |
+          if [ -z "$VERCEL_DEPLOY_HOOK" ]; then
+            echo "VERCEL_DEPLOY_HOOK not set; skipping."
+            exit 0
+          fi
+          curl -fsSL -X POST "$VERCEL_DEPLOY_HOOK" -o /dev/null -w "vercel hook: HTTP %{http_code}\n"
