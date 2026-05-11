@@ -52,9 +52,12 @@ export type HondiusCase = {
   sourceUrl: string | null;
   exposureGroup: string | null;
   onset: string | null;
+  firstSeenAt: string | null;
   lat: number;
   lng: number;
 };
+
+export type DailyPoint = { day: string; count: number };
 
 export type HondiusSource = {
   name: string;
@@ -62,6 +65,8 @@ export type HondiusSource = {
   tier: SourceTier;
   counts: { confirmed: number; deceased: number; suspected: number; monitoring: number };
   cases: HondiusCase[];
+  dailySeries?: DailyPoint[];
+  cumulativeSeries?: DailyPoint[];
 };
 
 export type GDELTSampleTitle = { title: string; url: string; language: string | null };

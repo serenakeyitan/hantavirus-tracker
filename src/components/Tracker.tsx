@@ -7,6 +7,7 @@ import { partitionGdeltCountries } from "@/lib/dedupe";
 import { CONTINENT_ORDER, continentFor, type Continent } from "@/lib/continents";
 
 const MapView = dynamic(() => import("./Map"), { ssr: false });
+const TrendChart = dynamic(() => import("./TrendChart"), { ssr: false });
 
 type Props = { data: DataPayload };
 
@@ -89,19 +90,19 @@ export default function Tracker({ data }: Props) {
 
   return (
     <>
-      {/* Single dense headline strip. Replaces the old three-tier header
-          (subtitle / KPI bar / counters row / amber callout). */}
+      {/* Big headline KPI bar. Numbers are oversized so the outbreak status is
+          legible at a glance even on a mobile screen. */}
       {mode === "outbreak" && h && (
-        <section className="border-b border-zinc-800 bg-zinc-900 px-6 py-3 text-white">
-          <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-8 gap-y-2">
-            <div className="flex items-baseline gap-2">
-              <span className="text-[10px] font-semibold uppercase tracking-widest text-zinc-400">MV Hondius cluster · Andes virus</span>
+        <section className="border-b border-zinc-800 bg-zinc-900 px-6 py-4 text-white">
+          <div className="mx-auto max-w-6xl">
+            <div className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
+              MV Hondius cluster · Andes virus
             </div>
-            <div className="flex flex-wrap gap-x-6 gap-y-1">
-              <KpiCell label="Deceased" value={h.counts.deceased} color="#ffffff" />
+            <div className="grid grid-cols-4 gap-3 sm:gap-6">
+              <KpiCell label="Deceased" value={h.counts.deceased} color="#ffffff" emphasis />
               <KpiCell label="Confirmed" value={h.counts.confirmed} color="#fca5a5" />
               <KpiCell label="Suspected" value={h.counts.suspected} color="#fbbf24" />
-              <KpiCell label="Monitoring" value={h.counts.monitoring} color="#a1a1aa" />
+              <KpiCell label="Monitoring" value={h.counts.monitoring} color="#d4d4d8" />
             </div>
           </div>
         </section>
@@ -154,6 +155,12 @@ export default function Tracker({ data }: Props) {
         </div>
         {mode === "outbreak" && h && (
           <aside className="flex w-80 shrink-0 flex-col border-l border-zinc-200 bg-white">
+            <div className="border-b border-zinc-200">
+              <TrendChart
+                daily={h.dailySeries ?? []}
+                cumulative={h.cumulativeSeries ?? []}
+              />
+            </div>
             <div className="sticky top-0 z-10 border-b border-zinc-200 bg-white px-3 py-2">
               <div className="mb-1.5 flex items-baseline justify-between">
                 <div className="text-xs font-semibold uppercase tracking-wider text-zinc-700">Cases</div>
@@ -221,11 +228,18 @@ export default function Tracker({ data }: Props) {
   );
 }
 
-function KpiCell({ label, value, color }: { label: string; value: number; color: string }) {
+function KpiCell({
+  label, value, color, emphasis,
+}: { label: string; value: number; color: string; emphasis?: boolean }) {
   return (
-    <div className="min-w-[72px]">
-      <div className="text-[10px] uppercase tracking-widest text-zinc-400">{label}</div>
-      <div className="text-2xl font-bold tabular-nums leading-tight" style={{ color }}>{value}</div>
+    <div>
+      <div className={"text-[11px] font-semibold uppercase tracking-widest " + (emphasis ? "text-zinc-200" : "text-zinc-400")}>{label}</div>
+      <div
+        className="font-bold tabular-nums leading-none text-5xl sm:text-6xl"
+        style={{ color }}
+      >
+        {value}
+      </div>
     </div>
   );
 }

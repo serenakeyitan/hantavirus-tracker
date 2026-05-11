@@ -237,6 +237,8 @@ async function main() {
         tier: "reported",
         counts: hondius.counts,
         cases: hondius.cases,
+        dailySeries: hondius.dailySeries,
+        cumulativeSeries: hondius.cumulativeSeries,
       },
       gdelt: gdelt && {
         name: gdelt.name,
