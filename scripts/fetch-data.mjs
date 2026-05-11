@@ -4,6 +4,7 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchArgentinaBEN } from "./sources/argentina-ben.mjs";
 import { fetchArcgisCases } from "./sources/arcgis-cases.mjs";
+import { fetchGDELT } from "./sources/gdelt.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = resolve(__dirname, "..", "public", "data.json");
@@ -198,6 +199,15 @@ async function main() {
     console.log(`  -> ${hondius.cases.length} cases: confirmed=${c.confirmed} deceased=${c.deceased} suspected=${c.suspected} monitoring=${c.monitoring}`);
   }
 
+  console.log("Fetching GDELT global news signals...");
+  const gdelt = await fetchGDELT().catch(err => {
+    console.error("GDELT fetch failed:", err.message);
+    return null;
+  });
+  if (gdelt) {
+    console.log(`  -> ${gdelt.totalArticles} articles across ${gdelt.countries.length} source countries, ${Object.keys(gdelt.languages).length} languages`);
+  }
+
   // Sources we attempted but cannot integrate (no machine-readable surface).
   // Recorded so the UI can show users what coverage we don't have.
   const blockedSources = [
@@ -227,6 +237,15 @@ async function main() {
         tier: "reported",
         counts: hondius.counts,
         cases: hondius.cases,
+      },
+      gdelt: gdelt && {
+        name: gdelt.name,
+        url: gdelt.sourceUrl,
+        tier: "reported",
+        timespan: gdelt.timespan,
+        totalArticles: gdelt.totalArticles,
+        languages: gdelt.languages,
+        countries: gdelt.countries,
       },
     },
     blockedSources,

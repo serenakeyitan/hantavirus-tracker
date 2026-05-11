@@ -13,6 +13,7 @@ export default async function Home() {
   const generated = new Date(data.generatedAt).toUTCString();
   const ar = data.sources.argentina;
   const h = data.sources.hondius;
+  const g = data.sources.gdelt;
 
   return (
     <div className="flex h-dvh flex-col bg-zinc-50 text-zinc-900">
@@ -50,6 +51,14 @@ export default async function Home() {
                 {" · "}
                 <a href={h.url} className="underline" target="_blank" rel="noopener">
                   MV Hondius line-list (K. Panozzo)
+                </a>
+              </>
+            )}
+            {g && (
+              <>
+                {" · "}
+                <a href="https://www.gdeltproject.org/" className="underline" target="_blank" rel="noopener">
+                  GDELT global news
                 </a>
               </>
             )}

@@ -131,6 +131,33 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
           .addTo(layer);
       }
 
+      // GDELT global news signals (last 14d), grouped by source country. Small teal
+      // tile markers rendered behind everything else so confirmed sources stay
+      // visually prominent.
+      const gdeltCountries = data.sources.gdelt?.countries ?? [];
+      const maxGdelt = Math.max(1, ...gdeltCountries.map(c => c.count));
+      for (const country of gdeltCountries) {
+        const radius = 4 + 6 * Math.sqrt(country.count / maxGdelt);
+        const sampleHtml = country.sampleTitles
+          .map(t => `<li style="margin-bottom:3px"><a href="${t.url}" target="_blank" rel="noopener" style="color:#0f766e">${t.title.slice(0, 90)}${t.title.length > 90 ? "…" : ""}</a> <span style="color:#999">${t.language ?? ""}</span></li>`)
+          .join("");
+        const popupHtml = `<div style="font:13px/1.4 system-ui;max-width:300px">
+          <div style="font-weight:600;margin-bottom:4px">${country.country}</div>
+          <div style="color:#666;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px">GDELT news signals &middot; ${country.count} article${country.count === 1 ? "" : "s"} &middot; last 14d</div>
+          <ul style="padding-left:14px;margin:0;font-size:11px">${sampleHtml}</ul>
+          <div style="margin-top:6px;color:#999;font-size:10px">Source-country = where the publication is based, not necessarily where the event occurred.</div>
+        </div>`;
+        L.circleMarker([country.lat, country.lng], {
+          radius,
+          color: "#0f766e",
+          weight: 1,
+          fillColor: "#14b8a6",
+          fillOpacity: 0.5,
+        })
+          .bindPopup(popupHtml)
+          .addTo(layer);
+      }
+
       // MV Hondius cruise-cluster line-list (ArcGIS Feature Server).
       // Each case gets its own marker, sized by severity and colored by status.
       const caseMarkers: Record<number, import("leaflet").CircleMarker> = {};
@@ -197,6 +224,7 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
         ...argRows.map(r => [r.lat, r.lng] as [number, number]),
         ...whoRows.flatMap(p => p.countries.map(c => [c.lat, c.lng] as [number, number])),
         ...hondiusCases.map(c => [c.lat, c.lng] as [number, number]),
+        ...gdeltCountries.map(c => [c.lat, c.lng] as [number, number]),
       ];
       if (points.length >= 2) {
         map.fitBounds(L.latLngBounds(points).pad(0.25), { animate: true });

@@ -64,6 +64,27 @@ export type HondiusSource = {
   cases: HondiusCase[];
 };
 
+export type GDELTSampleTitle = { title: string; url: string; language: string | null };
+
+export type GDELTCountry = {
+  country: string;
+  lat: number;
+  lng: number;
+  count: number;
+  latest: string | null;
+  sampleTitles: GDELTSampleTitle[];
+};
+
+export type GDELTSource = {
+  name: string;
+  url: string;
+  tier: SourceTier;
+  timespan: string;
+  totalArticles: number;
+  languages: Record<string, number>;
+  countries: GDELTCountry[];
+};
+
 export type BlockedSource = { name: string; reason: string; url: string };
 
 export type ViewMode = "outbreak" | "endemic";
@@ -77,6 +98,7 @@ export type DataPayload = {
     who: { name: string; url: string; tier: SourceTier; rows: WHORow[] };
     argentina?: ArgentinaSource | null;
     hondius?: HondiusSource | null;
+    gdelt?: GDELTSource | null;
   };
   blockedSources?: BlockedSource[];
 };

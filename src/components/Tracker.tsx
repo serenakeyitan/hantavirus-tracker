@@ -41,6 +41,7 @@ export default function Tracker({ data }: Props) {
           },
           argentina: argentinaAndes,
           hondius: data.sources.hondius,
+          gdelt: data.sources.gdelt,
         },
       };
     }
@@ -54,6 +55,7 @@ export default function Tracker({ data }: Props) {
         who: { ...data.sources.who, rows: [] },
         argentina: argentinaEndemic,
         hondius: null,
+        gdelt: null,
       },
     };
   }, [data, mode]);
@@ -63,6 +65,7 @@ export default function Tracker({ data }: Props) {
   const totalUSCases = data.sources.cdc.rows.reduce((a, r) => a + r.total, 0);
   const ar = data.sources.argentina;
   const h = data.sources.hondius;
+  const g = data.sources.gdelt;
   const arProvincesInView = filtered.sources.argentina?.rows.length ?? 0;
   const arCasesInView = filtered.sources.argentina?.rows.reduce((a, r) => a + r.cases, 0) ?? 0;
 
@@ -133,6 +136,12 @@ export default function Tracker({ data }: Props) {
                 <span>
                   <span className="inline-block h-3 w-3 rounded-full bg-red-600 align-middle" />{" "}
                   <b>{h.cases.length}</b> cruise-cluster cases
+                </span>
+              )}
+              {g && (
+                <span>
+                  <span className="inline-block h-3 w-3 rounded-full bg-teal-500 align-middle" />{" "}
+                  <b>{g.totalArticles}</b> news signals across <b>{g.countries.length}</b> countries (last {g.timespan})
                 </span>
               )}
             </div>
