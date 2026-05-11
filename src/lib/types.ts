@@ -8,14 +8,19 @@ export type StateRow = {
 
 export type WHOCountry = { name: string; lat: number; lng: number };
 
+export type Species = "andes" | "sin-nombre" | "seoul" | "puumala" | "other";
+
 export type WHORow = {
   id: string;
   title: string;
   summary: string;
   publishedAt: string;
   url: string;
+  species: Species;
   countries: WHOCountry[];
 };
+
+export type ViewMode = "outbreak" | "endemic";
 
 export type SourceTier = "confirmed" | "reported";
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:59:05.104Z",
+  "generatedAt": "2026-05-11T00:16:51.783Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -169,6 +169,7 @@
           "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additi",
           "publishedAt": "2026-05-08T21:31:10Z",
           "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+          "species": "andes",
           "countries": [
             {
               "name": "Netherlands",
@@ -233,6 +234,7 @@
           "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild sym",
           "publishedAt": "2026-05-04T21:48:22Z",
           "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+          "species": "andes",
           "countries": [
             {
               "name": "Netherlands",

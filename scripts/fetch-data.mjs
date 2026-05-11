@@ -142,12 +142,21 @@ async function fetchWHO() {
       const countries = extractCountries(fullText).map(name => ({
         name, lat: COUNTRIES[name][0], lng: COUNTRIES[name][1],
       }));
+      // Andes virus is the only hantavirus with documented person-to-person
+      // transmission — flag it separately so the UI can highlight outbreaks.
+      const isAndes = /andes virus|\bANDV\b/i.test(fullText);
+      const species = isAndes ? "andes"
+        : /sin nombre/i.test(fullText) ? "sin-nombre"
+        : /seoul virus/i.test(fullText) ? "seoul"
+        : /puumala/i.test(fullText) ? "puumala"
+        : "other";
       return {
         id: item.Id,
         title: stripTags(item.Title),
         summary: stripTags(item.Summary || item.Overview).slice(0, 400),
         publishedAt: item.PublicationDate,
         url: `https://www.who.int/emergencies/disease-outbreak-news/item/${item.UrlName}`,
+        species,
         countries,
       };
     });

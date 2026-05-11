@@ -1,25 +1,27 @@
 "use client";
 
-import { useEffect, useRef } from "react";
-import type { DataPayload } from "@/lib/types";
+import { useEffect, useRef, useState } from "react";
+import type { DataPayload, ViewMode } from "@/lib/types";
 
-type Props = { data: DataPayload };
+type Props = { data: DataPayload; mode: ViewMode };
 
-export default function Map({ data }: Props) {
+export default function Map({ data, mode }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
-  const initRef = useRef(false);
+  const mapRef = useRef<import("leaflet").Map | null>(null);
+  const layerRef = useRef<import("leaflet").LayerGroup | null>(null);
+  const [ready, setReady] = useState(false);
 
+  // Init map once.
   useEffect(() => {
-    if (initRef.current || !containerRef.current) return;
-    initRef.current = true;
-
-    let cleanup: (() => void) | undefined;
+    if (mapRef.current || !containerRef.current) return;
+    let cancelled = false;
 
     (async () => {
       const L = (await import("leaflet")).default;
       await import("leaflet/dist/leaflet.css");
+      if (cancelled || !containerRef.current) return;
 
-      const map = L.map(containerRef.current!, {
+      const map = L.map(containerRef.current, {
         center: [20, 0],
         zoom: 2,
         worldCopyJump: true,
@@ -32,6 +34,35 @@ export default function Map({ data }: Props) {
         subdomains: "abcd",
         maxZoom: 19,
       }).addTo(map);
+
+      const layer = L.layerGroup().addTo(map);
+      mapRef.current = map;
+      layerRef.current = layer;
+      setReady(true);
+    })();
+
+    return () => {
+      cancelled = true;
+      mapRef.current?.remove();
+      mapRef.current = null;
+      layerRef.current = null;
+      setReady(false);
+    };
+  }, []);
+
+  // Re-render markers + recenter on data/mode change. Waits for `ready` so
+  // the refs are populated before we try to add layers.
+  useEffect(() => {
+    if (!ready) return;
+    const map = mapRef.current;
+    const layer = layerRef.current;
+    if (!map || !layer) return;
+    let cancelled = false;
+
+    (async () => {
+      const L = (await import("leaflet")).default;
+      if (cancelled) return;
+      layer.clearLayers();
 
       const cdcRows = data.sources.cdc.rows;
       const maxCdc = Math.max(1, ...cdcRows.map(r => r.total));
@@ -56,7 +87,7 @@ export default function Map({ data }: Props) {
               ${years}
             </div>`
           )
-          .addTo(map);
+          .addTo(layer);
       }
 
       const whoRows = data.sources.who.rows;
@@ -80,15 +111,27 @@ export default function Map({ data }: Props) {
             fillOpacity: 0.35,
           })
             .bindPopup(popupHtml)
-            .addTo(map);
+            .addTo(layer);
         }
       }
 
-      cleanup = () => map.remove();
+      // Recenter for the active view. Fit the bounds of whatever markers exist;
+      // fall back to a sensible default per mode if there are none.
+      const points: [number, number][] = [
+        ...cdcRows.map(r => [r.lat, r.lng] as [number, number]),
+        ...whoRows.flatMap(p => p.countries.map(c => [c.lat, c.lng] as [number, number])),
+      ];
+      if (points.length >= 2) {
+        map.fitBounds(L.latLngBounds(points).pad(0.25), { animate: true });
+      } else if (points.length === 1) {
+        map.setView(points[0], mode === "outbreak" ? 3 : 5, { animate: true });
+      } else {
+        map.setView(mode === "outbreak" ? [10, -10] : [39, -98], mode === "outbreak" ? 2 : 4);
+      }
     })();
 
-    return () => cleanup?.();
-  }, [data]);
+    return () => { cancelled = true; };
+  }, [ready, data, mode]);
 
   return <div ref={containerRef} className="h-full w-full" />;
 }
