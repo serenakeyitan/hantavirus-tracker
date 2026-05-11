@@ -1,15 +1,11 @@
-import { promises as fs } from "node:fs";
-import path from "node:path";
 import Tracker from "@/components/Tracker";
 import type { DataPayload } from "@/lib/types";
+// JSON is bundled at build time — no filesystem read, no cwd dependency.
+import dataJson from "../../public/data.json";
 
-async function loadData(): Promise<DataPayload> {
-  const file = path.join(process.cwd(), "public", "data.json");
-  return JSON.parse(await fs.readFile(file, "utf8"));
-}
+const data = dataJson as DataPayload;
 
-export default async function Home() {
-  const data = await loadData();
+export default function Home() {
   const generated = new Date(data.generatedAt).toUTCString();
   const ar = data.sources.argentina;
   const h = data.sources.hondius;
