@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import dynamic from "next/dynamic";
 import type { DataPayload, HondiusCase, HondiusStatus, ViewMode } from "@/lib/types";
+import { partitionGdeltCountries } from "@/lib/dedupe";
 
 const Map = dynamic(() => import("./Map"), { ssr: false });
 
@@ -139,15 +140,17 @@ export default function Tracker({ data }: Props) {
                 </span>
               )}
               {g && (() => {
-                const whoSet = new Set(data.sources.who.rows.flatMap(r => r.countries.map(c => c.name)));
-                const newCountries = g.countries.filter(c => !whoSet.has(c.country));
-                const newArticles = newCountries.reduce((a, c) => a + c.count, 0);
+                // Dedupe via the shared partition so the header count and map
+                // marker count can never drift. See lib/dedupe.ts for the rule.
+                const { displayed, suppressed } = partitionGdeltCountries(data);
+                const displayedArticles = displayed.reduce((a, c) => a + c.count, 0);
+                const suppressedArticles = suppressed.reduce((a, c) => a + c.count, 0);
                 return (
                   <span>
                     <span className="inline-block h-3 w-3 rounded-full bg-teal-500 align-middle" />{" "}
-                    <b>{newArticles}</b> news signals from <b>{newCountries.length}</b> countries
-                    {newCountries.length < g.countries.length && (
-                      <> <span className="text-zinc-500">(of {g.totalArticles} total &mdash; {g.totalArticles - newArticles} from countries already on map)</span></>
+                    <b>{displayedArticles}</b> news signals from <b>{displayed.length}</b> countries
+                    {suppressed.length > 0 && (
+                      <> <span className="text-zinc-500">(of {g.totalArticles} total &mdash; {suppressedArticles} from countries already on map)</span></>
                     )}
                   </span>
                 );

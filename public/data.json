@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T20:26:53.922Z",
+  "generatedAt": "2026-05-11T20:56:12.666Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1314,7 +1314,7 @@
           "caseId": 88,
           "status": "MONITORING",
           "details": "Onboard MV Hondus, disembarked May 10 as per ocean liner data - and currently unknown location",
-          "location": "",
+          "location": "TENERIFE",
           "sourceUrl": null,
           "exposureGroup": "MV Hondus, May 10",
           "onset": null,
@@ -1581,12 +1581,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 82,
+      "totalArticles": 78,
       "languages": {
-        "English": 66,
-        "Portuguese": 5,
-        "Bulgarian": 4,
+        "English": 58,
+        "Portuguese": 10,
         "Turkish": 5,
+        "Bulgarian": 3,
         "Russian": 1,
         "Hungarian": 1
       },
@@ -1595,23 +1595,47 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 50,
-          "latest": "2026-05-11T20:00:00Z",
+          "count": 45,
+          "latest": "2026-05-11T20:30:00Z",
           "sampleTitles": [
             {
-              "title": "Santa Clara resident monitored after returning home from hantavirus - stricken ship",
-              "url": "https://www.kcra.com/article/california-hantavirus-cruise-ship-passenger-santa-clara/71272702",
+              "title": "3 people isolating in Ontario remain asymptomatic , not being tested for hantavirus - Medicine Hat NewsMedicine Hat News",
+              "url": "https://medicinehatnews.com/news/national-news/2026/05/11/3-people-isolating-in-ontario-remain-asymptomatic-not-being-tested-for-hantavirus/",
               "language": "English"
             },
             {
-              "title": "Inside the Isolation Unit : The NE unit handling Andes Hantavirus cases",
-              "url": "https://kfdm.com/news/nation-world/inside-the-isolation-unit-the-ne-unit-handling-andes-hantavirus-cases",
+              "title": "Hantavirus latest : American evacuated tests positive , 2 passengers relocated to Atlanta",
+              "url": "https://www.foxla.com/news/hantavirus-american-test-positive-symptoms-nebraska",
               "language": "English"
             },
             {
-              "title": "CP NewsAlert : No Canadians had known direct contact with hantavirus patients on ship",
-              "url": "https://lethbridgeherald.com/news/national-news/2026/05/11/cp-newsalert-no-canadians-had-known-direct-contact-with-hantavirus-patients-on-ship/",
+              "title": "One American Tested  Mildly Positive  For Hantavirus",
+              "url": "https://www.shtfplan.com/health/one-american-tested-mildly-positive-for-hantavirus",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 8,
+          "latest": "2026-05-11T20:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Chance de surto de Hantavírus em Pernambuco é mínima , diz SES - PE",
+              "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/05/11713980-chance-de-surto-de-hantavirus-em-pernambuco-e-minima-diz-ses-pe.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Navio de cruzeiro afetado por surto de hantavírus é evacuado porto espanhol - Saúde",
+              "url": "https://ansabrasil.com.br/brasil/noticias/saude/2026/05/11/navio-de-cruzeiro-afetado-por-surto-de-hantavirus-e-evacuado-porto-espanhol_15c5390d-8088-42ef-884f-f7026a496008.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Itália impõe quarentena a passageiros que tiveram contato com vítima de hantavírus - Último momento",
+              "url": "https://ansabrasil.com.br/brasil/noticias/ultimo_momento/2026/05/11/italia-impoe-quarentena-a-passageiros-que-tiveram-contato-com-vitima-de-hantavirus_5074b600-8b79-4406-ba56-6bc7dfd0786a.html",
+              "language": "Portuguese"
             }
           ]
         },
@@ -1620,21 +1644,21 @@
           "lat": 56.1,
           "lng": -106.3,
           "count": 8,
-          "latest": "2026-05-11T20:00:00Z",
+          "latest": "2026-05-11T20:15:00Z",
           "sampleTitles": [
             {
-              "title": "4 Canadians connected to hantavirus cruise ship isolating on Vancouver Island",
-              "url": "https://quesnelobserver.com/2026/05/11/4-canadians-connected-to-hantavirus-cruise-ship-isolating-on-vancouver-island/",
+              "title": "Ontario hantavirus : What you need to know",
+              "url": "https://www.niagarathisweek.com/news/ontario-hantavirus-isolation-peel-grey-bruce/article_b058468a-6aec-5bb1-b95d-c8088b64f7b2.html",
               "language": "English"
             },
             {
-              "title": "Ontario travellers with connections to cruise remain asymptomatic , not being tested for hantavirus",
-              "url": "https://610cktb.com/ontario-travellers-with-connections-to-cruise-remain-asymptomatic-not-being-tested-for-hantavirus/",
+              "title": "No Canadians had known direct contact with hantavirus on ship : B . C . health official",
+              "url": "https://www.chch.com/chch-news/ontario-travellers-with-connections-to-cruise-remain-asymptomatic-not-being-tested-for-hantavirus/",
               "language": "English"
             },
             {
               "title": "4 Canadians connected to hantavirus cruise ship isolating on Vancouver Island",
-              "url": "https://hopestandard.com/2026/05/11/4-canadians-connected-to-hantavirus-cruise-ship-isolating-on-vancouver-island/",
+              "url": "https://nanaimobulletin.com/2026/05/11/4-canadians-connected-to-hantavirus-cruise-ship-isolating-on-vancouver-island/",
               "language": "English"
             }
           ]
@@ -1644,46 +1668,22 @@
           "lat": 38.96,
           "lng": 35.24,
           "count": 5,
-          "latest": "2026-05-11T20:00:00Z",
+          "latest": "2026-05-11T20:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Ruhi Çenetin hantavirüs testi pozitif mi çıktı ? ",
+              "url": "https://www.haberler.com/haber/ruhi-cenetin-hantavirus-testi-pozitif-mi-cikti-19837002-haberi/",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs tespit edilen geminin tahliyesinde son gelişme : Sıra 42 günlük endişeli bekleyişte",
+              "url": "https://www.bursahakimiyet.com.tr/gundem/hantavirus-tespit-edilen-geminin-tahliyesinde-son-gelisme-sira-42-gunluk-endiseli-bekleyiste-1626194",
+              "language": "Turkish"
+            },
             {
               "title": "Sağlık Bakanlığı  ndan Hantavirüs Açıklaması - Trabzon Haber | Son Dakika Trabzonspor Gelişmeleri ve Yerel Haberler",
               "url": "https://www.haberts.com/saglik-bakanligindan-hantavirus-aciklamasi",
               "language": "Turkish"
-            },
-            {
-              "title": "O ülkede hantavirüs alarmı ! Tahliye edilen yolcunun testi pozitif çıktı",
-              "url": "https://www.yeniakit.com.tr/haber/o-ulkede-hantavirus-alarmi-tahliye-edilen-yolcunun-testi-pozitif-cikti-2001044.html",
-              "language": "Turkish"
-            },
-            {
-              "title": "Fransada 13 kişi hantavirüs nedeniyle karantinada tutuluyor",
-              "url": "https://www.haberler.com/guncel/fransa-da-hantavirus-tehdidi-5-kisi-karantinada-19836835-haberi/",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 4,
-          "latest": "2026-05-11T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "CdB | Primeira Morte por Hantavírus em Minas Gerais",
-              "url": "https://correiodobrasil.com.br/a/minas-gerais-registra-primeira-morte-hantavirus",
-              "language": "Portuguese"
-            },
-            {
-              "title": "CdB | Itália impõe quarentena após caso de hantavírus",
-              "url": "https://correiodobrasil.com.br/a/italia-adota-quarentena-apos-contato-vitima-hantavirus",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Passageiros de cruzeiro infectados com hantavírus desembarcam de voo em Atlanta",
-              "url": "https://noticias.r7.com/prisma/luiz-fara-monteiro/passageiros-de-cruzeiro-infectados-com-hantavirus-desembarcam-de-voo-em-atlanta-11052026/",
-              "language": "Portuguese"
             }
           ]
         },
@@ -1691,7 +1691,7 @@
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-11T20:00:00Z",
           "sampleTitles": [
             {
@@ -1726,6 +1726,20 @@
             {
               "title": "French woman was told by doctors hantavirus symptoms were just anxiety",
               "url": "https://www.theguardian.com/world/2026/may/11/french-womandoctors-hantavirus-symptoms-hv-hondius",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Israel",
+          "lat": 31,
+          "lng": 34.85,
+          "count": 1,
+          "latest": "2026-05-11T20:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "France confirms first hantavirus case tied to deadly cruise ship outbreak",
+              "url": "https://www.albawaba.com/news/france-confirms-first-hantavirus-case-1627362",
               "language": "English"
             }
           ]
@@ -1769,34 +1783,6 @@
               "title": "Otthonodban is fertőzhet a hantavírus : ezek a helyiségek a legveszélyesebbek",
               "url": "https://divany.hu/testem/otthoni-hantavirus-fertozes-veszelyes-helyisegek/",
               "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-11T18:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Omaha quarantine : US passengers from Hantavirus - hit cruise ship arrive for specialised monitoring",
-              "url": "https://aninews.in/news/world/asia/omaha-quarantine-us-passengers-from-hantavirus-hit-cruise-ship-arrive-for-specialised-monitoring20260511224136/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-11T18:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Department of Health Hantavirus statement in full as experts say  risk at lowest level  ",
-              "url": "https://www.irishmirror.ie/news/irish-news/department-healths-hantavirus-statement-full-37140925",
-              "language": "English"
             }
           ]
         }

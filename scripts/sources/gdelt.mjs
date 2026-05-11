@@ -55,6 +55,12 @@ const BLOCKED_DOMAINS = new Set([
 
 const RELEVANT_RX = /hantavir|hantavírus|хантавирус|hantavirüs|sin nombre|andes virus|MV Hondius/i;
 
+async function fetchGdeltOnce(url) {
+  const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
+  if (!res.ok) throw new Error(`GDELT ${res.status}`);
+  return res.json();
+}
+
 export async function fetchGDELT() {
   const url =
     "https://api.gdeltproject.org/api/v2/doc/doc?" +
@@ -67,9 +73,20 @@ export async function fetchGDELT() {
       sort: "DateDesc",
     });
 
-  const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
-  if (!res.ok) throw new Error(`GDELT ${res.status}`);
-  const json = await res.json();
+  // GDELT occasionally drops connections or rate-limits (1 req/5s policy).
+  // Retry with exponential backoff so a hiccup doesn't lose the whole source.
+  let json;
+  let lastErr;
+  for (const delay of [0, 6000, 15000]) {
+    if (delay) await new Promise(r => setTimeout(r, delay));
+    try {
+      json = await fetchGdeltOnce(url);
+      break;
+    } catch (err) {
+      lastErr = err;
+    }
+  }
+  if (!json) throw lastErr;
 
   const seen = new Set();
   const articles = [];

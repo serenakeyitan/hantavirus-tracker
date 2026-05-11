@@ -251,6 +251,21 @@ async function main() {
     blockedSources,
   };
 
+  // Sanity check: warn if GDELT and WHO overlap. The UI suppresses these
+  // duplicates via src/lib/dedupe.ts, but seeing the overlap in the build log
+  // catches data-quality changes (e.g. if WHO adds a country and we never
+  // notice GDELT is now redundant for it).
+  if (gdelt && who.length) {
+    const whoCountries = new Set(who.flatMap(p => p.countries.map(c => c.name)));
+    const overlaps = gdelt.countries.filter(c => whoCountries.has(c.country));
+    if (overlaps.length) {
+      console.log(
+        `  -> dedupe note: ${overlaps.length} GDELT countries also in WHO (UI hides these): ` +
+        overlaps.map(c => `${c.country}(${c.count})`).join(", ")
+      );
+    }
+  }
+
   mkdirSync(dirname(OUT_PATH), { recursive: true });
   writeFileSync(OUT_PATH, JSON.stringify(payload, null, 2));
   console.log(`Wrote ${OUT_PATH}`);

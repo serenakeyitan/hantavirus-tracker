@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { DataPayload, HondiusStatus, ViewMode } from "@/lib/types";
+import { partitionGdeltCountries } from "@/lib/dedupe";
 
 type Props = { data: DataPayload; mode: ViewMode; focusedCaseId?: number | null };
 
@@ -131,16 +132,10 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
           .addTo(layer);
       }
 
-      // GDELT global news signals. Only render markers for countries that aren't
-      // already represented by a WHO DON post — GDELT's coordinates are the
-      // publication country, not the event country, so they're least precise of
-      // any source. We treat them as a "fill the coverage gap" signal, not as
-      // duplicating confirmed surveillance dots.
-      const whoCountrySet = new Set(
-        data.sources.who.rows.flatMap(r => r.countries.map(c => c.name))
-      );
-      const gdeltAll = data.sources.gdelt?.countries ?? [];
-      const gdeltDisplayed = gdeltAll.filter(c => !whoCountrySet.has(c.country));
+      // GDELT global news signals. Dedupe rule lives in lib/dedupe.ts — see
+      // that module for the precision hierarchy and rationale. Do not inline
+      // this filter here; future changes must go through partitionGdeltCountries.
+      const { displayed: gdeltDisplayed } = partitionGdeltCountries(data);
       const maxGdelt = Math.max(1, ...gdeltDisplayed.map(c => c.count));
       for (const country of gdeltDisplayed) {
         const radius = 4 + 6 * Math.sqrt(country.count / maxGdelt);
