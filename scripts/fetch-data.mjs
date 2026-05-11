@@ -3,6 +3,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchArgentinaBEN } from "./sources/argentina-ben.mjs";
+import { fetchArcgisCases } from "./sources/arcgis-cases.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = resolve(__dirname, "..", "public", "data.json");
@@ -187,6 +188,16 @@ async function main() {
     console.log(`  -> bulletin ${argentina.bulletinIssue}: ${argentina.provinces.length} provinces, ${argentina.totalCases} total cases, ${argentina.andesCases} Andes-region cases`);
   }
 
+  console.log("Fetching MV Hondius case line-list (ArcGIS)...");
+  const hondius = await fetchArcgisCases().catch(err => {
+    console.error("ArcGIS fetch failed:", err.message);
+    return null;
+  });
+  if (hondius) {
+    const c = hondius.counts;
+    console.log(`  -> ${hondius.cases.length} cases: confirmed=${c.confirmed} deceased=${c.deceased} suspected=${c.suspected} monitoring=${c.monitoring}`);
+  }
+
   // Sources we attempted but cannot integrate (no machine-readable surface).
   // Recorded so the UI can show users what coverage we don't have.
   const blockedSources = [
@@ -209,6 +220,13 @@ async function main() {
         totalCases: argentina.totalCases,
         andesCases: argentina.andesCases,
         rows: argentina.provinces,
+      },
+      hondius: hondius && {
+        name: hondius.name,
+        url: hondius.sourceUrl,
+        tier: "reported",
+        counts: hondius.counts,
+        cases: hondius.cases,
       },
     },
     blockedSources,

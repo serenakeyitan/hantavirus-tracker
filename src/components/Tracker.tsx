@@ -2,23 +2,34 @@
 
 import { useMemo, useState } from "react";
 import dynamic from "next/dynamic";
-import type { DataPayload, ViewMode } from "@/lib/types";
+import type { DataPayload, HondiusCase, HondiusStatus, ViewMode } from "@/lib/types";
 
 const Map = dynamic(() => import("./Map"), { ssr: false });
 
 type Props = { data: DataPayload };
 
+const STATUS_COLORS: Record<HondiusStatus, string> = {
+  DECEASED: "#000000",
+  CONFIRMED: "#dc2626",
+  SUSPECTED: "#f59e0b",
+  MONITORING: "#6b7280",
+};
+const STATUS_LABEL: Record<HondiusStatus, string> = {
+  DECEASED: "Deceased",
+  CONFIRMED: "Confirmed",
+  SUSPECTED: "Suspected",
+  MONITORING: "Monitoring",
+};
+const STATUS_ORDER: HondiusStatus[] = ["DECEASED", "CONFIRMED", "SUSPECTED", "MONITORING"];
+
 export default function Tracker({ data }: Props) {
   const [mode, setMode] = useState<ViewMode>("outbreak");
+  const [focusedCaseId, setFocusedCaseId] = useState<number | null>(null);
 
   const filtered = useMemo<DataPayload>(() => {
     if (mode === "outbreak") {
-      // Outbreak view: WHO Andes posts + Argentina Sur-region provinces (Andes virus prevalent).
       const argentinaAndes = data.sources.argentina
-        ? {
-            ...data.sources.argentina,
-            rows: data.sources.argentina.rows.filter(r => r.isAndesRegion),
-          }
+        ? { ...data.sources.argentina, rows: data.sources.argentina.rows.filter(r => r.isAndesRegion) }
         : data.sources.argentina;
       return {
         ...data,
@@ -29,15 +40,12 @@ export default function Tracker({ data }: Props) {
             rows: data.sources.who.rows.filter(r => r.species === "andes"),
           },
           argentina: argentinaAndes,
+          hondius: data.sources.hondius,
         },
       };
     }
-    // Endemic view: US CDC + Argentina non-Sur provinces (Sin Nombre + other hantaviruses).
     const argentinaEndemic = data.sources.argentina
-      ? {
-          ...data.sources.argentina,
-          rows: data.sources.argentina.rows.filter(r => !r.isAndesRegion),
-        }
+      ? { ...data.sources.argentina, rows: data.sources.argentina.rows.filter(r => !r.isAndesRegion) }
       : data.sources.argentina;
     return {
       ...data,
@@ -45,6 +53,7 @@ export default function Tracker({ data }: Props) {
         cdc: data.sources.cdc,
         who: { ...data.sources.who, rows: [] },
         argentina: argentinaEndemic,
+        hondius: null,
       },
     };
   }, [data, mode]);
@@ -52,16 +61,31 @@ export default function Tracker({ data }: Props) {
   const outbreakPosts = data.sources.who.rows.filter(r => r.species === "andes");
   const stateCount = data.sources.cdc.rows.length;
   const totalUSCases = data.sources.cdc.rows.reduce((a, r) => a + r.total, 0);
-  const countriesAffected = new Set(
-    outbreakPosts.flatMap(p => p.countries.map(c => c.name))
-  ).size;
-  const latestOutbreak = outbreakPosts[0];
   const ar = data.sources.argentina;
+  const h = data.sources.hondius;
   const arProvincesInView = filtered.sources.argentina?.rows.length ?? 0;
   const arCasesInView = filtered.sources.argentina?.rows.reduce((a, r) => a + r.cases, 0) ?? 0;
 
   return (
     <>
+      {/* Headline KPI bar (outbreak mode only). Lifted from the ArcGIS dashboard pattern. */}
+      {mode === "outbreak" && h && (
+        <section className="border-b border-zinc-200 bg-zinc-900 px-6 py-3 text-white">
+          <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-8 gap-y-2">
+            <div>
+              <div className="text-[10px] uppercase tracking-widest text-zinc-400">MV Hondius cluster &middot; Andes virus</div>
+              <div className="text-sm text-zinc-300">Live line-list of individual cases</div>
+            </div>
+            <div className="flex gap-6">
+              <KpiCell label="Deceased" value={h.counts.deceased} color="#ffffff" />
+              <KpiCell label="Confirmed" value={h.counts.confirmed} color="#fca5a5" />
+              <KpiCell label="Suspected" value={h.counts.suspected} color="#fbbf24" />
+              <KpiCell label="Monitoring" value={h.counts.monitoring} color="#a1a1aa" />
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="border-b border-zinc-200 bg-white px-6 py-3">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-6 gap-y-3">
           <div role="tablist" className="inline-flex rounded-lg bg-zinc-100 p-1 text-sm">
@@ -97,7 +121,7 @@ export default function Tracker({ data }: Props) {
             <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-zinc-700">
               <span>
                 <span className="inline-block h-3 w-3 rounded-full border-2 border-dashed border-blue-700 align-middle" />{" "}
-                <b>{outbreakPosts.length}</b> WHO posts &middot; <b>{countriesAffected}</b> countries
+                <b>{outbreakPosts.length}</b> WHO posts
               </span>
               {ar && (
                 <span>
@@ -105,8 +129,11 @@ export default function Tracker({ data }: Props) {
                   <b>{arCasesInView}</b> Argentina Andes-region cases ({arProvincesInView} provinces, BEN {ar.bulletinIssue})
                 </span>
               )}
-              {latestOutbreak && (
-                <span className="text-zinc-500">latest WHO {latestOutbreak.publishedAt.slice(0, 10)}</span>
+              {h && (
+                <span>
+                  <span className="inline-block h-3 w-3 rounded-full bg-red-600 align-middle" />{" "}
+                  <b>{h.cases.length}</b> cruise-cluster cases
+                </span>
               )}
             </div>
           ) : (
@@ -127,18 +154,85 @@ export default function Tracker({ data }: Props) {
 
         {mode === "outbreak" && (
           <div className="mx-auto mt-3 max-w-6xl rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-xs leading-relaxed text-amber-900">
-            <b>Why this view matters:</b> Andes virus is the only hantavirus with documented
-            person-to-person transmission. The WHO cruise-ship cluster (May 2026) is the visible
-            event, but Argentina&apos;s southern (Patagonia) region has{" "}
-            {ar ? <b>{ar.andesCases} confirmed Andes-region cases YTD in season {ar.seasonLabel}</b> : "ongoing endemic transmission"}
-            {" "}per the BEN bulletin. Endemic Andes activity is multiples larger than the cruise cluster.
+            <b>Markers are signals, not certainty.</b> Confirmed cases tested positive; suspected cases are symptomatic or
+            connected to the cluster; monitoring means under observation without symptoms. Locations are last known and
+            may not be precise &mdash; click any pin for the primary source.
+            {ar && (
+              <>
+                {" "}Argentina&apos;s Patagonia (Sur) region has <b>{ar.andesCases} confirmed Andes-region cases YTD</b> in
+                season {ar.seasonLabel} per BEN #{ar.bulletinIssue} &mdash; endemic activity is multiples larger than
+                the cruise cluster.
+              </>
+            )}
           </div>
         )}
       </section>
 
-      <main className="relative flex-1">
-        <Map data={filtered} mode={mode} />
+      <main className="relative flex flex-1 overflow-hidden">
+        <div className="flex-1">
+          <Map data={filtered} mode={mode} focusedCaseId={focusedCaseId} />
+        </div>
+        {mode === "outbreak" && h && (
+          <aside className="w-80 shrink-0 overflow-y-auto border-l border-zinc-200 bg-white">
+            <div className="sticky top-0 z-10 border-b border-zinc-200 bg-white px-4 py-2 text-xs">
+              <div className="font-semibold uppercase tracking-wider text-zinc-700">Cases</div>
+              <div className="text-zinc-500">
+                Line-list maintained by{" "}
+                <a href={h.url} className="underline" target="_blank" rel="noopener">K. Panozzo, Univ. of Toledo</a>
+              </div>
+            </div>
+            <ul>
+              {sortCases(h.cases).map(c => (
+                <li
+                  key={`${c.caseId}-${c.location}`}
+                  onClick={() => setFocusedCaseId(c.caseId)}
+                  className={
+                    "cursor-pointer border-b border-zinc-100 px-4 py-2 text-xs hover:bg-zinc-50 " +
+                    (focusedCaseId === c.caseId ? "bg-zinc-100" : "")
+                  }
+                >
+                  <div className="flex items-center gap-2">
+                    <span
+                      className="inline-block h-2.5 w-2.5 rounded-full"
+                      style={{ backgroundColor: STATUS_COLORS[c.status] }}
+                    />
+                    <span className="font-semibold text-zinc-900">Case #{c.caseId ?? "?"}</span>
+                    <span className="text-[10px] uppercase tracking-wider text-zinc-500">{STATUS_LABEL[c.status]}</span>
+                  </div>
+                  <div className="mt-0.5 text-zinc-700">{c.details}</div>
+                  <div className="mt-0.5 text-[11px] text-zinc-500">
+                    {c.location || "Location unknown"}
+                    {c.sourceUrl && (
+                      <>
+                        {" "}&middot;{" "}
+                        <a href={c.sourceUrl} onClick={e => e.stopPropagation()} className="underline" target="_blank" rel="noopener">source</a>
+                      </>
+                    )}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </aside>
+        )}
       </main>
     </>
   );
+}
+
+function KpiCell({ label, value, color }: { label: string; value: number; color: string }) {
+  return (
+    <div>
+      <div className="text-[10px] uppercase tracking-widest text-zinc-400">{label}</div>
+      <div className="text-2xl font-bold tabular-nums" style={{ color }}>{value}</div>
+    </div>
+  );
+}
+
+function sortCases(cases: HondiusCase[]): HondiusCase[] {
+  const orderIdx = (s: HondiusStatus) => STATUS_ORDER.indexOf(s);
+  return [...cases].sort((a, b) => {
+    const diff = orderIdx(a.status) - orderIdx(b.status);
+    if (diff !== 0) return diff;
+    return (b.caseId ?? 0) - (a.caseId ?? 0);
+  });
 }

@@ -12,6 +12,7 @@ export default async function Home() {
   const data = await loadData();
   const generated = new Date(data.generatedAt).toUTCString();
   const ar = data.sources.argentina;
+  const h = data.sources.hondius;
 
   return (
     <div className="flex h-dvh flex-col bg-zinc-50 text-zinc-900">
@@ -41,6 +42,14 @@ export default async function Home() {
                 {" · "}
                 <a href={ar.url} className="underline" target="_blank" rel="noopener">
                   Argentina BEN #{ar.bulletinIssue}
+                </a>
+              </>
+            )}
+            {h && (
+              <>
+                {" · "}
+                <a href={h.url} className="underline" target="_blank" rel="noopener">
+                  MV Hondius line-list (K. Panozzo)
                 </a>
               </>
             )}

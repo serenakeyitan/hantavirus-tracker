@@ -42,6 +42,28 @@ export type ArgentinaSource = {
   rows: ArgentinaProvinceRow[];
 };
 
+export type HondiusStatus = "CONFIRMED" | "DECEASED" | "SUSPECTED" | "MONITORING";
+
+export type HondiusCase = {
+  caseId: number | null;
+  status: HondiusStatus;
+  details: string;
+  location: string;
+  sourceUrl: string | null;
+  exposureGroup: string | null;
+  onset: string | null;
+  lat: number;
+  lng: number;
+};
+
+export type HondiusSource = {
+  name: string;
+  url: string;
+  tier: SourceTier;
+  counts: { confirmed: number; deceased: number; suspected: number; monitoring: number };
+  cases: HondiusCase[];
+};
+
 export type BlockedSource = { name: string; reason: string; url: string };
 
 export type ViewMode = "outbreak" | "endemic";
@@ -54,6 +76,7 @@ export type DataPayload = {
     cdc: { name: string; url: string; tier: SourceTier; rows: StateRow[] };
     who: { name: string; url: string; tier: SourceTier; rows: WHORow[] };
     argentina?: ArgentinaSource | null;
+    hondius?: HondiusSource | null;
   };
   blockedSources?: BlockedSource[];
 };
