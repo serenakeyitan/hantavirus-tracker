@@ -1,0 +1,287 @@
+{
+  "generatedAt": "2026-05-10T23:59:05.104Z",
+  "sources": {
+    "cdc": {
+      "name": "CDC NNDSS Weekly",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc",
+      "tier": "confirmed",
+      "rows": [
+        {
+          "state": "PENNSYLVANIA",
+          "lat": 40.590752,
+          "lng": -77.209755,
+          "total": 1,
+          "byYear": {
+            "2023": 0,
+            "2024": 1
+          }
+        },
+        {
+          "state": "NORTH DAKOTA",
+          "lat": 47.528912,
+          "lng": -99.784012,
+          "total": 3,
+          "byYear": {
+            "2023": 3,
+            "2024": 0
+          }
+        },
+        {
+          "state": "SOUTH DAKOTA",
+          "lat": 44.299782,
+          "lng": -99.438828,
+          "total": 23,
+          "byYear": {
+            "2023": 23,
+            "2024": 0
+          }
+        },
+        {
+          "state": "LOUISIANA",
+          "lat": 31.169546,
+          "lng": -91.867805,
+          "total": 50,
+          "byYear": {
+            "2023": 33,
+            "2024": 17
+          }
+        },
+        {
+          "state": "OKLAHOMA",
+          "lat": 35.565342,
+          "lng": -96.928917,
+          "total": 20,
+          "byYear": {
+            "2023": 20,
+            "2024": 0
+          }
+        },
+        {
+          "state": "ARIZONA",
+          "lat": 33.729759,
+          "lng": -111.431221,
+          "total": 194,
+          "byYear": {
+            "2023": 90,
+            "2024": 104
+          }
+        },
+        {
+          "state": "COLORADO",
+          "lat": 39.059811,
+          "lng": -105.311104,
+          "total": 29,
+          "byYear": {
+            "2023": 0,
+            "2024": 29
+          }
+        },
+        {
+          "state": "IDAHO",
+          "lat": 44.240459,
+          "lng": -114.478828,
+          "total": 49,
+          "byYear": {
+            "2023": 10,
+            "2024": 39
+          }
+        },
+        {
+          "state": "NEVADA",
+          "lat": 38.313515,
+          "lng": -117.055374,
+          "total": 110,
+          "byYear": {
+            "2023": 50,
+            "2024": 60
+          }
+        },
+        {
+          "state": "NEW MEXICO",
+          "lat": 34.840515,
+          "lng": -106.248482,
+          "total": 104,
+          "byYear": {
+            "2023": 52,
+            "2024": 52
+          }
+        },
+        {
+          "state": "UTAH",
+          "lat": 40.150032,
+          "lng": -111.862434,
+          "total": 73,
+          "byYear": {
+            "2023": 39,
+            "2024": 34
+          }
+        },
+        {
+          "state": "WYOMING",
+          "lat": 42.755966,
+          "lng": -107.30249,
+          "total": 19,
+          "byYear": {
+            "2023": 19,
+            "2024": 0
+          }
+        },
+        {
+          "state": "CALIFORNIA",
+          "lat": 36.116203,
+          "lng": -119.681564,
+          "total": 71,
+          "byYear": {
+            "2023": 19,
+            "2024": 52
+          }
+        },
+        {
+          "state": "OREGON",
+          "lat": 44.572021,
+          "lng": -122.070938,
+          "total": 20,
+          "byYear": {
+            "2023": 2,
+            "2024": 18
+          }
+        },
+        {
+          "state": "WASHINGTON",
+          "lat": 47.400902,
+          "lng": -121.490494,
+          "total": 43,
+          "byYear": {
+            "2023": 0,
+            "2024": 43
+          }
+        }
+      ]
+    },
+    "who": {
+      "name": "WHO Disease Outbreak News",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news",
+      "tier": "confirmed",
+      "rows": [
+        {
+          "id": "f6d5a10e-d6a4-4156-a203-4845ea2f878a",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additi",
+          "publishedAt": "2026-05-08T21:31:10Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "Uruguay",
+              "lat": -32.5228,
+              "lng": -55.7658
+            },
+            {
+              "name": "Germany",
+              "lat": 51.1657,
+              "lng": 10.4515
+            },
+            {
+              "name": "Switzerland",
+              "lat": 46.8182,
+              "lng": 8.2275
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
+        {
+          "id": "daf6528b-00a6-41f6-9b3c-7122cc3f6cac",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild sym",
+          "publishedAt": "2026-05-04T21:48:22Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "South Korea",
+              "lat": 35.9078,
+              "lng": 127.7669
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "China",
+              "lat": 35.8617,
+              "lng": 104.1954
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
