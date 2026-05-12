@@ -149,12 +149,14 @@ export default function Tracker({ data }: Props) {
         </div>
       </section>
 
-      <main className="relative flex flex-1 overflow-hidden">
-        <div className="flex-1">
+      <main className="relative flex flex-1 flex-col md:flex-row md:overflow-hidden">
+        {/* Map: fixed-aspect on mobile (so it doesn't collapse), fills remaining
+            space on tablet+. */}
+        <div className="h-[50vh] shrink-0 md:h-auto md:flex-1">
           <MapView data={filtered} mode={mode} focusedCaseId={focusedCaseId} />
         </div>
         {mode === "outbreak" && h && (
-          <aside className="flex w-80 shrink-0 flex-col border-l border-zinc-200 bg-white">
+          <aside className="flex w-full shrink-0 flex-col border-t border-zinc-200 bg-white md:w-80 md:border-l md:border-t-0">
             <div className="border-b border-zinc-200">
               <TrendChart
                 daily={h.dailySeries ?? []}
