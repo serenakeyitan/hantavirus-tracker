@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T01:40:33.997Z",
+  "generatedAt": "2026-05-12T02:26:46.130Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,10 +1976,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 86,
+      "totalArticles": 82,
       "languages": {
-        "English": 80,
-        "Portuguese": 5,
+        "English": 78,
+        "Portuguese": 3,
         "Spanish": 1
       },
       "countries": [
@@ -1988,21 +1988,21 @@
           "lat": 39,
           "lng": -98,
           "count": 63,
-          "latest": "2026-05-12T01:15:00Z",
+          "latest": "2026-05-12T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus Patients Update : 1 Symptomatic , 1 Asymptomatic",
-              "url": "https://twincitiesnewstalk.iheart.com/content/2026-05-11-hantavirus-patients-update-1-symptomatic-1-asymptomatic/",
+              "title": "HANTAVIRUS CRUISE VICTIM HOSPITALIZED IN OMAHA",
+              "url": "https://kscj.com/2026/05/11/hantavirus-cruise-victim-hospitalized-in-omaha/",
               "language": "English"
             },
             {
-              "title": "Hantavirus Patients Update : 1 Symptomatic , 1 Asymptomatic",
-              "url": "https://wmanfm.iheart.com/content/2026-05-11-hantavirus-patients-update-1-symptomatic-1-asymptomatic/",
+              "title": "18 passengers possibly exposed to hantavirus quarantine in US",
+              "url": "https://www.wtae.com/article/passengers-hantavirus-quarantine-nebraska-georgia/71273686",
               "language": "English"
             },
             {
-              "title": "Hantavirus Patients Update : 1 Symptomatic , 1 Asymptomatic",
-              "url": "https://943wsc.iheart.com/content/2026-05-11-hantavirus-patients-update-1-symptomatic-1-asymptomatic/",
+              "title": "18 passengers possibly exposed to hantavirus quarantine in US",
+              "url": "https://www.wmur.com/article/passengers-hantavirus-quarantine-nebraska-georgia/71273686",
               "language": "English"
             }
           ]
@@ -2012,21 +2012,21 @@
           "lat": 54,
           "lng": -2.4,
           "count": 7,
-          "latest": "2026-05-12T01:00:00Z",
+          "latest": "2026-05-12T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus : Testing  well underway  for cruise Britons isolating at united kingdom hospital",
-              "url": "https://www.kentonline.co.uk/news/national/hantavirus-testing-well-underway-for-cruise-britons-isolating-at-uk-hospital-166535/",
+              "title": "Dutch hospital staff quarantined after possible hantavirus exposure and PPE breach",
+              "url": "https://www.manchestereveningnews.co.uk/news/world-news/dutch-hospital-staff-quarantined-after-33929162",
+              "language": "English"
+            },
+            {
+              "title": "BBC doctor shares  reassurance  over Hantavirus as passengers land in united kingdom ",
+              "url": "https://www.walesonline.co.uk/news/health/bbc-doctor-shares-reassurance-over-33926270",
               "language": "English"
             },
             {
               "title": "Hantavirus : Testing  well underway  for cruise Britons isolating at united kingdom hospital",
-              "url": "https://www.rutland-times.co.uk/national/hantavirus-testing-well-underway-for-cruise-britons-isolating-at-uk-hospital-166535/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus : Testing  well underway  for cruise Britons isolating at united kingdom hospital",
-              "url": "https://www.newburytoday.co.uk/national/hantavirus-testing-well-underway-for-cruise-britons-isolating-at-uk-hospital-166535/",
+              "url": "https://www.newarkadvertiser.co.uk/national/hantavirus-testing-well-underway-for-cruise-britons-isolating-at-uk-hospital-166535/",
               "language": "English"
             }
           ]
@@ -2035,22 +2035,17 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 4,
-          "latest": "2026-05-12T00:30:00Z",
+          "count": 2,
+          "latest": "2026-05-12T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "B . C . monitoring four Canadians after deadly hantavirus cruise outbreak : AM 1150",
-              "url": "https://www.am1150.ca/84685/news/health/b-c-monitoring-four-canadians-after-deadly-hantavirus-cruise-outbreak/",
+              "title": "B . C . monitoring four Canadians after deadly hantavirus cruise outbreak : My Creston Now",
+              "url": "https://www.mycrestonnow.com/46695/news/health/b-c-monitoring-four-canadians-after-deadly-hantavirus-cruise-outbreak/",
               "language": "English"
             },
             {
-              "title": "1 person in Peel isolating , being monitored for hantavirus",
-              "url": "https://www.stcatharinesstandard.ca/news/ontario/peel-region-resident-isolating-being-monitored-for-hantavirus-symptoms-ontario-health-minister-says/article_a6322ecb-d7a3-5fec-bcdd-b0951372898a.html",
-              "language": "English"
-            },
-            {
-              "title": "B . C . monitoring four Canadians after deadly hantavirus cruise outbreak : My Cowichan Valley Now",
-              "url": "https://www.mycowichanvalleynow.com/97158/news/health/b-c-monitoring-four-canadians-after-deadly-hantavirus-cruise-outbreak/",
+              "title": "Hantavirus does not have  pandemic potential , says P . E . I . chief public health officer",
+              "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-hantavirus-pandemic-potential-9.7195713",
               "language": "English"
             }
           ]
@@ -2059,42 +2054,46 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 3,
-          "latest": "2026-05-12T01:00:00Z",
+          "count": 2,
+          "latest": "2026-05-12T01:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Últimos voos com passageiros do cruzeiro afetado por hantavírus pousam nos Países Baixos",
+              "url": "http://www.em.com.br/internacional/2026/05/7417376-ultimos-voos-com-passageiros-do-cruzeiro-afetado-por-hantavirus-pousam-nos-paises-baixos.html",
+              "language": "Portuguese"
+            },
             {
               "title": "Ministro da Saúde diz que hantavírus não representa perigo na Itália - Saúde",
               "url": "https://ansabrasil.com.br/brasil/noticias/saude/2026/05/11/ministro-da-saude-diz-que-hantavirus-nao-representa-perigo-na-italia_fbb32593-ea75-445c-af19-715943e01f64.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Passageiros espanhol evacuado de cruzeiro testa positivo para hantavírus",
-              "url": "https://www.correiobraziliense.com.br/mundo/2026/05/7417190-passageiros-espanhol-evacuado-de-cruzeiro-testa-positivo-para-hantavirus.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Como se pega Hantavírus ? Doença causou morte em MG",
-              "url": "https://www.folhavitoria.com.br/saude/como-se-pega-hantavirus-doenca-causou-morte-em-mg/",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-12T00:30:00Z",
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-12T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus . DGS emite normas para casos suspeitos – Observador",
-              "url": "https://observador.pt/2026/05/12/dgs-publica-normas-para-possiveis-casos-suspeitos-de-hantavirus-e-descarta-medidas-preventivas/",
-              "language": "Portuguese"
-            },
+              "title": "Ruhi Cenet says he is in quarantine after ship hantavirus scare",
+              "url": "https://ftnnews.com/travel-news/health-a-spa/ruhi-cenet-says-he-is-in-quarantine-after-ship-hantavirus-scare/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-12T01:45:00Z",
+          "sampleTitles": [
             {
-              "title": "DGS publica normas sobre o Hantavírus : saiba o que é um caso suspeito e os sinais a que deve estar atento",
-              "url": "https://tvi.iol.pt/noticias/hantavirus/dgs/dgs-publica-normas-sobre-o-hantavirus-saiba-o-que-e-um-caso-suspeito-e-os-sinais-a-que-deve-estar-atento/20260512/6a02609fd34e28842c83ea21",
-              "language": "Portuguese"
+              "title": "Hantavirus : Confirmed cases by nationality",
+              "url": "https://www.thehindu.com/news/international/hantavirus-confirmed-cases-by-nationality/article70968106.ece",
+              "language": "English"
             }
           ]
         },
@@ -2102,31 +2101,12 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-12T00:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "WA news LIVE : Australian Hantavirus cruise ship passengers Perth flight delayed",
-              "url": "https://www.smh.com.au/national/western-australia/wa-news-live-australian-hantavirus-cruise-ship-passengers-perth-flight-delayed-20260512-p5zvvx.html",
-              "language": "English"
-            },
-            {
-              "title": "WA news LIVE : Australian Hantavirus cruise ship passengers Perth flight delayed",
-              "url": "https://www.theage.com.au/national/western-australia/wa-news-live-australian-hantavirus-cruise-ship-passengers-perth-flight-delayed-20260512-p5zvvx.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
           "count": 1,
-          "latest": "2026-05-12T01:15:00Z",
+          "latest": "2026-05-12T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus  contact  case quarantined in Pitcairn after transit in Tahiti – LiveNews . co . nz",
-              "url": "https://livenews.co.nz/2026/05/12/hantavirus-contact-case-quarantined-in-pitcairn-after-transit-in-tahiti/",
+              "title": "Hantavirus cruise ship passengers headed for Australia arrive in Netherlands before Bullsbrook quarantine",
+              "url": "https://www.perthnow.com.au/news/world/hantavirus-cruise-ship-passengers-headed-for-australia-arrive-in-netherlands-before-bullsbrook-quarantine-c-22269626",
               "language": "English"
             }
           ]
@@ -2146,16 +2126,16 @@
           ]
         },
         {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 1,
-          "latest": "2026-05-12T00:00:00Z",
+          "latest": "2026-05-12T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "En medio de la incertidumbre , un equipo del Malbrán viajará a Ushuaia para dar con el origen del brote de hantavirus en el crucero",
-              "url": "https://www.lanacion.com.ar/sociedad/en-medio-de-la-incertidumbre-el-malbran-viajara-a-ushuaia-para-dar-con-el-origen-del-brote-de-nid11052026/",
-              "language": "Spanish"
+              "title": "Hantavirus  contact  case quarantined in Pitcairn after transit in Tahiti – LiveNews . co . nz",
+              "url": "https://livenews.co.nz/2026/05/12/hantavirus-contact-case-quarantined-in-pitcairn-after-transit-in-tahiti/",
+              "language": "English"
             }
           ]
         }
