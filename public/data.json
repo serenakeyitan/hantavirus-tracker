@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T09:06:01.465Z",
+  "generatedAt": "2026-05-12T10:53:28.462Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1971,7 +1971,257 @@
         "undated": 0
       }
     },
-    "gdelt": null
+    "gdelt": {
+      "name": "GDELT Global Knowledge Graph",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "tier": "reported",
+      "timespan": "14d",
+      "totalArticles": 79,
+      "languages": {
+        "Portuguese": 5,
+        "English": 47,
+        "Turkish": 19,
+        "Hungarian": 3,
+        "Russian": 2,
+        "Bulgarian": 3
+      },
+      "countries": [
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 16,
+          "latest": "2026-05-12T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "DSÖ : Hantavirüs yeni bir pandemi başlangıcı değil",
+              "url": "https://www.bursahakimiyet.com.tr/dunya/dso-hantavirus-yeni-bir-pandemi-baslangici-degil-1626482",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs nedir , nasıl bulaşır ? Uzman isimden kritik açıklama",
+              "url": "https://www.ahaber.com.tr/galeri/saglik/hantavirusle-ilgili-bilinmeyenleri-uzman-isim-acikladi",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs pandemiye dönüşür mü ? Prof . Dr . Mehmet Ceyhandan kritik uyarı",
+              "url": "https://www.haber3.com/foto-galeri/saglik/hantavirus-pandemiye-donusur-mu-prof-dr-mehmet-ceyhandan-kritik-uyari-galeri-6254979",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 15,
+          "latest": "2026-05-12T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dutch hospital to quarantine staff amid possible hantavirus risk after failing to follow PPE rules",
+              "url": "https://www.dailyrecord.co.uk/news/uk-world-news/hospital-quarantine-staff-amid-possible-37143327",
+              "language": "English"
+            },
+            {
+              "title": "French woman on cruise ship was told by doctors that hantavirus symptoms were  anxiety  ",
+              "url": "https://www.independent.co.uk/news/world/europe/french-woman-hantavirus-symptoms-anxiety-cruise-ship-outbreak-b2974707.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus : Testing  well under way  for cruise Britons isolating at united kingdom hospital",
+              "url": "https://www.westerntelegraph.co.uk/news/national/26097610.hantavirus-testing-well-way-cruise-britons-isolating-uk-hospital/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 10,
+          "latest": "2026-05-12T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "How Argentina stopped the last hantavirus outbreak",
+              "url": "https://nypost.com/2026/05/12/world-news/how-argentina-stopped-the-last-hantavirus-outbreak/",
+              "language": "English"
+            },
+            {
+              "title": "North Carolina resident aboard cruise ship with hantavirus outbreak , North Carolina health officials say",
+              "url": "https://www.live5news.com/2026/05/11/north-carolina-resident-aboard-cruise-ship-with-hantavirus-outbreak-north-carolina-health-officials-say/",
+              "language": "English"
+            },
+            {
+              "title": "Planes With Hantavirus Cruise Passengers Land in the Netherlands ; Hospital Quarantines 12",
+              "url": "https://gcaptain.com/planes-with-hantavirus-cruise-passengers-land-in-the-netherlands-hospital-quarantines-12/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 10,
+          "latest": "2026-05-12T09:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Bendigo Advertiser",
+              "url": "https://www.bendigoadvertiser.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
+            },
+            {
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Namoi Valley Independent",
+              "url": "https://www.nvi.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
+            },
+            {
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Wellington Times",
+              "url": "https://www.wellingtontimes.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 7,
+          "latest": "2026-05-12T10:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "In the news today : Hantavirus testing , Census surveys due , Habs face Sabres tonight",
+              "url": "https://www.pentictonherald.ca/news/national_news/article_0f048c0c-b319-55e6-94b6-890258308c29.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus testing might not be useful for people without symptoms : experts",
+              "url": "https://www.winnipegsun.com/national-news/hantavirus-testing-might-not-be-useful-for-people-without-symptoms-experts/article_1b28fe0a-fe49-52fa-803d-834ebbff200e.html",
+              "language": "English"
+            },
+            {
+              "title": "In the news today : Hantavirus testing , Census surveys due , Habs face Sabres tonight – Brandon Sun",
+              "url": "https://www.brandonsun.com/national/2026/05/12/in-the-news-today-hantavirus-testing-census-surveys-due-habs-face-sabres-tonight",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 4,
+          "latest": "2026-05-12T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : Sintomas , risco e o que pode acontecer em Portugal",
+              "url": "https://www.noticiasdecoimbra.pt/hantavirus-sintomas-risco-e-o-que-pode-acontecer-em-portugal/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus .  Situao no cruzeiro é excecional  ",
+              "url": "https://observador.pt/programas/explicador/hantavirus-situacao-no-cruzeiro-e-excecional/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "O que é um caso provável de hantavírus , um caso suspeito , um caso confirmado e um contacto ( e ainda uma orientao para Portugal ) ",
+              "url": "https://tvi.iol.pt/noticias/hantavirus-portugal/casos-de-hantavirus/o-que-e-um-caso-provavel-de-hantavirus-um-caso-suspeito-um-caso-confirmado-e-um-contacto-e-ainda-uma-orientacao-para-portugal",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-12T08:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Французойка в критично състояние след зараза с хантавирус - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/francuzoyka-v-kritichno-sastoyanie-sled-zaraza-s-hantavirus-633332.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Приключи евакуацията на круизен кораб с огнище на хантавирус",
+              "url": "https://www.vesti.bg/bulgaria/prikliuchi-evakuaciiata-na-kruizen-korab-s-ognishte-na-hantavirus-6259324",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Два случая на хантавирус в Украйна",
+              "url": "https://www.vesti.bg/sviat/dva-sluchaia-na-hantavirus-v-ukrajna-6259331",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 2,
+          "latest": "2026-05-12T10:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Drámai fordulat : 12 kórházi dolgozó került karanténba hantavírus miatt",
+              "url": "https://divany.hu/testem/hantavirus-karanten-korhat-dolgozo/",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Ezek a részvények lehetnek a hantavírus - járvány nyertesei",
+              "url": "https://www.vg.hu/penz-es-tokepiac/2026/05/hantavirus-reszveny-moderna-memcoin-jarvany",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 2,
+          "latest": "2026-05-12T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dutch hospital quarantines 12 staff over Hantavirus exposure precautions",
+              "url": "https://morungexpress.com/dutch-hospital-quarantines-12-staff-over-hantavirus-exposure-precautions",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus Cruise Ship Outbreak : How Global Health Systems Are Scrambling to Contain the MV Hondius Crisis",
+              "url": "https://openthemagazine.com/world/from-military-hospitals-to-biocontainment-units-how-the-world-is-scrambling-to-contain-hantavirus",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-12T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Что известно о хантавирусе , насколько он известен и какие у него симптомы ? ",
+              "url": "https://www.amic.ru/news/naskolko-opasen-i-zarazen-hantavirus-vspyshka-kotorogo-proizoshla-na-kruiznom-laynere-583661",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 1,
+          "latest": "2026-05-12T08:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs Covid gibi bir salgına dönüşür mü ? ",
+              "url": "https://www.dw.com/tr/hantavir%C3%BCs-covid-gibi-bir-salg%C4%B1na-d%C3%B6n%C3%BC%C5%9F%C3%BCr-m%C3%BC/a-77128423",
+              "language": "Turkish"
+            }
+          ]
+        }
+      ]
+    }
   },
   "blockedSources": [
     {
