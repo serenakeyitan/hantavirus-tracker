@@ -201,13 +201,18 @@ function ChartSurface({ daily, cumulative, datedCounts, className, variant, onEx
         </div>
       </div>
 
-      {/* Chart surface — hover handler on the wrapper so it covers the full
-          visible area, not just the SVG (which can have intrinsic-size quirks). */}
+      {/* Chart surface. In compact mode, the whole area is a click target to
+          expand — no hover interaction (too cramped, and a glance-only chart
+          shouldn't need it). In expanded mode, hover-to-inspect is on. */}
       <div
         ref={wrapperRef}
-        className={"relative mt-1 w-full cursor-crosshair " + heightClass}
-        onMouseMove={onMove}
-        onMouseLeave={() => setHoverIdx(null)}
+        className={
+          "relative mt-1 w-full " +
+          heightClass + " " +
+          (isCompact ? "cursor-zoom-in" : "cursor-crosshair")
+        }
+        onMouseMove={isCompact ? undefined : onMove}
+        onMouseLeave={isCompact ? undefined : () => setHoverIdx(null)}
         onClick={() => isCompact && onExpand?.()}
       >
         <svg viewBox={`0 0 ${W} ${H}`} preserveAspectRatio="none" className="h-full w-full">
