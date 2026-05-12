@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T23:24:33.585Z",
+  "generatedAt": "2026-05-12T00:48:44.565Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1971,7 +1971,210 @@
         "undated": 0
       }
     },
-    "gdelt": null
+    "gdelt": {
+      "name": "GDELT Global Knowledge Graph",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "tier": "reported",
+      "timespan": "14d",
+      "totalArticles": 76,
+      "languages": {
+        "English": 65,
+        "Portuguese": 9,
+        "Spanish": 1,
+        "Turkish": 1
+      },
+      "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 45,
+          "latest": "2026-05-12T00:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus Patients Update : 1 Symptomatic , 1 Asymptomatic",
+              "url": "https://wdov.iheart.com/content/2026-05-11-hantavirus-patients-update-1-symptomatic-1-asymptomatic/",
+              "language": "English"
+            },
+            {
+              "title": "18 passengers possibly exposed to hantavirus quarantine in US",
+              "url": "https://www.wbaltv.com/article/passengers-hantavirus-quarantine-nebraska-georgia/71273686",
+              "language": "English"
+            },
+            {
+              "title": "Why cruise ship passengers with possible hantavirus exposure went to Nebraska",
+              "url": "https://www.interlochenpublicradio.org/2026-05-11/why-cruise-ship-passengers-with-possible-hantavirus-exposure-went-to-nebraska",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 8,
+          "latest": "2026-05-12T00:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Passageiros espanhol evacuado de cruzeiro testa positivo para hantavírus",
+              "url": "https://www.correiobraziliense.com.br/mundo/2026/05/7417190-passageiros-espanhol-evacuado-de-cruzeiro-testa-positivo-para-hantavirus.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Como se pega Hantavírus ? Doença causou morte em MG",
+              "url": "https://www.folhavitoria.com.br/saude/como-se-pega-hantavirus-doenca-causou-morte-em-mg/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Minas Gerais confirma primeira morte por hantavírus em 2026",
+              "url": "https://www.infomoney.com.br/saude/minas-gerais-confirma-primeira-morte-por-hantavirus-em-2026/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 4,
+          "latest": "2026-05-11T23:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "1 person in Peel isolating , being monitored for hantavirus",
+              "url": "https://www.thepeterboroughexaminer.com/news/ontario/peel-region-resident-isolating-being-monitored-for-hantavirus-symptoms-ontario-health-minister-says/article_ad3f2b3c-7fd7-530f-93da-16823d56b255.html",
+              "language": "English"
+            },
+            {
+              "title": "4 Canadians connected to hantavirus cruise ship isolating on Vancouver Island",
+              "url": "https://yukon-news.com/2026/05/11/4-canadians-connected-to-hantavirus-cruise-ship-isolating-on-vancouver-island/",
+              "language": "English"
+            },
+            {
+              "title": "Ontario hantavirus : What you need to know",
+              "url": "https://www.bramptonguardian.com/news/ontario-hantavirus-isolation-peel-grey-bruce/article_e93f4788-f086-536d-bc73-0341120a8b6f.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-05-11T23:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus . DGS emite normas para casos suspeitos",
+              "url": "https://sapo.pt/artigo/hantavirus-dgs-emite-normas-para-casos-suspeitos-6a0260d3fb63fbdb409a0881",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : apesar de risco  muito baixo , DGS publica orientaes para possíveis casos suspeitos",
+              "url": "https://sapo.pt/artigo/hantavirus-apesar-de-risco-muito-baixo-dgs-publica-orientacoes-para-possiveis-casos-suspeitos-6a025bdefb63fbdb4098ebbe",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-05-12T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "En medio de la incertidumbre , un equipo del Malbrán viajará a Ushuaia para dar con el origen del brote de hantavirus en el crucero",
+              "url": "https://www.lanacion.com.ar/sociedad/en-medio-de-la-incertidumbre-el-malbran-viajara-a-ushuaia-para-dar-con-el-origen-del-brote-de-nid11052026/",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-05-11T23:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "French and Spanish hantavirus evacuees test positive as Australians head home",
+              "url": "https://www.sbs.com.au/news/article/french-and-spanish-hantavirus-evacuees-test-positive-as-australians-head-home/8gy92cqxw",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-05-11T23:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus : 12 Radboud hospital workers to quarantine due to slack safety measures",
+              "url": "https://nltimes.nl/2026/05/11/hantavirus-12-radboud-hospital-workers-quarantine-due-slack-safety-measures",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "China",
+          "lat": 35.9,
+          "lng": 104.2,
+          "count": 1,
+          "latest": "2026-05-11T23:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Editorial | Hong Kong is treating hantavirus outbreak with reasonable caution",
+              "url": "https://www.scmp.com/opinion/comment/article/3353166/hong-kong-treating-hantavirus-outbreak-reasonable-caution",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-11T23:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus Alert : Greek Traveler Placed in Isolation After Evacuation - Novinite . com",
+              "url": "https://www.novinite.com/view_news.php?id=238446",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-11T22:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs salgını yaşanan MV Hondius gemisinde tahliyeler bitti",
+              "url": "https://www.ensonhaber.com/hantavirus-salgini-yasanan-mv-hondius-gemisinde-tahliyeler-bitti-h1533766",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-11T22:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "More cases of hantavirus expected , WHO chief warns | World | News",
+              "url": "https://www.express.co.uk/news/world/2204402/more-cases-hantavirus-expected",
+              "language": "English"
+            }
+          ]
+        }
+      ]
+    }
   },
   "blockedSources": [
     {
