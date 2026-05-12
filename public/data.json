@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T15:04:28.224Z",
+  "generatedAt": "2026-05-12T16:49:18.043Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1971,7 +1971,233 @@
         "undated": 0
       }
     },
-    "gdelt": null
+    "gdelt": {
+      "name": "GDELT Global Knowledge Graph",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "tier": "reported",
+      "timespan": "14d",
+      "totalArticles": 85,
+      "languages": {
+        "English": 63,
+        "Portuguese": 13,
+        "Hungarian": 2,
+        "Turkish": 3,
+        "Bulgarian": 3,
+        "Spanish": 1
+      },
+      "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 49,
+          "latest": "2026-05-12T16:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "What You Should Know About Hantavirus In Central Texas",
+              "url": "https://us105fm.com/hantavirus-central-texas-update/",
+              "language": "English"
+            },
+            {
+              "title": "First cruise ship hantavirus genome points to zoonotic spillover",
+              "url": "https://www.bioworld.com/articles/731192-first-cruise-ship-hantavirus-genome-points-to-zoonotic-spillover",
+              "language": "English"
+            },
+            {
+              "title": "Presumível doente zero de hantavírus : o que se sabe",
+              "url": "https://pt.euronews.com/saude/2026/05/12/presumivel-doente-zero-de-hantavirus-o-que-se-sabe",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 10,
+          "latest": "2026-05-12T16:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Italiano é colocado em quarentena após apresentar sintomas de hantavírus em voo ligado à morte de sul - africana",
+              "url": "https://oglobo.globo.com/saude/noticia/2026/05/12/italiano-e-colocado-em-quarentena-apos-apresentar-sintomas-de-hantavirus-em-voo-ligado-a-morte-de-sul-africana.ghtml",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Brasil têm duas mortes confirmadas por hantavírus em 2026 - Países de Língua Portuguesa",
+              "url": "https://ansabrasil.com.br/brasil/noticias/lusofonia/2026/05/12/brasil-tem-duas-mortes-confirmadas-por-hantavirus-em-2026_968445ed-1f7d-4928-8043-d2b17e0a389a.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Italiano em quarentena apresenta sintomas de hantavírus após contato com vítima - Saúde",
+              "url": "https://ansabrasil.com.br/brasil/noticias/saude/2026/05/12/italiano-em-quarentena-apresenta-sintomas-de-hantavirus-apos-contato-com-vitima_b37bccc3-1db0-45e0-8591-6ff331fc5424.html",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 5,
+          "latest": "2026-05-12T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spain reports new hantavirus case in passenger evacuated from cruise ship as outbreak grows to 11",
+              "url": "https://panow.com/2026/05/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship-as-outbreak-grows-to-11/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus testing might not be useful for people without symptoms : Experts",
+              "url": "https://www.ckom.com/2026/05/12/hantavirus-testing-might-not-be-useful-for-people-without-symptoms-experts-2/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus testing might not be useful for people without symptoms : experts",
+              "url": "https://www.niagarafallsreview.ca/news/canada/hantavirus-testing-might-not-be-useful-for-people-without-symptoms-experts/article_c89efd4a-caf0-567c-b2d5-1ba29e573c40.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 3,
+          "latest": "2026-05-12T16:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Fransız hükümetinden  Hantavirüsle mücadelede etkin uluslararası koordinasyon sağlanması  çağrısı",
+              "url": "https://www.bursadabugun.com/haber/fransiz-hukumetinden-hantavirusle-mucadelede-etkin-uluslararasi-koordinasyon-saglanmasi-cagrisi-1921932.html",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ  den MV Hondius açıklaması :  Bu , yeni bir pandemi değil  ",
+              "url": "https://www.saglikaktuel.com/haber/dsoden-mv-hondius-aciklamasi-bu-yeni-bir-pandemi-degil-107394.htm",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hollandada 12 sağlık çalışanı hantavirüs şüphesiyle karantinaya alındı",
+              "url": "https://www.saglikaktuel.com/haber/hollandada-12-saglik-calisani-hantavirus-suphesiyle-karantinaya-alindi-107392.htm",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-12T16:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Нарушение на протокола при хантавирус случай постави 12 холандски медици под карантина",
+              "url": "https://www.novinite.bg/articles/284652/Narushenie-na-protokola-pri-hantavirus-sluchaj-postavi-12-holandski-medici-pod-karantina",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "СЗО : На този етап няма признаци за по - широко разпространение на хантавируса",
+              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/szo-na-tozi-etap-nama-priznaci-za-po-shiroko-razprostranenie-na-hantavirusa",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Нарушение на протокола при хантавирус случай постави 12 холандски медици под карантина",
+              "url": "https://www.novinite.bg/articles/284652/narushenie-na-protokola-pri-hantavirus-sluchay-postavi-12-holandski-medici-pod-karantina",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 3,
+          "latest": "2026-05-12T15:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cruise ship data sheds light on how hantavirus spread",
+              "url": "https://www.express.co.uk/life-style/health/2204688/hantavirus-cruise-ship-data-infection",
+              "language": "English"
+            },
+            {
+              "title": "  Im a doctor and this is what the latest hantavirus cruise ship data means  ",
+              "url": "https://www.dailystar.co.uk/health/im-doctor-what-latest-hantavirus-37144789",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus update : Passengers isolated and tested in the united kingdom ",
+              "url": "https://www.oxfordmail.co.uk/news/26098619.hantavirus-update-passengers-isolated-tested-uk/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 2,
+          "latest": "2026-05-12T16:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : az olasz infektológus szerint nincs ok pánikra , de a holland kórház esete mást mutat",
+              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirusbol-nem-lesz-uj-covid",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Index - Külföld - Figyelmeztetést küldött a WHO a tagállamoknak : fel kell készülni az újabb hantavírusos fertőzöttekre",
+              "url": "https://index.hu/kulfold/2026/05/12/who-hantavirus-hondius-oceanjaro-jarvany-felkeszules/",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 2,
+          "latest": "2026-05-12T15:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dutch hospital quarantines 12 over breach of hantavirus protocol",
+              "url": "https://www.dailymaverick.co.za/article/2026-05-12-dutch-hospital-quarantines-12-over-breach-of-hantavirus-protocol/",
+              "language": "English"
+            },
+            {
+              "title": "No Local Transmission Of Hantavirus In South Africa",
+              "url": "https://health-e.org.za/2026/05/12/no-local-transmission-of-hantavirus-in-south-africa/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-05-12T14:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "En medio de la alerta mundial , el Malbrán viajará a Ushuaia para dar con el origen del brote de hantavirus en el crucero",
+              "url": "http://www.lavoz901.com/noticias/en-medio-de-la-alerta-mundial-el-malbrn-viajar-a-ushuaia-para-dar-con-el-origen-del-brote-de-hantavirus-en-el-crucero.htm",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-05-12T14:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Filipino crew from hantavirus - stricken Hondius begins 42 - day quarantine in Netherlands",
+              "url": "https://nltimes.nl/2026/05/12/filipino-crew-hantavirus-stricken-hondius-begins-42-day-quarantine-netherlands",
+              "language": "English"
+            }
+          ]
+        }
+      ]
+    }
   },
   "blockedSources": [
     {
