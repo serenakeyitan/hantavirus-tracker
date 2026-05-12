@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T19:37:31.262Z",
+  "generatedAt": "2026-05-12T20:38:31.882Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -287,104 +287,13 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_806_se_16_vf.pdf",
-      "bulletinIssue": 806,
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_807_se-17-vf.pdf",
+      "bulletinIssue": 807,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
-      "totalCases": 101,
-      "andesCases": 10,
-      "rows": [
-        {
-          "jurisdiction": "Buenos Aires",
-          "region": "Centro",
-          "lat": -36.6769,
-          "lng": -60.5588,
-          "cases": 42,
-          "ratePer100k": 0.23,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Entre Ríos",
-          "region": "Centro",
-          "lat": -32.0589,
-          "lng": -59.2014,
-          "cases": 5,
-          "ratePer100k": 0.34,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Santa Fe",
-          "region": "Centro",
-          "lat": -30.7069,
-          "lng": -60.9494,
-          "cases": 7,
-          "ratePer100k": 0.19,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Formosa",
-          "region": "NEA",
-          "lat": -25,
-          "lng": -59.5,
-          "cases": 1,
-          "ratePer100k": 0.16,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Jujuy",
-          "region": "NOA",
-          "lat": -23.3,
-          "lng": -65.7,
-          "cases": 6,
-          "ratePer100k": 0.74,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Salta",
-          "region": "NOA",
-          "lat": -24.7859,
-          "lng": -65.4117,
-          "cases": 30,
-          "ratePer100k": 1.98,
-          "isAndesRegion": false,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Chubut",
-          "region": "Sur",
-          "lat": -43.3,
-          "lng": -68.7,
-          "cases": 4,
-          "ratePer100k": 0.59,
-          "isAndesRegion": true,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Neuquén",
-          "region": "Sur",
-          "lat": -38.95,
-          "lng": -69.9,
-          "cases": 1,
-          "ratePer100k": 0.14,
-          "isAndesRegion": true,
-          "seasonLabel": "2025-2026"
-        },
-        {
-          "jurisdiction": "Rio Negro",
-          "region": "Sur",
-          "lat": -40.5,
-          "lng": -67,
-          "cases": 5,
-          "ratePer100k": 0.63,
-          "isAndesRegion": true,
-          "seasonLabel": "2025-2026"
-        }
-      ]
+      "totalCases": null,
+      "andesCases": 0,
+      "rows": []
     },
     "hondius": {
       "name": "MV Hondius case line-list (K. Panozzo, University of Toledo)",
