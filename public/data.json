@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T20:38:31.882Z",
+  "generatedAt": "2026-05-12T21:33:14.477Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1880,7 +1880,212 @@
         "undated": 0
       }
     },
-    "gdelt": null
+    "gdelt": {
+      "name": "GDELT Global Knowledge Graph",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "tier": "reported",
+      "timespan": "14d",
+      "totalArticles": 81,
+      "languages": {
+        "English": 65,
+        "Portuguese": 10,
+        "Hungarian": 4,
+        "Turkish": 2
+      },
+      "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 43,
+          "latest": "2026-05-12T20:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus outbreak origin still a mystery , medical experts address theories",
+              "url": "https://kxly920.com/2026/05/12/hantavirus-outbreak-origin-still-a-mystery-medical-experts-address-theories/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus Cases Continue To Rise As Cruise Passengers Forced To Quarantine",
+              "url": "https://wbhpam.iheart.com/content/2026-05-12-hantavirus-cases-continue-to-rise-as-cruise-passengers-forced-to-quarantine/",
+              "language": "English"
+            },
+            {
+              "title": "3 people in Kansas exposed to hantavirus after encounter with someone on ship",
+              "url": "https://www.wxyz.com/us-news/18-americans-quarantined-after-hantavirus-cruise-ship-outbreak",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 8,
+          "latest": "2026-05-12T19:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus : Ten people from remote islands to come to united kingdom to isolate",
+              "url": "https://www.lynnnews.co.uk/national/hantavirus-ten-people-from-remote-islands-to-come-to-uk-to-isolate-166583/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus : Ten people from remote islands to come to united kingdom to isolate",
+              "url": "https://www.stourbridgenews.co.uk/news/national/26101234.hantavirus-ten-people-remote-islands-come-uk-isolate/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus : Ten people from remote islands to come to united kingdom to isolate",
+              "url": "https://www.surreycomet.co.uk/news/national/26101234.hantavirus-ten-people-remote-islands-come-uk-isolate/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 7,
+          "latest": "2026-05-12T20:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : Ministério e governo de MG descartam caso que tinha sido confirmado",
+              "url": "https://www.jmonline.com.br/geral/hantavirus-ministerio-e-governo-de-mg-descartam-caso-que-tinha-sido-confirmado-1.623606",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Aqui Acontece | OMS descarta indícios de  surto maior  de hantavírus",
+              "url": "https://aquiacontece.com.br/oms-descarta-indicios-de-surto-maior-de-hantavirus/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : Ministério e governo de MG descartam caso que tinha sido confirmado",
+              "url": "https://jmonline.com.br/geral/hantavirus-ministerio-e-governo-de-mg-descartam-caso-que-tinha-sido-confirmado-1.623606",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 6,
+          "latest": "2026-05-12T20:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus vs . COVID - 19 : What British Columbians need to know | Tofino / Ucluelet Westerly News",
+              "url": "https://westerlynews.ca/2026/05/12/hantavirus-vs-covid-19-what-british-columbians-need-to-know/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus vs . COVID - 19 : What British Columbians need to know",
+              "url": "https://northislandgazette.com/2026/05/12/hantavirus-vs-covid-19-what-british-columbians-need-to-know/",
+              "language": "English"
+            },
+            {
+              "title": "Spain reports new hantavirus case in passenger from cruise ship as total cases grow to 11",
+              "url": "https://www.ckom.com/2026/05/12/spain-reports-new-hantavirus-case-in-passenger-from-cruise-ship-as-total-cases-grow-to-11/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 3,
+          "latest": "2026-05-12T20:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Mulher internada em Alicante por suspeita de hantavírus testa negativo",
+              "url": "https://sapo.pt/artigo/mulher-internada-em-alicante-por-suspeita-de-hantavirus-testa-negativo-6a0385d81a6d36bf22e9bfee",
+              "language": "Portuguese"
+            },
+            {
+              "title": "ESTES SINAIS PODEM INDICAR INFEO POR HANTAVÍRUS",
+              "url": "https://www.noticiasdecoimbra.pt/estes-sinais-podem-indicar-infecao-por-hantavirus/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Cinco mentiras sobre o surto de hantavírus que invadiram as redes sociais",
+              "url": "https://sapo.pt/artigo/cinco-mentiras-sobre-o-surto-de-hantavirus-que-invadiram-as-redes-sociais-6a034eabf72d6a1672b600a1",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 3,
+          "latest": "2026-05-12T20:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Európai Gyógyszerügynökség : nincs engedélyezett vakcina vagy gyógyszer a hantavírus ellen",
+              "url": "https://gondola.hu/hirek/europai-gyogyszerugynokseg-hantavirus-vakcina-gyogyszer-fertozes-kockazat-319936",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Katonákat vetettek be a hantavírus miatt – ez az óceánjáró utasainak sorsa",
+              "url": "https://divany.hu/testem/hantavirus-oceanjaro-karanten-katonai-bevetes-utasok-sorsa/",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Itt van a hantavírus Magyarországon - Rusvai Miklós megszólalt",
+              "url": "https://www.blikk.hu/eletmod/egeszseg/hantavirus-magyarorszag/hzhxpe2",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 2,
+          "latest": "2026-05-12T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs için aşı var mı ? Andes hantavirüsü insandan insana bulaşabiliyor mu ? Hantavirüs vakaları sonrası kritik açıklama",
+              "url": "https://www.yenisafak.com/foto-galeri/ozgun/hantavirus-icin-asi-var-mi-andes-hantavirusu-insandan-insana-bulasabiliyor-mu-hantavirus-vakalari-sonrasi-kritik-aciklama-4823415",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ : Hantavirüs yeni bir pandemi başlangıcı değil",
+              "url": "https://www.ogunhaber.com/saglik/dso-hantavirus-yeni-bir-pandemi-baslangici-degil-2999506h.html",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-12T19:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO confirms 11 hantavirus cases linked to cruise ship as Spain detects new case",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/who-confirms-11-hantavirus-cases-linked-to-cruise-ship-as-spain-detects-new-case/articleshow/131047874.cms",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 1,
+          "latest": "2026-05-12T19:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Measures to Prevent the Spread of Hantavirus Following Cruise Ship Outbreak",
+              "url": "https://themunicheye.com/hantavirus-prevention-cruise-ship-outbreak-33647",
+              "language": "English"
+            }
+          ]
+        }
+      ]
+    }
   },
   "blockedSources": [
     {
