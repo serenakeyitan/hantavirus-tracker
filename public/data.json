@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T10:53:28.462Z",
+  "generatedAt": "2026-05-12T11:41:55.634Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1978,59 +1978,35 @@
       "timespan": "14d",
       "totalArticles": 79,
       "languages": {
-        "Portuguese": 5,
-        "English": 47,
+        "English": 50,
         "Turkish": 19,
+        "Portuguese": 4,
         "Hungarian": 3,
         "Russian": 2,
-        "Bulgarian": 3
+        "Bulgarian": 1
       },
       "countries": [
         {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 16,
-          "latest": "2026-05-12T10:30:00Z",
+          "count": 17,
+          "latest": "2026-05-12T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "DSÖ : Hantavirüs yeni bir pandemi başlangıcı değil",
-              "url": "https://www.bursahakimiyet.com.tr/dunya/dso-hantavirus-yeni-bir-pandemi-baslangici-degil-1626482",
+              "title": "DSÖ  den Hantavirüs aklamas",
+              "url": "https://www.star.com.tr/dunya/dsoden-hantavirus-aciklamasi-haber-2015584/",
               "language": "Turkish"
             },
             {
-              "title": "Hantavirüs nedir , nasıl bulaşır ? Uzman isimden kritik açıklama",
-              "url": "https://www.ahaber.com.tr/galeri/saglik/hantavirusle-ilgili-bilinmeyenleri-uzman-isim-acikladi",
+              "title": "İspanya Başbakanı Sanchez : Hantavirüs vakalarının olduğu gemiye yardım yasal ve ahlaki bir sorumluluk",
+              "url": "https://t24.com.tr/dunya/ispanya-basbakani-sanchez-hantavirus-vakalarinin-oldugu-gemiye-yardim-yasal-ve-ahlaki-bir-sorumluluk,1321183",
               "language": "Turkish"
             },
             {
-              "title": "Hantavirüs pandemiye dönüşür mü ? Prof . Dr . Mehmet Ceyhandan kritik uyarı",
-              "url": "https://www.haber3.com/foto-galeri/saglik/hantavirus-pandemiye-donusur-mu-prof-dr-mehmet-ceyhandan-kritik-uyari-galeri-6254979",
+              "title": "DSÖ  den Hantavirüs açıklaması : Büyük bir salgının başlangıcını gördüğümüze dair bir işaret yok",
+              "url": "https://www.trthaber.com/haber/dunya/dsoden-hantavirus-aciklamasi-buyuk-bir-salginin-baslangicini-gordugumuze-dair-bir-isaret-yok-944851.html",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 15,
-          "latest": "2026-05-12T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dutch hospital to quarantine staff amid possible hantavirus risk after failing to follow PPE rules",
-              "url": "https://www.dailyrecord.co.uk/news/uk-world-news/hospital-quarantine-staff-amid-possible-37143327",
-              "language": "English"
-            },
-            {
-              "title": "French woman on cruise ship was told by doctors that hantavirus symptoms were  anxiety  ",
-              "url": "https://www.independent.co.uk/news/world/europe/french-woman-hantavirus-symptoms-anxiety-cruise-ship-outbreak-b2974707.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus : Testing  well under way  for cruise Britons isolating at united kingdom hospital",
-              "url": "https://www.westerntelegraph.co.uk/news/national/26097610.hantavirus-testing-well-way-cruise-britons-isolating-uk-hospital/",
-              "language": "English"
             }
           ]
         },
@@ -2038,46 +2014,46 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 10,
-          "latest": "2026-05-12T10:30:00Z",
+          "count": 16,
+          "latest": "2026-05-12T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "How Argentina stopped the last hantavirus outbreak",
-              "url": "https://nypost.com/2026/05/12/world-news/how-argentina-stopped-the-last-hantavirus-outbreak/",
+              "title": "New York residents monitored for hantavirus after returning from cruise",
+              "url": "https://www.mynbc5.com/article/new-york-residents-aboard-hantavirus-cruise-ship/71277528",
               "language": "English"
             },
             {
-              "title": "North Carolina resident aboard cruise ship with hantavirus outbreak , North Carolina health officials say",
-              "url": "https://www.live5news.com/2026/05/11/north-carolina-resident-aboard-cruise-ship-with-hantavirus-outbreak-north-carolina-health-officials-say/",
+              "title": "How Kansas City health officials are preparing for the World Cup , with hantavirus and heat looming",
+              "url": "https://www.kcur.org/health/2026-05-12/how-kansas-city-health-officials-are-preparing-for-the-world-cup-with-hantavirus-and-heat-looming",
               "language": "English"
             },
             {
-              "title": "Planes With Hantavirus Cruise Passengers Land in the Netherlands ; Hospital Quarantines 12",
-              "url": "https://gcaptain.com/planes-with-hantavirus-cruise-passengers-land-in-the-netherlands-hospital-quarantines-12/",
+              "title": "Deadly Hantavirus Outbreaks Could Rise Without a Hantavirus Vaccine , Experts Warn About Prevention Risks",
+              "url": "http://www.natureworldnews.com/articles/72943/20260511/deadly-hantavirus-outbreaks-could-rise-without-hantavirus-vaccine-experts-warn-about-prevention.htm",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 10,
-          "latest": "2026-05-12T09:45:00Z",
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 16,
+          "latest": "2026-05-12T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Bendigo Advertiser",
-              "url": "https://www.bendigoadvertiser.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "title": "Hantavirus : Some passengers on board cruise were  facing mental breakdown  ",
+              "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26098696.hantavirus-passengers-board-cruise-facing-mental-breakdown/",
               "language": "English"
             },
             {
-              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Namoi Valley Independent",
-              "url": "https://www.nvi.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "title": "Hantavirus : Some passengers on board cruise were  facing mental breakdown  ",
+              "url": "https://www.malverngazette.co.uk/news/national/26098696.hantavirus-passengers-board-cruise-facing-mental-breakdown/",
               "language": "English"
             },
             {
-              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Wellington Times",
-              "url": "https://www.wellingtontimes.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "title": "Hantavirus : Some passengers on board cruise were  facing mental breakdown  ",
+              "url": "https://www.eveningnews24.co.uk/news/national/26098696.hantavirus-passengers-board-cruise-facing-mental-breakdown/",
               "language": "English"
             }
           ]
@@ -2086,9 +2062,14 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 7,
-          "latest": "2026-05-12T10:15:00Z",
+          "count": 8,
+          "latest": "2026-05-12T11:00:00Z",
           "sampleTitles": [
+            {
+              "title": "In the news today : Hantavirus testing , Census surveys due , Habs face Sabres tonight",
+              "url": "https://www.stcatharinesstandard.ca/news/canada/in-the-news-today-hantavirus-testing-census-surveys-due-habs-face-sabres-tonight/article_25dc627e-f312-5ac8-9858-0e327561f9e4.html",
+              "language": "English"
+            },
             {
               "title": "In the news today : Hantavirus testing , Census surveys due , Habs face Sabres tonight",
               "url": "https://www.pentictonherald.ca/news/national_news/article_0f048c0c-b319-55e6-94b6-890258308c29.html",
@@ -2098,11 +2079,6 @@
               "title": "Hantavirus testing might not be useful for people without symptoms : experts",
               "url": "https://www.winnipegsun.com/national-news/hantavirus-testing-might-not-be-useful-for-people-without-symptoms-experts/article_1b28fe0a-fe49-52fa-803d-834ebbff200e.html",
               "language": "English"
-            },
-            {
-              "title": "In the news today : Hantavirus testing , Census surveys due , Habs face Sabres tonight – Brandon Sun",
-              "url": "https://www.brandonsun.com/national/2026/05/12/in-the-news-today-hantavirus-testing-census-surveys-due-habs-face-sabres-tonight",
-              "language": "English"
             }
           ]
         },
@@ -2110,7 +2086,7 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-12T10:00:00Z",
           "sampleTitles": [
             {
@@ -2131,26 +2107,26 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 3,
-          "latest": "2026-05-12T08:30:00Z",
+          "latest": "2026-05-12T09:45:00Z",
           "sampleTitles": [
             {
-              "title": "Французойка в критично състояние след зараза с хантавирус - Свят Новини Стандарт",
-              "url": "https://www.standartnews.com/svyat/francuzoyka-v-kritichno-sastoyanie-sled-zaraza-s-hantavirus-633332.html",
-              "language": "Bulgarian"
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Bendigo Advertiser",
+              "url": "https://www.bendigoadvertiser.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
             },
             {
-              "title": "Приключи евакуацията на круизен кораб с огнище на хантавирус",
-              "url": "https://www.vesti.bg/bulgaria/prikliuchi-evakuaciiata-na-kruizen-korab-s-ognishte-na-hantavirus-6259324",
-              "language": "Bulgarian"
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Namoi Valley Independent",
+              "url": "https://www.nvi.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
             },
             {
-              "title": "Два случая на хантавирус в Украйна",
-              "url": "https://www.vesti.bg/sviat/dva-sluchaia-na-hantavirus-v-ukrajna-6259331",
-              "language": "Bulgarian"
+              "title": "MV Hondius : Hantavirus passengers face strict Australian quarantine | Wellington Times",
+              "url": "https://www.wellingtontimes.com.au/story/9244894/mv-hondius-hantavirus-passengers-face-strict-australian-quarantine/",
+              "language": "English"
             }
           ]
         },
@@ -2207,16 +2183,16 @@
           ]
         },
         {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 1,
-          "latest": "2026-05-12T08:15:00Z",
+          "latest": "2026-05-12T08:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs Covid gibi bir salgına dönüşür mü ? ",
-              "url": "https://www.dw.com/tr/hantavir%C3%BCs-covid-gibi-bir-salg%C4%B1na-d%C3%B6n%C3%BC%C5%9F%C3%BCr-m%C3%BC/a-77128423",
-              "language": "Turkish"
+              "title": "Французойка в критично състояние след зараза с хантавирус - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/francuzoyka-v-kritichno-sastoyanie-sled-zaraza-s-hantavirus-633332.html",
+              "language": "Bulgarian"
             }
           ]
         }
