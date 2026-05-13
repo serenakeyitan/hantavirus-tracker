@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T10:56:21.910Z",
+  "generatedAt": "2026-05-13T11:47:45.173Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,36 +1976,37 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 84,
+      "totalArticles": 85,
       "languages": {
-        "English": 70,
+        "English": 66,
+        "Hungarian": 2,
         "Bulgarian": 3,
-        "Turkish": 8,
-        "Chinese": 1,
+        "Turkish": 7,
         "Russian": 1,
-        "Hungarian": 1
+        "Portuguese": 4,
+        "Croatian": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-05-13T08:45:00Z",
+          "count": 44,
+          "latest": "2026-05-13T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "French hantavirus patient is critically ill as outbreak grows to 11",
-              "url": "https://www.waer.org/2026-05-13/french-hantavirus-patient-is-critically-ill-as-outbreak-grows-to-11",
+              "title": "Hantavirus in Minnesota : Officials monitor person who might have been exposed",
+              "url": "https://www.fox5dc.com/news/hantavirus-minnesota-officials-monitor-person-who-might-have-been-exposed-may-12-2026",
               "language": "English"
             },
             {
-              "title": "French hantavirus patient is critically ill as outbreak grows to 11",
-              "url": "https://www.wkms.org/npr-news/2026-05-13/french-hantavirus-patient-is-critically-ill-as-outbreak-grows-to-11",
+              "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+              "url": "https://www.wbir.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
               "language": "English"
             },
             {
-              "title": "French hantavirus patient is critically ill as outbreak grows to 11",
-              "url": "https://www.knau.org/npr-news/2026-05-13/french-hantavirus-patient-is-critically-ill-as-outbreak-grows-to-11",
+              "title": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises",
+              "url": "https://www.hngnews.com/nation_world/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/article_24f8314c-407e-538f-a88f-b00ef218aa8b.html",
               "language": "English"
             }
           ]
@@ -2014,23 +2015,23 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 7,
-          "latest": "2026-05-13T08:15:00Z",
+          "count": 9,
+          "latest": "2026-05-13T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs ABD merkezli aşı şirketinin hisselerini yükseltti",
-              "url": "https://www.ensonhaber.com/hantavirus-abd-merkezli-asi-sirketinin-hisselerini-yukseltti-h1534076",
+              "title": "Hantavirüsün genetik haritası ortaya çıktı : Mutasyon hakkında neler biliyoruz ? ",
+              "url": "https://www.turkiyegazetesi.com.tr/dunya/hantavirusun-genetik-haritasi-ortaya-cikti-mutasyon-hakkinda-neler-biliyoruz-1790276",
               "language": "Turkish"
             },
             {
-              "title": "Ruhi Çenetin Hantavirüs test sonuçları belli oldu - Antalya Haber , Son Dakika Antalya Haberleri",
-              "url": "https://www.yenialanya.com/ruhi-cenetin-hantavirus-test-sonuclari-belli-oldu",
-              "language": "Turkish"
+              "title": "France places hantavirus contacts under quarantine in Paris after repatriation",
+              "url": "https://aa.com.tr/en/europe/france-places-hantavirus-contacts-under-quarantine-in-paris-after-repatriation/3935808",
+              "language": "English"
             },
             {
-              "title": "DSÖ  den hantavirüs uyarısı ! Ülkelere çağrı",
-              "url": "https://www.haber7.com/saglik/haber/3627441-dsoden-hantavirus-uyarisi-ulkelere-cagri",
-              "language": "Turkish"
+              "title": "French hantavirus patient critically ill as outbreak grows to 11",
+              "url": "https://www.hurriyetdailynews.com/french-hantavirus-patient-critically-ill-as-outbreak-grows-to-11-222097",
+              "language": "English"
             }
           ]
         },
@@ -2039,93 +2040,21 @@
           "lat": 54,
           "lng": -2.4,
           "count": 6,
-          "latest": "2026-05-13T08:45:00Z",
+          "latest": "2026-05-13T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.heraldseries.co.uk/news/national/uk-today/26101637.hantavirus-symptoms-spreads-ukhsa-issues-update/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.halsteadgazette.co.uk/news/national/uk-today/26101637.hantavirus-symptoms-spreads-ukhsa-issues-update/",
+              "title": "Hantavirus : Ten Britons from remote islands coming to Wirral",
+              "url": "https://www.wirralglobe.co.uk/news/26101762.hantavirus-ten-britons-remote-islands-coming-wirral/",
               "language": "English"
             },
             {
               "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.witneygazette.co.uk/news/national/uk-today/26101637.hantavirus-symptoms-spreads-ukhsa-issues-update/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "China",
-          "lat": 35.9,
-          "lng": 104.2,
-          "count": 5,
-          "latest": "2026-05-13T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "郵輪爆發漢他病毒與諾如病毒 ： MV Hondius號3死 ， 加勒比公主號逾百人感染",
-              "url": "https://www.singtaousa.com/2026/05/12/news/world/2026-cruise-ship-outbreaks-hantavirus-mv-hondius-vs-norovirus-symptoms-safety-guide/",
-              "language": "Chinese"
-            },
-            {
-              "title": "WHO says more hantavirus cases may emerge in coming weeks after Spain - led cruise evacuation",
-              "url": "http://en.people.cn/n3/2026/0513/c90000-20455685.html",
+              "url": "https://www.countytimes.co.uk/news/26102087.hantavirus-symptoms-spreads-ukhsa-issues-update/",
               "language": "English"
             },
             {
-              "title": "WHO says more hantavirus cases may emerge in coming weeks after Spain - led cruise evacuation",
-              "url": "https://en.people.cn/n3/2026/0513/c90000-20455685.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-13T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Хантавирус отдавна има в България , какви са симптомите ? ",
-              "url": "https://www.dnes.bg/a/5-zdrave/721174-hantavirus-otdavna-ima-v-balgariya-kakvi-sa-simptomite",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Французойка с хантавирус е в критично състояние , на белодробен апарат е",
-              "url": "https://www.dnes.bg/a/2-svyat/721171-frantsuzoyka-s-hantavirus-e-v-kritichno-sastoyanie-na-belodroben-aparat-e",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Пациент с хантавирус във Франция е в критично състояние , заразените набъбнаха до 11",
-              "url": "https://www.actualno.com/europe/pacient-s-hantavirus-vyv-francija-e-v-kritichno-systojanie-zarazenite-nabybnaha-do-11-news_2593426.html",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-05-13T07:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus outbreak misinformation : How cruise ship outbreak is recalling COVID era",
-              "url": "https://www.theage.com.au/world/north-america/the-hantavirus-outbreak-is-resurrecting-covid-era-misinformation-tactics-20260513-p5zwdk.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak misinformation : How cruise ship outbreak is recalling COVID era",
-              "url": "https://www.smh.com.au/world/north-america/the-hantavirus-outbreak-is-resurrecting-covid-era-misinformation-tactics-20260513-p5zwdk.html",
-              "language": "English"
-            },
-            {
-              "title": "Aussie passengers on deadly hantavirus cruise ship stuck in Netherlands as authorities struggle to find plane",
-              "url": "https://www.perthnow.com.au/wa/aussie-passengers-on-deadly-hantavirus-cruise-ship-stuck-in-netherlands-as-authorities-struggle-to-find-plane-c-22277158",
+              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
+              "url": "https://www.andoveradvertiser.co.uk/news/26101851.hantavirus-symptoms-spreads-ukhsa-issues-update/",
               "language": "English"
             }
           ]
@@ -2134,18 +2063,47 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 2,
-          "latest": "2026-05-13T06:00:00Z",
+          "count": 5,
+          "latest": "2026-05-13T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "health matters newsletter : Hantavirus Ahoy ! ",
-              "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-hantavirus-ahoy/article70968980.ece",
+              "title": "Spain reports fresh case of Hantavirus , total reaches 11 - News Today",
+              "url": "https://newstodaynet.com/2026/05/13/spain-reports-fresh-case-of-hantavirus-total-reaches-11/",
               "language": "English"
             },
             {
-              "title": "French hantavirus patient is critically ill , on an artificial lung as total cases grow to 11",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
+              "title": "Could cruise ship passengers sue over the hantavirus outbreak ? ",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/could-cruise-ship-passengers-sue-over-the-hantavirus-outbreak/articleshow/131062133.cms",
               "language": "English"
+            },
+            {
+              "title": "12 Quarantined After Hantavirus Protocol Breach at Dutch Hospital",
+              "url": "https://www.deccanchronicle.com/world/hantavirus-protocol-breach-at-dutch-hospital-as-medics-race-to-curb-spread-1956444",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 4,
+          "latest": "2026-05-13T11:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Потенциален случай на хантавирус в Илинойс , болният не е бил на круизния кораб",
+              "url": "https://www.dnes.bg/a/2-svyat/721172-potentsialen-sluchay-na-hantavirus-v-ilinoys-bolniyat-ne-e-bil-na-kruizniya-korab",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "How Dangerous Is the Hantavirus in Bulgaria and What Do Experts Reveal About Its History ? - Novinite . com",
+              "url": "https://www.novinite.com/articles/238488/How+Dangerous+Is+the+Hantavirus+in+Bulgaria+and+What+Do+Experts+Reveal+About+Its+History",
+              "language": "English"
+            },
+            {
+              "title": "Заразените с хантавирус вече са 11 : Французойка е в критично съст ... ",
+              "url": "https://frognews.bg/novini/zarazenite-hantavirus-veche-11-frantsuzoika-kritichno-sastoianie.html",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2153,55 +2111,37 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-13T08:45:00Z",
+          "count": 2,
+          "latest": "2026-05-13T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "What we know about hantavirus now that people linked to outbreak are back in Canada – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada",
+              "title": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/13/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises",
+              "language": "English"
+            },
+            {
+              "title": "What we know about hantavirus now that people linked to outbreak are back in Canada",
+              "url": "https://www.pentictonherald.ca/life/national_life/article_64047a6e-9142-533c-b207-114ba4a775a1.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "South Korea",
-          "lat": 35.9,
-          "lng": 127.8,
-          "count": 1,
-          "latest": "2026-05-13T07:30:00Z",
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-05-13T10:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus , first discovered in Korea in 1950s : What to know",
-              "url": "https://www.koreatimes.co.kr/southkorea/health/20260513/hantavirus-first-discovered-in-korea-in-1950s-what-to-know",
+              "title": "Aussies evacuated from hantavirus cruise ship hit snag in repatriation journey",
+              "url": "https://www.brisbanetimes.com.au/national/aussies-evacuated-from-hantavirus-cruise-ship-hit-snag-in-repatriation-journey-20260513-p5zwlq.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-13T07:30:00Z",
-          "sampleTitles": [
+            },
             {
-              "title": "Kiwi onboard hantavirus - hit cruise ship doesnt usually live in New Zealand – LiveNews . co . nz",
-              "url": "https://livenews.co.nz/2026/05/13/kiwi-onboard-hantavirus-hit-cruise-ship-doesnt-usually-live-in-new-zealand/",
+              "title": "Aussies evacuated from hantavirus cruise ship hit snag in repatriation journey",
+              "url": "https://www.theage.com.au/national/aussies-evacuated-from-hantavirus-cruise-ship-hit-snag-in-repatriation-journey-20260513-p5zwlq.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-13T06:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Роспотребнадзор усилил контроль на границах из - за хантавируса",
-              "url": "https://www.tatar-inform.ru/news/rospotrebnadzor-usilil-kontrol-na-granicax-iz-za-xantavirusa-6027118",
-              "language": "Russian"
             }
           ]
         },
@@ -2210,26 +2150,54 @@
           "lat": 47.2,
           "lng": 19.5,
           "count": 1,
-          "latest": "2026-05-13T06:30:00Z",
+          "latest": "2026-05-13T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus : a COVID - vakcina mellékhatása ? ",
-              "url": "https://www.borsonline.hu/betegseg/2026/05/hantavirus-covid-vakcina-mellekhatasa",
+              "title": "A hantavírus lehet az új COVID ? Rusvai Miklós tiszta vizet öntött a pohárba , kell - e újabb járványtól tartani Magyarországon",
+              "url": "https://www.penzcentrum.hu/egeszseg/20260513/a-hantavirus-lehet-az-uj-covid-rusvai-miklos-tiszta-vizet-ontott-a-poharba-kell-e-ujabb-jarvanytol-tartani-magyarorszagon-1198583",
               "language": "Hungarian"
             }
           ]
         },
         {
-          "country": "Israel",
-          "lat": 31,
-          "lng": 34.85,
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
           "count": 1,
-          "latest": "2026-05-13T06:30:00Z",
+          "latest": "2026-05-13T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "Expert warns : Cruise ship hantavirus outbreak may pose wider threat",
-              "url": "https://www.israelnationalnews.com/flashes/685372",
-              "language": "English"
+              "title": "Хантавирус : что это за болезнь , как передается , симптомы у человека , лечение и профилактика",
+              "url": "https://ria.ru/20260513/khantavirus-2090666483.html",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-13T09:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "  Um estigma que preocupa : cidade argentina de Ushuaia tenta dissociar sua imagem do hantavírus",
+              "url": "https://gauchazh.clicrbs.com.br/mundo/noticia/2026/05/ushuaia-cidade-argentina-do-fim-do-mundo-tenta-dissociar-sua-imagem-do-hantavirus-cmp2polcb00jn016d2wiy3gd6.html",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-13T09:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Itália investiga dois casos suspeitos de hantavírus , turista britânico em quarentena | Saúde",
+              "url": "https://www.publico.pt/2026/05/13/mundo/noticia/italia-investiga-dois-casos-suspeitos-hantavirus-turista-britanico-colocado-quarentena-2174501",
+              "language": "Portuguese"
             }
           ]
         }
