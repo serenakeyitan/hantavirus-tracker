@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T20:38:38.080Z",
+  "generatedAt": "2026-05-13T21:35:30.724Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 58,
+      "totalArticles": 53,
       "languages": {
+        "English": 44,
+        "Hungarian": 1,
         "Turkish": 3,
-        "English": 48,
         "Russian": 2,
-        "Bulgarian": 2,
-        "Portuguese": 2,
-        "Spanish": 1
+        "Bulgarian": 1,
+        "Portuguese": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 46,
-          "latest": "2026-05-13T20:15:00Z",
+          "count": 40,
+          "latest": "2026-05-13T21:15:00Z",
           "sampleTitles": [
             {
               "title": "Why experts say hantavirus isnt  COVID - 19 : The Sequel  ",
-              "url": "https://www.wlwt.com/article/hantavirus-isnt-covid-19-pandemic/71296587",
+              "url": "https://www.wdsu.com/article/hantavirus-isnt-covid-19-pandemic/71296587",
               "language": "English"
             },
             {
-              "title": "Pope Leo XIV thanks Canary Islanders after hantavirus cruise ship outbreak",
-              "url": "http://thedialog.org/vatican-news/pope-leo-xiv-thanks-canary-islanders-after-hantavirus-cruise-ship-outbreak/",
+              "title": "  High - risk exposure : Kansas health leaders confirm 3 people exposed to hantavirus",
+              "url": "https://www.kold.com/2026/05/13/high-risk-exposure-kansas-health-leaders-confirm-3-people-exposed-hantavirus/",
               "language": "English"
             },
             {
-              "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-              "url": "https://talk1200boston.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+              "title": "What we know about hantavirus in western Washington",
+              "url": "https://www.king5.com/article/news/health/hantavirus-western-washington-contact-tracing-symptoms/281-3624ca38-5e34-422c-9ac5-7db0e4e6f0bc",
               "language": "English"
             }
           ]
@@ -2090,25 +2090,6 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 2,
-          "latest": "2026-05-13T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Хантавирус пламна на нов круизен кораб , има смъртен случай",
-              "url": "https://www.burgasinfo.com/news/view/5/151289",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "След хантавируса : Нова епидемия блокира британски круизен кораб във Франция",
-              "url": "https://www.focus-news.net/novini/mejdunarodni/Sled-hantavirusa-Nova-epidemiya-blokira-britanski-kruizen-korab-vuv-Franciya-2965388",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2128,6 +2109,34 @@
           ]
         },
         {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 1,
+          "latest": "2026-05-13T21:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "The hantavirus outbreak is resurrecting Covid - era misinformation tactics",
+              "url": "https://www.nzherald.co.nz/world/the-hantavirus-outbreak-is-resurrecting-covid-era-misinformation-tactics/premium/NCKAIGB6XFHRXLWSXOD6WANCAU/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-13T20:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Üzent Szlávik János : senki se mondja le a nyaralását a hantavírus miatt",
+              "url": "https://www.portfolio.hu/gazdasag/20260513/uzent-szlavik-janos-senki-se-mondja-le-a-nyaralasat-a-hantavirus-miatt-836634",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
           "country": "Russia",
           "lat": 61.5,
           "lng": 105.3,
@@ -2138,6 +2147,20 @@
               "title": "Почему вспышка хантавируса на лайнере вызвала мировую тревогу",
               "url": "https://pronedra.ru/hantavirus-redkaya-infekcziya-s-vysokim-riskom-pochemu-vspyshka-na-lajnere-mv-hondius-vyzvala-trevogu-v-mire-817762.html",
               "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-13T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Хантавирус пламна на нов круизен кораб , има смъртен случай",
+              "url": "https://www.burgasinfo.com/news/view/5/151289",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2166,20 +2189,6 @@
               "title": "More cases of hantavirus coming WHO chief",
               "url": "http://www.brazilsun.com/news/279048062/more-cases-of-hantavirus-coming-who-chief",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Mexico",
-          "lat": 23.6,
-          "lng": -102.5,
-          "count": 1,
-          "latest": "2026-05-13T14:15:00Z",
-          "sampleTitles": [
-            {
-              "title": " ¿ En México hay casos de hantavirus en humanos tras brote reportado en crucero ? Esto sabemos",
-              "url": "https://invdes.com.mx/salud/en-mexico-hay-casos-de-hantavirus-en-humanos-tras-brote-reportado-en-crucero-esto-sabemos/",
-              "language": "Spanish"
             }
           ]
         }
