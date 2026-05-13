@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T17:46:10.860Z",
+  "generatedAt": "2026-05-13T18:46:12.750Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,11 +1976,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 58,
+      "totalArticles": 57,
       "languages": {
         "English": 47,
         "Russian": 1,
-        "Portuguese": 3,
+        "Portuguese": 2,
         "Turkish": 4,
         "Spanish": 1,
         "Bulgarian": 1,
@@ -1992,21 +1992,21 @@
           "lat": 39,
           "lng": -98,
           "count": 43,
-          "latest": "2026-05-13T17:15:00Z",
+          "latest": "2026-05-13T17:45:00Z",
           "sampleTitles": [
             {
               "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-              "url": "https://wlac.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+              "url": "https://wvoc.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             },
             {
-              "title": "Dont worry about hantavirus ! ( Wait , should we worry about hantavirus ?) – Daily News",
-              "url": "https://www.dailynews.com/2026/05/13/dont-worry-about-hantavirus-wait-should-we-worry-about-hantavirus/",
+              "title": "Possible hantavirus case not linked to MV Hondius ship investigated in Illinois",
+              "url": "https://www.wjbc.com/2026/05/13/possible-hantavirus-case-not-linked-to-mv-hondius-ship-investigated-in-illinois/",
               "language": "English"
             },
             {
-              "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-              "url": "https://800wvhu.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+              "title": "Jon Stewart mocks cable new hantavirus frenzy",
+              "url": "https://www.themarysue.com/jon-stewart-dons-a-hazmat-suit-to-mock-cable-news-hantavirus-frenzy-then-drops-the-one-question-they-refused-to-answer/",
               "language": "English"
             }
           ]
@@ -2055,21 +2055,30 @@
           ]
         },
         {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-05-13T17:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Russia takes hantavirus precautions",
+              "url": "http://www.argentinastar.com/news/279048577/russia-takes-hantavirus-precautions",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-13T15:30:00Z",
           "sampleTitles": [
             {
               "title": "More cases of hantavirus coming WHO chief",
               "url": "http://www.brazilsun.com/news/279048062/more-cases-of-hantavirus-coming-who-chief",
               "language": "English"
-            },
-            {
-              "title": "Testes de hantavírus deram negativo em pacientes suspeitos na Itália e na Espanha",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/13/testes-de-hantavirus-deram-negativo-em-pacientes-suspeitos-na-italia-e-na-espanha.ghtml",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2111,20 +2120,6 @@
             {
               "title": "Australians evacuated from hantavirus cruise ship stranded in Netherlands amid flight refuelling delays",
               "url": "https://www.perthnow.com.au/news/australians-evacuated-from-hantavirus-cruise-ship-stranded-in-netherlands-amid-flight-refuelling-delays-c-22280804",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-13T13:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.northwalespioneer.co.uk/news/26103512.hantavirus-symptoms-spreads-ukhsa-issues-update/",
               "language": "English"
             }
           ]
