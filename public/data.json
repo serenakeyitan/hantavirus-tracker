@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T19:37:21.279Z",
+  "generatedAt": "2026-05-13T20:38:38.080Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 58,
       "languages": {
-        "English": 49,
+        "Turkish": 3,
+        "English": 48,
+        "Russian": 2,
         "Bulgarian": 2,
-        "Turkish": 4,
-        "Russian": 1,
         "Portuguese": 2,
         "Spanish": 1
       },
@@ -2045,22 +2045,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 45,
-          "latest": "2026-05-13T19:00:00Z",
+          "count": 46,
+          "latest": "2026-05-13T20:15:00Z",
           "sampleTitles": [
             {
+              "title": "Why experts say hantavirus isnt  COVID - 19 : The Sequel  ",
+              "url": "https://www.wlwt.com/article/hantavirus-isnt-covid-19-pandemic/71296587",
+              "language": "English"
+            },
+            {
+              "title": "Pope Leo XIV thanks Canary Islanders after hantavirus cruise ship outbreak",
+              "url": "http://thedialog.org/vatican-news/pope-leo-xiv-thanks-canary-islanders-after-hantavirus-cruise-ship-outbreak/",
+              "language": "English"
+            },
+            {
               "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-              "url": "https://1190talkradio.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
-              "language": "English"
-            },
-            {
-              "title": "The unexpected everyday places YOU could be exposed to hantavirus",
-              "url": "https://www.dailymail.com/health/article-15815347/unexpected-places-exposed-hantavirus-cruise.html",
-              "language": "English"
-            },
-            {
-              "title": "Dont worry about hantavirus ! ( Wait , should we worry about hantavirus ?) – Daily Breeze",
-              "url": "https://www.dailybreeze.com/2026/05/13/dont-worry-about-hantavirus-wait-should-we-worry-about-hantavirus/",
+              "url": "https://talk1200boston.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             }
           ]
@@ -2069,9 +2069,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
-          "latest": "2026-05-13T18:30:00Z",
+          "count": 3,
+          "latest": "2026-05-13T20:15:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor",
+              "url": "https://www.haberler.com/guncel/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendiriyor-19843210-haberi/",
+              "language": "Turkish"
+            },
             {
               "title": "EMAdan korkutan hantavirüs açıklaması : Onaylı tedavi ve aşı yok",
               "url": "https://www.haberler.com/haberler/emadan-korkutan-hantavirus-aciklamasi-onayli-19843004-haberi/",
@@ -2080,11 +2085,6 @@
             {
               "title": "Hantavirüsten sonra şimdi de Norovirüs ! 1700  den fazla kişi karantinada",
               "url": "https://www.f5haber.com/dunya/hantavirusten-sonra-simdi-de-norovirus-1700den-fazla-kisi-karantinada-6919545",
-              "language": "Turkish"
-            },
-            {
-              "title": "Avrupa İlaç Ajansı : Hantavirüs için onaylı tedavi ve aşı yok",
-              "url": "https://medimagazin.com.tr/guncel/avrupa-ilac-ajansi-hantavirus-icin-onayli-tedavi-ve-asi-yok-120334",
               "language": "Turkish"
             }
           ]
@@ -2128,6 +2128,20 @@
           ]
         },
         {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-13T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Почему вспышка хантавируса на лайнере вызвала мировую тревогу",
+              "url": "https://pronedra.ru/hantavirus-redkaya-infekcziya-s-vysokim-riskom-pochemu-vspyshka-na-lajnere-mv-hondius-vyzvala-trevogu-v-mire-817762.html",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
           "country": "Argentina",
           "lat": -38.4,
           "lng": -63.6,
@@ -2166,20 +2180,6 @@
               "title": " ¿ En México hay casos de hantavirus en humanos tras brote reportado en crucero ? Esto sabemos",
               "url": "https://invdes.com.mx/salud/en-mexico-hay-casos-de-hantavirus-en-humanos-tras-brote-reportado-en-crucero-esto-sabemos/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-13T14:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australians evacuated from hantavirus cruise ship stranded in Netherlands amid flight refuelling delays",
-              "url": "https://www.perthnow.com.au/news/australians-evacuated-from-hantavirus-cruise-ship-stranded-in-netherlands-amid-flight-refuelling-delays-c-22280804",
-              "language": "English"
             }
           ]
         }
