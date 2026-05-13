@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T15:08:03.025Z",
+  "generatedAt": "2026-05-13T16:54:14.558Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,36 +1976,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 60,
+      "totalArticles": 56,
       "languages": {
-        "English": 48,
+        "English": 46,
+        "Portuguese": 3,
+        "Turkish": 4,
         "Spanish": 1,
-        "Bulgarian": 2,
-        "Turkish": 5,
-        "Lithuanian": 2,
-        "Portuguese": 2
+        "Bulgarian": 1,
+        "Lithuanian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 37,
-          "latest": "2026-05-13T14:30:00Z",
+          "count": 42,
+          "latest": "2026-05-13T16:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus outbreak origin still a mystery , medical experts address theories",
-              "url": "https://abc7news.com/post/hantavirus-outbreaks-unknown-origins-addressed-medical-experts/19092361/",
+              "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+              "url": "https://kmod.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             },
             {
-              "title": "French Passenger Critical in Cruise Ship Hantavirus Outbreak",
-              "url": "https://www.wcvb.com/article/hantavirus-cruise-ship-outbreak-french-passenger-critically-ill/71290637",
+              "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+              "url": "https://kfab.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             },
             {
-              "title": "US health officials investigating possible hantavirus case not linked to cruise ship outbreak",
-              "url": "https://www.kbtx.com/2026/05/13/us-health-officials-investigating-possible-hantavirus-case-not-linked-cruise-ship-outbreak/",
+              "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+              "url": "https://newsradio710.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             }
           ]
@@ -2014,9 +2014,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 5,
-          "latest": "2026-05-13T14:00:00Z",
+          "count": 4,
+          "latest": "2026-05-13T16:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirüsten sonra şimdi de Norovirüs ! 1700  den fazla kişi karantinada",
+              "url": "https://www.f5haber.com/dunya/hantavirusten-sonra-simdi-de-norovirus-1700den-fazla-kisi-karantinada-6919545",
+              "language": "Turkish"
+            },
             {
               "title": "Avrupa İlaç Ajansı : Hantavirüs için onaylı tedavi ve aşı yok",
               "url": "https://medimagazin.com.tr/guncel/avrupa-ilac-ajansi-hantavirus-icin-onayli-tedavi-ve-asi-yok-120334",
@@ -2026,30 +2031,25 @@
               "title": "İngiltere , hantavirüs salgınıyla bağlantılı 10 vatandaşını önleyici karantina kapsamında ülkeye getirecek",
               "url": "https://medimagazin.com.tr/guncel/ingiltere-hantavirus-salginiyla-baglantili-10-vatandasini-onleyici-karantina-kapsaminda-ulkeye-getirecek-120339",
               "language": "Turkish"
-            },
-            {
-              "title": "DSÖ : Ülkeler yeni hantavirüs vakalarına karşı hazırlıklı olmalı",
-              "url": "https://medimagazin.com.tr/guncel/dso-ulkeler-yeni-hantavirus-vakalarina-karsi-hazirlikli-olmali-120335",
-              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
           "count": 2,
-          "latest": "2026-05-13T14:15:00Z",
+          "latest": "2026-05-13T16:15:00Z",
           "sampleTitles": [
             {
-              "title": "След хантавируса : Нова епидемия блокира британски круизен кораб във Франция",
-              "url": "https://www.focus-news.net/novini/mejdunarodni/Sled-hantavirusa-Nova-epidemiya-blokira-britanski-kruizen-korab-vuv-Franciya-2965388",
-              "language": "Bulgarian"
+              "title": "Centro europeu sem razões para suspeitar que se trata de nova estirpe do hantavírus",
+              "url": "https://www.dnoticias.pt/2026/5/13/491844-centro-europeu-sem-razoes-para-suspeitar-que-se-trata-de-nova-estirpe-do-hantavirus/",
+              "language": "Portuguese"
             },
             {
-              "title": "Хантавирусът в България - хеморагична треска с бъбречен синдром",
-              "url": "https://www.cross.bg/prof-bulgariya-kantardzhiev-1796817.html",
-              "language": "Bulgarian"
+              "title": "Hantavírus . Não há razões para suspeitar que se trata de nova estirpe",
+              "url": "https://sapo.pt/artigo/hantavirus-nao-ha-razoes-para-suspeitar-que-se-trata-de-nova-estirpe-6a048b7d1a6d36bf2217effc",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2058,74 +2058,17 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 2,
-          "latest": "2026-05-13T14:00:00Z",
+          "latest": "2026-05-13T15:30:00Z",
           "sampleTitles": [
+            {
+              "title": "More cases of hantavirus coming WHO chief",
+              "url": "http://www.brazilsun.com/news/279048062/more-cases-of-hantavirus-coming-who-chief",
+              "language": "English"
+            },
             {
               "title": "Testes de hantavírus deram negativo em pacientes suspeitos na Itália e na Espanha",
               "url": "https://g1.globo.com/saude/noticia/2026/05/13/testes-de-hantavirus-deram-negativo-em-pacientes-suspeitos-na-italia-e-na-espanha.ghtml",
               "language": "Portuguese"
-            },
-            {
-              "title": "França relata 22 hospitalizados após hantavírus em cruzeiro",
-              "url": "https://www.gazetadopovo.com.br/mundo/franca-confirma-hospitalizacao-pessoas-contato-holandesa-morreu-hantavirus/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-13T13:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.northwalespioneer.co.uk/news/26103512.hantavirus-symptoms-spreads-ukhsa-issues-update/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
-              "url": "https://www.basingstokegazette.co.uk/news/26101851.hantavirus-symptoms-spreads-ukhsa-issues-update/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-13T13:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Still  many steps to do  in creating a hantavirus vaccine , experts say - National",
-              "url": "https://globalnews.ca/news/11845432/hantavirus-vaccine-development-moderna/",
-              "language": "English"
-            },
-            {
-              "title": "French hantavirus patient critically ill , on  final stage of supportive care  - National",
-              "url": "https://globalnews.ca/news/11847053/french-hantavirus-patient-critically-ill-final-stage-of-supportive-care/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 2,
-          "latest": "2026-05-13T13:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread – Channel Africa",
-              "url": "https://www.channelafrica.co.za/channelafrica/news/hantavirus-protocol-breach-at-dutch-hospital-as-medics-race-to-curb-spread/",
-              "language": "English"
-            },
-            {
-              "title": "Eighteen Americans quarantined after Hantavirus cruise ship outbreak – Channel Africa",
-              "url": "https://www.channelafrica.co.za/channelafrica/news/eighteen-americans-quarantined-after-hantavirus-cruise-ship-outbreak/",
-              "language": "English"
             }
           ]
         },
@@ -2144,6 +2087,20 @@
           ]
         },
         {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-13T14:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "След хантавируса : Нова епидемия блокира британски круизен кораб във Франция",
+              "url": "https://www.focus-news.net/novini/mejdunarodni/Sled-hantavirusa-Nova-epidemiya-blokira-britanski-kruizen-korab-vuv-Franciya-2965388",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2153,6 +2110,20 @@
             {
               "title": "Australians evacuated from hantavirus cruise ship stranded in Netherlands amid flight refuelling delays",
               "url": "https://www.perthnow.com.au/news/australians-evacuated-from-hantavirus-cruise-ship-stranded-in-netherlands-amid-flight-refuelling-delays-c-22280804",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-13T13:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus symptoms & how it spreads as UKHSA issues update",
+              "url": "https://www.northwalespioneer.co.uk/news/26103512.hantavirus-symptoms-spreads-ukhsa-issues-update/",
               "language": "English"
             }
           ]
