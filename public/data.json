@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T03:14:56.369Z",
+  "generatedAt": "2026-05-13T05:23:16.832Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,56 +1976,33 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 80,
+      "totalArticles": 77,
       "languages": {
-        "English": 76,
-        "Portuguese": 4
+        "English": 75,
+        "Bulgarian": 1,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 62,
-          "latest": "2026-05-13T02:00:00Z",
+          "count": 49,
+          "latest": "2026-05-13T05:00:00Z",
           "sampleTitles": [
             {
               "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-              "url": "https://www.wkyc.com/article/news/nation-world/cruise-ship-passenger-documents-quarantine-following-hantavirus-outbreak/507-748fd5ae-272e-42b1-85e5-69afbf2ec5b5",
+              "url": "https://www.lowellsun.com/2026/05/12/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
               "language": "English"
             },
             {
-              "title": "Where should hantavirus cruise ship passengers quarantine ? – NBC New York",
-              "url": "https://www.nbcnewyork.com/news/national-international/hantavirus-cruise-ship-quarantine-location-experts-divided-us-return/6501148/",
+              "title": "A Deadly Hantavirus Can Spread Between Humans . Here Why It Not The Next COVID . ",
+              "url": "https://www.sciencealert.com/a-deadly-hantavirus-can-spread-between-humans-heres-why-its-not-the-next-covid",
               "language": "English"
             },
             {
-              "title": "Minnesota health officials monitoring person potentially exposed to hantavirus overseas",
-              "url": "https://www.valleynewslive.com/2026/05/12/minnesota-health-officials-monitoring-person-potentially-exposed-hantavirus-overseas/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 6,
-          "latest": "2026-05-13T02:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
-              "url": "https://www.cbc.ca/news/canada/toronto/ontario-hantavirus-monitoring-9.7197521",
-              "language": "English"
-            },
-            {
-              "title": "Peel monitoring individual with exposure to hantavirus",
-              "url": "https://www.bramptonguardian.com/news/hantavirus-peel-health/article_f7ba3406-77fe-5fb3-9b05-db77e6ecd86f.html",
-              "language": "English"
-            },
-            {
-              "title": "Peel monitoring individual with exposure to hantavirus",
-              "url": "https://www.mississauga.com/news/hantavirus-peel-health/article_5646e679-8b0e-57e9-8859-f849e86a3dfe.html",
+              "title": "American passengers suffering from Hantavirus outbreak arrive in U . S . for biocontainment monitoring",
+              "url": "https://www.oann.com/newsroom/american-passengers-suffering-from-hantavirus-outbreak-arrive-in-u-s-for-biocontainment-monitoring/",
               "language": "English"
             }
           ]
@@ -2034,74 +2011,46 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
+          "count": 5,
+          "latest": "2026-05-13T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+              "url": "https://timesofindia.indiatimes.com/world/us/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/articleshow/131054704.cms",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus : Hantavirus outbreak : French woman critically ill , placed on artificial lung support",
+              "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-french-woman-critically-ill-placed-on-artificial-lung-support/articleshow/131053179.cms",
+              "language": "English"
+            },
+            {
+              "title": "Africa CDC , WHO call for greater preparedness despite low Hantavirus risk in Africa",
+              "url": "https://www.prokerala.com/news/articles/a1762120.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
           "count": 3,
-          "latest": "2026-05-13T01:45:00Z",
+          "latest": "2026-05-13T05:00:00Z",
           "sampleTitles": [
             {
-              "title": "French hantavirus patient is critically ill , on artificial lung as total cases grow to 11",
-              "url": "https://www.thehindu.com/news/international/french-hantavirus-patient-is-critically-ill-on-artificial-lung-as-total-cases-grow-to-11/article70972395.ece",
+              "title": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
+              "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
               "language": "English"
             },
             {
-              "title": "Hantavirus update : Illinois officials explain risks after tests in Winnebago ; what we know so far",
-              "url": "https://www.hindustantimes.com/world-news/us-news/hantavirus-update-illinois-officials-explain-risks-after-tests-in-winnebago-what-we-know-so-far-101778622530419.html",
+              "title": "How long should hantavirus cruise ship passengers self - isolate ? And why does B . C . recommend less time than WHO ? ",
+              "url": "https://calgarysun.com/news/canada/how-long-isolation-hantavirus-mv-hondius-cruise-ship/wcm/1b066fdc-5685-4cfe-bde0-178c0519b824",
               "language": "English"
             },
             {
-              "title": "Can Hantavirus shrink penis ? Fact - checking wild claim after cruise line outbreak",
-              "url": "https://www.hindustantimes.com/world-news/us-news/can-hantavirus-shrink-penis-size-fact-checking-wild-claim-after-cruise-line-outbreak-101778628339861.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-13T00:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Infectologista alerta sobre perigos de confundir sintomas de hantavírus com os da dengue",
-              "url": "https://noticias.r7.com/saude/infectologista-alerta-sobre-perigos-de-confundir-sintomas-de-hantavirus-com-os-da-dengue-12052026/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Secretaria de Saúde investiga 3 casos suspeitos de hantavirose no DF",
-              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/12/secretaria-de-saude-do-df-investiga-tres-casos-suspeitos-de-hantavirose.ghtml",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-13T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "A febre para que o hantavírus pegue como a COVID",
-              "url": "https://observador.pt/opiniao/a-febre-para-que-o-hantavirus-pegue-como-a-covid/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : uma emergência zoonótica e a Infeciologia – Observador",
-              "url": "https://observador.pt/opiniao/hantavirus-uma-emergencia-zoonotica-e-os-desafios-da-infeciologia/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-13T02:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "news2day Explainer : All you need to know about hantavirus",
-              "url": "https://www.rte.ie/kids/news2day/2026/0512/1573008-rte-news-news2day-explainer-all-you-need-to-know-about-hantavirus/",
+              "title": "Canadians should not be worried about hantavirus , epidemiologist says",
+              "url": "https://www.theglobeandmail.com/canada/article-canadians-should-not-be-worried-about-hantavirus-epidemiologist-says/",
               "language": "English"
             }
           ]
@@ -2110,27 +2059,84 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-13T01:15:00Z",
+          "count": 3,
+          "latest": "2026-05-13T04:15:00Z",
           "sampleTitles": [
             {
-              "title": "Fatal hantavirus cases put cruise industry on edge as expedition tourism surges",
-              "url": "https://www.traveldailymedia.com/fatal-hantavirus-cases-put-cruise-industry-on-edge-as-expedition-tourism-surges/",
+              "title": "Hantavirus Map Hotspots : Growing Infection Rate Now Feared in the Following Countries After Cruise Ship Spread",
+              "url": "https://www.ibtimes.co.uk/hantavirus-map-hotspots-cruise-ship-1796490",
+              "language": "English"
+            },
+            {
+              "title": "WHO chief says hantavirus  will spread  as Brits flown 5 , 000 miles to isolate",
+              "url": "https://www.mirror.co.uk/news/world-news/hantavirus-spread-who-boss-outbreak-37147843",
+              "language": "English"
+            },
+            {
+              "title": "Britons sent to Wuhan facility as Hantavirus  jumps beyond cruiseship  | united kingdom | News",
+              "url": "https://www.express.co.uk/news/uk/2204869/britons-evacuated-arrowe-park-wuhan-facility-hantavirus-jumps-cruise-ship",
               "language": "English"
             }
           ]
         },
         {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-13T00:45:00Z",
+          "country": "South Korea",
+          "lat": 35.9,
+          "lng": 127.8,
+          "count": 2,
+          "latest": "2026-05-13T04:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus protocol breach at Dutch hospital",
-              "url": "https://www.odt.co.nz/news/world/hantavirus-protocol-breach-dutch-hospital",
+              "title": "French hantavirus patient is critically ill",
+              "url": "https://www.koreaherald.com/article/10737065",
               "language": "English"
+            },
+            {
+              "title": "WHO says 11 total hantavirus cases reported from cruise ship",
+              "url": "https://www.koreatimes.co.kr/world/20260513/who-says-11-total-hantavirus-cases-reported-from-cruise-ship",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-05-13T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "First hantavirus case in Ireland was tourist rushed to hospital with kidney failure",
+              "url": "https://www.irishmirror.ie/news/irish-news/first-hantavirus-case-ireland-tourist-37144303",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-13T03:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Лондон евакуира още 10 граждани след контакт със заразени с хантавирус",
+              "url": "https://www.actualno.com/europe/london-evakuira-oshte-10-grajdani-sled-kontakt-sys-zarazeni-s-hantavirus-news_2593355.html",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Mexico",
+          "lat": 23.6,
+          "lng": -102.5,
+          "count": 1,
+          "latest": "2026-05-13T03:30:00Z",
+          "sampleTitles": [
+            {
+              "title": " ¿ El brote de hantavirus tiene riesgo pandémico ? ",
+              "url": "https://www.e-consulta.com/opinion/2026-05-08/el-brote-de-hantavirus-tiene-riesgo-pandemico",
+              "language": "Spanish"
             }
           ]
         }
