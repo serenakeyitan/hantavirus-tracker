@@ -105,6 +105,41 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
           .addTo(layer);
       }
 
+      // PAHO regional alert: green markers per country. Only rendered if no
+      // higher-resolution source already covers that country (we have
+      // province-level data for Argentina via BEN, so PAHO Argentina is
+      // redundant — skip it). Skips US since CDC NNDSS already covers.
+      const pahoCountries = data.sources.paho?.countries ?? [];
+      const highResCountries = new Set([
+        "Argentina",     // covered by BEN
+        "United States", // covered by CDC NNDSS
+      ]);
+      const pahoVisible = pahoCountries.filter(c => !highResCountries.has(c.country));
+      const maxPaho = Math.max(1, ...pahoVisible.map(c => c.cases));
+      for (const country of pahoVisible) {
+        const radius = 6 + 14 * Math.sqrt(country.cases / maxPaho);
+        const deathsLine = country.deaths != null
+          ? `<div>Deaths: <b>${country.deaths}</b></div>`
+          : "";
+        L.circleMarker([country.lat, country.lng], {
+          radius,
+          color: "#15803d",
+          weight: 1.5,
+          fillColor: "#22c55e",
+          fillOpacity: 0.5,
+        })
+          .bindPopup(
+            `<div style="font:13px/1.4 system-ui;max-width:240px">
+              <div style="font-weight:600;margin-bottom:4px">${country.country}</div>
+              <div style="color:#666;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px">PAHO regional alert &middot; ${country.epiWeekRange}</div>
+              <div>Confirmed cases: <b>${country.cases}</b></div>
+              ${deathsLine}
+              <div style="margin-top:6px;color:#666;font-size:11px">From PAHO ${data.sources.paho?.alertDate ?? ""} alert. Country-level total.</div>
+            </div>`
+          )
+          .addTo(layer);
+      }
+
       // Argentina BEN: purple markers, size scales with cases-per-province for the current season.
       const argRows = data.sources.argentina?.rows ?? [];
       const maxAr = Math.max(1, ...argRows.map(r => r.cases));
@@ -228,6 +263,7 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
         ...whoRows.flatMap(p => p.countries.map(c => [c.lat, c.lng] as [number, number])),
         ...hondiusCases.map(c => [c.lat, c.lng] as [number, number]),
         ...gdeltDisplayed.map(c => [c.lat, c.lng] as [number, number]),
+        ...pahoVisible.map(c => [c.lat, c.lng] as [number, number]),
       ];
       if (points.length >= 2) {
         map.fitBounds(L.latLngBounds(points).pad(0.25), { animate: true });

@@ -52,6 +52,9 @@ export default function Home() {
                 {data.sources.gdelt && (
                   <> {" · "}<a href="https://www.gdeltproject.org/" className="underline" target="_blank" rel="noopener">GDELT global news</a></>
                 )}
+                {data.sources.paho && (
+                  <> {" · "}<a href={data.sources.paho.url} className="underline" target="_blank" rel="noopener">PAHO alert {data.sources.paho.alertDate}</a></>
+                )}
               </div>
               {data.blockedSources && data.blockedSources.length > 0 && (
                 <div>

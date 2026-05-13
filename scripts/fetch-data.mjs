@@ -6,6 +6,7 @@ import { readFileSync, existsSync } from "node:fs";
 import { fetchArgentinaBEN } from "./sources/argentina-ben.mjs";
 import { fetchArcgisCases } from "./sources/arcgis-cases.mjs";
 import { fetchGDELT } from "./sources/gdelt.mjs";
+import { fetchPahoAlert } from "./sources/paho-alert.mjs";
 
 // Read the previous data.json so we can fall back to last-known-good values
 // when a fetch returns an obviously-empty result (e.g. parser regression on a
@@ -229,11 +230,19 @@ async function main() {
     console.log(`  -> ${gdelt.totalArticles} articles across ${gdelt.countries.length} source countries, ${Object.keys(gdelt.languages).length} languages`);
   }
 
+  console.log("Fetching PAHO regional alert...");
+  const paho = await fetchPahoAlert().catch(err => {
+    console.error("PAHO fetch failed:", err.message);
+    return null;
+  });
+  if (paho) {
+    console.log(`  -> ${paho.alertLabel} (${paho.alertDate}): ${paho.countries.length} countries, ${paho.totalCases} cases, ${paho.totalDeaths} deaths`);
+  }
+
   // Sources we attempted but cannot integrate (no machine-readable surface).
   // Recorded so the UI can show users what coverage we don't have.
   const blockedSources = [
-    { name: "Chile MINSAL / DEIS", reason: "Data is published only via Power BI iframes and SAS Visual Analytics dashboards; no CSV/JSON export.", url: "https://deis.minsal.cl/" },
-    { name: "PAHO PLISA", reason: "PAHO publishes regional hantavirus surveillance only through interactive dashboards; no public dataset API.", url: "https://www.paho.org/data/" },
+    { name: "Chile MINSAL / DEIS realtime dashboard", reason: "Real-time Chile data is published via Power BI iframes only. (Partially covered by PAHO regional alert.)", url: "https://deis.minsal.cl/" },
     { name: "ProMED-mail archive", reason: "After ProMED's 2025 redesign the post archive is paywalled; the public API only exposes the corporate blog.", url: "https://promedmail.org/" },
   ];
 
@@ -279,6 +288,18 @@ async function main() {
         // GDELT 429s happen — preserve last-known-good rather than blanking
         // the news-signals panel.
         : (readPrevious()?.sources?.gdelt ?? null),
+      paho: paho
+        ? {
+            name: paho.name,
+            url: paho.sourceUrl,
+            tier: "confirmed",
+            alertDate: paho.alertDate,
+            alertLabel: paho.alertLabel,
+            totalCases: paho.totalCases,
+            totalDeaths: paho.totalDeaths,
+            countries: paho.countries,
+          }
+        : (readPrevious()?.sources?.paho ?? null),
     },
     blockedSources,
   };

@@ -42,6 +42,7 @@ export default function Tracker({ data }: Props) {
           argentina: argentinaAndes,
           hondius: data.sources.hondius,
           gdelt: data.sources.gdelt,
+          paho: null,  // PAHO regional data is endemic-context, not outbreak
         },
       };
     }
@@ -56,12 +57,14 @@ export default function Tracker({ data }: Props) {
         argentina: argentinaEndemic,
         hondius: null,
         gdelt: null,
+        paho: data.sources.paho,
       },
     };
   }, [data, mode]);
 
   const ar = data.sources.argentina;
   const h = data.sources.hondius;
+  const paho = data.sources.paho;
   const stateCount = data.sources.cdc.rows.length;
   const totalUSCases = data.sources.cdc.rows.reduce((a, r) => a + r.total, 0);
 
@@ -144,6 +147,9 @@ export default function Tracker({ data }: Props) {
           ) : (
             <p className="text-xs text-zinc-600">
               <b>{totalUSCases.toLocaleString()}</b> US cases ({stateCount} states, last 3yr) · Argentina non-Sur provinces.
+              {paho && (
+                <> · <span className="text-zinc-500">PAHO {paho.alertDate}: <b>{paho.totalCases}</b> cases / <b>{paho.totalDeaths}</b> deaths across <b>{paho.countries.length}</b> countries</span></>
+              )}
             </p>
           )}
         </div>

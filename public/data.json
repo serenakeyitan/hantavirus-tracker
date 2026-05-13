@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T05:23:16.832Z",
+  "generatedAt": "2026-05-13T06:45:26.578Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -1976,9 +1976,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 77,
+      "totalArticles": 78,
       "languages": {
-        "English": 75,
+        "English": 74,
+        "Turkish": 2,
         "Bulgarian": 1,
         "Spanish": 1
       },
@@ -1988,21 +1989,21 @@
           "lat": 39,
           "lng": -98,
           "count": 49,
-          "latest": "2026-05-13T05:00:00Z",
+          "latest": "2026-05-13T06:15:00Z",
           "sampleTitles": [
             {
+              "title": "Moderna Stock Is Surging on Hantavirus Threats . Its Chart Offers a Harsh Dose of Reality . ",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-surging-hantavirus-threats-193530787.html",
+              "language": "English"
+            },
+            {
               "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-              "url": "https://www.lowellsun.com/2026/05/12/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
+              "url": "https://www.dailyadvance.com/news/national/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/article_3802dd2a-fbe8-5fc7-ae17-54252f63caa6.html",
               "language": "English"
             },
             {
-              "title": "A Deadly Hantavirus Can Spread Between Humans . Here Why It Not The Next COVID . ",
-              "url": "https://www.sciencealert.com/a-deadly-hantavirus-can-spread-between-humans-heres-why-its-not-the-next-covid",
-              "language": "English"
-            },
-            {
-              "title": "American passengers suffering from Hantavirus outbreak arrive in U . S . for biocontainment monitoring",
-              "url": "https://www.oann.com/newsroom/american-passengers-suffering-from-hantavirus-outbreak-arrive-in-u-s-for-biocontainment-monitoring/",
+              "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+              "url": "https://www.sentinelandenterprise.com/2026/05/12/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
               "language": "English"
             }
           ]
@@ -2011,46 +2012,22 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 5,
-          "latest": "2026-05-13T05:00:00Z",
+          "count": 7,
+          "latest": "2026-05-13T06:00:00Z",
           "sampleTitles": [
+            {
+              "title": "health matters newsletter : Hantavirus Ahoy ! ",
+              "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-hantavirus-ahoy/article70968980.ece",
+              "language": "English"
+            },
+            {
+              "title": "French hantavirus patient is critically ill , on an artificial lung as total cases grow to 11",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
+              "language": "English"
+            },
             {
               "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
               "url": "https://timesofindia.indiatimes.com/world/us/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/articleshow/131054704.cms",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus : Hantavirus outbreak : French woman critically ill , placed on artificial lung support",
-              "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-french-woman-critically-ill-placed-on-artificial-lung-support/articleshow/131053179.cms",
-              "language": "English"
-            },
-            {
-              "title": "Africa CDC , WHO call for greater preparedness despite low Hantavirus risk in Africa",
-              "url": "https://www.prokerala.com/news/articles/a1762120.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-13T05:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
-              "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
-              "language": "English"
-            },
-            {
-              "title": "How long should hantavirus cruise ship passengers self - isolate ? And why does B . C . recommend less time than WHO ? ",
-              "url": "https://calgarysun.com/news/canada/how-long-isolation-hantavirus-mv-hondius-cruise-ship/wcm/1b066fdc-5685-4cfe-bde0-178c0519b824",
-              "language": "English"
-            },
-            {
-              "title": "Canadians should not be worried about hantavirus , epidemiologist says",
-              "url": "https://www.theglobeandmail.com/canada/article-canadians-should-not-be-worried-about-hantavirus-epidemiologist-says/",
               "language": "English"
             }
           ]
@@ -2080,20 +2057,72 @@
           ]
         },
         {
-          "country": "South Korea",
-          "lat": 35.9,
-          "lng": 127.8,
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
           "count": 2,
-          "latest": "2026-05-13T04:45:00Z",
+          "latest": "2026-05-13T06:15:00Z",
           "sampleTitles": [
             {
-              "title": "French hantavirus patient is critically ill",
-              "url": "https://www.koreaherald.com/article/10737065",
+              "title": "Hantavirüste numune skandalı",
+              "url": "https://www.posta.com.tr/dunya/hantaviruste-numune-skandali-2991926",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs tespit edilen gemide seyahat eden Ruhi Çenetin test sonuçları belli oldu",
+              "url": "https://www.haberturk.com/hantavirus-tespit-edilen-gemide-seyahat-eden-ruhi-cenet-in-test-sonuclari-belli-oldu-magazin-haberle-3884135-magazin",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "China",
+          "lat": 35.9,
+          "lng": 104.2,
+          "count": 2,
+          "latest": "2026-05-13T05:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentine city tries to shrug off hantavirus ship  patient zero  suspicions",
+              "url": "https://www.scmp.com/news/world/americas/article/3353371/argentine-city-tries-shrug-hantavirus-ship-patient-zero-suspicions",
               "language": "English"
             },
             {
-              "title": "WHO says 11 total hantavirus cases reported from cruise ship",
-              "url": "https://www.koreatimes.co.kr/world/20260513/who-says-11-total-hantavirus-cases-reported-from-cruise-ship",
+              "title": "WHO says more hantavirus cases may emerge in coming weeks after Spain - led cruise evacuation",
+              "url": "http://www.china.org.cn/2026-05/13/content_118491451.shtml",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-05-13T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
+              "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
+              "language": "English"
+            },
+            {
+              "title": "How long should hantavirus cruise ship passengers self - isolate ? And why does B . C . recommend less time than WHO ? ",
+              "url": "https://calgarysun.com/news/canada/how-long-isolation-hantavirus-mv-hondius-cruise-ship/wcm/1b066fdc-5685-4cfe-bde0-178c0519b824",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-05-13T05:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Aussie passengers on deadly hantavirus cruise ship stuck in Netherlands as authorities struggle to find plane",
+              "url": "https://www.perthnow.com.au/wa/aussie-passengers-on-deadly-hantavirus-cruise-ship-stuck-in-netherlands-as-authorities-struggle-to-find-plane-c-22277158",
               "language": "English"
             }
           ]
@@ -2108,6 +2137,20 @@
             {
               "title": "First hantavirus case in Ireland was tourist rushed to hospital with kidney failure",
               "url": "https://www.irishmirror.ie/news/irish-news/first-hantavirus-case-ireland-tourist-37144303",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "South Korea",
+          "lat": 35.9,
+          "lng": 127.8,
+          "count": 1,
+          "latest": "2026-05-13T04:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "French hantavirus patient is critically ill",
+              "url": "https://www.koreaherald.com/article/10737065",
               "language": "English"
             }
           ]
@@ -2141,18 +2184,96 @@
           ]
         }
       ]
+    },
+    "paho": {
+      "name": "PAHO Epidemiological Alert",
+      "url": "https://www.paho.org/sites/default/files/2025-12/2025-12-19-epidemiological-alert-hantavirus-engfinal_0.pdf",
+      "tier": "confirmed",
+      "alertDate": "2025-12-19",
+      "alertLabel": "Hantavirus Pulmonary Syndrome in Americas Region",
+      "totalCases": 242,
+      "totalDeaths": 56,
+      "countries": [
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "cases": 66,
+          "deaths": 21,
+          "epiWeekRange": "EW 1-47 2025",
+          "year": 2025
+        },
+        {
+          "country": "Bolivia",
+          "lat": -16.29,
+          "lng": -63.59,
+          "cases": 48,
+          "deaths": 11,
+          "epiWeekRange": "EW 1-46 2025",
+          "year": 2025
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.24,
+          "lng": -51.93,
+          "cases": 20,
+          "deaths": 11,
+          "epiWeekRange": "EW 1-47 2025",
+          "year": 2025
+        },
+        {
+          "country": "Chile",
+          "lat": -35.68,
+          "lng": -71.54,
+          "cases": 35,
+          "deaths": 7,
+          "epiWeekRange": "EW 1-45 2025",
+          "year": 2025
+        },
+        {
+          "country": "Panama",
+          "lat": 8.54,
+          "lng": -80.78,
+          "cases": 18,
+          "deaths": null,
+          "epiWeekRange": "EW 1-47 2025",
+          "year": 2025
+        },
+        {
+          "country": "Paraguay",
+          "lat": -23.44,
+          "lng": -58.44,
+          "cases": 27,
+          "deaths": 6,
+          "epiWeekRange": "EW 1-47 2025",
+          "year": 2025
+        },
+        {
+          "country": "Uruguay",
+          "lat": -32.52,
+          "lng": -55.77,
+          "cases": 8,
+          "deaths": null,
+          "epiWeekRange": "EW 1-46 2025",
+          "year": 2025
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "cases": 20,
+          "deaths": null,
+          "epiWeekRange": "EW 1-52 2024",
+          "year": 2024
+        }
+      ]
     }
   },
   "blockedSources": [
     {
-      "name": "Chile MINSAL / DEIS",
-      "reason": "Data is published only via Power BI iframes and SAS Visual Analytics dashboards; no CSV/JSON export.",
+      "name": "Chile MINSAL / DEIS realtime dashboard",
+      "reason": "Real-time Chile data is published via Power BI iframes only. (Partially covered by PAHO regional alert.)",
       "url": "https://deis.minsal.cl/"
-    },
-    {
-      "name": "PAHO PLISA",
-      "reason": "PAHO publishes regional hantavirus surveillance only through interactive dashboards; no public dataset API.",
-      "url": "https://www.paho.org/data/"
     },
     {
       "name": "ProMED-mail archive",

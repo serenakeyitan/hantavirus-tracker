@@ -93,6 +93,27 @@ export type GDELTSource = {
   countries: GDELTCountry[];
 };
 
+export type PahoCountry = {
+  country: string;
+  lat: number;
+  lng: number;
+  cases: number;
+  deaths: number | null;
+  epiWeekRange: string;
+  year: number;
+};
+
+export type PahoSource = {
+  name: string;
+  url: string;
+  tier: SourceTier;
+  alertDate: string;
+  alertLabel: string;
+  totalCases: number;
+  totalDeaths: number;
+  countries: PahoCountry[];
+};
+
 export type BlockedSource = { name: string; reason: string; url: string };
 
 export type ViewMode = "outbreak" | "endemic";
@@ -107,6 +128,7 @@ export type DataPayload = {
     argentina?: ArgentinaSource | null;
     hondius?: HondiusSource | null;
     gdelt?: GDELTSource | null;
+    paho?: PahoSource | null;
   };
   blockedSources?: BlockedSource[];
 };
