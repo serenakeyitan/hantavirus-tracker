@@ -78,10 +78,14 @@ function parseHantavirosisTable(text) {
   const tableSlice = text.slice(headerIdx, headerIdx + 5000);
   const lines = tableSlice.split(/\r?\n/);
 
-  // Each province row layout (after pdftotext -layout):
-  //   "  Buenos Aires    27   0.15   16     0.09    12   0.07   14   0.08   8    0.04   19   0.10   42    0.23"
-  // Capture: name (left-justified), then 7 (N, rate) pairs in order: 2019-2020 ... 2025-2026.
-  // The latest season's N is the SECOND-TO-LAST number.
+  // Original strict parser: each row's 7 (N, rate) pairs on a single line.
+  // Works for BEN 800-806 layout. BEN 807+ may wrap cells which breaks this;
+  // the caller is responsible for detecting empty results and falling back
+  // to last-known-good data (see scripts/fetch-data.mjs).
+  //
+  // We intentionally do NOT do generic numeric-token harvesting here — that
+  // approach silently shipped wrong numbers when columns wrapped. Better to
+  // return 0 provinces and let the fallback fire than to publish bad data.
   const rows = [];
   const rowRx = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+((?:-?\d+\s+-?\d+\.\d+\s*){5,8})\s*$/;
   const total = { name: "Total País" };
@@ -90,7 +94,6 @@ function parseHantavirosisTable(text) {
     if (!m) continue;
     const name = m[1].trim();
     const numbers = m[2].trim().split(/\s+/).map(Number);
-    // Expect 7 (N, rate) pairs = 14 numbers, but pad to handle variations.
     if (numbers.length < 14) continue;
     const seasons = [];
     for (let i = 0; i + 1 < numbers.length; i += 2) {

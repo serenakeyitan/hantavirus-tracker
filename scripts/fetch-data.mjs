@@ -2,9 +2,18 @@
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { readFileSync, existsSync } from "node:fs";
 import { fetchArgentinaBEN } from "./sources/argentina-ben.mjs";
 import { fetchArcgisCases } from "./sources/arcgis-cases.mjs";
 import { fetchGDELT } from "./sources/gdelt.mjs";
+
+// Read the previous data.json so we can fall back to last-known-good values
+// when a fetch returns an obviously-empty result (e.g. parser regression on a
+// new source format). Never replace good data with nulls silently.
+function readPrevious() {
+  if (!existsSync(OUT_PATH)) return null;
+  try { return JSON.parse(readFileSync(OUT_PATH, "utf8")); } catch { return null; }
+}
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = resolve(__dirname, "..", "public", "data.json");
@@ -181,12 +190,24 @@ async function main() {
   console.log(`  -> ${who.length} hantavirus-relevant outbreak posts`);
 
   console.log("Fetching Argentina BEN...");
-  const argentina = await fetchArgentinaBEN().catch(err => {
+  let argentina = await fetchArgentinaBEN().catch(err => {
     console.error("Argentina BEN fetch failed:", err.message);
     return null;
   });
   if (argentina) {
     console.log(`  -> bulletin ${argentina.bulletinIssue}: ${argentina.provinces.length} provinces, ${argentina.totalCases} total cases, ${argentina.andesCases} Andes-region cases`);
+  }
+  // Guard against silent parser regressions: if Argentina returned 0 provinces
+  // but the previous run had real data, keep the previous Argentina block
+  // rather than overwriting it with nulls. The fetch log above still surfaces
+  // the regression to the cron output.
+  if (argentina && argentina.provinces.length === 0) {
+    const prev = readPrevious();
+    const prevAr = prev?.sources?.argentina;
+    if (prevAr?.rows?.length) {
+      console.log(`  -> WARN: parser returned 0 provinces for bulletin ${argentina.bulletinIssue}, keeping previous (BEN #${prevAr.bulletinIssue}, ${prevAr.rows.length} provinces)`);
+      argentina = null; // signal to skip below and reuse prev block
+    }
   }
 
   console.log("Fetching MV Hondius case line-list (ArcGIS)...");
@@ -221,16 +242,20 @@ async function main() {
     sources: {
       cdc: { name: "CDC NNDSS Weekly", url: "https://data.cdc.gov/resource/x9gk-5huc", tier: "confirmed", rows: cdc },
       who: { name: "WHO Disease Outbreak News", url: "https://www.who.int/emergencies/disease-outbreak-news", tier: "confirmed", rows: who },
-      argentina: argentina && {
-        name: argentina.name,
-        url: argentina.sourceUrl,
-        bulletinIssue: argentina.bulletinIssue,
-        tier: "confirmed",
-        seasonLabel: argentina.seasonLabel,
-        totalCases: argentina.totalCases,
-        andesCases: argentina.andesCases,
-        rows: argentina.provinces,
-      },
+      argentina: argentina
+        ? {
+            name: argentina.name,
+            url: argentina.sourceUrl,
+            bulletinIssue: argentina.bulletinIssue,
+            tier: "confirmed",
+            seasonLabel: argentina.seasonLabel,
+            totalCases: argentina.totalCases,
+            andesCases: argentina.andesCases,
+            rows: argentina.provinces,
+          }
+        // Fall back to last-known-good when the fetch was suppressed because
+        // the parser regressed (see WARN log above).
+        : (readPrevious()?.sources?.argentina ?? null),
       hondius: hondius && {
         name: hondius.name,
         url: hondius.sourceUrl,
@@ -241,15 +266,19 @@ async function main() {
         cumulativeSeries: hondius.cumulativeSeries,
         datedCounts: hondius.datedCounts,
       },
-      gdelt: gdelt && {
-        name: gdelt.name,
-        url: gdelt.sourceUrl,
-        tier: "reported",
-        timespan: gdelt.timespan,
-        totalArticles: gdelt.totalArticles,
-        languages: gdelt.languages,
-        countries: gdelt.countries,
-      },
+      gdelt: gdelt
+        ? {
+            name: gdelt.name,
+            url: gdelt.sourceUrl,
+            tier: "reported",
+            timespan: gdelt.timespan,
+            totalArticles: gdelt.totalArticles,
+            languages: gdelt.languages,
+            countries: gdelt.countries,
+          }
+        // GDELT 429s happen — preserve last-known-good rather than blanking
+        // the news-signals panel.
+        : (readPrevious()?.sources?.gdelt ?? null),
     },
     blockedSources,
   };
