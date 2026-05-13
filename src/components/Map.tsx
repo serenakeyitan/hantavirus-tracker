@@ -125,7 +125,7 @@ export default function Map({ data, mode, focusedCaseId }: Props) {
               <div style="font-weight:600;margin-bottom:4px">${prov.jurisdiction} <span style="color:#666;font-weight:normal">(${prov.region})</span></div>
               <div style="color:#666;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px">Argentina BEN &middot; season ${prov.seasonLabel}</div>
               <div>Confirmed cases: <b>${prov.cases}</b></div>
-              <div>Rate: ${prov.ratePer100k.toFixed(2)} / 100k</div>
+              ${prov.ratePer100k != null ? `<div>Rate: ${prov.ratePer100k.toFixed(2)} / 100k</div>` : ""}
               <div style="margin-top:6px;color:#666;font-size:11px">${speciesNote}</div>
             </div>`
           )

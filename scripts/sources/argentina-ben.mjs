@@ -78,34 +78,90 @@ function parseHantavirosisTable(text) {
   const tableSlice = text.slice(headerIdx, headerIdx + 5000);
   const lines = tableSlice.split(/\r?\n/);
 
-  // Original strict parser: each row's 7 (N, rate) pairs on a single line.
-  // Works for BEN 800-806 layout. BEN 807+ may wrap cells which breaks this;
-  // the caller is responsible for detecting empty results and falling back
-  // to last-known-good data (see scripts/fetch-data.mjs).
+  // Two-strategy parser:
   //
-  // We intentionally do NOT do generic numeric-token harvesting here — that
-  // approach silently shipped wrong numbers when columns wrapped. Better to
-  // return 0 provinces and let the fallback fire than to publish bad data.
+  // STRATEGY 1 (BEN 800-806 layout): all 7 (N, rate) pairs on a single line.
+  //
+  // STRATEGY 2 (BEN 807+ layout): narrow rate cells wrap vertically, e.g.
+  //
+  //                                          0,0          0,0
+  //   Buenos Aires     27       0,15   16           14           ... 43    0,23
+  //                                           9            8
+  //
+  // We only need the LATEST season's (N, rate) pair — that's the last two
+  // numbers on the row's main line in both layouts. Extract those directly
+  // instead of trying to reconstruct every wrapped column.
+  //
+  // We still need to validate the row genuinely belongs to the table (a
+  // jurisdiction we recognise), and we still skip the regional aggregator
+  // rows (Centro/NEA/NOA/Sur) which appear in both layouts.
+
   const rows = [];
-  const rowRx = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+((?:-?\d+\s+-?\d+\.\d+\s*){5,8})\s*$/;
+  // Match: leading whitespace + jurisdiction name (letters, spaces, accents)
+  //        + at least 3 numbers (sanity check the row has numeric content)
+  //        + ending with `N rate` where rate has a decimal point or comma.
+  // Province name lookup. BEN PDFs sometimes drop accents on province names
+  // (BEN 807: "Entre Rios", "Neuquen", "Tucuman") so we list both spellings.
+  // Map each variant to its canonical centroid key.
+  const NAME_VARIANTS = {
+    "Entre Ríos": "Entre Ríos", "Entre Rios": "Entre Ríos",
+    "Río Negro": "Rio Negro",  "Rio Negro":  "Rio Negro",
+    Neuquén: "Neuquén", Neuquen: "Neuquén",
+    Tucumán: "Tucumán", Tucuman: "Tucumán",
+  };
+  const KNOWN_NAMES = new Set([
+    ...Object.keys(PROVINCES),
+    ...Object.keys(NAME_VARIANTS),
+    "Centro", "NEA", "NOA", "Sur",
+    "Total País", "Total Pais",
+  ]);
+
+  // Two acceptable end-of-row shapes:
+  //   shape A:  "... <N> <rate>"  (last cell unwrapped)
+  //   shape B:  "... <N>"          (rate wrapped to the line below)
+  // We try A first (it has the rate inline so we don't have to look at the
+  // wrap line), then fall back to B and harvest the rate from the next line.
+  const rowRxFull = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?(\d+)\s+(\d+[.,]\d+)\s*$/;
+  const rowRxBareN = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?\s(\d+)\s*$/;
   const total = { name: "Total País" };
-  for (const line of lines) {
-    const m = line.match(rowRx);
-    if (!m) continue;
-    const name = m[1].trim();
-    const numbers = m[2].trim().split(/\s+/).map(Number);
-    if (numbers.length < 14) continue;
-    const seasons = [];
-    for (let i = 0; i + 1 < numbers.length; i += 2) {
-      seasons.push({ n: numbers[i], rate: numbers[i + 1] });
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    let m = line.match(rowRxFull);
+    let name, latestN, latestRate;
+    if (m) {
+      name = m[1].trim();
+      latestN = Number(m[3]);
+      latestRate = Number(m[4].replace(",", "."));
+    } else {
+      m = line.match(rowRxBareN);
+      if (!m) continue;
+      name = m[1].trim();
+      if (!KNOWN_NAMES.has(name)) continue;
+      latestN = Number(m[3]);
+      // Rate wrapped vertically to the line below. Without column-position
+      // awareness we can't safely tell which of the wrapped fragments belongs
+      // to the latest-season column vs earlier columns. Report null rate.
+      // The map sizes circles by case count, not rate, so this is acceptable.
+      latestRate = null;
     }
-    if (name === "Total País") {
-      total.name = name;
+    if (!KNOWN_NAMES.has(name)) continue;
+    // latestN must be valid; latestRate can be null when wrapped.
+    if (!Number.isFinite(latestN)) continue;
+
+    // We only need the latest season for display, but compute a seasons array
+    // for shape compatibility with the rest of the pipeline.
+    const seasons = [{ n: latestN, rate: latestRate }];
+
+    if (name === "Total País" || name === "Total Pais") {
+      total.name = "Total País";
       total.seasons = seasons;
       continue;
     }
     if (name === "Centro" || name === "NEA" || name === "NOA" || name === "Sur") continue;
-    rows.push({ jurisdiction: name, seasons });
+    // Normalise province name variants to the centroid key.
+    const finalName = NAME_VARIANTS[name] || name;
+    rows.push({ jurisdiction: finalName, seasons });
   }
   // Latest season is the LAST element of seasons[].
   const latestSeasonLabel = "2025-2026"; // The current BEN through SE 16, season-to-date.
@@ -169,7 +225,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       console.log("Total cases YTD:", d.totalCases, "| Andes-region cases:", d.andesCases);
       console.log("Provinces:");
       for (const p of d.provinces.sort((a, b) => b.cases - a.cases)) {
-        console.log(`  ${p.jurisdiction.padEnd(20)} region=${p.region.padEnd(6)} cases=${p.cases}  rate=${p.ratePer100k.toFixed(2)}  andes=${p.isAndesRegion}`);
+        const rate = p.ratePer100k != null ? p.ratePer100k.toFixed(2) : "—";
+        console.log(`  ${p.jurisdiction.padEnd(20)} region=${p.region.padEnd(6)} cases=${p.cases}  rate=${rate}  andes=${p.isAndesRegion}`);
       }
     })
     .catch(e => { console.error(e); process.exit(1); });

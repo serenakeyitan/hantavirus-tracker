@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T01:43:07.010Z",
+  "generatedAt": "2026-05-13T02:21:43.789Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -287,11 +287,11 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_806_se_16_vf.pdf",
-      "bulletinIssue": 806,
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_807_se-17-vf.pdf",
+      "bulletinIssue": 807,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
-      "totalCases": 101,
+      "totalCases": 102,
       "andesCases": 10,
       "rows": [
         {
@@ -299,7 +299,7 @@
           "region": "Centro",
           "lat": -36.6769,
           "lng": -60.5588,
-          "cases": 42,
+          "cases": 43,
           "ratePer100k": 0.23,
           "isAndesRegion": false,
           "seasonLabel": "2025-2026"
@@ -360,7 +360,7 @@
           "lat": -43.3,
           "lng": -68.7,
           "cases": 4,
-          "ratePer100k": 0.59,
+          "ratePer100k": null,
           "isAndesRegion": true,
           "seasonLabel": "2025-2026"
         },
@@ -380,7 +380,7 @@
           "lat": -40.5,
           "lng": -67,
           "cases": 5,
-          "ratePer100k": 0.63,
+          "ratePer100k": null,
           "isAndesRegion": true,
           "seasonLabel": "2025-2026"
         }
@@ -1976,120 +1976,32 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 87,
+      "totalArticles": 80,
       "languages": {
-        "English": 78,
-        "Portuguese": 7,
-        "Hungarian": 1,
-        "Russian": 1
+        "English": 76,
+        "Portuguese": 4
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 63,
-          "latest": "2026-05-12T18:15:00Z",
+          "count": 62,
+          "latest": "2026-05-13T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "WHO : No Signs Of Larger Hantavirus Outbreak | News Talk 550 KFYI",
-              "url": "https://kfyi.iheart.com/content/2026-05-12-who-no-signs-of-larger-hantavirus-outbreak/",
+              "title": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+              "url": "https://www.wkyc.com/article/news/nation-world/cruise-ship-passenger-documents-quarantine-following-hantavirus-outbreak/507-748fd5ae-272e-42b1-85e5-69afbf2ec5b5",
               "language": "English"
             },
             {
-              "title": "Hantavirus Cases Continue To Rise As Cruise Passengers Forced To Quarantine",
-              "url": "https://talkradio1080.iheart.com/content/2026-05-12-hantavirus-cases-continue-to-rise-as-cruise-passengers-forced-to-quarantine/",
+              "title": "Where should hantavirus cruise ship passengers quarantine ? – NBC New York",
+              "url": "https://www.nbcnewyork.com/news/national-international/hantavirus-cruise-ship-quarantine-location-experts-divided-us-return/6501148/",
               "language": "English"
             },
             {
-              "title": "Hantavirus Cases Continue To Rise As Cruise Passengers Forced To Quarantine",
-              "url": "https://newsradio1470.iheart.com/content/2026-05-12-hantavirus-cases-continue-to-rise-as-cruise-passengers-forced-to-quarantine/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 4,
-          "latest": "2026-05-12T18:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Rio descarta casos de hantavirus ; último foi em 2024",
-              "url": "https://ultimosegundo.ig.com.br/brasil/rj/2026-05-12/rio-de-janeiro-descarta-casos-hantavirus-ultimo-foi-em-2024.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Ushuaia : como a cidade argentina do  fim do mundo  tenta dissociar sua imagem do hantavírus",
-              "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/ushuaia-como-a-cidade-argentina-do-fim-do-mundo-tenta-dissociar-sua-imagem-do-hantavirus-1.1712932",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Diretor - geral da OMS diz que não há sinais de surto maior de hantavírus",
-              "url": "https://www.infomoney.com.br/saude/diretor-geral-da-oms-diz-que-nao-ha-sinais-de-surto-maior-de-hantavirus/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-05-12T18:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Explainer : What we know about hantavirus cruise ship outbreak",
-              "url": "https://www.2lt.com.au/explainer-what-we-know-about-hantavirus-cruise-ship-outbreak/",
-              "language": "English"
-            },
-            {
-              "title": "Explainer : What we know about hantavirus cruise ship outbreak",
-              "url": "http://www.australiannews.net/news/279046308/explainer-what-we-know-about-hantavirus-cruise-ship-outbreak",
-              "language": "English"
-            },
-            {
-              "title": "Explainer : What we know about hantavirus cruise ship outbreak",
-              "url": "http://www.sydneysun.com/news/279046308/explainer-what-we-know-about-hantavirus-cruise-ship-outbreak",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-12T18:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Italiano internado com sintomas de hantavírus depois de viajar no mesmo voo que mulher que morreu",
-              "url": "https://www.record.pt/fora-de-campo/detalhe/italiano-internado-com-sintomas-de-hantavirus-depois-de-viajar-no-mesmo-voo-que-mulher-que-morreu",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : OMS tem nove casos confirmados e admite que ainda podem surgir mais , mas  nada aponta para um surto maior  ",
-              "url": "https://expresso.pt/internacional/2026-05-12-hantavirus-oms-tem-nove-casos-confirmados-e-admite-que-ainda-podem-surgir-mais-mas-nada-aponta-para-um-surto-maior-173b474f",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 2,
-          "latest": "2026-05-12T17:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "MV Hondius hantavirus cruise ship outbreak : WHO confirms 11 cases , including 9 Andes virus infections",
-              "url": "https://www.livemint.com/news/world/mv-hondius-hantavirus-cruise-ship-outbreak-who-confirms-11-cases-including-9-andes-virus-infections-11778601120451.html",
-              "language": "English"
-            },
-            {
-              "title": "WHO says more hantavirus cases may emerge in coming weeks after cruise evacuation",
-              "url": "https://morungexpress.com/who-says-more-hantavirus-cases-may-emerge-in-coming-weeks-after-cruise-evacuation",
+              "title": "Minnesota health officials monitoring person potentially exposed to hantavirus overseas",
+              "url": "https://www.valleynewslive.com/2026/05/12/minnesota-health-officials-monitoring-person-potentially-exposed-hantavirus-overseas/",
               "language": "English"
             }
           ]
@@ -2098,27 +2010,85 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-12T18:15:00Z",
+          "count": 6,
+          "latest": "2026-05-13T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "No sign of larger hantavirus outbreak , WHO says as cases continue to rise - National",
-              "url": "https://globalnews.ca/news/11845053/no-sign-of-larger-hantavirus-outbreak-who-says-case-update/",
+              "title": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
+              "url": "https://www.cbc.ca/news/canada/toronto/ontario-hantavirus-monitoring-9.7197521",
+              "language": "English"
+            },
+            {
+              "title": "Peel monitoring individual with exposure to hantavirus",
+              "url": "https://www.bramptonguardian.com/news/hantavirus-peel-health/article_f7ba3406-77fe-5fb3-9b05-db77e6ecd86f.html",
+              "language": "English"
+            },
+            {
+              "title": "Peel monitoring individual with exposure to hantavirus",
+              "url": "https://www.mississauga.com/news/hantavirus-peel-health/article_5646e679-8b0e-57e9-8859-f849e86a3dfe.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-12T18:00:00Z",
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 3,
+          "latest": "2026-05-13T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Index - Belföld - Rusvai Miklós : Nálunk is jelen lehet a hantavírus , de addig nincs veszély , amíg nem mutálódik",
-              "url": "https://index.hu/belfold/2026/05/12/kibeszelo-hantavirus-jarvany-fertozes-megelozes-tbc-nyugat-nilusi-laz-rusvai-miklos/",
-              "language": "Hungarian"
+              "title": "French hantavirus patient is critically ill , on artificial lung as total cases grow to 11",
+              "url": "https://www.thehindu.com/news/international/french-hantavirus-patient-is-critically-ill-on-artificial-lung-as-total-cases-grow-to-11/article70972395.ece",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus update : Illinois officials explain risks after tests in Winnebago ; what we know so far",
+              "url": "https://www.hindustantimes.com/world-news/us-news/hantavirus-update-illinois-officials-explain-risks-after-tests-in-winnebago-what-we-know-so-far-101778622530419.html",
+              "language": "English"
+            },
+            {
+              "title": "Can Hantavirus shrink penis ? Fact - checking wild claim after cruise line outbreak",
+              "url": "https://www.hindustantimes.com/world-news/us-news/can-hantavirus-shrink-penis-size-fact-checking-wild-claim-after-cruise-line-outbreak-101778628339861.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-13T00:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Infectologista alerta sobre perigos de confundir sintomas de hantavírus com os da dengue",
+              "url": "https://noticias.r7.com/saude/infectologista-alerta-sobre-perigos-de-confundir-sintomas-de-hantavirus-com-os-da-dengue-12052026/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Secretaria de Saúde investiga 3 casos suspeitos de hantavirose no DF",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/12/secretaria-de-saude-do-df-investiga-tres-casos-suspeitos-de-hantavirose.ghtml",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-05-13T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "A febre para que o hantavírus pegue como a COVID",
+              "url": "https://observador.pt/opiniao/a-febre-para-que-o-hantavirus-pegue-como-a-covid/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : uma emergência zoonótica e a Infeciologia – Observador",
+              "url": "https://observador.pt/opiniao/hantavirus-uma-emergencia-zoonotica-e-os-desafios-da-infeciologia/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2127,11 +2097,11 @@
           "lat": 53.1,
           "lng": -7.7,
           "count": 1,
-          "latest": "2026-05-12T18:00:00Z",
+          "latest": "2026-05-13T02:00:00Z",
           "sampleTitles": [
             {
-              "title": "Crucial date when we will know if the killer hantavirus is spreading",
-              "url": "https://www.independent.ie/world-news/crucial-date-when-we-will-know-if-the-killer-hantavirus-is-spreading/a105390747.html",
+              "title": "news2day Explainer : All you need to know about hantavirus",
+              "url": "https://www.rte.ie/kids/news2day/2026/0512/1573008-rte-news-news2day-explainer-all-you-need-to-know-about-hantavirus/",
               "language": "English"
             }
           ]
@@ -2141,39 +2111,25 @@
           "lat": 54,
           "lng": -2.4,
           "count": 1,
-          "latest": "2026-05-12T17:15:00Z",
+          "latest": "2026-05-13T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "Major hantavirus update as European country makes chilling  mutation  admission",
-              "url": "https://www.express.co.uk/news/world/2204777/major-hantavirus-update-mutation-admission",
+              "title": "Fatal hantavirus cases put cruise industry on edge as expedition tourism surges",
+              "url": "https://www.traveldailymedia.com/fatal-hantavirus-cases-put-cruise-industry-on-edge-as-expedition-tourism-surges/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 1,
-          "latest": "2026-05-12T17:15:00Z",
+          "latest": "2026-05-13T00:45:00Z",
           "sampleTitles": [
             {
-              "title": "Смертность достигает 40 %: что такое хантавирус и грозит ли миру новая пандемия ? ",
-              "url": "https://www.tatar-inform.ru/news/smertnost-dostigaet-40-cto-takoe-xantavirus-i-grozit-li-miru-novaya-pandemiya-6027038",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-12T17:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Three dead , but no new infections : All MV Hondius evacuees test negative for hantavirus",
-              "url": "https://www.news24.com/world/three-dead-but-no-new-infections-all-mv-hondius-evacuees-test-negative-for-hantavirus-20260512-0965",
+              "title": "Hantavirus protocol breach at Dutch hospital",
+              "url": "https://www.odt.co.nz/news/world/hantavirus-protocol-breach-dutch-hospital",
               "language": "English"
             }
           ]

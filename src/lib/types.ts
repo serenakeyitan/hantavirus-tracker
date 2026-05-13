@@ -26,7 +26,7 @@ export type ArgentinaProvinceRow = {
   lat: number;
   lng: number;
   cases: number;
-  ratePer100k: number;
+  ratePer100k: number | null;
   isAndesRegion: boolean;
   seasonLabel: string;
 };
