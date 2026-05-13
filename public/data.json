@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T18:46:12.750Z",
+  "generatedAt": "2026-05-13T19:37:21.279Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -163,6 +163,61 @@
       "url": "https://www.who.int/emergencies/disease-outbreak-news",
       "tier": "confirmed",
       "rows": [
+        {
+          "id": "45441730-c794-4004-a197-e7cc49df2f55",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "This is the third Disease Outbreak News report on the hantavirus cluster, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard MV Hondius, a cruise ship. Since the last DON was published on 8 May, two additional confirmed cases were reported from France and Spain. In addition, there is one inconclusive result for a case in the U",
+          "publishedAt": "2026-05-13T19:30:36Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "United States",
+              "lat": 37.0902,
+              "lng": -95.7129
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "France",
+              "lat": 46.2276,
+              "lng": 2.2137
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
         {
           "id": "f6d5a10e-d6a4-4156-a203-4845ea2f878a",
           "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
@@ -1976,37 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 57,
+      "totalArticles": 59,
       "languages": {
-        "English": 47,
+        "English": 49,
+        "Bulgarian": 2,
+        "Turkish": 4,
         "Russian": 1,
         "Portuguese": 2,
-        "Turkish": 4,
-        "Spanish": 1,
-        "Bulgarian": 1,
-        "Lithuanian": 1
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-05-13T17:45:00Z",
+          "count": 45,
+          "latest": "2026-05-13T19:00:00Z",
           "sampleTitles": [
             {
               "title": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-              "url": "https://wvoc.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+              "url": "https://1190talkradio.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
               "language": "English"
             },
             {
-              "title": "Possible hantavirus case not linked to MV Hondius ship investigated in Illinois",
-              "url": "https://www.wjbc.com/2026/05/13/possible-hantavirus-case-not-linked-to-mv-hondius-ship-investigated-in-illinois/",
+              "title": "The unexpected everyday places YOU could be exposed to hantavirus",
+              "url": "https://www.dailymail.com/health/article-15815347/unexpected-places-exposed-hantavirus-cruise.html",
               "language": "English"
             },
             {
-              "title": "Jon Stewart mocks cable new hantavirus frenzy",
-              "url": "https://www.themarysue.com/jon-stewart-dons-a-hazmat-suit-to-mock-cable-news-hantavirus-frenzy-then-drops-the-one-question-they-refused-to-answer/",
+              "title": "Dont worry about hantavirus ! ( Wait , should we worry about hantavirus ?) – Daily Breeze",
+              "url": "https://www.dailybreeze.com/2026/05/13/dont-worry-about-hantavirus-wait-should-we-worry-about-hantavirus/",
               "language": "English"
             }
           ]
@@ -2016,8 +2070,13 @@
           "lat": 38.96,
           "lng": 35.24,
           "count": 4,
-          "latest": "2026-05-13T16:15:00Z",
+          "latest": "2026-05-13T18:30:00Z",
           "sampleTitles": [
+            {
+              "title": "EMAdan korkutan hantavirüs açıklaması : Onaylı tedavi ve aşı yok",
+              "url": "https://www.haberler.com/haberler/emadan-korkutan-hantavirus-aciklamasi-onayli-19843004-haberi/",
+              "language": "Turkish"
+            },
             {
               "title": "Hantavirüsten sonra şimdi de Norovirüs ! 1700  den fazla kişi karantinada",
               "url": "https://www.f5haber.com/dunya/hantavirusten-sonra-simdi-de-norovirus-1700den-fazla-kisi-karantinada-6919545",
@@ -2027,11 +2086,25 @@
               "title": "Avrupa İlaç Ajansı : Hantavirüs için onaylı tedavi ve aşı yok",
               "url": "https://medimagazin.com.tr/guncel/avrupa-ilac-ajansi-hantavirus-icin-onayli-tedavi-ve-asi-yok-120334",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 2,
+          "latest": "2026-05-13T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Хантавирус пламна на нов круизен кораб , има смъртен случай",
+              "url": "https://www.burgasinfo.com/news/view/5/151289",
+              "language": "Bulgarian"
             },
             {
-              "title": "İngiltere , hantavirüs salgınıyla bağlantılı 10 vatandaşını önleyici karantina kapsamında ülkeye getirecek",
-              "url": "https://medimagazin.com.tr/guncel/ingiltere-hantavirus-salginiyla-baglantili-10-vatandasini-onleyici-karantina-kapsaminda-ulkeye-getirecek-120339",
-              "language": "Turkish"
+              "title": "След хантавируса : Нова епидемия блокира британски круизен кораб във Франция",
+              "url": "https://www.focus-news.net/novini/mejdunarodni/Sled-hantavirusa-Nova-epidemiya-blokira-britanski-kruizen-korab-vuv-Franciya-2965388",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2093,20 +2166,6 @@
               "title": " ¿ En México hay casos de hantavirus en humanos tras brote reportado en crucero ? Esto sabemos",
               "url": "https://invdes.com.mx/salud/en-mexico-hay-casos-de-hantavirus-en-humanos-tras-brote-reportado-en-crucero-esto-sabemos/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-13T14:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "След хантавируса : Нова епидемия блокира британски круизен кораб във Франция",
-              "url": "https://www.focus-news.net/novini/mejdunarodni/Sled-hantavirusa-Nova-epidemiya-blokira-britanski-kruizen-korab-vuv-Franciya-2965388",
-              "language": "Bulgarian"
             }
           ]
         },
