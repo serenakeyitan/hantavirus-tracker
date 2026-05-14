@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T03:13:05.412Z",
+  "generatedAt": "2026-05-14T05:22:27.262Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,55 +2033,99 @@
       "timespan": "14d",
       "totalArticles": 70,
       "languages": {
-        "English": 66,
-        "Portuguese": 4
+        "English": 65,
+        "Bulgarian": 2,
+        "Portuguese": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 55,
-          "latest": "2026-05-14T02:45:00Z",
+          "count": 45,
+          "latest": "2026-05-14T05:00:00Z",
           "sampleTitles": [
             {
-              "title": "Disease specialist explains why concerns about hantavirus outbreak should be low in MI",
-              "url": "https://www.wnem.com/2026/05/14/specialist-explains-why-concerns-about-hantavirus-outbreak-should-be-low-michigan/",
-              "language": "English"
-            },
-            {
-              "title": "NM health officials : State hantavirus strain cannot spread person to person , unlike cruise ship outbreak",
-              "url": "https://www.abqjournal.com/news/state-health-officials-unlike-cruise-ship-strain-four-corners-hantavirus-cannot-spread-from-person-to-person/3041943",
-              "language": "English"
-            },
-            {
               "title": "Map : States monitoring possible hantavirus exposure",
-              "url": "https://www.wdsu.com/article/states-monitoring-hantavirus-exposure-map/71297738",
+              "url": "https://www.ketv.com/article/states-monitoring-hantavirus-exposure-map/71297738",
+              "language": "English"
+            },
+            {
+              "title": "Kansas City Metro Home To Hantavirus Treatement At KU Med",
+              "url": "https://www.tonyskansascity.com/2026/05/kansas-city-metro-home-to-hantavirus.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus Outbreak Kills Three Aboard Cruise Ship ; Two Sick Crew Members Still Awaiting Medical Care",
+              "url": "https://www.cruiselawnews.com/2026/05/articles/disease-outbreaks/hantavirus-outbreak-kills-three-aboard-cruise-ship-two-sick-crew-members-still-awaiting-medical-care/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 5,
-          "latest": "2026-05-14T01:45:00Z",
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 6,
+          "latest": "2026-05-14T05:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canadians monitored following Andes hantavirus exposure linked to cruise ship outbreak - WestCentralOnline : West Central Saskatchewan latest news , sports , weather , community events . ",
-              "url": "https://westcentralonline.com/articles/canadians-monitored-following-andes-hantavirus-exposure-linked-to-cruise-ship-outbreak",
+              "title": "Six passengers from hantavirus - hit cruise ship due to arrive in Perth tomorrow",
+              "url": "https://www.abc.net.au/news/2026-05-14/passengers-from-hantavirus-cruise-ship-to-arrive-perth-on-friday/106678732",
               "language": "English"
             },
             {
-              "title": "Dont  mouse  around with spring cleaning , Interior Health warning on hantavirus",
-              "url": "https://kelownacapnews.com/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
+              "title": "Hantavirus cruise evacuees secure flight to Australia",
+              "url": "https://www.perthnow.com.au/news/disaster-and-emergency/hantavirus-cruise-evacuees-secure-flight-to-australia-c-22283501",
               "language": "English"
             },
             {
-              "title": "What we know about hantavirus now that people linked to outbreak are back in Canada – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/canada/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada",
+              "title": "Hantavirus cruise evacuees secure flight to Australia",
+              "url": "https://www.theleader.com.au/story/9246639/hantavirus-cruise-evacuees-secure-flight-to-australia/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 4,
+          "latest": "2026-05-14T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus scientists were close to vaccine but ran out of money",
+              "url": "https://www.moneycontrol.com/world/hantavirus-scientists-were-close-to-vaccine-but-ran-out-of-money-article-13918796.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus outbreak : Deadly Andes strain detected in cruise ship cases ; eight cases confirmed",
+              "url": "https://timesofindia.indiatimes.com/world/us/hantavirus-outbreak-deadly-andes-strain-detected-in-cruise-ship-cases-eight-cases-confirmed/articleshow/131080331.cms",
+              "language": "English"
+            },
+            {
+              "title": "WHO confirms eight cases of Andes hantavirus in outbreak",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/who-confirms-eight-cases-of-andes-hantavirus-in-outbreak/articleshow/131080524.cms",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 2,
+          "latest": "2026-05-14T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "В България има много случаи на хантавируси , това не е непознато : Доц . Пишмишева разказва",
+              "url": "https://www.actualno.com/healthy/v-bylgarija-ima-mnogo-sluchai-na-hantavirusi-tova-ne-e-nepoznato-doc-pishmisheva-razkazva-news_2593922.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "САЩ уверява : Рискът от заразяване с хантавирус остава нисък",
+              "url": "https://www.actualno.com/america/sasht-uverjava-riskyt-ot-zarazjavane-s-hantavirus-ostava-nisyk-news_2593899.html",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2089,23 +2133,46 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 3,
-          "latest": "2026-05-14T01:45:00Z",
+          "count": 2,
+          "latest": "2026-05-14T03:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Milei corta verba de instituto que investiga hantavírus - 13 / 05 / 2026 - Equilíbrio e Saúde",
+              "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/05/centro-argentino-que-pesquisa-hantavirus-sofre-com-cortes-orcamentarios-de-milei.shtml",
+              "language": "Portuguese"
+            },
             {
               "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
               "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes-1.1713419",
               "language": "Portuguese"
-            },
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-14T03:45:00Z",
+          "sampleTitles": [
             {
-              "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
-              "url": "http://www.em.com.br/internacional/2026/05/7419200-oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.html",
-              "language": "Portuguese"
-            },
+              "title": "Hantavirus Map Update : Alarming 2026 ArcGIS Tracking Data Shows Potential Rise to 40 Cases as Rapid Spread Continues",
+              "url": "https://www.ibtimes.co.uk/hantavirus-outbreak-cruise-ship-global-monitoring-1796706",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 1,
+          "latest": "2026-05-14T03:30:00Z",
+          "sampleTitles": [
             {
-              "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/05/13/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.ghtml",
-              "language": "Portuguese"
+              "title": "Second Kiwi isolating overseas after cruise ship hantavirus exposure",
+              "url": "https://www.nzherald.co.nz/nz/second-kiwi-isolating-overseas-after-cruise-ship-hantavirus-exposure/RBG2GH3WPZEMDCYKK33PB2Y45I/",
+              "language": "English"
             }
           ]
         },
@@ -2124,15 +2191,15 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
           "count": 1,
           "latest": "2026-05-14T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus scientists were close to vaccine but ran out of money",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-scientists-were-close-to-vaccine-but-ran-out-of-money/articleshow/131079930.cms",
+              "title": "Canadians monitored following Andes hantavirus exposure linked to cruise ship outbreak - WestCentralOnline : West Central Saskatchewan latest news , sports , weather , community events . ",
+              "url": "https://westcentralonline.com/articles/canadians-monitored-following-andes-hantavirus-exposure-linked-to-cruise-ship-outbreak",
               "language": "English"
             }
           ]
