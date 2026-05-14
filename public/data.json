@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T22:28:45.366Z",
+  "generatedAt": "2026-05-14T23:23:55.720Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 79,
+      "totalArticles": 78,
       "languages": {
-        "English": 68,
-        "Portuguese": 7,
-        "Turkish": 3,
+        "English": 62,
+        "Portuguese": 9,
+        "Turkish": 6,
         "Russian": 1
       },
       "countries": [
@@ -2043,23 +2043,71 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 53,
-          "latest": "2026-05-14T21:30:00Z",
+          "count": 48,
+          "latest": "2026-05-14T23:00:00Z",
           "sampleTitles": [
             {
+              "title": "Local health experts share Pennsylvania response to hantavirus",
+              "url": "https://www.fox43.com/article/news/local/local-health-experts-share-pennsylvania-response-to-hantavirus-health-people/521-e93a629d-82de-410e-ad46-b5305f5fce2a",
+              "language": "English"
+            },
+            {
+              "title": "What Backpackers Should Know About Hantavirus , According to an Expert",
+              "url": "https://www.outsideonline.com/adventure-travel/news-analysis/everything-backpackers-need-to-know-about-hantavirus-2/",
+              "language": "English"
+            },
+            {
               "title": "CDC says hantavirus risk still low as it monitors exposed passengers : What to know",
-              "url": "https://www.wtsp.com/article/news/nation-world/hantavirus-outbreak-what-americans-need-to-know/507-7c427aea-22d7-4bb3-bc7a-d18c9173513c",
+              "url": "https://www.5newsonline.com/article/news/nation-world/hantavirus-outbreak-what-americans-need-to-know/507-7c427aea-22d7-4bb3-bc7a-d18c9173513c",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 7,
+          "latest": "2026-05-14T23:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
+              "url": "https://www.bemparana.com.br/noticias/mundo/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
+              "language": "Portuguese"
             },
             {
-              "title": "Three in Kansas under observation for hantavirus",
-              "url": "https://www.1073theeagle.com/news/trending/hantavirus-outbreak-three-people-kansas-exposed-virus/4XBN6P3D5FARREQPZ3IF7ELPZQ/",
-              "language": "English"
+              "title": "Estados Unidos monitoram 41 pessoas para hantavírus - 14 / 05 / 2026 - Equilíbrio e Saúde",
+              "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/05/eua-dizem-que-41-pessoas-sao-monitoradas-para-hantavirus-no-pais.shtml",
+              "language": "Portuguese"
             },
             {
-              "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
-              "url": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
-              "language": "English"
+              "title": "CDC diz que 41 pessoas estão sendo monitoradas para hantavírus nos EUA",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/14/cdc-diz-que-41-pessoas-estao-sendo-monitoradas-para-hantavirus-nos-eua.ghtml",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 7,
+          "latest": "2026-05-14T22:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Bakan Memişoğlu açıkladı : Hantavirüs konusunda bir salgın riski var mı ? ",
+              "url": "https://www.dunya.com/saglik/bakan-memisoglu-acikladi-hantavirus-konusunda-bir-salgin-riski-var-mi-haberi-825203",
+              "language": "Turkish"
+            },
+            {
+              "title": "Bakan Memişoğlundan Hantavirüs açıklaması - CNN TÜRK En Son Haberler",
+              "url": "https://www.cnnturk.com/turkiye/bakan-memisoglundan-hantavirus-aciklamasi-3422782",
+              "language": "Turkish"
+            },
+            {
+              "title": "Türkiyede vaka görüldü mü ? Sağlık Bakanlığından son dakika Hantavirüs duyurusu",
+              "url": "https://www.haber7.com/guncel/haber/3627990-turkiyede-vaka-goruldu-mu-saglik-bakanligindan-son-dakika-hantavirus-duyurusu",
+              "language": "Turkish"
             }
           ]
         },
@@ -2088,54 +2136,6 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 5,
-          "latest": "2026-05-14T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "CDC diz que 41 pessoas estão sendo monitoradas para hantavírus nos EUA",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/14/cdc-diz-que-41-pessoas-estao-sendo-monitoradas-para-hantavirus-nos-eua.ghtml",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
-              "url": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
-              "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 4,
-          "latest": "2026-05-14T21:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Bakan Memiþoðlundan Hantavirüs vurgusu : Salgýn riski yok",
-              "url": "https://www.star.com.tr/guncel/bakan-memisoglundan-hantavirus-vurgusu-salgin-riski-yok-haber-2016271/",
-              "language": "Turkish"
-            },
-            {
-              "title": "Bakan Memişoğlu açıkladı : Türkiyede hantavirüs riski var mı ? ",
-              "url": "https://www.konhaber.com/guncel/bakan_memisoglu_acikladi_turkiye_de_hantavirus_riski_var_mi-1999520h",
-              "language": "Turkish"
-            },
-            {
-              "title": "Avrupa Birliğinde hantavirüs alarmı",
-              "url": "https://www.posta.com.tr/dunya/avrupa-birliginde-hantavirus-alarmi-2992701",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2160,20 +2160,6 @@
               "title": "В США более 40 человек находятся под наблюдением из - за угрозы хантавируса",
               "url": "https://ria.ru/20260514/usa-2092549051.html",
               "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-14T18:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Debunked : The WHO has not said hantavirus is  spreading very fast across the world  ",
-              "url": "https://www.thejournal.ie/did-the-who-say-that-hantavirus-is-spreading-rapidly-across-the-world-7038517-May2026/",
-              "language": "English"
             }
           ]
         }
