@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:35:35.549Z",
+  "generatedAt": "2026-05-14T21:30:42.271Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 78,
+      "totalArticles": 76,
       "languages": {
-        "Portuguese": 3,
-        "English": 70,
+        "Turkish": 3,
+        "English": 66,
+        "Portuguese": 5,
         "Russian": 1,
-        "Turkish": 2,
-        "Hungarian": 2
+        "Hungarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 56,
-          "latest": "2026-05-14T20:15:00Z",
+          "count": 53,
+          "latest": "2026-05-14T20:45:00Z",
           "sampleTitles": [
             {
-              "title": "Fact File : Misleading claims about hantavirus shared online amid cruise ship outbreak",
-              "url": "https://medicinehatnews.com/news/national-news/2026/05/14/fact-file-misleading-claims-about-hantavirus-shared-online-amid-cruise-ship-outbreak/",
+              "title": "Oregon doctor who helped take care of passengers with hantavirus is isolated in med . unit",
+              "url": "https://kcby.com/news/local/oregon-doctor-stephen-kornfeld-bend-who-helped-take-care-of-mv-hondius-passengers-with-hantavirus-is-isolated-national-quarantine-unit-university-of-nebraska-medical-center-in-omaha",
               "language": "English"
             },
             {
-              "title": "Doubts grow over theory that bird - watcher trip to Argentine landfill sparked hantavirus outbreak",
-              "url": "https://www.scientificamerican.com/article/doubts-grow-over-theory-that-bird-watchers-trip-to-argentine-landfill-sparked-hantavirus-outbreak/",
+              "title": "Doctor on ship who helped care for passengers with hantavirus cleared to leave biocontainment unit isolation",
+              "url": "https://www.knoe.com/2026/05/14/doctor-ship-who-helped-care-passengers-with-hantavirus-cleared-leave-biocontainment-unit-isolation/",
               "language": "English"
             },
             {
-              "title": "Suspected hantavirus case reported in Ontario County",
-              "url": "https://www.wxxinews.org/local-news/2026-05-14/suspected-hantavirus-case-reported-in-ontario-county",
+              "title": "The world reaction to hantavirus is tinged by echoes of COVID",
+              "url": "https://www.ksla.com/2026/05/14/worlds-reaction-hantavirus-is-tinged-by-echoes-covid/",
               "language": "English"
             }
           ]
@@ -2068,7 +2068,7 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 9,
+          "count": 5,
           "latest": "2026-05-14T19:45:00Z",
           "sampleTitles": [
             {
@@ -2092,22 +2092,22 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-14T19:00:00Z",
+          "count": 4,
+          "latest": "2026-05-14T21:00:00Z",
           "sampleTitles": [
             {
-              "title": "Avrupa Birliğinde hantavirüs alarmı",
-              "url": "https://www.posta.com.tr/dunya/avrupa-birliginde-hantavirus-alarmi-2992701",
+              "title": "Bakan Memiþoðlundan Hantavirüs vurgusu : Salgýn riski yok",
+              "url": "https://www.star.com.tr/guncel/bakan-memisoglundan-hantavirus-vurgusu-salgin-riski-yok-haber-2016271/",
               "language": "Turkish"
             },
             {
-              "title": "All passengers evacuated to Netherlands from hantavirus - hit cruise ship tested negative : Authorities",
-              "url": "https://aa.com.tr/en/health/authorities-say-all-passengers-evacuated-to-netherlands-from-virus-stricken-cruise-ship-tested-negative/3937666",
-              "language": "English"
+              "title": "Bakan Memişoğlu açıkladı : Türkiyede hantavirüs riski var mı ? ",
+              "url": "https://www.konhaber.com/guncel/bakan_memisoglu_acikladi_turkiye_de_hantavirus_riski_var_mi-1999520h",
+              "language": "Turkish"
             },
             {
-              "title": "Bakan Memişoğlu : Türkiyede Hantavirüs Salgını Yok",
-              "url": "https://www.haberaktuel.com/bakan-memisoglu-turkiye-de-hantavirus-salgini-yok-3430248",
+              "title": "Avrupa Birliğinde hantavirüs alarmı",
+              "url": "https://www.posta.com.tr/dunya/avrupa-birliginde-hantavirus-alarmi-2992701",
               "language": "Turkish"
             }
           ]
@@ -2116,37 +2116,23 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-14T20:15:00Z",
+          "count": 4,
+          "latest": "2026-05-14T20:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
+              "url": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
+              "language": "Portuguese"
+            },
             {
               "title": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
               "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
               "language": "Portuguese"
             },
             {
-              "title": "OMS confirma oito casos de cepa do hantavírus que causou surto em navio",
-              "url": "https://operamundi.uol.com.br/saude/oms-confirma-oito-casos-de-cepa-do-hantavirus-que-causou-surto-em-navio/",
+              "title": "Britânico quebra quarentena de hantavírus e é encontrado em bar na Itália",
+              "url": "https://noticias.r7.com/internacional/britanico-quebra-quarentena-de-hantavirus-e-e-encontrado-em-bar-na-italia-14052026/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 2,
-          "latest": "2026-05-14T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : már régen meg lehetne az ellenszere",
-              "url": "https://www.vg.hu/nemzetkozi-gazdasag/2026/05/hantavirus-elleni-vakcina",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Megszólalt egy magyar hantavírusos beteg : ezek voltak az első tünetei",
-              "url": "https://divany.hu/testem/magyar-hantavirus-beteg-tortenete-tuntetek/",
-              "language": "Hungarian"
             }
           ]
         },
@@ -2175,6 +2161,20 @@
               "title": "Debunked : The WHO has not said hantavirus is  spreading very fast across the world  ",
               "url": "https://www.thejournal.ie/did-the-who-say-that-hantavirus-is-spreading-rapidly-across-the-world-7038517-May2026/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-14T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : már régen meg lehetne az ellenszere",
+              "url": "https://www.vg.hu/nemzetkozi-gazdasag/2026/05/hantavirus-elleni-vakcina",
+              "language": "Hungarian"
             }
           ]
         }
