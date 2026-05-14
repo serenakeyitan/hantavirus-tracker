@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T14:57:20.074Z",
+  "generatedAt": "2026-05-14T15:56:55.554Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,59 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 49,
+      "totalArticles": 57,
       "languages": {
-        "English": 33,
-        "Turkish": 4,
-        "Portuguese": 10,
-        "Hungarian": 1,
-        "Bulgarian": 1
+        "English": 39,
+        "Russian": 3,
+        "Turkish": 6,
+        "Portuguese": 9
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 19,
-          "latest": "2026-05-14T13:15:00Z",
+          "count": 27,
+          "latest": "2026-05-14T15:30:00Z",
           "sampleTitles": [
             {
-              "title": "SUNY Upstate doctor says hantavirus risk to Central New Yorkers remains low",
-              "url": "https://www.waer.org/news/2026-05-14/suny-upstate-doctor-says-hantavirus-risk-to-central-new-yorkers-remains-low",
+              "title": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+              "url": "https://www.thv11.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
               "language": "English"
             },
             {
               "title": "The world reaction to hantavirus is tinged by echoes of something else : COVID",
-              "url": "https://abcnews.com/Lifestyle/wireStory/worlds-reaction-hantavirus-tinged-echoes-covid-132956200",
+              "url": "https://www.ksat.com/health/2026/05/14/the-worlds-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/",
               "language": "English"
             },
             {
-              "title": "The world reaction to hantavirus is tinged by echoes of something else : COVID",
-              "url": "https://www.news4jax.com/health/2026/05/14/the-worlds-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/",
+              "title": "Doctor moved out of biocontainment unit after being cleared of hantavirus",
+              "url": "https://www.kxlh.com/health/cruise-ship-hantavirus-outbreak-sees-american-doctor-cleared-from-isolation",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 5,
+          "latest": "2026-05-14T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Bakan Memişoğlu Canlı Yayında Açıkladı : Türkiyede Hantavirüs Vakası Var mı ? ",
+              "url": "https://www.gercekgundem.com/guncel/bakan-memisoglu-canli-yayinda-acikladi-turkiyede-hantavirus-vakasi-var-mi-571530",
+              "language": "Turkish"
+            },
+            {
+              "title": "Avrupada hantavirüs alarmı ! AB kriz mekanizmasını devreye aldı",
+              "url": "https://www.haber7.com/dunya/haber/3627884-avrupada-hantavirus-alarmi-ab-kriz-mekanizmasini-devreye-aldi",
+              "language": "Turkish"
+            },
+            {
+              "title": "Sağlık Bakanı Memişoğlundan  Hantavirüs  açıklaması : Şu anda böyle bir salgın riski yok",
+              "url": "https://www.yeniakit.com.tr/haber/saglik-bakani-memisoglundan-hantavirus-aciklamasi-su-anda-boyle-bir-salgin-riski-yok-2001679.html",
+              "language": "Turkish"
             }
           ]
         },
@@ -2089,12 +2112,41 @@
           ]
         },
         {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 3,
+          "latest": "2026-05-14T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Врач Уланкина рассказала , почему хантавирус « андес » не считают новой болезнью",
+              "url": "https://russian.rt.com/russia/news/1631920-vrach-zdorove-hantavirus",
+              "language": "Russian"
+            },
+            {
+              "title": "Инфекционист Тимаков объяснил механизм заражения хантавирусом",
+              "url": "https://aif.ru/health/infekcionist-timakov-obyasnil-mehanizm-zarazheniya-hantavirusom",
+              "language": "Russian"
+            },
+            {
+              "title": "Хантавирус в России : эксперт рассказал , кто находится в зоне риска и какие у болезни симптомы - 14 мая 2026",
+              "url": "https://161.ru/text/health/2026/05/14/76418293/",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 4,
-          "latest": "2026-05-14T11:45:00Z",
+          "count": 3,
+          "latest": "2026-05-14T15:00:00Z",
           "sampleTitles": [
+            {
+              "title": "UE ativa mecanismo de crise para monitorizar surto de hantavírus e reforçar coordenao",
+              "url": "https://expresso.pt/europa/2026-05-14-ue-ativa-mecanismo-de-crise-para-monitorizar-surto-de-hantavirus-e-reforcar-coordenacao-7512ed56",
+              "language": "Portuguese"
+            },
             {
               "title": "UE ativa mecanismo de crise para monitorizar surto de hantavírus e reforçar coordenao",
               "url": "https://sapo.pt/artigo/ue-ativa-mecanismo-de-crise-para-monitorizar-surto-de-hantavirus-e-reforcar-coordenacao-6a05ae2773a262a5e902af3b",
@@ -2104,53 +2156,24 @@
               "title": "Hantavírus . União Europeia reforça troca de informaes para monitorizar surto",
               "url": "https://www.rtp.pt/noticias/mundo/hantavirus-uniao-europeia-reforca-troca-de-informacoes-para-monitorizar-surto_n1741200",
               "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus . Oito casos são da estirpe do vírus dos Andes",
-              "url": "https://www.rtp.pt/noticias/mundo/hantavirus-oito-casos-sao-da-estirpe-do-virus-dos-andes_n1741182",
-              "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-14T13:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirüs salgınlı kruvaziyerde görev yapan doktor izolasyondan çıktı",
-              "url": "https://medimagazin.com.tr/hekim/hantavirus-salginli-kruvaziyerde-gorev-yapan-doktor-izolasyondan-cikti-120355",
-              "language": "Turkish"
-            },
-            {
-              "title": "İnternet dünyasının asılsız sağlık efsanelerine bir yenisi daha eklendi : Hantavirüs ve genital organlar üzerine dolaşıma sokulan iddialar gerçeği yansıtıyor mu ? ",
-              "url": "https://www.haberyazar.com/genel/internet-dunyasinin-asilsiz-saglik-efsanelerine-bir-yenisi-daha-eklendi-hantavirus-ve-genital-organlar-uzerine-dolasima-sokulan-iddialar-gercegi-yansitiyor-mu/20586",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor - Havadis Gazetesi",
-              "url": "https://www.havadiskibris.com/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendirmeye-devam-ediyor/",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 2,
-          "latest": "2026-05-14T12:15:00Z",
+          "latest": "2026-05-14T15:00:00Z",
           "sampleTitles": [
             {
-              "title": "Brit tourist quarantined in Italy after contact with hantavirus victim",
-              "url": "http://www.femalefirst.co.uk/travel/brit-tourist-quarantined-italy-after-contact-hantavirus-victim-1444414.html",
+              "title": "Epidemiologist : No Significant Hantavirus Risk for Bulgaria , Focus on Rodent Exposure - Novinite . com",
+              "url": "https://www.novinite.com/articles/238513/Epidemiologist:+No+Significant+Hantavirus+Risk+for+Bulgaria,+Focus+on+Rodent+Exposure",
               "language": "English"
             },
             {
-              "title": "Public Health Wales confirms united kingdom - wide response involvement to hantavirus outbreak",
-              "url": "https://www.dailypost.co.uk/news/north-wales-news/public-health-wales-confirms-uk-33943600",
+              "title": "Cyprus Activates EU Crisis Mechanism Over Hantavirus Concerns",
+              "url": "http://www.bgnes.com/european-union/cyprus-activates-eu-crisis-mechanism-over-hantavirus-concerns",
               "language": "English"
             }
           ]
@@ -2175,96 +2198,30 @@
           ]
         },
         {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-14T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Brit tourist quarantined in Italy after contact with hantavirus victim",
+              "url": "http://www.femalefirst.co.uk/travel/brit-tourist-quarantined-italy-after-contact-hantavirus-victim-1444414.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-14T09:45:00Z",
           "sampleTitles": [
             {
               "title": "Deadly Hantavirus Outbreak Linked to Cruise Ship : Vaccine Development Stalled Due to Funding Issues |",
               "url": "https://timesofindia.indiatimes.com/world/us/hantavirus-outbreak-scientists-ran-out-of-funds-while-developing-a-vaccine-report-says/articleshow/131087775.cms",
               "language": "English"
-            },
-            {
-              "title": "  We were close , then ran out of money , says scientists on Hantavirus vaccine",
-              "url": "https://www.hindustantimes.com/world-news/we-were-close-then-ran-out-of-money-says-scientists-on-hantavirus-vaccine-101778732768756.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
-          "count": 2,
-          "latest": "2026-05-14T08:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "ECDC urges quarantine for passengers on KLM flight with Dutch hantavirus patient",
-              "url": "https://nltimes.nl/2026/05/14/ecdc-urges-quarantine-passengers-klm-flight-dutch-hantavirus-patient",
-              "language": "English"
-            },
-            {
-              "title": "Healthcare unions shocked that Radboud hospital staffers face hantavirus quarantine",
-              "url": "https://nltimes.nl/2026/05/14/healthcare-unions-shocked-radboud-hospital-staffers-face-hantavirus-quarantine",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Japan",
-          "lat": 36.2,
-          "lng": 138.3,
-          "count": 1,
-          "latest": "2026-05-14T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Tests in Italy , Spain come back negative in global hunt for hantavirus",
-              "url": "https://japantoday.com/category/world/tests-in-italy-spain-come-back-negative-in-global-hunt-for-hantavirus1",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-14T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus contacts face 42 day quarantine as cases  contained  ",
-              "url": "https://www.citizen.co.za/news/hantavirus-contacts-face-42-day-quarantine-as-cases-contained/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-14T08:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Szlávik János a hantavírusról : ezért ne mondd le a nyaralásodat",
-              "url": "https://divany.hu/mindennapi/szlavik-janos-hantavirus-nyaralas-lemondas/",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-14T08:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Доц . Мария Пишмишева : Хантавирусите не са нов COVID - 19 и не представляват глобален риск",
-              "url": "https://www.cross.bg/pishmisheva-hantavirysite-nyama-1796888.html",
-              "language": "Bulgarian"
             }
           ]
         }
