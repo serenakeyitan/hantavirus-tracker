@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T21:30:42.271Z",
+  "generatedAt": "2026-05-14T22:28:45.366Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,13 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 76,
+      "totalArticles": 79,
       "languages": {
+        "English": 68,
+        "Portuguese": 7,
         "Turkish": 3,
-        "English": 66,
-        "Portuguese": 5,
-        "Russian": 1,
-        "Hungarian": 1
+        "Russian": 1
       },
       "countries": [
         {
@@ -2045,21 +2044,21 @@
           "lat": 39,
           "lng": -98,
           "count": 53,
-          "latest": "2026-05-14T20:45:00Z",
+          "latest": "2026-05-14T21:30:00Z",
           "sampleTitles": [
             {
-              "title": "Oregon doctor who helped take care of passengers with hantavirus is isolated in med . unit",
-              "url": "https://kcby.com/news/local/oregon-doctor-stephen-kornfeld-bend-who-helped-take-care-of-mv-hondius-passengers-with-hantavirus-is-isolated-national-quarantine-unit-university-of-nebraska-medical-center-in-omaha",
+              "title": "CDC says hantavirus risk still low as it monitors exposed passengers : What to know",
+              "url": "https://www.wtsp.com/article/news/nation-world/hantavirus-outbreak-what-americans-need-to-know/507-7c427aea-22d7-4bb3-bc7a-d18c9173513c",
               "language": "English"
             },
             {
-              "title": "Doctor on ship who helped care for passengers with hantavirus cleared to leave biocontainment unit isolation",
-              "url": "https://www.knoe.com/2026/05/14/doctor-ship-who-helped-care-passengers-with-hantavirus-cleared-leave-biocontainment-unit-isolation/",
+              "title": "Three in Kansas under observation for hantavirus",
+              "url": "https://www.1073theeagle.com/news/trending/hantavirus-outbreak-three-people-kansas-exposed-virus/4XBN6P3D5FARREQPZ3IF7ELPZQ/",
               "language": "English"
             },
             {
-              "title": "The world reaction to hantavirus is tinged by echoes of COVID",
-              "url": "https://www.ksla.com/2026/05/14/worlds-reaction-hantavirus-is-tinged-by-echoes-covid/",
+              "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+              "url": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
               "language": "English"
             }
           ]
@@ -2068,9 +2067,14 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 5,
-          "latest": "2026-05-14T19:45:00Z",
+          "count": 6,
+          "latest": "2026-05-14T21:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
+              "url": "https://cheknews.ca/26-low-risk-air-passengers-being-contacted-about-hantavirus-canadas-top-doctor-1324433/",
+              "language": "English"
+            },
             {
               "title": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
               "url": "https://www.kelownadailycourier.ca/news/national_news/article_f9651934-0f3b-587b-8184-b69458869ed1.html",
@@ -2080,11 +2084,30 @@
               "title": "How to protect against hantavirus : Interior Health | Columbia Valley , Cranbrook , East Kootenay , Elk Valley , Kimberley , Ktunaxa Nation",
               "url": "https://www.e-know.ca/regions/east-kootenay/how-to-protect-against-hantavirus-interior-health/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 5,
+          "latest": "2026-05-14T21:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "CDC diz que 41 pessoas estão sendo monitoradas para hantavírus nos EUA",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/14/cdc-diz-que-41-pessoas-estao-sendo-monitoradas-para-hantavirus-nos-eua.ghtml",
+              "language": "Portuguese"
             },
             {
-              "title": "JOHNSTON : Hantavirus outbreak demonstrates value of cooperation",
-              "url": "https://www.communitypress.ca:443/opinion/johnston-hantavirus-outbreak-demonstrates-value-of-cooperation",
-              "language": "English"
+              "title": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
+              "url": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
+              "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2113,25 +2136,15 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 4,
-          "latest": "2026-05-14T20:30:00Z",
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-14T21:30:00Z",
           "sampleTitles": [
             {
-              "title": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
-              "url": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
-              "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Britânico quebra quarentena de hantavírus e é encontrado em bar na Itália",
-              "url": "https://noticias.r7.com/internacional/britanico-quebra-quarentena-de-hantavirus-e-e-encontrado-em-bar-na-italia-14052026/",
+              "title": "Missão científica investiga hantavírus em Ushuaia",
+              "url": "https://expresso.pt/sociedade/saude/2026-05-14-missao-cientifica-investiga-hantavirus-em-ushuaia-e3e5dd1a",
               "language": "Portuguese"
             }
           ]
@@ -2161,20 +2174,6 @@
               "title": "Debunked : The WHO has not said hantavirus is  spreading very fast across the world  ",
               "url": "https://www.thejournal.ie/did-the-who-say-that-hantavirus-is-spreading-rapidly-across-the-world-7038517-May2026/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-14T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : már régen meg lehetne az ellenszere",
-              "url": "https://www.vg.hu/nemzetkozi-gazdasag/2026/05/hantavirus-elleni-vakcina",
-              "language": "Hungarian"
             }
           ]
         }
