@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T23:29:27.686Z",
+  "generatedAt": "2026-05-14T00:54:30.864Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,14 +2031,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 53,
+      "totalArticles": 64,
       "languages": {
-        "English": 44,
-        "Hungarian": 1,
-        "Turkish": 3,
-        "Russian": 2,
-        "Bulgarian": 1,
-        "Portuguese": 2
+        "English": 57,
+        "Spanish": 2,
+        "Portuguese": 3,
+        "Turkish": 1,
+        "Hungarian": 1
       },
       "countries": [
         {
@@ -2046,134 +2045,45 @@
           "lat": 39,
           "lng": -98,
           "count": 40,
-          "latest": "2026-05-13T21:15:00Z",
+          "latest": "2026-05-14T00:30:00Z",
           "sampleTitles": [
             {
-              "title": "Why experts say hantavirus isnt  COVID - 19 : The Sequel  ",
-              "url": "https://www.wdsu.com/article/hantavirus-isnt-covid-19-pandemic/71296587",
+              "title": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
+              "url": "https://www.kjrh.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
               "language": "English"
             },
             {
-              "title": "  High - risk exposure : Kansas health leaders confirm 3 people exposed to hantavirus",
-              "url": "https://www.kold.com/2026/05/13/high-risk-exposure-kansas-health-leaders-confirm-3-people-exposed-hantavirus/",
+              "title": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
+              "url": "https://www.10news.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
               "language": "English"
             },
             {
-              "title": "What we know about hantavirus in western Washington",
-              "url": "https://www.king5.com/article/news/health/hantavirus-western-washington-contact-tracing-symptoms/281-3624ca38-5e34-422c-9ac5-7db0e4e6f0bc",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-13T20:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor",
-              "url": "https://www.haberler.com/guncel/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendiriyor-19843210-haberi/",
-              "language": "Turkish"
-            },
-            {
-              "title": "EMAdan korkutan hantavirüs açıklaması : Onaylı tedavi ve aşı yok",
-              "url": "https://www.haberler.com/haberler/emadan-korkutan-hantavirus-aciklamasi-onayli-19843004-haberi/",
-              "language": "Turkish"
-            },
-            {
-              "title": "Hantavirüsten sonra şimdi de Norovirüs ! 1700  den fazla kişi karantinada",
-              "url": "https://www.f5haber.com/dunya/hantavirusten-sonra-simdi-de-norovirus-1700den-fazla-kisi-karantinada-6919545",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-13T16:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Centro europeu sem razões para suspeitar que se trata de nova estirpe do hantavírus",
-              "url": "https://www.dnoticias.pt/2026/5/13/491844-centro-europeu-sem-razoes-para-suspeitar-que-se-trata-de-nova-estirpe-do-hantavirus/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus . Não há razões para suspeitar que se trata de nova estirpe",
-              "url": "https://sapo.pt/artigo/hantavirus-nao-ha-razoes-para-suspeitar-que-se-trata-de-nova-estirpe-6a048b7d1a6d36bf2217effc",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-13T21:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "The hantavirus outbreak is resurrecting Covid - era misinformation tactics",
-              "url": "https://www.nzherald.co.nz/world/the-hantavirus-outbreak-is-resurrecting-covid-era-misinformation-tactics/premium/NCKAIGB6XFHRXLWSXOD6WANCAU/",
+              "title": "Company says it not clear when its hantavirus - hit ship will start cruises again | Business",
+              "url": "https://www.kitv.com/news/business/company-says-it-s-not-clear-when-its-hantavirus-hit-ship-will-start-cruises-again/article_f4479749-30f7-5c4a-a908-ecaf8c5c4495.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-13T20:30:00Z",
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 9,
+          "latest": "2026-05-14T00:30:00Z",
           "sampleTitles": [
             {
-              "title": "Üzent Szlávik János : senki se mondja le a nyaralását a hantavírus miatt",
-              "url": "https://www.portfolio.hu/gazdasag/20260513/uzent-szlavik-janos-senki-se-mondja-le-a-nyaralasat-a-hantavirus-miatt-836634",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-13T19:45:00Z",
-          "sampleTitles": [
+              "title": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
+              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/article_81540650-775b-5d93-9ddb-f2f260a1a703.html",
+              "language": "English"
+            },
             {
-              "title": "Почему вспышка хантавируса на лайнере вызвала мировую тревогу",
-              "url": "https://pronedra.ru/hantavirus-redkaya-infekcziya-s-vysokim-riskom-pochemu-vspyshka-na-lajnere-mv-hondius-vyzvala-trevogu-v-mire-817762.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-13T18:30:00Z",
-          "sampleTitles": [
+              "title": "Dont  mouse  around with spring cleaning , Interior Health warning on hantavirus",
+              "url": "https://saobserver.net/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
+              "language": "English"
+            },
             {
-              "title": "Хантавирус пламна на нов круизен кораб , има смъртен случай",
-              "url": "https://www.burgasinfo.com/news/view/5/151289",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 1,
-          "latest": "2026-05-13T17:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Russia takes hantavirus precautions",
-              "url": "http://www.argentinastar.com/news/279048577/russia-takes-hantavirus-precautions",
+              "title": "Hantavirus – Should You be Worried ? | The Community Press",
+              "url": "https://www.communitypress.ca:443/opinion/columnists/hantavirus-should-you-be-worried",
               "language": "English"
             }
           ]
@@ -2182,12 +2092,116 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-13T15:30:00Z",
+          "count": 3,
+          "latest": "2026-05-13T23:00:00Z",
           "sampleTitles": [
             {
-              "title": "More cases of hantavirus coming WHO chief",
-              "url": "http://www.brazilsun.com/news/279048062/more-cases-of-hantavirus-coming-who-chief",
+              "title": "Paciente americano com sintomas de hantavírus testa negativo",
+              "url": "http://www.em.com.br/internacional/2026/05/7419136-paciente-americano-com-sintomas-de-hantavirus-testa-negativo.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Centro argentino que pesquisa hantavírus sofre com últimos cortes orçamentários de Milei",
+              "url": "http://www.em.com.br/internacional/2026/05/7419101-centro-argentino-que-pesquisa-hantavirus-sofre-com-ultimos-cortes-orcamentarios-de-milei.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : OMS afirma que não há indícios de surto maior após casos em navio",
+              "url": "https://correio.rac.com.br/mundo/hantavirus-oms-afirma-que-n-o-ha-indicios-de-surto-maior-apos-casos-em-navio-1.1806036",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 2,
+          "latest": "2026-05-13T23:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO chief says no new deaths reported in hantavirus outbreak since May 2",
+              "url": "https://aa.com.tr/en/world/who-chief-says-no-new-deaths-reported-in-hantavirus-outbreak-since-may-2/3936691",
+              "language": "English"
+            },
+            {
+              "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor",
+              "url": "https://www.haksozhaber.net/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendirmeye-devam-ediyor-204972h.htm",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 2,
+          "latest": "2026-05-13T23:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cruise operator awaiting details after Hantavirus case",
+              "url": "https://theshillongtimes.com/2026/05/14/cruise-operator-awaiting-details-after-hantavirus-case/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus Is A Wake - Up Call , Not A Global Crisis",
+              "url": "https://kashmirreader.com/2026/05/14/hantavirus-is-a-wake-up-call-not-a-global-crisis/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-05-13T23:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "El roedor que transmite el hantavirus y preocupa en Argentina : así actúa el virus Andes",
+              "url": "https://www.mdzol.com/tendencias/el-roedor-que-transmite-el-hantavirus-y-preocupa-argentina-asi-actua-el-virus-andes-n1519505",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 1,
+          "latest": "2026-05-13T22:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Un crucero , un virus y el miedo : por qué el brote de hantavirus generó alerta internacional",
+              "url": "https://www.latercera.com/lt-board/noticia/un-crucero-un-virus-y-el-miedo-por-que-el-brote-de-hantavirus-genero-alerta-internacional/",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-13T22:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Rusvai Miklós virológus megszólalt a hantavírusról",
+              "url": "https://www.atv.hu/belfold/20260513/rusvai-miklos-hantavirus/",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-13T22:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "How Dangerous Is the Hantavirus in Bulgaria and What Do Experts Reveal About Its History ? - Novinite . com",
+              "url": "https://www.novinite.com/view_news.php?id=238488",
               "language": "English"
             }
           ]
