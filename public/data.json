@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T01:45:16.709Z",
+  "generatedAt": "2026-05-14T03:13:05.412Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,32 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 70,
       "languages": {
-        "English": 57,
-        "Spanish": 2,
-        "Portuguese": 3,
-        "Turkish": 1,
-        "Hungarian": 1
+        "English": 66,
+        "Portuguese": 4
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 40,
-          "latest": "2026-05-14T00:30:00Z",
+          "count": 55,
+          "latest": "2026-05-14T02:45:00Z",
           "sampleTitles": [
             {
-              "title": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
-              "url": "https://www.kjrh.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
+              "title": "Disease specialist explains why concerns about hantavirus outbreak should be low in MI",
+              "url": "https://www.wnem.com/2026/05/14/specialist-explains-why-concerns-about-hantavirus-outbreak-should-be-low-michigan/",
               "language": "English"
             },
             {
-              "title": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
-              "url": "https://www.10news.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
+              "title": "NM health officials : State hantavirus strain cannot spread person to person , unlike cruise ship outbreak",
+              "url": "https://www.abqjournal.com/news/state-health-officials-unlike-cruise-ship-strain-four-corners-hantavirus-cannot-spread-from-person-to-person/3041943",
               "language": "English"
             },
             {
-              "title": "Company says it not clear when its hantavirus - hit ship will start cruises again | Business",
-              "url": "https://www.kitv.com/news/business/company-says-it-s-not-clear-when-its-hantavirus-hit-ship-will-start-cruises-again/article_f4479749-30f7-5c4a-a908-ecaf8c5c4495.html",
+              "title": "Map : States monitoring possible hantavirus exposure",
+              "url": "https://www.wdsu.com/article/states-monitoring-hantavirus-exposure-map/71297738",
               "language": "English"
             }
           ]
@@ -2068,22 +2065,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 9,
-          "latest": "2026-05-14T00:30:00Z",
+          "count": 5,
+          "latest": "2026-05-14T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/article_81540650-775b-5d93-9ddb-f2f260a1a703.html",
+              "title": "Canadians monitored following Andes hantavirus exposure linked to cruise ship outbreak - WestCentralOnline : West Central Saskatchewan latest news , sports , weather , community events . ",
+              "url": "https://westcentralonline.com/articles/canadians-monitored-following-andes-hantavirus-exposure-linked-to-cruise-ship-outbreak",
               "language": "English"
             },
             {
               "title": "Dont  mouse  around with spring cleaning , Interior Health warning on hantavirus",
-              "url": "https://saobserver.net/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
+              "url": "https://kelownacapnews.com/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
               "language": "English"
             },
             {
-              "title": "Hantavirus – Should You be Worried ? | The Community Press",
-              "url": "https://www.communitypress.ca:443/opinion/columnists/hantavirus-should-you-be-worried",
+              "title": "What we know about hantavirus now that people linked to outbreak are back in Canada – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/canada/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada",
               "language": "English"
             }
           ]
@@ -2093,41 +2090,36 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 3,
-          "latest": "2026-05-13T23:00:00Z",
+          "latest": "2026-05-14T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Paciente americano com sintomas de hantavírus testa negativo",
-              "url": "http://www.em.com.br/internacional/2026/05/7419136-paciente-americano-com-sintomas-de-hantavirus-testa-negativo.html",
+              "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes-1.1713419",
               "language": "Portuguese"
             },
             {
-              "title": "Centro argentino que pesquisa hantavírus sofre com últimos cortes orçamentários de Milei",
-              "url": "http://www.em.com.br/internacional/2026/05/7419101-centro-argentino-que-pesquisa-hantavirus-sofre-com-ultimos-cortes-orcamentarios-de-milei.html",
+              "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
+              "url": "http://www.em.com.br/internacional/2026/05/7419200-oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.html",
               "language": "Portuguese"
             },
             {
-              "title": "Hantavírus : OMS afirma que não há indícios de surto maior após casos em navio",
-              "url": "https://correio.rac.com.br/mundo/hantavirus-oms-afirma-que-n-o-ha-indicios-de-surto-maior-apos-casos-em-navio-1.1806036",
+              "title": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
+              "url": "https://oglobo.globo.com/saude/noticia/2026/05/13/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.ghtml",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-05-13T23:45:00Z",
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-14T02:45:00Z",
           "sampleTitles": [
             {
-              "title": "WHO chief says no new deaths reported in hantavirus outbreak since May 2",
-              "url": "https://aa.com.tr/en/world/who-chief-says-no-new-deaths-reported-in-hantavirus-outbreak-since-may-2/3936691",
-              "language": "English"
-            },
-            {
-              "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor",
-              "url": "https://www.haksozhaber.net/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendirmeye-devam-ediyor-204972h.htm",
-              "language": "Turkish"
+              "title": "Hantavírus : oito casos confirmados são da estirpe transmissível entre humanos",
+              "url": "https://sapo.pt/artigo/hantavirus-oito-casos-confirmados-sao-da-estirpe-transmissivel-entre-humanos-6a05116273a262a5e9e712f9",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2135,73 +2127,12 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 2,
-          "latest": "2026-05-13T23:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Cruise operator awaiting details after Hantavirus case",
-              "url": "https://theshillongtimes.com/2026/05/14/cruise-operator-awaiting-details-after-hantavirus-case/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Is A Wake - Up Call , Not A Global Crisis",
-              "url": "https://kashmirreader.com/2026/05/14/hantavirus-is-a-wake-up-call-not-a-global-crisis/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
           "count": 1,
-          "latest": "2026-05-13T23:00:00Z",
+          "latest": "2026-05-14T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "El roedor que transmite el hantavirus y preocupa en Argentina : así actúa el virus Andes",
-              "url": "https://www.mdzol.com/tendencias/el-roedor-que-transmite-el-hantavirus-y-preocupa-argentina-asi-actua-el-virus-andes-n1519505",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 1,
-          "latest": "2026-05-13T22:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Un crucero , un virus y el miedo : por qué el brote de hantavirus generó alerta internacional",
-              "url": "https://www.latercera.com/lt-board/noticia/un-crucero-un-virus-y-el-miedo-por-que-el-brote-de-hantavirus-genero-alerta-internacional/",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-13T22:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Rusvai Miklós virológus megszólalt a hantavírusról",
-              "url": "https://www.atv.hu/belfold/20260513/rusvai-miklos-hantavirus/",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-13T22:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "How Dangerous Is the Hantavirus in Bulgaria and What Do Experts Reveal About Its History ? - Novinite . com",
-              "url": "https://www.novinite.com/view_news.php?id=238488",
+              "title": "Hantavirus scientists were close to vaccine but ran out of money",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-scientists-were-close-to-vaccine-but-ran-out-of-money/articleshow/131079930.cms",
               "language": "English"
             }
           ]
