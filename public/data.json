@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T12:45:00.405Z",
+  "generatedAt": "2026-05-14T13:40:47.000Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 53,
+      "totalArticles": 49,
       "languages": {
-        "Portuguese": 8,
-        "English": 36,
-        "Turkish": 5,
-        "Hungarian": 3,
+        "English": 33,
+        "Turkish": 4,
+        "Portuguese": 10,
+        "Hungarian": 1,
         "Bulgarian": 1
       },
       "countries": [
@@ -2045,46 +2045,46 @@
           "lat": 39,
           "lng": -98,
           "count": 19,
-          "latest": "2026-05-14T12:15:00Z",
+          "latest": "2026-05-14T13:15:00Z",
           "sampleTitles": [
             {
-              "title": "The Hantavirus Script : A Planned Pandemic , According to New Book – NaturalNews . com",
-              "url": "https://www.naturalnews.com/2026-05-14-the-hantavirus-script-a-planned-pandemic-book.html",
+              "title": "SUNY Upstate doctor says hantavirus risk to Central New Yorkers remains low",
+              "url": "https://www.waer.org/news/2026-05-14/suny-upstate-doctor-says-hantavirus-risk-to-central-new-yorkers-remains-low",
               "language": "English"
             },
             {
               "title": "The world reaction to hantavirus is tinged by echoes of something else : COVID",
-              "url": "https://www.couriernews.com/news/national/the-worlds-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/article_181ffb1c-894d-59e1-9624-1623d69b6ff7.html",
+              "url": "https://abcnews.com/Lifestyle/wireStory/worlds-reaction-hantavirus-tinged-echoes-covid-132956200",
               "language": "English"
             },
             {
               "title": "The world reaction to hantavirus is tinged by echoes of something else : COVID",
-              "url": "https://www.clickondetroit.com/health/2026/05/14/the-worlds-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/",
+              "url": "https://www.news4jax.com/health/2026/05/14/the-worlds-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
           "count": 4,
-          "latest": "2026-05-14T12:15:00Z",
+          "latest": "2026-05-14T12:45:00Z",
           "sampleTitles": [
             {
-              "title": "Brit tourist quarantined in Italy after contact with hantavirus victim",
-              "url": "http://www.femalefirst.co.uk/travel/brit-tourist-quarantined-italy-after-contact-hantavirus-victim-1444414.html",
-              "language": "English"
+              "title": "Hantavírus : OMS afirma que não há indícios de surto maior após casos em navio",
+              "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/hantavirus-oms-afirma-que-nao-ha-indicios-de-surto-maior-apos-casos-em-navio-nprm/",
+              "language": "Portuguese"
             },
             {
-              "title": "Public Health Wales confirms united kingdom - wide response involvement to hantavirus outbreak",
-              "url": "https://www.dailypost.co.uk/news/north-wales-news/public-health-wales-confirms-uk-33943600",
-              "language": "English"
+              "title": "Saúde estadual reforça vigilância para hantavirose e orienta municípios para identificao de casos suspeitos",
+              "url": "https://regiaonoroeste.com/saude-estadual-reforca-vigilancia-para-hantavirose-e-orienta-municipios-para-identificacao-de-casos-suspeitos/",
+              "language": "Portuguese"
             },
             {
-              "title": "Public Health Wales confirms hantavirus outbreak involvement",
-              "url": "https://www.walesonline.co.uk/news/health/public-health-wales-confirms-hantavirus-33943232",
-              "language": "English"
+              "title": "Passageiro relata rotina em quarentena nos EUA após surto de hantavírus em cruzeiro :  Tentando manter o otimismo  ",
+              "url": "https://oglobo.globo.com/saude/noticia/2026/05/14/passageiro-relata-rotina-em-quarentena-nos-eua-apos-surto-de-hantavirus-em-cruzeiro-tentando-manter-o-otimismo.ghtml",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2113,36 +2113,17 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-14T09:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Deadly Hantavirus Outbreak Linked to Cruise Ship : Vaccine Development Stalled Due to Funding Issues |",
-              "url": "https://timesofindia.indiatimes.com/world/us/hantavirus-outbreak-scientists-ran-out-of-funds-while-developing-a-vaccine-report-says/articleshow/131087775.cms",
-              "language": "English"
-            },
-            {
-              "title": "  We were close , then ran out of money , says scientists on Hantavirus vaccine",
-              "url": "https://www.hindustantimes.com/world-news/we-were-close-then-ran-out-of-money-says-scientists-on-hantavirus-vaccine-101778732768756.html",
-              "language": "English"
-            },
-            {
-              "title": "How  Noroviru has trapped cruise passengers onboard just like Hantavirus",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/how-norovirus-has-trapped-cruise-passengers-onboard-just-like-hantavirus/articleshow/131082753.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
           "count": 3,
-          "latest": "2026-05-14T09:30:00Z",
+          "latest": "2026-05-14T13:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirüs salgınlı kruvaziyerde görev yapan doktor izolasyondan çıktı",
+              "url": "https://medimagazin.com.tr/hekim/hantavirus-salginli-kruvaziyerde-gorev-yapan-doktor-izolasyondan-cikti-120355",
+              "language": "Turkish"
+            },
             {
               "title": "İnternet dünyasının asılsız sağlık efsanelerine bir yenisi daha eklendi : Hantavirüs ve genital organlar üzerine dolaşıma sokulan iddialar gerçeği yansıtıyor mu ? ",
               "url": "https://www.haberyazar.com/genel/internet-dunyasinin-asilsiz-saglik-efsanelerine-bir-yenisi-daha-eklendi-hantavirus-ve-genital-organlar-uzerine-dolasima-sokulan-iddialar-gercegi-yansitiyor-mu/20586",
@@ -2152,54 +2133,25 @@
               "title": "DSÖ hantavirüsü  küresel nüfus için riski düşük  olarak değerlendirmeye devam ediyor - Havadis Gazetesi",
               "url": "https://www.havadiskibris.com/dso-hantavirusu-kuresel-nufus-icin-riski-dusuk-olarak-degerlendirmeye-devam-ediyor/",
               "language": "Turkish"
-            },
-            {
-              "title": "Hantavirüs için onaylı aşı yok",
-              "url": "https://www.sabah.com.tr/yasam/hantavirus-icin-onayli-asi-yok-7582768",
-              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 3,
-          "latest": "2026-05-14T08:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Szlávik János a hantavírusról : ezért ne mondd le a nyaralásodat",
-              "url": "https://divany.hu/mindennapi/szlavik-janos-hantavirus-nyaralas-lemondas/",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Index - Külföld - Szlávik János szerint elképzelhető , hogy a következő hetekben további hantavírusos esetek is megjelennek",
-              "url": "https://index.hu/kulfold/2026/05/14/hantavirus-infektologus-szlavik-janos-nyaralas-virus-fertozes-karanten-covid/",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Hantavírus - járvány : megszólalt Szlávik János , kell - e tartani tömeges megbetegedésektől Európában",
-              "url": "https://www.penzcentrum.hu/egeszseg/20260514/hantavirus-jarvany-megszolalt-szlavik-janos-kell-e-tartani-tomeges-megbetegedesektol-europaban-1198629",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
           "count": 2,
           "latest": "2026-05-14T12:15:00Z",
           "sampleTitles": [
             {
-              "title": "Passageiro relata rotina em quarentena nos EUA após surto de hantavírus em cruzeiro :  Tentando manter o otimismo  ",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/05/14/passageiro-relata-rotina-em-quarentena-nos-eua-apos-surto-de-hantavirus-em-cruzeiro-tentando-manter-o-otimismo.ghtml",
-              "language": "Portuguese"
+              "title": "Brit tourist quarantined in Italy after contact with hantavirus victim",
+              "url": "http://www.femalefirst.co.uk/travel/brit-tourist-quarantined-italy-after-contact-hantavirus-victim-1444414.html",
+              "language": "English"
             },
             {
-              "title": "DF fica em alerta após casos suspeitos de hantavírus ; veja orientaes",
-              "url": "https://www.correiobraziliense.com.br/cidades-df/2026/05/7418995-df-fica-em-alerta-apos-casos-suspeitos-de-hantavirus-veja-orientacoes.html",
-              "language": "Portuguese"
+              "title": "Public Health Wales confirms united kingdom - wide response involvement to hantavirus outbreak",
+              "url": "https://www.dailypost.co.uk/news/north-wales-news/public-health-wales-confirms-uk-33943600",
+              "language": "English"
             }
           ]
         },
@@ -2218,6 +2170,25 @@
             {
               "title": "Hantavirus cruise ship passengers embark on trip to Perth following stop in Netherlands",
               "url": "https://www.perthnow.com.au/news/public-health/hantavirus-cruise-ship-passengers-embark-on-trip-to-perth-following-stop-in-netherlands-c-22285382",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 2,
+          "latest": "2026-05-14T09:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Deadly Hantavirus Outbreak Linked to Cruise Ship : Vaccine Development Stalled Due to Funding Issues |",
+              "url": "https://timesofindia.indiatimes.com/world/us/hantavirus-outbreak-scientists-ran-out-of-funds-while-developing-a-vaccine-report-says/articleshow/131087775.cms",
+              "language": "English"
+            },
+            {
+              "title": "  We were close , then ran out of money , says scientists on Hantavirus vaccine",
+              "url": "https://www.hindustantimes.com/world-news/we-were-close-then-ran-out-of-money-says-scientists-on-hantavirus-vaccine-101778732768756.html",
               "language": "English"
             }
           ]
@@ -2270,6 +2241,20 @@
           ]
         },
         {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-14T08:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Szlávik János a hantavírusról : ezért ne mondd le a nyaralásodat",
+              "url": "https://divany.hu/mindennapi/szlavik-janos-hantavirus-nyaralas-lemondas/",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
@@ -2280,20 +2265,6 @@
               "title": "Доц . Мария Пишмишева : Хантавирусите не са нов COVID - 19 и не представляват глобален риск",
               "url": "https://www.cross.bg/pishmisheva-hantavirysite-nyama-1796888.html",
               "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-14T06:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Second Kiwi isolating overseas after cruise ship hantavirus exposure",
-              "url": "https://www.newstalkzb.co.nz/news/national/second-kiwi-isolating-overseas-after-cruise-ship-hantavirus-exposure/",
-              "language": "English"
             }
           ]
         }
