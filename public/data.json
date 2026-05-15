@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T16:41:20.173Z",
+  "generatedAt": "2026-05-15T17:36:07.943Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,58 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 86,
+      "totalArticles": 85,
       "languages": {
         "English": 78,
-        "Portuguese": 3,
-        "Turkish": 4,
-        "Russian": 1
+        "Russian": 1,
+        "Turkish": 3,
+        "Portuguese": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-05-15T16:15:00Z",
+          "count": 46,
+          "latest": "2026-05-15T17:15:00Z",
           "sampleTitles": [
             {
-              "title": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
-              "url": "https://nbcmontana.com/news/nation-world/no-known-us-united-states-hantavirus-cases-after-dutch-hondius-cruise-ship-outbreak-centers-for-disease-control-and-prevention-confirms-university-of-nebraska-quarantine-andes-virus",
+              "title": "41 People In US Under Monitoring With High Risk Hantavirus Exposure : CDC",
+              "url": "https://www.rttnews.com/story.aspx?Id=3652874",
               "language": "English"
             },
             {
-              "title": "6 passengers from hantavirus - hit ship arrive in Australia for 3 - week quarantine",
-              "url": "https://www.ky3.com/2026/05/15/live-who-hold-press-conference-hantavirus-6-passengers-ship-arrive-australia-3-week-quarantine/",
+              "title": "Hantavirus Suspected In Ontario County",
+              "url": "https://wibx950.com/ixp/40/p/ontario-county-hantavirus/",
               "language": "English"
             },
             {
-              "title": "CDC monitors 41 for hantavirus symptoms , no cases found in US",
-              "url": "https://www.wsoctv.com/news/trending/hantavirus-outbreak-cdc-says-no-cases-confirmed-us/MH5YCTWAY5AOFLHJBEWRY45HAM/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 11,
-          "latest": "2026-05-15T12:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Pandemic flashbacks as hantavirus group touches down",
-              "url": "https://www.edenmagnet.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
-              "language": "English"
-            },
-            {
-              "title": "Pandemic flashbacks as hantavirus group touches down",
-              "url": "https://www.cessnockadvertiser.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
-              "language": "English"
-            },
-            {
-              "title": "Pandemic flashbacks as hantavirus group touches down",
-              "url": "https://www.sconeadvocate.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
+              "title": "No Americans have tested positive for hantavirus tied outbreak on ship , CDC says",
+              "url": "https://www.fox13now.com/health/no-americans-have-tested-positive-for-hantavirus-tied-to-cruise-ship-outbreak-cdc-says",
               "language": "English"
             }
           ]
@@ -2091,22 +2067,46 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 9,
-          "latest": "2026-05-15T16:15:00Z",
+          "count": 18,
+          "latest": "2026-05-15T17:15:00Z",
           "sampleTitles": [
             {
               "title": "Fact check : Welfare spending and WHO comments on hantavirus",
-              "url": "https://www.basingstokegazette.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Outbreak Update : Three Dead On Cruise As Deadly Andes Strain Triggers united kingdom Quarantine Rules",
-              "url": "https://www.ibtimes.co.uk/uk-residents-monitored-hantavirus-outbreak-mv-hondius-cruise-1797082",
+              "url": "https://www.whtimes.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
               "language": "English"
             },
             {
               "title": "Fact check : Welfare spending and WHO comments on hantavirus",
-              "url": "https://www.thenorthernecho.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "url": "https://www.kidderminstershuttle.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "language": "English"
+            },
+            {
+              "title": "Fact check : Welfare spending and WHO comments on hantavirus",
+              "url": "https://www.northwaleschronicle.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-05-15T17:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO revises down global hantavirus cases after US test",
+              "url": "https://www.edenmagnet.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
+              "language": "English"
+            },
+            {
+              "title": "From medieval plague ships to hantavirus : How outbreaks at sea helped to shape the international public health system",
+              "url": "https://theconversation.com/from-medieval-plague-ships-to-hantavirus-how-outbreaks-at-sea-helped-to-shape-the-international-public-health-system-282957",
+              "language": "English"
+            },
+            {
+              "title": "WHO revises down global hantavirus cases after US test",
+              "url": "https://www.goulburnpost.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
               "language": "English"
             }
           ]
@@ -2115,9 +2115,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
-          "latest": "2026-05-15T15:30:00Z",
+          "count": 3,
+          "latest": "2026-05-15T16:30:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ : Hantavirüsün küresel nüfus için riski hala düşük",
+              "url": "https://www.konhaber.com/guncel/dso_hantavirusun_kuresel_nufus_icin_riski_hala_dusuk-1999601h",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ , hantavirüsün küresel nüfus için riskinin düşük olduğunu tekrarladı",
               "url": "https://www.haberler.com/guncel/dso-hantavirusun-kuresel-riski-dusuk-ebola-salgini-suruyor-19849832-haberi/",
@@ -2127,11 +2132,6 @@
               "title": "Cruise ship hantavirus outbreak revives COVID - era fears worldwide",
               "url": "https://www.dailysabah.com/world/europe/cruise-ship-hantavirus-outbreak-revives-covid-era-fears-worldwide",
               "language": "English"
-            },
-            {
-              "title": "Hantavirüs ve SMA Konusunda Flaş Gelişmeler ! ",
-              "url": "https://www.memleket.com.tr/hantavirus-ve-sma-konusunda-flas-gelismeler-2357929h.htm",
-              "language": "Turkish"
             }
           ]
         },
@@ -2160,40 +2160,16 @@
           ]
         },
         {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
-          "count": 2,
-          "latest": "2026-05-15T13:30:00Z",
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-15T17:00:00Z",
           "sampleTitles": [
             {
-              "title": "Spaniards in hantavirus quarantine with negative PCR tests can receive visitors from Monday",
-              "url": "https://www.surinenglish.com/spain/spaniards-hantavirus-quarantine-with-negative-pcr-tests-20260515144430-nt.html",
-              "language": "English"
-            },
-            {
-              "title": "  Thank you , Tenerife : WHO chief praises Spanish island in hantavirus fight",
-              "url": "https://www.thelocal.es/20260515/thank-you-tenerife-who-chief-praises-spanish-island-in-hantavirus-fight",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 2,
-          "latest": "2026-05-15T11:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "6 passengers from hantavirus - hit ship  arrive in Australia for 3 - week quarantine",
-              "url": "https://www.dailyexcelsior.com/6-passengers-from-hantavirus-hit-ship-arrive-in-australia-for-3-week-quarantine/",
-              "language": "English"
-            },
-            {
-              "title": "Could Hantavirus Stay Hidden In The Human Body For Years ? Shocking Study Suggests Virus May Survive In Sperm For Up To ... ",
-              "url": "https://www.newsx.com/world/could-hantavirus-stay-hidden-in-the-human-body-for-years-shocking-study-suggests-virus-may-survive-in-sperm-for-up-to-219330/",
-              "language": "English"
+              "title": "Вероятность лабораторного происхождения хантавируса оценили",
+              "url": "https://lenta.ru/news/2026/05/15/veroyatnost-laboratornogo-proishozhdeniya-hantavirusa-otsenili/",
+              "language": "Russian"
             }
           ]
         },
@@ -2226,16 +2202,16 @@
           ]
         },
         {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
           "count": 1,
-          "latest": "2026-05-15T11:30:00Z",
+          "latest": "2026-05-15T13:30:00Z",
           "sampleTitles": [
             {
-              "title": "Врач раскрыл , где дети могут подхватить хантавирус , и дал советы по профилактике",
-              "url": "https://www.vesti.ru/ns/vrach-raskryl-gde-deti-mogut-podkhvatit-khantavirus-i-dal-sovety-po-profilaktike",
-              "language": "Russian"
+              "title": "Spaniards in hantavirus quarantine with negative PCR tests can receive visitors from Monday",
+              "url": "https://www.surinenglish.com/spain/spaniards-hantavirus-quarantine-with-negative-pcr-tests-20260515144430-nt.html",
+              "language": "English"
             }
           ]
         }
