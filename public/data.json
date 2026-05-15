@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T15:47:38.298Z",
+  "generatedAt": "2026-05-15T16:41:20.173Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,16 +2033,41 @@
       "timespan": "14d",
       "totalArticles": 86,
       "languages": {
-        "English": 82,
-        "Turkish": 3,
+        "English": 78,
+        "Portuguese": 3,
+        "Turkish": 4,
         "Russian": 1
       },
       "countries": [
         {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 43,
+          "latest": "2026-05-15T16:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
+              "url": "https://nbcmontana.com/news/nation-world/no-known-us-united-states-hantavirus-cases-after-dutch-hondius-cruise-ship-outbreak-centers-for-disease-control-and-prevention-confirms-university-of-nebraska-quarantine-andes-virus",
+              "language": "English"
+            },
+            {
+              "title": "6 passengers from hantavirus - hit ship arrive in Australia for 3 - week quarantine",
+              "url": "https://www.ky3.com/2026/05/15/live-who-hold-press-conference-hantavirus-6-passengers-ship-arrive-australia-3-week-quarantine/",
+              "language": "English"
+            },
+            {
+              "title": "CDC monitors 41 for hantavirus symptoms , no cases found in US",
+              "url": "https://www.wsoctv.com/news/trending/hantavirus-outbreak-cdc-says-no-cases-confirmed-us/MH5YCTWAY5AOFLHJBEWRY45HAM/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 33,
+          "count": 11,
           "latest": "2026-05-15T12:30:00Z",
           "sampleTitles": [
             {
@@ -2066,46 +2091,22 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 20,
-          "latest": "2026-05-15T11:00:00Z",
+          "count": 9,
+          "latest": "2026-05-15T16:15:00Z",
           "sampleTitles": [
             {
-              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-              "url": "https://www.swindonadvertiser.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
+              "title": "Fact check : Welfare spending and WHO comments on hantavirus",
+              "url": "https://www.basingstokegazette.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
               "language": "English"
             },
             {
-              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-              "url": "https://www.ledburyreporter.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
+              "title": "Hantavirus Outbreak Update : Three Dead On Cruise As Deadly Andes Strain Triggers united kingdom Quarantine Rules",
+              "url": "https://www.ibtimes.co.uk/uk-residents-monitored-hantavirus-outbreak-mv-hondius-cruise-1797082",
               "language": "English"
             },
             {
-              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-              "url": "https://www.dissexpress.co.uk/national/very-unlikely-hantavirus-outbreak-will-be-akin-to-covid-pandemic-expert-says-166724/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 17,
-          "latest": "2026-05-15T13:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Fred Biggest Stories of the Day : Hantavirus , AI , & PETA Is Coming For Ge | Z94",
-              "url": "https://z94radio.iheart.com/featured/the-fred-show/content/2026-05-15-1159-the-fred-show-on-demand-freds-biggest-stories-of-the-day-hantavirus-ai/",
-              "language": "English"
-            },
-            {
-              "title": "How the U . S . is containing the hantavirus to prevent spread",
-              "url": "https://mynews13.com/fl/orlando/health/2026/05/14/hantavirus-containment-measures",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Case Discovered in Ontario County | NewsRadio WHAM 1180",
-              "url": "https://wham1180.iheart.com/content/2026-05-15-hantavirus-case-discovered-in-ontario-county/",
+              "title": "Fact check : Welfare spending and WHO comments on hantavirus",
+              "url": "https://www.thenorthernecho.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
               "language": "English"
             }
           ]
@@ -2114,9 +2115,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-15T13:30:00Z",
+          "count": 4,
+          "latest": "2026-05-15T15:30:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ , hantavirüsün küresel nüfus için riskinin düşük olduğunu tekrarladı",
+              "url": "https://www.haberler.com/guncel/dso-hantavirusun-kuresel-riski-dusuk-ebola-salgini-suruyor-19849832-haberi/",
+              "language": "Turkish"
+            },
             {
               "title": "Cruise ship hantavirus outbreak revives COVID - era fears worldwide",
               "url": "https://www.dailysabah.com/world/europe/cruise-ship-hantavirus-outbreak-revives-covid-era-fears-worldwide",
@@ -2126,11 +2132,30 @@
               "title": "Hantavirüs ve SMA Konusunda Flaş Gelişmeler ! ",
               "url": "https://www.memleket.com.tr/hantavirus-ve-sma-konusunda-flas-gelismeler-2357929h.htm",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-05-15T15:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Com 2 . 412 desde 1993 , hantavírus segue raro no Brasil",
+              "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/05/15/hantavirus-acende-alerta-global-mas-cenario-no-brasil-e-diferente.ghtm",
+              "language": "Portuguese"
             },
             {
-              "title": "Bakan Memişoğludan Hantavirüs açıklaması",
-              "url": "https://www.wanhaber.com/bakan-memisogludan-hantavirus-aciklamasi",
-              "language": "Turkish"
+              "title": "Devemos nos preocupar com o hantavírus que já matou 3 em navio ? ",
+              "url": "https://www.opovo.com.br/agencia/bbc/2026/05/14/devemos-nos-preocupar-com-o-hantavirus-que-ja-matou-3-em-navio.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus Andes : casos dobram na Argentina e intrigam cientistas",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/15/o-que-os-cientistas-argentinos-sabem-sobre-a-cepa-andes-do-hantavirus.ghtml",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2168,6 +2193,34 @@
             {
               "title": "Could Hantavirus Stay Hidden In The Human Body For Years ? Shocking Study Suggests Virus May Survive In Sperm For Up To ... ",
               "url": "https://www.newsx.com/world/could-hantavirus-stay-hidden-in-the-human-body-for-years-shocking-study-suggests-virus-may-survive-in-sperm-for-up-to-219330/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Japan",
+          "lat": 36.2,
+          "lng": 138.3,
+          "count": 1,
+          "latest": "2026-05-15T15:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Is There Hantavirus in Japan ? | Metropolis Japan",
+              "url": "https://metropolisjapan.com/is-there-hantavirus-in-japan/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-05-15T14:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Debunked : There is no government scheme offering free cheese to recipients of a hantavirus vaccine",
+              "url": "https://www.thejournal.ie/debunked-free-cheese-hantavirus-vaccine-conspiracy-theories-health-misinformation-7039499-May2026/",
               "language": "English"
             }
           ]
