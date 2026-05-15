@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T20:31:42.477Z",
+  "generatedAt": "2026-05-15T21:27:52.753Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 82,
+      "totalArticles": 80,
       "languages": {
-        "English": 70,
-        "Hungarian": 2,
-        "Turkish": 8,
-        "Bulgarian": 1,
-        "Russian": 1
+        "English": 66,
+        "Hungarian": 4,
+        "Portuguese": 1,
+        "Bulgarian": 2,
+        "Turkish": 7
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 32,
-          "latest": "2026-05-15T19:00:00Z",
+          "count": 38,
+          "latest": "2026-05-15T21:00:00Z",
           "sampleTitles": [
             {
-              "title": "Suspected hantavirus case in Ontario County involves Geneva HS student , district says",
-              "url": "https://13wham.com/news/local/suspected-hantavirus-case-in-ontario-county-involves-geneva-high-school-student-district-says",
+              "title": "WHO confirms 10 global hantavirus cases , Hondius crew remain symptom - free - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+              "url": "https://dominicanrepublicpost.com/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free/",
               "language": "English"
             },
             {
-              "title": "Three Kansans being monitored for hantavirus after contact with infected cruise ship passenger",
-              "url": "https://www.kmuw.org/health/2026-05-15/three-kansans-being-monitored-for-hantavirus-after-contact-with-infected-cruise-ship-passenger",
+              "title": "How does hantavirus spread ? What we know and dont know",
+              "url": "https://www.healio.com/news/infectious-disease/20260515/how-does-hantavirus-spread-what-we-know-and-dont-know",
               "language": "English"
             },
             {
-              "title": "No Americans have tested positive for hantavirus tied outbreak on ship , CDC says",
-              "url": "https://www.10news.com/health/no-americans-have-tested-positive-for-hantavirus-tied-to-cruise-ship-outbreak-cdc-says",
+              "title": "Hantavirus can persist in semen for years , but that doesnt mean it remains contagious",
+              "url": "https://www.scientificamerican.com/article/hantavirus-can-persist-in-semen-for-years-but-that-doesnt-mean-it-remains-contagious/",
               "language": "English"
             }
           ]
@@ -2068,22 +2068,22 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 24,
-          "latest": "2026-05-15T18:15:00Z",
+          "count": 18,
+          "latest": "2026-05-15T20:15:00Z",
           "sampleTitles": [
             {
-              "title": "Fact check : Welfare spending and WHO comments on hantavirus",
-              "url": "https://www.theboltonnews.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "title": "New York Student Linked to Suspected Hantavirus Case as Ontario County Launches Investigation",
+              "url": "https://www.ibtimes.co.uk/geneva-high-student-suspected-hantavirus-case-1797095",
               "language": "English"
             },
             {
-              "title": "Hantavirus expert speaks on level of global pandemic risk",
-              "url": "https://www.heraldseries.co.uk/news/26109896.hantavirus-will-not-another-covid-pandemic-says-expert/",
+              "title": "Major hantavirus update as united kingdom makes key move responding to deadly rat disease",
+              "url": "https://www.express.co.uk/news/world/2206153/major-hantavirus-update-uk-response-outbreak",
               "language": "English"
             },
             {
               "title": "Fact check : Welfare spending and WHO comments on hantavirus",
-              "url": "https://www.leaderlive.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "url": "https://www.heraldseries.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
               "language": "English"
             }
           ]
@@ -2092,7 +2092,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 6,
+          "count": 5,
           "latest": "2026-05-15T18:45:00Z",
           "sampleTitles": [
             {
@@ -2113,36 +2113,17 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 5,
-          "latest": "2026-05-15T17:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO revises down global hantavirus cases after US test",
-              "url": "https://www.queanbeyanage.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
-              "language": "English"
-            },
-            {
-              "title": "WHO revises down global hantavirus cases after US test",
-              "url": "https://www.naroomanewsonline.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
-              "language": "English"
-            },
-            {
-              "title": "WHO revises down global hantavirus cases after US test",
-              "url": "https://www.edenmagnet.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-15T18:15:00Z",
+          "count": 3,
+          "latest": "2026-05-15T20:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Ontario now testing 10 asymptomatic people for hantavirus ; low - risk cases to stop isolating if negative",
+              "url": "https://www.ckom.com/2026/05/15/ontario-now-testing-10-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/",
+              "language": "English"
+            },
             {
               "title": "Ontario now testing 10 asymptomatic people for hantavirus ; low - risk cases to stop isolating if negative",
               "url": "https://www.niagarafallsreview.ca/news/canada/ontario-now-testing-10-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/article_be49fe13-8e20-56ce-88bc-dba2a5b06778.html",
@@ -2156,26 +2137,17 @@
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-15T19:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Felbukkant a hantavírus a szomszédunkban : rejtély , hogyan kaphatta el a beteg a",
-              "url": "https://www.penzcentrum.hu/egeszseg/20260515/felbukkant-a-hantavirus-a-szomszedunkban-rejtely-hogyan-kaphatta-el-a-beteg-a-1198764",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-15T19:00:00Z",
+          "count": 2,
+          "latest": "2026-05-15T20:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Thailand Declares Hantavirus  Dangerous Communicable Disease  ",
+              "url": "https://www.newkerala.com/news/a/thailand-declares-hantavirus-dangerous-communicable-disease-894.htm",
+              "language": "English"
+            },
             {
               "title": "Africa CDC Calls for Enhanced Hantavirus Preparedness",
               "url": "https://www.newkerala.com/news/a/africa-cdc-urges-enhancing-continental-capabilities-tackle-hantavirus-124.htm",
@@ -2184,12 +2156,36 @@
           ]
         },
         {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 2,
+          "latest": "2026-05-15T20:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Most derült ki : megjelent a hantavírus Magyarország közvetlen szomszédjában , megvan az első 2026 - os eset – a beteg nem járt külföldön",
+              "url": "https://www.vg.hu/kozelet/2026/05/hantavirus-fertozes-romania-arad-megye",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Felbukkant a hantavírus a szomszédunkban : rejtély , hogyan kaphatta el a beteg a",
+              "url": "https://www.penzcentrum.hu/egeszseg/20260515/felbukkant-a-hantavirus-a-szomszedunkban-rejtely-hogyan-kaphatta-el-a-beteg-a-1198764",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-15T18:15:00Z",
+          "count": 2,
+          "latest": "2026-05-15T20:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Регистриран е случай на заразен с хантавирус край България",
+              "url": "https://www.bgonair.bg/a/4-world/418870-registriran-e-sluchay-na-zarazen-s-hantavirus-kray-balgariya",
+              "language": "Bulgarian"
+            },
             {
               "title": "Хантавирусът се доближава към нас - Здраве Новини Стандарт",
               "url": "https://www.standartnews.com/zdrave/hantavirusat-se-doblizhava-kam-nas-633808.html",
@@ -2198,16 +2194,35 @@
           ]
         },
         {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-15T17:00:00Z",
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-05-15T17:15:00Z",
           "sampleTitles": [
             {
-              "title": "Вероятность лабораторного происхождения хантавируса оценили",
-              "url": "https://lenta.ru/news/2026/05/15/veroyatnost-laboratornogo-proishozhdeniya-hantavirusa-otsenili/",
-              "language": "Russian"
+              "title": "WHO revises down global hantavirus cases after US test",
+              "url": "https://www.queanbeyanage.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
+              "language": "English"
+            },
+            {
+              "title": "WHO revises down global hantavirus cases after US test",
+              "url": "https://www.naroomanewsonline.com.au/story/9247740/who-revises-down-global-hantavirus-cases-after-us-test/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-15T20:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus permanece no sêmen por 6 anos , aponta estudo de caso",
+              "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/05/15/hantavirus-pode-permanecer-no-semen-por-ate-6-anos-diz-estudo-de-caso.htm",
+              "language": "Portuguese"
             }
           ]
         }
