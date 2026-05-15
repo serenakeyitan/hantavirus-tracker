@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:45:13.544Z",
+  "generatedAt": "2026-05-15T13:39:17.184Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,59 +2031,33 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 74,
+      "totalArticles": 88,
       "languages": {
-        "English": 64,
-        "Bulgarian": 2,
+        "English": 85,
         "Turkish": 2,
-        "Russian": 1,
-        "Portuguese": 5
+        "Russian": 1
       },
       "countries": [
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 28,
-          "latest": "2026-05-15T04:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Repatriation flight with passengers from hantavirus - hit cruise lands in Perth , Australia",
-              "url": "http://www.bignewsnetwork.com/news/279052323/repatriation-flight-with-passengers-from-hantavirus-hit-cruise-lands-in-perth-australia",
-              "language": "English"
-            },
-            {
-              "title": "North Dakota health officials monitoring possible hantavirus exposure",
-              "url": "https://www.grandforksherald.com/health/north-dakota-health-officials-monitoring-possible-hantavirus-exposure",
-              "language": "English"
-            },
-            {
-              "title": "Diamonds & Coal : Supporting community events while scrutinizing drive - by shootings and hantavirus hysteria",
-              "url": "https://www.timesleader.com/opinion/1741898/diamonds-coal-supporting-community-events-while-scrutinizing-drive-by-shootings-and-hantavirus-hysteria",
-              "language": "English"
-            }
-          ]
-        },
         {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 25,
-          "latest": "2026-05-15T05:00:00Z",
+          "count": 35,
+          "latest": "2026-05-15T12:30:00Z",
           "sampleTitles": [
             {
-              "title": "Passengers from hantavirus cruise land in Australia",
-              "url": "https://www.areanews.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+              "title": "Pandemic flashbacks as hantavirus group touches down",
+              "url": "https://www.edenmagnet.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
               "language": "English"
             },
             {
-              "title": "Passengers from hantavirus cruise land in Australia",
-              "url": "https://www.easternriverinachronicle.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+              "title": "Pandemic flashbacks as hantavirus group touches down",
+              "url": "https://www.cessnockadvertiser.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
               "language": "English"
             },
             {
-              "title": "Hantavirus cruise passengers arrive in Perth for quarantine",
-              "url": "https://www.smh.com.au/lifestyle/health-and-wellness/hantavirus-cruise-passengers-arrive-in-perth-for-quarantine-20260515-p5zxdl.html",
+              "title": "Pandemic flashbacks as hantavirus group touches down",
+              "url": "https://www.sconeadvocate.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
               "language": "English"
             }
           ]
@@ -2092,71 +2066,47 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 3,
-          "latest": "2026-05-15T04:30:00Z",
+          "count": 24,
+          "latest": "2026-05-15T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "Legal rights if united kingdom holidaymakers catch hantavirus while abroad",
-              "url": "https://www.dailyrecord.co.uk/lifestyle/travel/legal-rights-uk-holidaymakers-catch-37155955",
+              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
+              "url": "https://www.swindonadvertiser.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
               "language": "English"
             },
             {
-              "title": "Има ли причина да се очаква пандемия от хантавируса ? ",
-              "url": "https://e-vesti.co.uk/2026/05/15/ima-li-prichina-da-se-ochakva-pandemiya-ot-hantavirusa/",
-              "language": "Bulgarian"
+              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
+              "url": "https://www.ledburyreporter.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
+              "language": "English"
             },
             {
-              "title": "Hantavirus Transmission Risk : Recovered Patients Warned Virus Can Survive In Human Sperm For Six Years",
-              "url": "https://www.ibtimes.co.uk/hantavirus-semen-six-years-public-health-alert-1796901",
+              "title": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
+              "url": "https://www.dissexpress.co.uk/national/very-unlikely-hantavirus-outbreak-will-be-akin-to-covid-pandemic-expert-says-166724/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-15T03:15:00Z",
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 15,
+          "latest": "2026-05-15T13:15:00Z",
           "sampleTitles": [
             {
-              "title": "Canada monitoring 26 people for hantavirus , not required to isolate",
-              "url": "https://www.chch.com/chch-news/canada-monitoring-26-people-for-hantavirus-not-required-to-isolate/",
+              "title": "Hantavirus Case Discovered in Ontario County | NewsRadio WHAM 1180",
+              "url": "https://wham1180.iheart.com/content/2026-05-15-hantavirus-case-discovered-in-ontario-county/",
               "language": "English"
             },
             {
-              "title": "Interior Health encourages residents to guard against Hantavirus : My Cariboo Now",
-              "url": "https://www.mycariboonow.com/313627/news/health-care/interior-health-encourages-residents-to-guard-against-hantavirus/",
+              "title": "6 passengers from hantavirus ship arrive in Australia for quarantine",
+              "url": "https://www.dailylocal.com/2026/05/15/hantavirus-cruise-ship-australia/",
               "language": "English"
             },
             {
-              "title": "Interior Health warns spring cleaners about rare but serious hantavirus risk : AM 1150",
-              "url": "https://www.am1150.ca/84824/news/health/interior-health-warns-spring-cleaners-about-rare-but-serious-hantavirus-risk/",
+              "title": "6 passengers from hantavirus ship arrive in Australia for quarantine",
+              "url": "https://www.mendocinobeacon.com/2026/05/15/hantavirus-cruise-ship-australia/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 3,
-          "latest": "2026-05-15T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "OMS confirma oito casos de cepa do Hantavírus que causou surto em navio",
-              "url": "https://www.bahianoticias.com.br/saude/noticia/33095-oms-confirma-oito-casos-de-cepa-do-hantavirus-que-causou-surto-em-navio",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Biólogos argentinos buscarão , a partir da próxima semana , presença de vetor do hantavírus em Ushuaia",
-              "url": "http://www.em.com.br/internacional/2026/05/7420073-biologos-argentinos-buscarao-a-partir-da-proxima-semana-presenca-de-vetor-do-hantavirus-em-ushuaia.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "OMS confirma oito casos de cepa do hantavírus que causou surto em navio",
-              "url": "http://www.tribunafeirense.com.br/noticias/64189/oms-confirma-oito-casos-de-cepa-do-hantavirus-que-causou-surto-em-navio.html",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2165,31 +2115,36 @@
           "lat": 38.96,
           "lng": 35.24,
           "count": 2,
-          "latest": "2026-05-15T05:00:00Z",
+          "latest": "2026-05-15T12:30:00Z",
           "sampleTitles": [
             {
-              "title": "Türkiyede hantavirüs vakası yok - Son Dakika Haberler",
-              "url": "https://www.sabah.com.tr/gundem/2026/05/15/turkiyede-hantavirus-vakasi-yok",
+              "title": "Hantavirüs ve SMA Konusunda Flaş Gelişmeler ! ",
+              "url": "https://www.memleket.com.tr/hantavirus-ve-sma-konusunda-flas-gelismeler-2357929h.htm",
               "language": "Turkish"
             },
             {
-              "title": "Bakan Memişoğlu :  Hantavirüs konusunda bir salgın riski yok  ",
-              "url": "https://haber.mynet.com/bakan-memisoglu-hantavirus-konusunda-bir-salgin-riski-yok-110107293410",
+              "title": "Bakan Memişoğludan Hantavirüs açıklaması",
+              "url": "https://www.wanhaber.com/bakan-memisogludan-hantavirus-aciklamasi",
               "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-15T05:00:00Z",
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 2,
+          "latest": "2026-05-15T11:45:00Z",
           "sampleTitles": [
             {
-              "title": "Окуражителни данни от тестовете на СЗО за хантавируса  Андес  ",
-              "url": "https://www.actualno.com/europe/okurajitelni-danni-ot-testovete-na-szo-za-hantavirusa-andes-news_2594446.html",
-              "language": "Bulgarian"
+              "title": "6 passengers from hantavirus - hit ship  arrive in Australia for 3 - week quarantine",
+              "url": "https://www.dailyexcelsior.com/6-passengers-from-hantavirus-hit-ship-arrive-in-australia-for-3-week-quarantine/",
+              "language": "English"
+            },
+            {
+              "title": "Could Hantavirus Stay Hidden In The Human Body For Years ? Shocking Study Suggests Virus May Survive In Sperm For Up To ... ",
+              "url": "https://www.newsx.com/world/could-hantavirus-stay-hidden-in-the-human-body-for-years-shocking-study-suggests-virus-may-survive-in-sperm-for-up-to-219330/",
+              "language": "English"
             }
           ]
         },
@@ -2198,39 +2153,39 @@
           "lat": 61.5,
           "lng": 105.3,
           "count": 1,
-          "latest": "2026-05-15T04:30:00Z",
+          "latest": "2026-05-15T11:30:00Z",
           "sampleTitles": [
             {
-              "title": "Врач объяснила , чем хантавирус отличается от гриппа / Происшествия Красноярска и Красноярского края / Newslab . Ru",
-              "url": "https://newslab.ru/news/1415294",
+              "title": "Врач раскрыл , где дети могут подхватить хантавирус , и дал советы по профилактике",
+              "url": "https://www.vesti.ru/ns/vrach-raskryl-gde-deti-mogut-podkhvatit-khantavirus-i-dal-sovety-po-profilaktike",
               "language": "Russian"
             }
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
           "count": 1,
-          "latest": "2026-05-15T01:15:00Z",
+          "latest": "2026-05-15T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus : Missão científica procura vestígios em Ushuaia",
-              "url": "https://sapo.pt/artigo/hantavirus-missao-cientifica-procura-vestigios-em-ushuaia-6a06684ade0689d56db058df",
-              "language": "Portuguese"
+              "title": "  Thank you , Tenerife : WHO chief praises Spanish island in hantavirus fight",
+              "url": "https://www.thelocal.es/20260515/thank-you-tenerife-who-chief-praises-spanish-island-in-hantavirus-fight",
+              "language": "English"
             }
           ]
         },
         {
-          "country": "Israel",
-          "lat": 31,
-          "lng": 34.85,
+          "country": "Switzerland",
+          "lat": 46.8,
+          "lng": 8.2,
           "count": 1,
-          "latest": "2026-05-15T01:15:00Z",
+          "latest": "2026-05-15T09:45:00Z",
           "sampleTitles": [
             {
-              "title": "We can relax : Hantavirus is difficult to catch - it the next pandemic we have to be",
-              "url": "https://www.ynetnews.com/health_science/article/rklusax1fg",
+              "title": "Dangerous delivery : how doctors in Geneva handled the hantavirus",
+              "url": "https://www.swissinfo.ch/eng/patient-safety/dangerous-delivery-how-doctors-in-geneva-handled-the-hantavirus/91407562",
               "language": "English"
             }
           ]
