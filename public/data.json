@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:39:17.184Z",
+  "generatedAt": "2026-05-15T14:53:44.341Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,10 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 88,
+      "totalArticles": 86,
       "languages": {
-        "English": 85,
-        "Turkish": 2,
+        "English": 82,
+        "Turkish": 3,
         "Russian": 1
       },
       "countries": [
@@ -2042,7 +2042,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 35,
+          "count": 33,
           "latest": "2026-05-15T12:30:00Z",
           "sampleTitles": [
             {
@@ -2066,7 +2066,7 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 24,
+          "count": 20,
           "latest": "2026-05-15T11:00:00Z",
           "sampleTitles": [
             {
@@ -2090,22 +2090,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 15,
-          "latest": "2026-05-15T13:15:00Z",
+          "count": 17,
+          "latest": "2026-05-15T13:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Fred Biggest Stories of the Day : Hantavirus , AI , & PETA Is Coming For Ge | Z94",
+              "url": "https://z94radio.iheart.com/featured/the-fred-show/content/2026-05-15-1159-the-fred-show-on-demand-freds-biggest-stories-of-the-day-hantavirus-ai/",
+              "language": "English"
+            },
+            {
+              "title": "How the U . S . is containing the hantavirus to prevent spread",
+              "url": "https://mynews13.com/fl/orlando/health/2026/05/14/hantavirus-containment-measures",
+              "language": "English"
+            },
             {
               "title": "Hantavirus Case Discovered in Ontario County | NewsRadio WHAM 1180",
               "url": "https://wham1180.iheart.com/content/2026-05-15-hantavirus-case-discovered-in-ontario-county/",
-              "language": "English"
-            },
-            {
-              "title": "6 passengers from hantavirus ship arrive in Australia for quarantine",
-              "url": "https://www.dailylocal.com/2026/05/15/hantavirus-cruise-ship-australia/",
-              "language": "English"
-            },
-            {
-              "title": "6 passengers from hantavirus ship arrive in Australia for quarantine",
-              "url": "https://www.mendocinobeacon.com/2026/05/15/hantavirus-cruise-ship-australia/",
               "language": "English"
             }
           ]
@@ -2114,9 +2114,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 2,
-          "latest": "2026-05-15T12:30:00Z",
+          "count": 3,
+          "latest": "2026-05-15T13:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Cruise ship hantavirus outbreak revives COVID - era fears worldwide",
+              "url": "https://www.dailysabah.com/world/europe/cruise-ship-hantavirus-outbreak-revives-covid-era-fears-worldwide",
+              "language": "English"
+            },
             {
               "title": "Hantavirüs ve SMA Konusunda Flaş Gelişmeler ! ",
               "url": "https://www.memleket.com.tr/hantavirus-ve-sma-konusunda-flas-gelismeler-2357929h.htm",
@@ -2126,6 +2131,25 @@
               "title": "Bakan Memişoğludan Hantavirüs açıklaması",
               "url": "https://www.wanhaber.com/bakan-memisogludan-hantavirus-aciklamasi",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
+          "count": 2,
+          "latest": "2026-05-15T13:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spaniards in hantavirus quarantine with negative PCR tests can receive visitors from Monday",
+              "url": "https://www.surinenglish.com/spain/spaniards-hantavirus-quarantine-with-negative-pcr-tests-20260515144430-nt.html",
+              "language": "English"
+            },
+            {
+              "title": "  Thank you , Tenerife : WHO chief praises Spanish island in hantavirus fight",
+              "url": "https://www.thelocal.es/20260515/thank-you-tenerife-who-chief-praises-spanish-island-in-hantavirus-fight",
+              "language": "English"
             }
           ]
         },
@@ -2159,34 +2183,6 @@
               "title": "Врач раскрыл , где дети могут подхватить хантавирус , и дал советы по профилактике",
               "url": "https://www.vesti.ru/ns/vrach-raskryl-gde-deti-mogut-podkhvatit-khantavirus-i-dal-sovety-po-profilaktike",
               "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
-          "count": 1,
-          "latest": "2026-05-15T11:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "  Thank you , Tenerife : WHO chief praises Spanish island in hantavirus fight",
-              "url": "https://www.thelocal.es/20260515/thank-you-tenerife-who-chief-praises-spanish-island-in-hantavirus-fight",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Switzerland",
-          "lat": 46.8,
-          "lng": 8.2,
-          "count": 1,
-          "latest": "2026-05-15T09:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dangerous delivery : how doctors in Geneva handled the hantavirus",
-              "url": "https://www.swissinfo.ch/eng/patient-safety/dangerous-delivery-how-doctors-in-geneva-handled-the-hantavirus/91407562",
-              "language": "English"
             }
           ]
         }
