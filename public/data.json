@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T08:40:31.417Z",
+  "generatedAt": "2026-05-16T09:36:30.343Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 68,
       "languages": {
-        "English": 59,
-        "Hungarian": 3,
-        "Turkish": 4,
-        "Russian": 1,
-        "Bulgarian": 2
+        "Bulgarian": 3,
+        "Turkish": 5,
+        "English": 55,
+        "Hungarian": 4,
+        "Russian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 44,
-          "latest": "2026-05-16T08:00:00Z",
+          "count": 38,
+          "latest": "2026-05-16T08:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Washington State Department of Health investigates hantavirus cases",
+              "url": "https://kxly920.com/2026/05/15/washington-state-department-of-health-investigates-hantavirus-cases/",
+              "language": "English"
+            },
+            {
+              "title": "What science knows about Andes hantavirus and why governments ignore it",
+              "url": "https://www.wsws.org/en/articles/2026/05/16/ukmk-m16.html",
+              "language": "English"
+            },
             {
               "title": "Norovirus Vs Hantavirus : What the Difference ? ",
               "url": "https://www.medindia.net/news/healthinfocus/norovirus-vs-hantavirus-whats-the-difference-223399-1.htm",
-              "language": "English"
-            },
-            {
-              "title": "Colorado health officials confirm deadly hantavirus case",
-              "url": "https://www.9news.com/article/news/health/colorado-health-officials-confirm-deadly-hantavirus-case/73-4c29b5a0-b485-48a2-9a0e-fdcd45f3519d",
-              "language": "English"
-            },
-            {
-              "title": "4th King County , Washington resident monitored for possible hantavirus exposure",
-              "url": "https://www.kgw.com/article/news/local/4th-king-county-resident-monitoring-hantavirus-exposure/281-d2ca73d4-43fd-43ea-8bd4-16dd7487d24c",
               "language": "English"
             }
           ]
@@ -2068,9 +2068,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
-          "latest": "2026-05-16T07:45:00Z",
+          "count": 5,
+          "latest": "2026-05-16T08:30:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ , hantavirüs için riskin düşük olduğunu açıkladı",
+              "url": "https://www.bursadabugun.com/haber/dso-hantavirus-icin-riskin-dusuk-oldugunu-acikladi-1922928.html",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ Genel Direktörü yanıtladı . Hantavirüs küresel salgına dönüşür mü ? ",
               "url": "https://www.ntv.com.tr/yasam/dso-genel-direktoru-yanitladi-hantavirus-kuresel-salgina-donusur-mu-1724520",
@@ -2080,11 +2085,54 @@
               "title": "Uzmanlardan hantavirüs uyarısı : Gıdaları mutlaka koruyun",
               "url": "https://haber.mynet.com/uzmanlardan-hantavirus-uyarisi-gidalari-mutlaka-koruyun-110107293614",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-16T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Регистриран е случай на заразен с хантавирус край България",
+              "url": "https://www.novinite.bg/articles/284831/Registriran-e-sluchaj-na-zarazen-s-hantavirus-kraj-Balgariya",
+              "language": "Bulgarian"
             },
             {
-              "title": "DSÖ  den Hantavirüs açıklaması ! Ebola salgını ilerledi mi ? ",
-              "url": "https://haber.mynet.com/dso-den-hantavirus-aciklamasi-ebola-salgini-ilerledi-mi-110107293609",
-              "language": "Turkish"
+              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
+              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 3,
+          "latest": "2026-05-16T08:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Minden , amit tudni kell a hantavírusról : ezért olyan veszélyes",
+              "url": "https://femina.hu/egeszseg/hantavirus-tunetei-terjedese-halalozasi-arany/",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
+              "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Index - Külföld - Már a szomszédban a hantavírus : egy romániai betegnél igazolták a fertőzést",
+              "url": "https://index.hu/kulfold/2026/05/16/romania-arad-hantavirus-fertozes-gyanu-vizsgalat/",
+              "language": "Hungarian"
             }
           ]
         },
@@ -2113,40 +2161,21 @@
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 2,
-          "latest": "2026-05-16T08:15:00Z",
+          "latest": "2026-05-16T08:30:00Z",
           "sampleTitles": [
             {
-              "title": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
-              "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
-              "language": "Hungarian"
+              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
+              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
+              "language": "English"
             },
             {
-              "title": "Index - Külföld - Már a szomszédban a hantavírus : egy romániai betegnél igazolták a fertőzést",
-              "url": "https://index.hu/kulfold/2026/05/16/romania-arad-hantavirus-fertozes-gyanu-vizsgalat/",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 2,
-          "latest": "2026-05-16T05:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
-              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
-              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
-              "language": "Bulgarian"
+              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
+              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
+              "language": "English"
             }
           ]
         },
@@ -2226,20 +2255,6 @@
             {
               "title": "Hantavirus outbreak provides latest stress - test – Brandon Sun",
               "url": "https://www.brandonsun.com/opinion/2026/05/15/hantavirus-outbreak-provides-latest-stress-test",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-16T01:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
-              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
               "language": "English"
             }
           ]
