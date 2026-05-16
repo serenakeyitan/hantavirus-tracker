@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T06:54:00.123Z",
+  "generatedAt": "2026-05-16T07:40:25.916Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,58 +2031,116 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 80,
+      "totalArticles": 72,
       "languages": {
-        "English": 75,
-        "Hungarian": 1,
-        "Turkish": 1,
-        "Portuguese": 3
+        "English": 64,
+        "Hungarian": 2,
+        "Turkish": 3,
+        "Russian": 1,
+        "Bulgarian": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 62,
-          "latest": "2026-05-16T01:15:00Z",
+          "count": 50,
+          "latest": "2026-05-16T07:15:00Z",
           "sampleTitles": [
             {
-              "title": "Possible hantavirus case in upstate NY under investigation by health officials",
-              "url": "https://www.foxnews.com/health/possible-hantavirus-case-under-investigation-upstate-new-york-no-connection-deadly-cruise-ship-outbreak",
+              "title": "Colorado health officials confirm deadly hantavirus case",
+              "url": "https://www.9news.com/article/news/health/colorado-health-officials-confirm-deadly-hantavirus-case/73-4c29b5a0-b485-48a2-9a0e-fdcd45f3519d",
               "language": "English"
             },
             {
-              "title": "Acting CDC chief says White House and Kennedy getting daily hantavirus updates",
-              "url": "https://kfgo.com/2026/05/15/acting-cdc-chief-says-white-house-and-kennedy-getting-daily-hantavirus-updates/",
+              "title": "4th King County , Washington resident monitored for possible hantavirus exposure",
+              "url": "https://www.kgw.com/article/news/local/4th-king-county-resident-monitoring-hantavirus-exposure/281-d2ca73d4-43fd-43ea-8bd4-16dd7487d24c",
               "language": "English"
             },
             {
-              "title": "Acting CDC chief says White House and Kennedy getting daily hantavirus updates",
-              "url": "https://whbl.com/2026/05/15/acting-cdc-chief-says-white-house-and-kennedy-getting-daily-hantavirus-updates/",
+              "title": "Washington State Department of Health investigates hantavirus cases",
+              "url": "https://www.kxly.com/news/washington-state-department-of-health-investigates-hantavirus-cases/article_7b3c21e3-41ad-4fed-868d-d77e00759aab.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 4,
-          "latest": "2026-05-16T01:15:00Z",
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 3,
+          "latest": "2026-05-16T07:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
-              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
+              "title": "Uzmanlardan hantavirüs uyarısı : Gıdaları mutlaka koruyun",
+              "url": "https://haber.mynet.com/uzmanlardan-hantavirus-uyarisi-gidalari-mutlaka-koruyun-110107293614",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ  den Hantavirüs açıklaması ! Ebola salgını ilerledi mi ? ",
+              "url": "https://haber.mynet.com/dso-den-hantavirus-aciklamasi-ebola-salgini-ilerledi-mi-110107293609",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüsten korunmak için gıda hijyeni şart ! ",
+              "url": "https://www.haberankara.com/saglik/hantavirusten-korunmak-icin-gida-hijyeni-sart-314918",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 2,
+          "latest": "2026-05-16T05:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
+              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 2,
+          "latest": "2026-05-16T04:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
+              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
               "language": "English"
             },
             {
-              "title": "Hantavirus evacuees begin three - week quarantine",
-              "url": "https://www.theage.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
+              "title": "A Penile Implant Practitioner Who Once Hosted the Show  Erection Connection  Led a US Presser on Hantavirus",
+              "url": "https://www.ibtimes.co.uk/urologist-health-official-scrutiny-hantavirus-outbreak-1797133",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 2,
+          "latest": "2026-05-16T03:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Scientists warn hantavirus risks may be more complicated than officials are publicly saying",
+              "url": "https://www.moneycontrol.com/world/scientists-warn-hantavirus-risks-may-be-more-complicated-than-officials-are-publicly-saying-article-13920870.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus evacuees begin three - week quarantine",
-              "url": "https://www.brisbanetimes.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
+              "title": "Hantavirus outbreak in Wales : Welsh residents under watch after MV Hondius exposure links ; signs to watch out for",
+              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-wales-welsh-residents-under-watch-after-mv-hondius-exposure-links-signs-to-watch-out-for/articleshow/131130259.cms",
               "language": "English"
             }
           ]
@@ -2107,49 +2165,44 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-15T22:15:00Z",
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-16T07:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus : os sinais que se confundem com uma gripe e podem ser fatais",
-              "url": "http://www.em.com.br/bem-viver/2026/05/7420929-hantavirus-os-sinais-que-se-confundem-com-uma-gripe-e-podem-ser-fatais.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : os sinais que se confundem com uma gripe e podem ser fatais",
-              "url": "https://www.em.com.br/bem-viver/2026/05/7420929-hantavirus-os-sinais-que-se-confundem-com-uma-gripe-e-podem-ser-fatais.html",
-              "language": "Portuguese"
+              "title": "Index - Külföld - Már a szomszédban a hantavírus : egy romániai betegnél igazolták a fertőzést",
+              "url": "https://index.hu/kulfold/2026/05/16/romania-arad-hantavirus-fertozes-gyanu-vizsgalat/",
+              "language": "Hungarian"
             }
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
           "count": 1,
-          "latest": "2026-05-15T23:00:00Z",
+          "latest": "2026-05-16T06:45:00Z",
           "sampleTitles": [
             {
-              "title": "Doctor leading Trump hantavirus response is a penile specialist who spread Covid conspiracies :  Erection Connection  ",
-              "url": "https://www.aol.co.uk/articles/doctor-leading-trump-hantavirus-response-222513631.html",
+              "title": "Врач объяснила , почему от хантавируса нет вакцины",
+              "url": "https://ria.ru/20260516/sataeva-2092838883.html",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "China",
+          "lat": 35.9,
+          "lng": 104.2,
+          "count": 1,
+          "latest": "2026-05-16T03:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Most crew members aboard MV Hondius to undergo quarantine in Rotterdam upon arrival -- China Economic Net",
+              "url": "http://en.ce.cn/main/latest/202605/t20260516_2970610.shtml",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-15T22:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "SON DAKİKA : DSÖ  den hantavirüs açıklaması geldi",
-              "url": "https://dogruhaber.com.tr/son-dakika-dsoden-hantavirus-aciklamasi-geldi",
-              "language": "Turkish"
             }
           ]
         },
@@ -2158,26 +2211,26 @@
           "lat": 56.1,
           "lng": -106.3,
           "count": 1,
-          "latest": "2026-05-15T22:30:00Z",
+          "latest": "2026-05-16T03:00:00Z",
           "sampleTitles": [
             {
-              "title": "Ontario now testing asymptomatic people for hantavirus",
-              "url": "https://www.chch.com/chch-news/ontario-now-testing-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/",
+              "title": "Hantavirus outbreak provides latest stress - test – Brandon Sun",
+              "url": "https://www.brandonsun.com/opinion/2026/05/15/hantavirus-outbreak-provides-latest-stress-test",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 1,
-          "latest": "2026-05-15T22:15:00Z",
+          "latest": "2026-05-16T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "Vamos aos Factos : Macron não anunciou o fecho de escolas por causa do hantavírus",
-              "url": "https://www.tsf.pt/mundo/artigo/vamos-aos-factos-macron-nao-anunciou-o-fecho-de-escolas-por-causa-do-hantavirus/18084480",
-              "language": "Portuguese"
+              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
+              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
+              "language": "English"
             }
           ]
         }
