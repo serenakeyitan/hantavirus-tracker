@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T09:36:30.343Z",
+  "generatedAt": "2026-05-16T10:31:27.937Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,10 +2033,10 @@
       "timespan": "14d",
       "totalArticles": 68,
       "languages": {
+        "English": 54,
         "Bulgarian": 3,
+        "Hungarian": 5,
         "Turkish": 5,
-        "English": 55,
-        "Hungarian": 4,
         "Russian": 1
       },
       "countries": [
@@ -2044,7 +2044,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 38,
+          "count": 36,
           "latest": "2026-05-16T08:30:00Z",
           "sampleTitles": [
             {
@@ -2089,6 +2089,54 @@
           ]
         },
         {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 4,
+          "latest": "2026-05-16T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : megszólalt a WHO az egyre súlyosbodó helyzet kapcsán",
+              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-europaban-megszolalt-a-who",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Minden , amit tudni kell a hantavírusról : ezért olyan veszélyes",
+              "url": "https://femina.hu/egeszseg/hantavirus-tunetei-terjedese-halalozasi-arany/",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
+              "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 3,
+          "latest": "2026-05-16T09:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "A Possible British Hantavirus Carrier Broke Quarantine and Was Detained When He Was Found Bar Hopping in Italy",
+              "url": "https://www.ibtimes.co.uk/british-hantavirus-quarantine-milan-italy-1797143",
+              "language": "English"
+            },
+            {
+              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
+              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
+              "language": "English"
+            },
+            {
+              "title": "A Penile Implant Practitioner Who Once Hosted the Show  Erection Connection  Led a US Presser on Hantavirus",
+              "url": "https://www.ibtimes.co.uk/urologist-health-official-scrutiny-hantavirus-outbreak-1797133",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
@@ -2113,26 +2161,26 @@
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 3,
-          "latest": "2026-05-16T08:30:00Z",
+          "latest": "2026-05-16T09:15:00Z",
           "sampleTitles": [
             {
-              "title": "Minden , amit tudni kell a hantavírusról : ezért olyan veszélyes",
-              "url": "https://femina.hu/egeszseg/hantavirus-tunetei-terjedese-halalozasi-arany/",
-              "language": "Hungarian"
+              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
+              "url": "https://www.watoday.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
+              "language": "English"
             },
             {
-              "title": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
-              "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
-              "language": "Hungarian"
+              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
+              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
+              "language": "English"
             },
             {
-              "title": "Index - Külföld - Már a szomszédban a hantavírus : egy romániai betegnél igazolták a fertőzést",
-              "url": "https://index.hu/kulfold/2026/05/16/romania-arad-hantavirus-fertozes-gyanu-vizsgalat/",
-              "language": "Hungarian"
+              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
+              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
+              "language": "English"
             }
           ]
         },
@@ -2156,63 +2204,6 @@
             {
               "title": "Hantavirus outbreak in Wales : Welsh residents under watch after MV Hondius exposure links ; signs to watch out for",
               "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-wales-welsh-residents-under-watch-after-mv-hondius-exposure-links-signs-to-watch-out-for/articleshow/131130259.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-16T08:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
-              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-16T04:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
-              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
-              "language": "English"
-            },
-            {
-              "title": "A Penile Implant Practitioner Who Once Hosted the Show  Erection Connection  Led a US Presser on Hantavirus",
-              "url": "https://www.ibtimes.co.uk/urologist-health-official-scrutiny-hantavirus-outbreak-1797133",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 2,
-          "latest": "2026-05-16T01:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
-              "url": "https://www.newstalkzb.co.nz/news/world/new-zealand-passenger-from-hantavirus-cruise-mv-hondius-quarantines-in-taiwan/",
-              "language": "English"
-            },
-            {
-              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
-              "url": "https://www.nzherald.co.nz/world/nz-passenger-from-hantavirus-cruise-quarantines-in-taiwan/57R3MVB77JC6XDKRJ3COGL43VY/",
               "language": "English"
             }
           ]
@@ -2255,6 +2246,20 @@
             {
               "title": "Hantavirus outbreak provides latest stress - test – Brandon Sun",
               "url": "https://www.brandonsun.com/opinion/2026/05/15/hantavirus-outbreak-provides-latest-stress-test",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 1,
+          "latest": "2026-05-16T01:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
+              "url": "https://www.newstalkzb.co.nz/news/world/new-zealand-passenger-from-hantavirus-cruise-mv-hondius-quarantines-in-taiwan/",
               "language": "English"
             }
           ]
