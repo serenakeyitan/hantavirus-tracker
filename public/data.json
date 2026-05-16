@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T00:49:51.573Z",
+  "generatedAt": "2026-05-16T01:40:43.783Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,188 +2031,77 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 84,
+      "totalArticles": 80,
       "languages": {
-        "English": 70,
-        "Turkish": 6,
-        "Bulgarian": 3,
-        "Hungarian": 4,
-        "Portuguese": 1
+        "English": 75,
+        "Hungarian": 1,
+        "Turkish": 1,
+        "Portuguese": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 50,
-          "latest": "2026-05-15T22:00:00Z",
+          "count": 62,
+          "latest": "2026-05-16T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
-              "url": "https://www.kcbx.org/npr-top-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+              "title": "Possible hantavirus case in upstate NY under investigation by health officials",
+              "url": "https://www.foxnews.com/health/possible-hantavirus-case-under-investigation-upstate-new-york-no-connection-deadly-cruise-ship-outbreak",
               "language": "English"
             },
             {
-              "title": "Hantavirus Is Present in Chelan County , WA : Here What We Know",
-              "url": "https://mega993online.com/ixp/113/p/hantavirus-chelan-county-wa-resident-confirmed/",
+              "title": "Acting CDC chief says White House and Kennedy getting daily hantavirus updates",
+              "url": "https://kfgo.com/2026/05/15/acting-cdc-chief-says-white-house-and-kennedy-getting-daily-hantavirus-updates/",
               "language": "English"
             },
             {
-              "title": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
-              "url": "https://wcbm.com/local-story/no-known-us-hantavirus-cases-after-cruise-ship-outbreak-cdc-confirms/",
+              "title": "Acting CDC chief says White House and Kennedy getting daily hantavirus updates",
+              "url": "https://whbl.com/2026/05/15/acting-cdc-chief-says-white-house-and-kennedy-getting-daily-hantavirus-updates/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 12,
-          "latest": "2026-05-15T20:15:00Z",
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 4,
+          "latest": "2026-05-16T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "New York Student Linked to Suspected Hantavirus Case as Ontario County Launches Investigation",
-              "url": "https://www.ibtimes.co.uk/geneva-high-student-suspected-hantavirus-case-1797095",
+              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
+              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
               "language": "English"
             },
             {
-              "title": "Major hantavirus update as united kingdom makes key move responding to deadly rat disease",
-              "url": "https://www.express.co.uk/news/world/2206153/major-hantavirus-update-uk-response-outbreak",
+              "title": "Hantavirus evacuees begin three - week quarantine",
+              "url": "https://www.theage.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
               "language": "English"
             },
             {
-              "title": "Fact check : Welfare spending and WHO comments on hantavirus",
-              "url": "https://www.heraldseries.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
+              "title": "Hantavirus evacuees begin three - week quarantine",
+              "url": "https://www.brisbanetimes.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 6,
-          "latest": "2026-05-15T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Yeni pandemi endişesi : Hantavirüs ile Covid - 19 arasındaki temel farklar",
-              "url": "https://www.hurriyet.com.tr/yazarlar/sidal-utkucu/yeni-pandemi-endisesi-hantavirus-ile-covid-19-arasindaki-temel-farklar-43174607",
-              "language": "Turkish"
-            },
-            {
-              "title": "Uzman isimden  hantavirü uyarısı :  Küresel panik yersiz , bireysel korunma şart  ",
-              "url": "https://www.cnnturk.com/saglik/uzman-isimden-hantavirus-uyarisi-kuresel-panik-yersiz-bireysel-korunma-sart-3422963",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ  den Hantavirüs açıklaması ! ",
-              "url": "https://dogruhaber.com.tr/dsoden-hantavirus-aciklamasi-2",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-15T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Пациент в Румъния е дал положителен тест за хантавирус",
-              "url": "https://www.actualno.com/balkani/pacient-v-rumynija-e-dal-polojitelen-test-za-hantavirus-news_2594877.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Регистриран е случай на заразен с хантавирус край България",
-              "url": "https://www.bgonair.bg/a/4-world/418870-registriran-e-sluchay-na-zarazen-s-hantavirus-kray-balgariya",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Хантавирусът се доближава към нас - Здраве Новини Стандарт",
-              "url": "https://www.standartnews.com/zdrave/hantavirusat-se-doblizhava-kam-nas-633808.html",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-15T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ontario now testing 10 people for hantavirus who have been self - isolating",
-              "url": "https://www.cinaradio.com/2026/05/15/ontario-now-testing-10-people-for-hantavirus-who-have-been-self-isolating/",
-              "language": "English"
-            },
-            {
-              "title": "Thailand Declares Hantavirus  Dangerous Communicable Disease  ",
-              "url": "https://www.newkerala.com/news/a/thailand-declares-hantavirus-dangerous-communicable-disease-894.htm",
-              "language": "English"
-            },
-            {
-              "title": "Africa CDC Calls for Enhanced Hantavirus Preparedness",
-              "url": "https://www.newkerala.com/news/a/africa-cdc-urges-enhancing-continental-capabilities-tackle-hantavirus-124.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-15T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ontario now testing 10 asymptomatic people for hantavirus ; low - risk cases to stop isolating if negative",
-              "url": "https://www.ckom.com/2026/05/15/ontario-now-testing-10-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/",
-              "language": "English"
-            },
-            {
-              "title": "Ontario now testing 10 asymptomatic people for hantavirus ; low - risk cases to stop isolating if negative",
-              "url": "https://www.niagarafallsreview.ca/news/canada/ontario-now-testing-10-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/article_be49fe13-8e20-56ce-88bc-dba2a5b06778.html",
-              "language": "English"
-            },
-            {
-              "title": "Ontario now testing 10 asymptomatic people for hantavirus ; low - risk cases to stop isolating if negative",
-              "url": "https://www.gx94radio.com/2026/05/15/ontario-now-testing-10-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 2,
-          "latest": "2026-05-15T20:30:00Z",
+          "latest": "2026-05-16T01:00:00Z",
           "sampleTitles": [
             {
-              "title": "Most derült ki : megjelent a hantavírus Magyarország közvetlen szomszédjában , megvan az első 2026 - os eset – a beteg nem járt külföldön",
-              "url": "https://www.vg.hu/kozelet/2026/05/hantavirus-fertozes-romania-arad-megye",
-              "language": "Hungarian"
+              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
+              "url": "https://www.newstalkzb.co.nz/news/world/new-zealand-passenger-from-hantavirus-cruise-mv-hondius-quarantines-in-taiwan/",
+              "language": "English"
             },
             {
-              "title": "Felbukkant a hantavírus a szomszédunkban : rejtély , hogyan kaphatta el a beteg a",
-              "url": "https://www.penzcentrum.hu/egeszseg/20260515/felbukkant-a-hantavirus-a-szomszedunkban-rejtely-hogyan-kaphatta-el-a-beteg-a-1198764",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
-          "count": 1,
-          "latest": "2026-05-15T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine cabins set up in Rotterdam for crew of Hondius amid hantavirus outbreak",
-              "url": "https://nltimes.nl/2026/05/15/quarantine-cabins-set-rotterdam-crew-hondius-amid-hantavirus-outbreak",
+              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
+              "url": "https://www.nzherald.co.nz/world/nz-passenger-from-hantavirus-cruise-quarantines-in-taiwan/57R3MVB77JC6XDKRJ3COGL43VY/",
               "language": "English"
             }
           ]
@@ -2221,12 +2110,73 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-15T20:15:00Z",
+          "count": 2,
+          "latest": "2026-05-15T22:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus permanece no sêmen por 6 anos , aponta estudo de caso",
-              "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/05/15/hantavirus-pode-permanecer-no-semen-por-ate-6-anos-diz-estudo-de-caso.htm",
+              "title": "Hantavírus : os sinais que se confundem com uma gripe e podem ser fatais",
+              "url": "http://www.em.com.br/bem-viver/2026/05/7420929-hantavirus-os-sinais-que-se-confundem-com-uma-gripe-e-podem-ser-fatais.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : os sinais que se confundem com uma gripe e podem ser fatais",
+              "url": "https://www.em.com.br/bem-viver/2026/05/7420929-hantavirus-os-sinais-que-se-confundem-com-uma-gripe-e-podem-ser-fatais.html",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-15T23:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Doctor leading Trump hantavirus response is a penile specialist who spread Covid conspiracies :  Erection Connection  ",
+              "url": "https://www.aol.co.uk/articles/doctor-leading-trump-hantavirus-response-222513631.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-15T22:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "SON DAKİKA : DSÖ  den hantavirüs açıklaması geldi",
+              "url": "https://dogruhaber.com.tr/son-dakika-dsoden-hantavirus-aciklamasi-geldi",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-05-15T22:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Ontario now testing asymptomatic people for hantavirus",
+              "url": "https://www.chch.com/chch-news/ontario-now-testing-asymptomatic-people-for-hantavirus-low-risk-cases-to-stop-isolating-if-negative/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-15T22:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Vamos aos Factos : Macron não anunciou o fecho de escolas por causa do hantavírus",
+              "url": "https://www.tsf.pt/mundo/artigo/vamos-aos-factos-macron-nao-anunciou-o-fecho-de-escolas-por-causa-do-hantavirus/18084480",
               "language": "Portuguese"
             }
           ]
