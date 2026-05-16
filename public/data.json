@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T17:25:45.955Z",
+  "generatedAt": "2026-05-16T18:24:35.696Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 63,
       "languages": {
-        "English": 37,
+        "English": 38,
         "Croatian": 1,
         "Turkish": 7,
         "Lithuanian": 4,
@@ -2047,9 +2047,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
-          "latest": "2026-05-16T16:30:00Z",
+          "count": 24,
+          "latest": "2026-05-16T17:45:00Z",
           "sampleTitles": [
+            {
+              "title": "2 passengers from hantavirus - hit cruise ship moved from Emory to Nebraska quarantine facility",
+              "url": "https://www.wctv.tv/2026/05/16/2-passengers-hantavirus-hit-cruise-ship-moved-emory-nebraska-quarantine-facility/",
+              "language": "English"
+            },
             {
               "title": "Hantavirus scare and more : Letters",
               "url": "https://nypost.com/2026/05/16/opinion/hantavirus-scare-and-more-letters/",
@@ -2058,11 +2063,6 @@
             {
               "title": "Trump Hantavirus  Expert  A Urologist Specializing In Penile Implants",
               "url": "https://crooksandliars.com/2026/05/trump-s-hantavirus-expert-urologist",
-              "language": "English"
-            },
-            {
-              "title": "Experts wonder  Where is the CDC ? as a hantavirus outbreak unfolds on a cruise ship",
-              "url": "https://www.texarkanagazette.com/news/2026/may/16/experts-wonder-where-is-the-cdc-as-a-hantavirus/",
               "language": "English"
             }
           ]
