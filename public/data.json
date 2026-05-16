@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T16:24:38.979Z",
+  "generatedAt": "2026-05-16T17:25:45.955Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 62,
       "languages": {
-        "Portuguese": 2,
-        "Lithuanian": 1,
-        "English": 45,
-        "Turkish": 6,
+        "English": 37,
+        "Croatian": 1,
+        "Turkish": 7,
+        "Lithuanian": 4,
+        "Portuguese": 3,
         "Hungarian": 6,
         "Bulgarian": 3,
         "Russian": 1
@@ -2046,22 +2047,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 29,
-          "latest": "2026-05-16T12:15:00Z",
+          "count": 23,
+          "latest": "2026-05-16T16:30:00Z",
           "sampleTitles": [
             {
-              "title": "What to know about hantavirus after suspected Geneva case raises local questions",
-              "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
+              "title": "Hantavirus scare and more : Letters",
+              "url": "https://nypost.com/2026/05/16/opinion/hantavirus-scare-and-more-letters/",
               "language": "English"
             },
             {
-              "title": "The hantavirus Andes strain : can it be contained ? ",
-              "url": "https://theweek.com/health/hantavirus-andes-strain-can-it-be-contained",
+              "title": "Trump Hantavirus  Expert  A Urologist Specializing In Penile Implants",
+              "url": "https://crooksandliars.com/2026/05/trump-s-hantavirus-expert-urologist",
               "language": "English"
             },
             {
-              "title": "The Hantavirus Is Also a Climate Warning - Watts Up With That ? ",
-              "url": "https://wattsupwiththat.com/2026/05/16/the-hantavirus-is-also-a-climate-warning/",
+              "title": "Experts wonder  Where is the CDC ? as a hantavirus outbreak unfolds on a cruise ship",
+              "url": "https://www.texarkanagazette.com/news/2026/may/16/experts-wonder-where-is-the-cdc-as-a-hantavirus/",
               "language": "English"
             }
           ]
@@ -2070,9 +2071,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 6,
-          "latest": "2026-05-16T12:00:00Z",
+          "count": 7,
+          "latest": "2026-05-16T15:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirüs pandemiye yol açar mı ? Prof Dr . Tevfik Özlü açıkladı",
+              "url": "https://haber.mynet.com/hantavirus-pandemiye-yol-acar-mi-prof-dr-tevfik-ozlu-acikladi-110107293672",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ  dan hantavirüs açıklaması",
               "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
@@ -2082,11 +2088,30 @@
               "title": "DSÖ , hantavirüs için riskin düşük olduğunu açıkladı",
               "url": "https://www.bursadabugun.com/haber/dso-hantavirus-icin-riskin-dusuk-oldugunu-acikladi-1922928.html",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 4,
+          "latest": "2026-05-16T15:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Trump Top Hantavirus Official Is a Penile Implant Specialist Who Hosted a Conspiracy Theory Podcast",
+              "url": "https://www.ibtimes.co.uk/brian-christine-controversial-journey-1797163",
+              "language": "English"
             },
             {
-              "title": "DSÖ Genel Direktörü yanıtladı . Hantavirüs küresel salgına dönüşür mü ? ",
-              "url": "https://www.ntv.com.tr/yasam/dso-genel-direktoru-yanitladi-hantavirus-kuresel-salgina-donusur-mu-1724520",
-              "language": "Turkish"
+              "title": "A Possible British Hantavirus Carrier Broke Quarantine and Was Detained When He Was Found Bar Hopping in Italy",
+              "url": "https://www.ibtimes.co.uk/british-hantavirus-quarantine-milan-italy-1797143",
+              "language": "English"
+            },
+            {
+              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
+              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
+              "language": "English"
             }
           ]
         },
@@ -2115,25 +2140,25 @@
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
           "count": 3,
-          "latest": "2026-05-16T09:45:00Z",
+          "latest": "2026-05-16T17:00:00Z",
           "sampleTitles": [
             {
-              "title": "A Possible British Hantavirus Carrier Broke Quarantine and Was Detained When He Was Found Bar Hopping in Italy",
-              "url": "https://www.ibtimes.co.uk/british-hantavirus-quarantine-milan-italy-1797143",
+              "title": "Here what science tells us about the risks of hantavirus",
+              "url": "https://www.livemint.com/news/heres-what-science-tells-us-about-the-risks-of-hantavirus-11778941374135.html",
               "language": "English"
             },
             {
-              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
-              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
+              "title": "Hantavirus RNA found in human sperm nearly six years after recovery , says study",
+              "url": "https://www.moneycontrol.com/news/trends/hantavirus-rna-found-in-human-sperm-nearly-six-years-after-recovery-says-study-13921025.html",
               "language": "English"
             },
             {
-              "title": "A Penile Implant Practitioner Who Once Hosted the Show  Erection Connection  Led a US Presser on Hantavirus",
-              "url": "https://www.ibtimes.co.uk/urologist-health-official-scrutiny-hantavirus-outbreak-1797133",
+              "title": "Scientists warn hantavirus risks may be more complicated than officials are publicly saying",
+              "url": "https://www.moneycontrol.com/world/scientists-warn-hantavirus-risks-may-be-more-complicated-than-officials-are-publicly-saying-article-13920870.html",
               "language": "English"
             }
           ]
@@ -2163,26 +2188,21 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-16T08:15:00Z",
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-16T14:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus RNA found in human sperm nearly six years after recovery , says study",
-              "url": "https://www.moneycontrol.com/news/trends/hantavirus-rna-found-in-human-sperm-nearly-six-years-after-recovery-says-study-13921025.html",
-              "language": "English"
+              "title": "Hantavírus : temor de uma nova covid - 19 tem fundamento ? O que a ciência diz sobre chances de uma nova pandemia",
+              "url": "https://veja.abril.com.br/saude/hantavirus-temor-de-uma-nova-covid-19-tem-fundamento-o-que-a-ciencia-diz-sobre-chances-de-uma-nova-pandemia/",
+              "language": "Portuguese"
             },
             {
-              "title": "Scientists warn hantavirus risks may be more complicated than officials are publicly saying",
-              "url": "https://www.moneycontrol.com/world/scientists-warn-hantavirus-risks-may-be-more-complicated-than-officials-are-publicly-saying-article-13920870.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak in Wales : Welsh residents under watch after MV Hondius exposure links ; signs to watch out for",
-              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-wales-welsh-residents-under-watch-after-mv-hondius-exposure-links-signs-to-watch-out-for/articleshow/131130259.cms",
-              "language": "English"
+              "title": "Após casos em cruzeiro , médicos explicam riscos do hantavírus e afastam pânico no Brasil",
+              "url": "https://www.jmonline.com.br/saude/apos-casos-em-cruzeiro-medicos-explicam-riscos-do-hantavirus-e-afastam-panico-no-brasil-1.625113",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2206,16 +2226,16 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
           "count": 1,
-          "latest": "2026-05-16T13:15:00Z",
+          "latest": "2026-05-16T17:00:00Z",
           "sampleTitles": [
             {
-              "title": "Após casos em cruzeiro , médicos explicam riscos do hantavírus e afastam pânico no Brasil",
-              "url": "https://www.jmonline.com.br/saude/apos-casos-em-cruzeiro-medicos-explicam-riscos-do-hantavirus-e-afastam-panico-no-brasil-1.625113",
-              "language": "Portuguese"
+              "title": "France says cruise ship Andes virus matches known South American viruses – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/16/france-says-cruise-ship-andes-virus-matches-known-south-american-viruses",
+              "language": "English"
             }
           ]
         },
@@ -2257,20 +2277,6 @@
             {
               "title": "Most crew members aboard MV Hondius to undergo quarantine in Rotterdam upon arrival -- China Economic Net",
               "url": "http://en.ce.cn/main/latest/202605/t20260516_2970610.shtml",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-16T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus outbreak provides latest stress - test – Brandon Sun",
-              "url": "https://www.brandonsun.com/opinion/2026/05/15/hantavirus-outbreak-provides-latest-stress-test",
               "language": "English"
             }
           ]
