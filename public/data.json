@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T12:27:46.669Z",
+  "generatedAt": "2026-05-16T13:35:18.512Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 68,
+      "totalArticles": 64,
       "languages": {
+        "Portuguese": 2,
+        "Lithuanian": 1,
+        "English": 45,
         "Turkish": 6,
         "Hungarian": 6,
-        "Portuguese": 1,
-        "English": 51,
         "Bulgarian": 3,
         "Russian": 1
       },
@@ -2045,9 +2046,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 33,
-          "latest": "2026-05-16T10:15:00Z",
+          "count": 29,
+          "latest": "2026-05-16T12:15:00Z",
           "sampleTitles": [
+            {
+              "title": "What to know about hantavirus after suspected Geneva case raises local questions",
+              "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
+              "language": "English"
+            },
             {
               "title": "The hantavirus Andes strain : can it be contained ? ",
               "url": "https://theweek.com/health/hantavirus-andes-strain-can-it-be-contained",
@@ -2056,11 +2062,6 @@
             {
               "title": "The Hantavirus Is Also a Climate Warning - Watts Up With That ? ",
               "url": "https://wattsupwiththat.com/2026/05/16/the-hantavirus-is-also-a-climate-warning/",
-              "language": "English"
-            },
-            {
-              "title": "Washington State Department of Health investigates hantavirus cases",
-              "url": "https://kxly920.com/2026/05/15/washington-state-department-of-health-investigates-hantavirus-cases/",
               "language": "English"
             }
           ]
@@ -2138,30 +2139,6 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-05-16T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-              "url": "https://www.watoday.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit cruise ship Australians isolating in Perth unlikely to be paid out , experts say",
-              "url": "https://www.abc.net.au/news/2026-05-16/passengers-quarantine-in-perth-could-seek-compensation/106686216",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
@@ -2206,6 +2183,39 @@
               "title": "Hantavirus outbreak in Wales : Welsh residents under watch after MV Hondius exposure links ; signs to watch out for",
               "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-wales-welsh-residents-under-watch-after-mv-hondius-exposure-links-signs-to-watch-out-for/articleshow/131130259.cms",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-05-16T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
+              "url": "https://www.watoday.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
+              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-16T13:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Após casos em cruzeiro , médicos explicam riscos do hantavírus e afastam pânico no Brasil",
+              "url": "https://www.jmonline.com.br/saude/apos-casos-em-cruzeiro-medicos-explicam-riscos-do-hantavirus-e-afastam-panico-no-brasil-1.625113",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2261,20 +2271,6 @@
             {
               "title": "Hantavirus outbreak provides latest stress - test – Brandon Sun",
               "url": "https://www.brandonsun.com/opinion/2026/05/15/hantavirus-outbreak-provides-latest-stress-test",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-16T01:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
-              "url": "https://www.newstalkzb.co.nz/news/world/new-zealand-passenger-from-hantavirus-cruise-mv-hondius-quarantines-in-taiwan/",
               "language": "English"
             }
           ]
