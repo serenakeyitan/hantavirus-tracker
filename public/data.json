@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:26:15.992Z",
+  "generatedAt": "2026-05-16T12:27:46.669Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,13 +2031,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 68,
       "languages": {
+        "Turkish": 6,
+        "Hungarian": 6,
         "Portuguese": 1,
-        "English": 54,
-        "Hungarian": 5,
+        "English": 51,
         "Bulgarian": 3,
-        "Turkish": 5,
         "Russian": 1
       },
       "countries": [
@@ -2045,7 +2045,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 36,
+          "count": 33,
           "latest": "2026-05-16T10:15:00Z",
           "sampleTitles": [
             {
@@ -2069,9 +2069,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 5,
-          "latest": "2026-05-16T08:30:00Z",
+          "count": 6,
+          "latest": "2026-05-16T12:00:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ  dan hantavirüs açıklaması",
+              "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ , hantavirüs için riskin düşük olduğunu açıkladı",
               "url": "https://www.bursadabugun.com/haber/dso-hantavirus-icin-riskin-dusuk-oldugunu-acikladi-1922928.html",
@@ -2080,11 +2085,6 @@
             {
               "title": "DSÖ Genel Direktörü yanıtladı . Hantavirüs küresel salgına dönüşür mü ? ",
               "url": "https://www.ntv.com.tr/yasam/dso-genel-direktoru-yanitladi-hantavirus-kuresel-salgina-donusur-mu-1724520",
-              "language": "Turkish"
-            },
-            {
-              "title": "Uzmanlardan hantavirüs uyarısı : Gıdaları mutlaka koruyun",
-              "url": "https://haber.mynet.com/uzmanlardan-hantavirus-uyarisi-gidalari-mutlaka-koruyun-110107293614",
               "language": "Turkish"
             }
           ]
