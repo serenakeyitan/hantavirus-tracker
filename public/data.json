@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T21:21:01.501Z",
+  "generatedAt": "2026-05-16T22:20:09.554Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,63 +2031,61 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 63,
+      "totalArticles": 69,
       "languages": {
-        "English": 38,
+        "English": 55,
+        "Portuguese": 5,
+        "Turkish": 3,
         "Croatian": 1,
-        "Turkish": 7,
         "Lithuanian": 4,
-        "Portuguese": 3,
-        "Hungarian": 6,
-        "Bulgarian": 3,
-        "Russian": 1
+        "Hungarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 24,
-          "latest": "2026-05-16T17:45:00Z",
+          "count": 30,
+          "latest": "2026-05-16T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "2 passengers from hantavirus - hit cruise ship moved from Emory to Nebraska quarantine facility",
-              "url": "https://www.wctv.tv/2026/05/16/2-passengers-hantavirus-hit-cruise-ship-moved-emory-nebraska-quarantine-facility/",
+              "title": "France confirms hantavirus in cruise outbreak is not new or more transmissible",
+              "url": "https://www.katc.com/health/france-confirms-hantavirus-in-cruise-outbreak-is-not-new-or-more-transmissible",
               "language": "English"
             },
             {
-              "title": "Hantavirus scare and more : Letters",
-              "url": "https://nypost.com/2026/05/16/opinion/hantavirus-scare-and-more-letters/",
+              "title": "Possible hantavirus case under investigation in upstate New York ; no connection to deadly cruise ship outbreak",
+              "url": "https://www.yahoo.com/news/articles/possible-hantavirus-case-under-investigation-003750333.html",
               "language": "English"
             },
             {
-              "title": "Trump Hantavirus  Expert  A Urologist Specializing In Penile Implants",
-              "url": "https://crooksandliars.com/2026/05/trump-s-hantavirus-expert-urologist",
+              "title": "France confirms hantavirus in cruise outbreak is not new or more transmissible",
+              "url": "https://www.wtvq.com/france-confirms-hantavirus-in-cruise-outbreak-is-not-new-or-more-transmissible/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 7,
-          "latest": "2026-05-16T15:30:00Z",
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 14,
+          "latest": "2026-05-16T21:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs pandemiye yol açar mı ? Prof Dr . Tevfik Özlü açıkladı",
-              "url": "https://haber.mynet.com/hantavirus-pandemiye-yol-acar-mi-prof-dr-tevfik-ozlu-acikladi-110107293672",
-              "language": "Turkish"
+              "title": "1 person tests positive for hantavirus in Island Heath",
+              "url": "https://cheknews.ca/1-person-tests-positive-for-hantavirus-in-island-heath-1324983/",
+              "language": "English"
             },
             {
-              "title": "DSÖ  dan hantavirüs açıklaması",
-              "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
-              "language": "Turkish"
+              "title": "Canadian tests  presumptive positive  for hantavirus while isolating in B . C . ",
+              "url": "https://www.chch.com/chch-news/canadian-tests-presumptive-positive-for-hantavirus-while-isolating-in-b-c/",
+              "language": "English"
             },
             {
-              "title": "DSÖ , hantavirüs için riskin düşük olduğunu açıkladı",
-              "url": "https://www.bursadabugun.com/haber/dso-hantavirus-icin-riskin-dusuk-oldugunu-acikladi-1922928.html",
-              "language": "Turkish"
+              "title": "Canadian isolating in B . C . tests  presumptive positive  for hantavirus",
+              "url": "https://www.niagarafallsreview.ca/news/canada/cp-newsalert-canadian-tests-presumptive-positive-for-hantavirus/article_8333cbef-45ab-5290-82b3-f751b86b2606.html",
+              "language": "English"
             }
           ]
         },
@@ -2096,94 +2094,22 @@
           "lat": 54,
           "lng": -2.4,
           "count": 4,
-          "latest": "2026-05-16T15:15:00Z",
+          "latest": "2026-05-16T21:45:00Z",
           "sampleTitles": [
             {
-              "title": "Trump Top Hantavirus Official Is a Penile Implant Specialist Who Hosted a Conspiracy Theory Podcast",
-              "url": "https://www.ibtimes.co.uk/brian-christine-controversial-journey-1797163",
+              "title": "Canadian from cruise ship tests positive for hantavirus",
+              "url": "https://www.bbc.com/news/articles/c2k2p057ezno",
               "language": "English"
             },
             {
-              "title": "A Possible British Hantavirus Carrier Broke Quarantine and Was Detained When He Was Found Bar Hopping in Italy",
-              "url": "https://www.ibtimes.co.uk/british-hantavirus-quarantine-milan-italy-1797143",
+              "title": "  A Critical Period : Canada Confirms First Presumptive Hantavirus Case Among Cruise Ship Returnees",
+              "url": "https://www.ibtimes.co.uk/canadian-andes-hantavirus-cruise-ship-outbreak-1797193",
               "language": "English"
             },
             {
-              "title": "Scots trapped on cruises from hell amid Hantavirus outbreak on ship",
-              "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-trapped-cruises-hell-amid-37160489",
+              "title": "Canada confirms first hantavirus case in isolation in British Columbia",
+              "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 4,
-          "latest": "2026-05-16T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : megszólalt a WHO az egyre súlyosbodó helyzet kapcsán",
-              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-europaban-megszolalt-a-who",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Minden , amit tudni kell a hantavírusról : ezért olyan veszélyes",
-              "url": "https://femina.hu/egeszseg/hantavirus-tunetei-terjedese-halalozasi-arany/",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
-              "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-16T17:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Here what science tells us about the risks of hantavirus",
-              "url": "https://www.livemint.com/news/heres-what-science-tells-us-about-the-risks-of-hantavirus-11778941374135.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus RNA found in human sperm nearly six years after recovery , says study",
-              "url": "https://www.moneycontrol.com/news/trends/hantavirus-rna-found-in-human-sperm-nearly-six-years-after-recovery-says-study-13921025.html",
-              "language": "English"
-            },
-            {
-              "title": "Scientists warn hantavirus risks may be more complicated than officials are publicly saying",
-              "url": "https://www.moneycontrol.com/world/scientists-warn-hantavirus-risks-may-be-more-complicated-than-officials-are-publicly-saying-article-13920870.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-16T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Регистриран е случай на заразен с хантавирус край България",
-              "url": "https://www.novinite.bg/articles/284831/Registriran-e-sluchaj-na-zarazen-s-hantavirus-kraj-Balgariya",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
-              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
-              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
-              "language": "Bulgarian"
             }
           ]
         },
@@ -2191,9 +2117,14 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-16T14:30:00Z",
+          "count": 3,
+          "latest": "2026-05-16T21:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Canadá confirma caso de hantavírus ligado a surto em navio",
+              "url": "https://veja.abril.com.br/saude/canada-confirma-caso-de-hantavirus-ligado-a-surto-em-navio/",
+              "language": "Portuguese"
+            },
             {
               "title": "Hantavírus : temor de uma nova covid - 19 tem fundamento ? O que a ciência diz sobre chances de uma nova pandemia",
               "url": "https://veja.abril.com.br/saude/hantavirus-temor-de-uma-nova-covid-19-tem-fundamento-o-que-a-ciencia-diz-sobre-chances-de-uma-nova-pandemia/",
@@ -2207,35 +2138,26 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-16T09:15:00Z",
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 3,
+          "latest": "2026-05-16T20:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-              "url": "https://www.watoday.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-              "language": "English"
+              "title": "Hantavirüs karantinasında olması gerekirken barda yakalandı ! ",
+              "url": "http://t24.com.tr/dunya/hantavirus-karantinasinda-olmasi-gerekirken-barda-yakalandi,1322252",
+              "language": "Turkish"
             },
             {
-              "title": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-              "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-16T17:00:00Z",
-          "sampleTitles": [
+              "title": "Hantavirüs pandemiye yol açar mı ? Prof Dr . Tevfik Özlü açıkladı",
+              "url": "https://haber.mynet.com/hantavirus-pandemiye-yol-acar-mi-prof-dr-tevfik-ozlu-acikladi-110107293672",
+              "language": "Turkish"
+            },
             {
-              "title": "France says cruise ship Andes virus matches known South American viruses – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/16/france-says-cruise-ship-andes-virus-matches-known-south-american-viruses",
-              "language": "English"
+              "title": "DSÖ  dan hantavirüs açıklaması",
+              "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
+              "language": "Turkish"
             }
           ]
         },
@@ -2243,9 +2165,14 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-16T11:00:00Z",
+          "count": 2,
+          "latest": "2026-05-16T20:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavírus . Canadá confirma primeiro caso positivo",
+              "url": "https://sapo.pt/artigo/hantavirus-canada-confirma-primeiro-caso-positivo-6a08cd4798c03764f6e31349",
+              "language": "Portuguese"
+            },
             {
               "title": "Betsy Arakawa : Como a mulher de Gene Hackman contraiu o hantavírus e deixou o marido entregue à morte",
               "url": "https://sapo.pt/artigo/betsy-arakawa-como-a-mulher-de-gene-hackman-contraiu-o-hantavirus-e-deixou-o-marido-entregue-a-morte-6a08487898c03764f6bc31d2",
@@ -2254,29 +2181,15 @@
           ]
         },
         {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
           "count": 1,
-          "latest": "2026-05-16T06:45:00Z",
+          "latest": "2026-05-16T17:00:00Z",
           "sampleTitles": [
             {
-              "title": "Врач объяснила , почему от хантавируса нет вакцины",
-              "url": "https://ria.ru/20260516/sataeva-2092838883.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "China",
-          "lat": 35.9,
-          "lng": 104.2,
-          "count": 1,
-          "latest": "2026-05-16T03:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Most crew members aboard MV Hondius to undergo quarantine in Rotterdam upon arrival -- China Economic Net",
-              "url": "http://en.ce.cn/main/latest/202605/t20260516_2970610.shtml",
+              "title": "Here what science tells us about the risks of hantavirus",
+              "url": "https://www.livemint.com/news/heres-what-science-tells-us-about-the-risks-of-hantavirus-11778941374135.html",
               "language": "English"
             }
           ]
