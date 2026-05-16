@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T10:31:27.937Z",
+  "generatedAt": "2026-05-16T11:26:15.992Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 68,
+      "totalArticles": 69,
       "languages": {
+        "Portuguese": 1,
         "English": 54,
-        "Bulgarian": 3,
         "Hungarian": 5,
+        "Bulgarian": 3,
         "Turkish": 5,
         "Russian": 1
       },
@@ -2045,21 +2046,21 @@
           "lat": 39,
           "lng": -98,
           "count": 36,
-          "latest": "2026-05-16T08:30:00Z",
+          "latest": "2026-05-16T10:15:00Z",
           "sampleTitles": [
+            {
+              "title": "The hantavirus Andes strain : can it be contained ? ",
+              "url": "https://theweek.com/health/hantavirus-andes-strain-can-it-be-contained",
+              "language": "English"
+            },
+            {
+              "title": "The Hantavirus Is Also a Climate Warning - Watts Up With That ? ",
+              "url": "https://wattsupwiththat.com/2026/05/16/the-hantavirus-is-also-a-climate-warning/",
+              "language": "English"
+            },
             {
               "title": "Washington State Department of Health investigates hantavirus cases",
               "url": "https://kxly920.com/2026/05/15/washington-state-department-of-health-investigates-hantavirus-cases/",
-              "language": "English"
-            },
-            {
-              "title": "What science knows about Andes hantavirus and why governments ignore it",
-              "url": "https://www.wsws.org/en/articles/2026/05/16/ukmk-m16.html",
-              "language": "English"
-            },
-            {
-              "title": "Norovirus Vs Hantavirus : What the Difference ? ",
-              "url": "https://www.medindia.net/news/healthinfocus/norovirus-vs-hantavirus-whats-the-difference-223399-1.htm",
               "language": "English"
             }
           ]
@@ -2137,30 +2138,6 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-16T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Регистриран е случай на заразен с хантавирус край България",
-              "url": "https://www.novinite.bg/articles/284831/Registriran-e-sluchaj-na-zarazen-s-hantavirus-kraj-Balgariya",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
-              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
-              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2185,6 +2162,30 @@
           ]
         },
         {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-16T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Регистриран е случай на заразен с хантавирус край България",
+              "url": "https://www.novinite.bg/articles/284831/Registriran-e-sluchaj-na-zarazen-s-hantavirus-kraj-Balgariya",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Първи заразен с хантавирус край България - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/parvi-zarazen-s-hantavirus-kray-balgariya-633830.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Мъж е заразен с хантавирус в Румъния - Новини от Dnes . bg",
+              "url": "https://www.dnes.bg/a/2-svyat/721580-mazh-e-zarazen-s-hantavirus-v-rumaniya",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
@@ -2205,6 +2206,20 @@
               "title": "Hantavirus outbreak in Wales : Welsh residents under watch after MV Hondius exposure links ; signs to watch out for",
               "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-wales-welsh-residents-under-watch-after-mv-hondius-exposure-links-signs-to-watch-out-for/articleshow/131130259.cms",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-16T11:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Betsy Arakawa : Como a mulher de Gene Hackman contraiu o hantavírus e deixou o marido entregue à morte",
+              "url": "https://sapo.pt/artigo/betsy-arakawa-como-a-mulher-de-gene-hackman-contraiu-o-hantavirus-e-deixou-o-marido-entregue-a-morte-6a08487898c03764f6bc31d2",
+              "language": "Portuguese"
             }
           ]
         },
