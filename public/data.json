@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T10:34:57.244Z",
+  "generatedAt": "2026-05-17T11:29:32.288Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,58 +2031,59 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 78,
+      "totalArticles": 72,
       "languages": {
-        "English": 70,
-        "Bulgarian": 2,
-        "Portuguese": 5,
-        "Russian": 1
+        "English": 64,
+        "Turkish": 1,
+        "Russian": 2,
+        "Bulgarian": 3,
+        "Portuguese": 2
       },
       "countries": [
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
           "count": 26,
-          "latest": "2026-05-17T09:00:00Z",
+          "latest": "2026-05-17T10:15:00Z",
           "sampleTitles": [
             {
+              "title": "Cruise industry expects no impact from hantavirus outbreak on ship",
+              "url": "https://www.wsbradio.com/news/business/demand-cruises/RHTZ6XTN2U7JVC36B3GBXTKKP4/",
+              "language": "English"
+            },
+            {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.therecord.com/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_3e97fd5e-c92b-582e-aff2-2aedfab13b1e.html",
+              "url": "https://www.wral.com/news/ap/d85e4-demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
               "language": "English"
             },
             {
-              "title": "Yukon cruise ship passenger isolating in B . C . tests positive for hantavirus",
-              "url": "https://yukon-news.com/2026/05/16/yukon-cruise-ship-passenger-isolating-in-b-c-tests-positive-for-hantavirus/",
-              "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://www.mankatofreepress.com/news/state_national_news/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_dc6776c1-c369-5f42-8090-31b75d032d8b.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 22,
-          "latest": "2026-05-17T09:15:00Z",
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 20,
+          "latest": "2026-05-17T10:30:00Z",
           "sampleTitles": [
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "http://www.sitkasentinel.com/stories/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks,141905",
+              "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
+              "language": "English"
+            },
+            {
+              "title": "How much should you worry about rodent - carried hantavirus in N . L .? Not too much , experts say",
+              "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hantavirus-newfoundland-expert-9.7198694",
               "language": "English"
             },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.union-bulletin.com/news/national/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_0b092515-523d-5c18-b8ea-be6049a2b719.html",
-              "language": "English"
-            },
-            {
-              "title": "Public health hot topic : Hantavirus | The Journal of the San Juan Islands",
-              "url": "https://www.sanjuanjournal.com/2026/05/17/public-health-hot-topic-hantavirus/",
+              "url": "https://www.therecord.com/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_3e97fd5e-c92b-582e-aff2-2aedfab13b1e.html",
               "language": "English"
             }
           ]
@@ -2091,23 +2092,47 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 8,
-          "latest": "2026-05-17T04:00:00Z",
+          "count": 6,
+          "latest": "2026-05-17T10:15:00Z",
           "sampleTitles": [
             {
-              "title": "I had hantavirus . This is what it like",
-              "url": "https://www.afr.com/policy/health-and-education/i-had-hantavirus-this-is-what-its-like-20260514-p5zx4p",
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.theage.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
               "language": "English"
             },
             {
-              "title": "Australian hantavirus cruise ship passengers arrive in Perth | South Coast Register",
-              "url": "https://www.southcoastregister.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.smh.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
               "language": "English"
             },
             {
-              "title": "One Canadian tests positive for hantavirus",
-              "url": "https://www.westernadvocate.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.brisbanetimes.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 4,
+          "latest": "2026-05-17T09:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Проф . Радка Аргирова : Хантавирусът не е нечуван , нито място за страх",
+              "url": "https://www.bgonair.bg/a/2-bulgaria/418956-prof-radka-argirova-hantavirusat-ne-e-nechuvan-nito-myasto-za-strah",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Проф . Радка Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
+              "url": "https://www.cross.bg/nyama-korab-epidemiya-1797120.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
+              "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2136,25 +2161,15 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-17T08:45:00Z",
+          "country": "Israel",
+          "lat": 31,
+          "lng": 34.85,
+          "count": 1,
+          "latest": "2026-05-17T10:30:00Z",
           "sampleTitles": [
             {
-              "title": "Проф . Радка Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
-              "url": "https://www.cross.bg/nyama-korab-epidemiya-1797120.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
-              "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Hantavirus Case Confirmed in Romania Arad , Patient Hospitalized After Sudden Illness - Novinite . com",
-              "url": "https://www.novinite.com/articles/238549/Hantavirus+Case+Confirmed+in+Romania%E2%80%99s+Arad,+Patient+Hospitalized+After+Sudden+Illness",
+              "title": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
+              "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
               "language": "English"
             }
           ]
@@ -2163,22 +2178,12 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 3,
+          "count": 1,
           "latest": "2026-05-17T07:15:00Z",
           "sampleTitles": [
             {
               "title": "O que sabemos sobre o hantavírus ( e o que ele sabe sobre nós ) ",
               "url": "https://www.publico.pt/2026/05/17/opiniao/cronica/sabemos-hantavirus-sabe-2174856",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : quando um navio basta para fabricar uma crise – Observador",
-              "url": "https://observador.pt/opiniao/hantavirus-quando-um-navio-basta-para-fabricar-uma-crise-global/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Canadiano infectado por hantavírus , total de casos ligados ao Hondius sobe para 11",
-              "url": "https://www.publico.pt/2026/05/17/mundo/noticia/canadiano-infectado-hantavirus-total-casos-ligados-hondius-sobe-11-2175002",
               "language": "Portuguese"
             }
           ]
@@ -2187,17 +2192,12 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-17T05:30:00Z",
           "sampleTitles": [
             {
               "title": "Canadian tourist tests positive ​for hantavirus after leaving luxury cruise ship",
               "url": "https://www.independent.co.uk/news/world/americas/canada-tourist-positive-hantavirus-test-cruise-ship-b2978064.html",
-              "language": "English"
-            },
-            {
-              "title": "Canadian from cruise ship tests positive for hantavirus",
-              "url": "https://www.bbc.co.uk/news/articles/c2k2p057ezno",
               "language": "English"
             }
           ]
@@ -2206,17 +2206,12 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-17T04:30:00Z",
           "sampleTitles": [
             {
               "title": "Gripe ou mais sério ? Veja quais são os primeiros sintomas do hantavírus",
               "url": "https://www.terra.com.br/vida-e-estilo/saude/gripe-ou-mais-serio-veja-quais-sao-os-primeiros-sintomas-do-hantavirus,b7c994adb9d1cdf1d1feb83434f449e93vbe8d75.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Entenda por que o hantavírus não representa risco para o Brasil | Repórter Brasil | TV Brasil",
-              "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/05/entenda-por-que-o-hantavirus-nao-representa-risco-para-o-brasil",
               "language": "Portuguese"
             }
           ]
@@ -2232,20 +2227,6 @@
               "title": "Вирусолог рассказал , возможны ли новые переносчики хантавируса в России",
               "url": "https://www.amic.ru/news/virusolog-rasskazal-vozmozhny-li-novye-perenoschiki-hantavirusa-v-rossii-583994",
               "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Japan",
-          "lat": 36.2,
-          "lng": 138.3,
-          "count": 1,
-          "latest": "2026-05-17T00:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "The Alabama urologist now leading America hantavirus response once hosted a show called  Erection Connection  and compared Biden to Nazi Germany",
-              "url": "https://attackofthefanboy.com/other-news/the-alabama-urologist-now-leading-americas-hantavirus-response-once-hosted-a-show-called-erection-connection-and-compared-biden-to-nazi-germany/",
-              "language": "English"
             }
           ]
         }
