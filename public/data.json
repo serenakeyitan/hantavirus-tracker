@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T16:25:40.467Z",
+  "generatedAt": "2026-05-17T17:25:49.454Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 67,
+      "totalArticles": 64,
       "languages": {
-        "English": 56,
+        "English": 53,
         "Portuguese": 4,
         "Lithuanian": 1,
         "Hungarian": 1,
@@ -2046,22 +2046,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
-          "latest": "2026-05-17T12:15:00Z",
+          "count": 27,
+          "latest": "2026-05-17T17:00:00Z",
           "sampleTitles": [
             {
-              "title": "One Canadian tests positive for hantavirus , BC officials say",
-              "url": "https://article.wn.com/view/2026/05/17/One_Canadian_tests_positive_for_hantavirus_BC_officials_say/",
+              "title": "MV Hondius cruise ship to arrive in the Netherlands on Monday",
+              "url": "https://www.nbcnews.com/health/health-news/mv-hondius-cruise-ship-arrive-netherlands-monday-rcna345547",
               "language": "English"
             },
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://wtop.com/lifestyle/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
+              "title": "New York Preparing For  Worst - Case  In Deadly Hantavirus Scare",
+              "url": "https://wpdh.com/ixp/854/p/new-york-worst-case-hantavirus/",
               "language": "English"
             },
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://isp.netscape.com:443/pf/story/0001/20260517/d85e4a85a7548073fb5ca549c09701a6",
+              "title": "New Yorker Reveals Secret Health Battle In Hantavirus Quarantine",
+              "url": "https://wpdh.com/ixp/854/p/new-yorker-health-battle-in-quarantine/",
               "language": "English"
             }
           ]
@@ -2070,9 +2070,14 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 16,
-          "latest": "2026-05-17T13:00:00Z",
+          "count": 12,
+          "latest": "2026-05-17T16:30:00Z",
           "sampleTitles": [
+            {
+              "title": "National lab confirms hantavirus case for Canadian cruise passenger isolating in B . C . ",
+              "url": "https://www.cbc.ca/news/canada/canadian-hantavirus-case-confirmed-phac-9.7202841",
+              "language": "English"
+            },
             {
               "title": "Dr . Peter Lin breaks down hantavirus",
               "url": "https://www.cbc.ca/player/play/audio/9.7199529",
@@ -2082,11 +2087,6 @@
               "title": "Presumptive Hantavirus Case Reported Among Canadians Returning From Cruise",
               "url": "https://vocm.com/2026/05/17/299304/",
               "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
-              "language": "English"
             }
           ]
         },
@@ -2094,7 +2094,7 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 5,
+          "count": 4,
           "latest": "2026-05-17T15:00:00Z",
           "sampleTitles": [
             {
@@ -2110,30 +2110,6 @@
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
               "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 4,
-          "latest": "2026-05-17T10:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.theage.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
-              "language": "English"
-            },
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.smh.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
-              "language": "English"
-            },
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.brisbanetimes.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
               "language": "English"
             }
           ]
@@ -2159,6 +2135,30 @@
               "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
               "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
               "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-05-17T10:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.theage.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
+              "language": "English"
+            },
+            {
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.smh.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
+              "language": "English"
+            },
+            {
+              "title": "Returned Australians learn hantavirus test results",
+              "url": "https://www.brisbanetimes.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
+              "language": "English"
             }
           ]
         },
@@ -2201,6 +2201,20 @@
           ]
         },
         {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-17T16:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Saúde de Maceió reforça orientaes e tranquiliza populao em relao à infeco pelo hantavírus",
+              "url": "https://www.alagoas24horas.com.br/1739172/saude-de-maceio-reforca-orientacoes-e-tranquiliza-populacao-em-relacao-a-infeccao-pelo-hantavirus/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Netherlands",
           "lat": 52.1,
           "lng": 5.3,
@@ -2239,20 +2253,6 @@
               "title": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
               "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-17T04:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Gripe ou mais sério ? Veja quais são os primeiros sintomas do hantavírus",
-              "url": "https://www.terra.com.br/vida-e-estilo/saude/gripe-ou-mais-serio-veja-quais-sao-os-primeiros-sintomas-do-hantavirus,b7c994adb9d1cdf1d1feb83434f449e93vbe8d75.html",
-              "language": "Portuguese"
             }
           ]
         }
