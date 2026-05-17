@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T12:27:23.920Z",
+  "generatedAt": "2026-05-17T13:35:44.627Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 72,
+      "totalArticles": 69,
       "languages": {
-        "English": 64,
+        "English": 60,
+        "Hungarian": 1,
+        "Portuguese": 3,
         "Turkish": 1,
-        "Russian": 2,
-        "Bulgarian": 3,
-        "Portuguese": 2
+        "Russian": 1,
+        "Bulgarian": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 26,
-          "latest": "2026-05-17T10:15:00Z",
+          "count": 27,
+          "latest": "2026-05-17T12:15:00Z",
           "sampleTitles": [
             {
-              "title": "Cruise industry expects no impact from hantavirus outbreak on ship",
-              "url": "https://www.wsbradio.com/news/business/demand-cruises/RHTZ6XTN2U7JVC36B3GBXTKKP4/",
+              "title": "One Canadian tests positive for hantavirus , BC officials say",
+              "url": "https://article.wn.com/view/2026/05/17/One_Canadian_tests_positive_for_hantavirus_BC_officials_say/",
               "language": "English"
             },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.wral.com/news/ap/d85e4-demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
+              "url": "https://wtop.com/lifestyle/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
               "language": "English"
             },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.mankatofreepress.com/news/state_national_news/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_dc6776c1-c369-5f42-8090-31b75d032d8b.html",
+              "url": "https://isp.netscape.com:443/pf/story/0001/20260517/d85e4a85a7548073fb5ca549c09701a6",
               "language": "English"
             }
           ]
@@ -2068,22 +2069,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 20,
-          "latest": "2026-05-17T10:30:00Z",
+          "count": 16,
+          "latest": "2026-05-17T13:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Dr . Peter Lin breaks down hantavirus",
+              "url": "https://www.cbc.ca/player/play/audio/9.7199529",
+              "language": "English"
+            },
+            {
+              "title": "Presumptive Hantavirus Case Reported Among Canadians Returning From Cruise",
+              "url": "https://vocm.com/2026/05/17/299304/",
+              "language": "English"
+            },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
               "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
-              "language": "English"
-            },
-            {
-              "title": "How much should you worry about rodent - carried hantavirus in N . L .? Not too much , experts say",
-              "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hantavirus-newfoundland-expert-9.7198694",
-              "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.therecord.com/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_3e97fd5e-c92b-582e-aff2-2aedfab13b1e.html",
               "language": "English"
             }
           ]
@@ -2092,7 +2093,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 6,
+          "count": 4,
           "latest": "2026-05-17T10:15:00Z",
           "sampleTitles": [
             {
@@ -2161,26 +2162,17 @@
           ]
         },
         {
-          "country": "Israel",
-          "lat": 31,
-          "lng": 34.85,
-          "count": 1,
-          "latest": "2026-05-17T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
-              "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-17T07:15:00Z",
+          "count": 2,
+          "latest": "2026-05-17T11:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Viajantes para Argentina , Chile e Uruguai devem ter consulta preventiva devido ao hantavírus",
+              "url": "https://sapo.pt/artigo/viajantes-para-argentina-chile-e-uruguai-devem-ter-consulta-preventiva-devido-ao-hantavirus-6a099e134faa8527a1f90bf9",
+              "language": "Portuguese"
+            },
             {
               "title": "O que sabemos sobre o hantavírus ( e o que ele sabe sobre nós ) ",
               "url": "https://www.publico.pt/2026/05/17/opiniao/cronica/sabemos-hantavirus-sabe-2174856",
@@ -2192,12 +2184,59 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-17T05:30:00Z",
+          "count": 2,
+          "latest": "2026-05-17T11:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Canadian tourist on rat - virus cruise tests positive for Hantavirus",
+              "url": "https://www.lbc.co.uk/article/canadian-tourist-hantavirus-virus-5HjdZHj_2/",
+              "language": "English"
+            },
             {
               "title": "Canadian tourist tests positive ​for hantavirus after leaving luxury cruise ship",
               "url": "https://www.independent.co.uk/news/world/americas/canada-tourist-positive-hantavirus-test-cruise-ship-b2978064.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-05-17T11:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Canadian Hondius passenger hospitalized at home with suspected hantavirus",
+              "url": "https://nltimes.nl/2026/05/17/canadian-hondius-passenger-hospitalized-home-suspected-hantavirus",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-17T11:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Minden , amit a hantavírusról tudnod kell ! ",
+              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-mindent-tudnod-kell",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Israel",
+          "lat": 31,
+          "lng": 34.85,
+          "count": 1,
+          "latest": "2026-05-17T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
+              "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
               "language": "English"
             }
           ]
@@ -2213,20 +2252,6 @@
               "title": "Gripe ou mais sério ? Veja quais são os primeiros sintomas do hantavírus",
               "url": "https://www.terra.com.br/vida-e-estilo/saude/gripe-ou-mais-serio-veja-quais-sao-os-primeiros-sintomas-do-hantavirus,b7c994adb9d1cdf1d1feb83434f449e93vbe8d75.html",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-17T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Вирусолог рассказал , возможны ли новые переносчики хантавируса в России",
-              "url": "https://www.amic.ru/news/virusolog-rasskazal-vozmozhny-li-novye-perenoschiki-hantavirusa-v-rossii-583994",
-              "language": "Russian"
             }
           ]
         }
