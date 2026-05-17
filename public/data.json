@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T08:48:42.650Z",
+  "generatedAt": "2026-05-17T09:39:03.208Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,21 +2031,26 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 82,
+      "totalArticles": 78,
       "languages": {
-        "English": 75,
+        "English": 70,
+        "Bulgarian": 2,
         "Portuguese": 5,
-        "Russian": 1,
-        "Spanish": 1
+        "Russian": 1
       },
       "countries": [
         {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 28,
-          "latest": "2026-05-17T07:00:00Z",
+          "count": 26,
+          "latest": "2026-05-17T09:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://www.therecord.com/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_3e97fd5e-c92b-582e-aff2-2aedfab13b1e.html",
+              "language": "English"
+            },
             {
               "title": "Yukon cruise ship passenger isolating in B . C . tests positive for hantavirus",
               "url": "https://yukon-news.com/2026/05/16/yukon-cruise-ship-passenger-isolating-in-b-c-tests-positive-for-hantavirus/",
@@ -2055,11 +2060,6 @@
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks",
               "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.stcatharinesstandard.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_050e56dd-0234-5448-9548-90b3a8d31535.html",
-              "language": "English"
             }
           ]
         },
@@ -2067,22 +2067,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 20,
-          "latest": "2026-05-17T08:00:00Z",
+          "count": 22,
+          "latest": "2026-05-17T09:15:00Z",
           "sampleTitles": [
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.thegazette.com/news/national/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_d782dca7-eea0-5e3f-9287-2b07f3ad5320.html",
+              "url": "http://www.sitkasentinel.com/stories/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks,141905",
               "language": "English"
             },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://www.yumasun.com/news/national_news/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_728afabe-e59c-596c-ac5a-2d8cbfdaaff3.html",
+              "url": "https://www.union-bulletin.com/news/national/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_0b092515-523d-5c18-b8ea-be6049a2b719.html",
               "language": "English"
             },
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://abcnews.com/Travel/wireStory/demand-cruises-appears-undimmed-despite-hantavirus-onboard-outbreaks-133045150",
+              "title": "Public health hot topic : Hantavirus | The Journal of the San Juan Islands",
+              "url": "https://www.sanjuanjournal.com/2026/05/17/public-health-hot-topic-hantavirus/",
               "language": "English"
             }
           ]
@@ -2091,7 +2091,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 12,
+          "count": 8,
           "latest": "2026-05-17T04:00:00Z",
           "sampleTitles": [
             {
@@ -2107,6 +2107,54 @@
             {
               "title": "One Canadian tests positive for hantavirus",
               "url": "https://www.westernadvocate.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 4,
+          "latest": "2026-05-17T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "How a luxury wildlife cruise turned into a global hantavirus scare at sea",
+              "url": "https://www.moneycontrol.com/world/how-a-luxury-wildlife-cruise-turned-into-a-global-hantavirus-scare-at-sea-article-13921444.html",
+              "language": "English"
+            },
+            {
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus outbreak crosses 10 global cases : Is this COVID - 2 . 0 ? WHO epidemiologist says world is in a  make or break  phase",
+              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-crosses-10-global-cases-is-this-covid-2-0-who-epidemiologist-says-world-is-in-a-make-or-break-phase/articleshow/131148138.cms",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-17T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Проф . Радка Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
+              "url": "https://www.cross.bg/nyama-korab-epidemiya-1797120.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
+              "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Hantavirus Case Confirmed in Romania Arad , Patient Hospitalized After Sudden Illness - Novinite . com",
+              "url": "https://www.novinite.com/articles/238549/Hantavirus+Case+Confirmed+in+Romania%E2%80%99s+Arad,+Patient+Hospitalized+After+Sudden+Illness",
               "language": "English"
             }
           ]
@@ -2136,34 +2184,10 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-17T06:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak crosses 10 global cases : Is this COVID - 2 . 0 ? WHO epidemiologist says world is in a  make or break  phase",
-              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-crosses-10-global-cases-is-this-covid-2-0-who-epidemiologist-says-world-is-in-a-make-or-break-phase/articleshow/131148138.cms",
-              "language": "English"
-            },
-            {
-              "title": "Canada confirms first hantavirus case linked to MV Hondius cruise ship outbreak : Passenger in British Columbia in isolation",
-              "url": "https://timesofindia.indiatimes.com/etimes/wellness/canada-confirms-first-hantavirus-case-linked-to-mv-hondius-cruise-ship-outbreak-passenger-in-british-columbia-in-isolation/articleshow/131148047.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 3,
+          "count": 2,
           "latest": "2026-05-17T05:30:00Z",
           "sampleTitles": [
             {
@@ -2174,11 +2198,6 @@
             {
               "title": "Canadian from cruise ship tests positive for hantavirus",
               "url": "https://www.bbc.co.uk/news/articles/c2k2p057ezno",
-              "language": "English"
-            },
-            {
-              "title": "Health Chief Overseeing Trump Hantavirus Crisis Is a Penile Implant Specialist and Hosted a Show Called  Erection Connection  ",
-              "url": "https://www.ibtimes.co.uk/urologist-leads-hantavirus-response-1797197",
               "language": "English"
             }
           ]
@@ -2226,34 +2245,6 @@
             {
               "title": "The Alabama urologist now leading America hantavirus response once hosted a show called  Erection Connection  and compared Biden to Nazi Germany",
               "url": "https://attackofthefanboy.com/other-news/the-alabama-urologist-now-leading-americas-hantavirus-response-once-hosted-a-show-called-erection-connection-and-compared-biden-to-nazi-germany/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
-          "count": 1,
-          "latest": "2026-05-16T23:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadiense que viajó en crucero da positivo a hantavirus",
-              "url": "https://www.dw.com/es/canadiense-que-viaj%C3%B3-en-crucero-da-positivo-a-hantavirus/a-77184383",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "China",
-          "lat": 35.9,
-          "lng": 104.2,
-          "count": 1,
-          "latest": "2026-05-16T22:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result",
               "language": "English"
             }
           ]
