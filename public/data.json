@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T07:04:34.051Z",
+  "generatedAt": "2026-05-17T08:48:42.650Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,8 +2033,8 @@
       "timespan": "14d",
       "totalArticles": 82,
       "languages": {
-        "English": 76,
-        "Portuguese": 4,
+        "English": 75,
+        "Portuguese": 5,
         "Russian": 1,
         "Spanish": 1
       },
@@ -2044,8 +2044,13 @@
           "lat": 56.1,
           "lng": -106.3,
           "count": 28,
-          "latest": "2026-05-17T06:00:00Z",
+          "latest": "2026-05-17T07:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Yukon cruise ship passenger isolating in B . C . tests positive for hantavirus",
+              "url": "https://yukon-news.com/2026/05/16/yukon-cruise-ship-passenger-isolating-in-b-c-tests-positive-for-hantavirus/",
+              "language": "English"
+            },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks",
@@ -2055,11 +2060,6 @@
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
               "url": "https://www.stcatharinesstandard.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_050e56dd-0234-5448-9548-90b3a8d31535.html",
               "language": "English"
-            },
-            {
-              "title": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-              "url": "https://wltribune.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-              "language": "English"
             }
           ]
         },
@@ -2067,22 +2067,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 19,
-          "latest": "2026-05-17T06:00:00Z",
+          "count": 20,
+          "latest": "2026-05-17T08:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
-              "url": "https://www.twincities.com/2026/05/16/canadian-cruise-passenger-gets-a-presumptive-positive-hantavirus-test-result-after-ship-outbreak/",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://www.thegazette.com/news/national/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_d782dca7-eea0-5e3f-9287-2b07f3ad5320.html",
               "language": "English"
             },
             {
-              "title": "France confirms hantavirus in cruise outbreak is not new or more transmissible",
-              "url": "https://www.turnto23.com/health/france-confirms-hantavirus-in-cruise-outbreak-is-not-new-or-more-transmissible",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://www.yumasun.com/news/national_news/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_728afabe-e59c-596c-ac5a-2d8cbfdaaff3.html",
               "language": "English"
             },
             {
-              "title": "Who is Brian Christine , the Urologist Leading the Hantavirus Response in the U . S . ",
-              "url": "https://www.latintimes.com/who-brian-christine-urologist-leading-hantavirus-response-us-597427",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://abcnews.com/Travel/wireStory/demand-cruises-appears-undimmed-despite-hantavirus-onboard-outbreaks-133045150",
               "language": "English"
             }
           ]
@@ -2112,10 +2112,34 @@
           ]
         },
         {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 3,
+          "latest": "2026-05-17T07:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "O que sabemos sobre o hantavírus ( e o que ele sabe sobre nós ) ",
+              "url": "https://www.publico.pt/2026/05/17/opiniao/cronica/sabemos-hantavirus-sabe-2174856",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : quando um navio basta para fabricar uma crise – Observador",
+              "url": "https://observador.pt/opiniao/hantavirus-quando-um-navio-basta-para-fabricar-uma-crise-global/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Canadiano infectado por hantavírus , total de casos ligados ao Hondius sobe para 11",
+              "url": "https://www.publico.pt/2026/05/17/mundo/noticia/canadiano-infectado-hantavirus-total-casos-ligados-hondius-sobe-11-2175002",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 5,
+          "count": 3,
           "latest": "2026-05-17T06:00:00Z",
           "sampleTitles": [
             {
@@ -2174,25 +2198,6 @@
             {
               "title": "Entenda por que o hantavírus não representa risco para o Brasil | Repórter Brasil | TV Brasil",
               "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/05/entenda-por-que-o-hantavirus-nao-representa-risco-para-o-brasil",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-17T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : quando um navio basta para fabricar uma crise – Observador",
-              "url": "https://observador.pt/opiniao/hantavirus-quando-um-navio-basta-para-fabricar-uma-crise-global/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Canadiano infectado por hantavírus , total de casos ligados ao Hondius sobe para 11",
-              "url": "https://www.publico.pt/2026/05/17/mundo/noticia/canadiano-infectado-hantavirus-total-casos-ligados-hondius-sobe-11-2175002",
               "language": "Portuguese"
             }
           ]
