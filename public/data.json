@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T05:22:47.773Z",
+  "generatedAt": "2026-05-17T07:04:34.051Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,59 +2031,58 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 80,
+      "totalArticles": 82,
       "languages": {
-        "English": 72,
-        "Portuguese": 5,
-        "Spanish": 1,
-        "Turkish": 1,
-        "Croatian": 1
+        "English": 76,
+        "Portuguese": 4,
+        "Russian": 1,
+        "Spanish": 1
       },
       "countries": [
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 29,
-          "latest": "2026-05-16T23:45:00Z",
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 28,
+          "latest": "2026-05-17T06:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
-              "url": "http://www.sitkasentinel.com/stories/canadian-cruise-passenger-gets-a-presumptive-positive-hantavirus-test-result-after-ship-outbreak,141857",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks",
               "language": "English"
             },
             {
-              "title": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
-              "url": "https://wgna.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://www.stcatharinesstandard.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_050e56dd-0234-5448-9548-90b3a8d31535.html",
               "language": "English"
             },
             {
-              "title": "Content creator aboard hantavirus ship documenting quarantine experience",
-              "url": "https://www.mysuncoast.com/2026/05/16/content-creator-aboard-hantavirus-ship-documenting-quarantine-experience/",
+              "title": "Cruise passenger isolating in Victoria tests positive for hantavirus",
+              "url": "https://wltribune.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 21,
-          "latest": "2026-05-17T00:00:00Z",
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 19,
+          "latest": "2026-05-17T06:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian isolating in B . C . tests  presumptive positive  for hantavirus",
-              "url": "https://www.kelownadailycourier.ca/news/national_news/article_bc1b0280-0fef-5e95-b287-14e965fb7b36.html",
+              "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+              "url": "https://www.twincities.com/2026/05/16/canadian-cruise-passenger-gets-a-presumptive-positive-hantavirus-test-result-after-ship-outbreak/",
               "language": "English"
             },
             {
-              "title": "Canadian in isolation tests  presumptive positive  for hantavirus",
-              "url": "https://www.ckom.com/2026/05/16/canadian-in-isolation-tests-presumptive-positive-for-hantavirus/",
+              "title": "France confirms hantavirus in cruise outbreak is not new or more transmissible",
+              "url": "https://www.turnto23.com/health/france-confirms-hantavirus-in-cruise-outbreak-is-not-new-or-more-transmissible",
               "language": "English"
             },
             {
-              "title": "Canadian isolating in B . C . tests  presumptive positive  for hantavirus",
-              "url": "https://energeticcity.ca/2026/05/16/canadian-isolating-in-b-c-tests-presumptive-positive-for-hantavirus/",
+              "title": "Who is Brian Christine , the Urologist Leading the Hantavirus Response in the U . S . ",
+              "url": "https://www.latintimes.com/who-brian-christine-urologist-leading-hantavirus-response-us-597427",
               "language": "English"
             }
           ]
@@ -2092,22 +2091,46 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 5,
-          "latest": "2026-05-17T00:00:00Z",
+          "count": 12,
+          "latest": "2026-05-17T04:00:00Z",
           "sampleTitles": [
             {
-              "title": "One Canadian tests positive for hantavirus",
-              "url": "https://www.examiner.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "title": "I had hantavirus . This is what it like",
+              "url": "https://www.afr.com/policy/health-and-education/i-had-hantavirus-this-is-what-its-like-20260514-p5zx4p",
+              "language": "English"
+            },
+            {
+              "title": "Australian hantavirus cruise ship passengers arrive in Perth | South Coast Register",
+              "url": "https://www.southcoastregister.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
               "language": "English"
             },
             {
               "title": "One Canadian tests positive for hantavirus",
-              "url": "https://www.bendigoadvertiser.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "url": "https://www.westernadvocate.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 5,
+          "latest": "2026-05-17T06:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
               "language": "English"
             },
             {
-              "title": "One Canadian tests positive for hantavirus",
-              "url": "https://www.canberratimes.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+              "title": "Hantavirus outbreak crosses 10 global cases : Is this COVID - 2 . 0 ? WHO epidemiologist says world is in a  make or break  phase",
+              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-crosses-10-global-cases-is-this-covid-2-0-who-epidemiologist-says-world-is-in-a-make-or-break-phase/articleshow/131148138.cms",
+              "language": "English"
+            },
+            {
+              "title": "Canada confirms first hantavirus case linked to MV Hondius cruise ship outbreak : Passenger in British Columbia in isolation",
+              "url": "https://timesofindia.indiatimes.com/etimes/wellness/canada-confirms-first-hantavirus-case-linked-to-mv-hondius-cruise-ship-outbreak-passenger-in-british-columbia-in-isolation/articleshow/131148047.cms",
               "language": "English"
             }
           ]
@@ -2116,9 +2139,14 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 5,
-          "latest": "2026-05-17T00:00:00Z",
+          "count": 3,
+          "latest": "2026-05-17T05:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Canadian tourist tests positive ​for hantavirus after leaving luxury cruise ship",
+              "url": "https://www.independent.co.uk/news/world/americas/canada-tourist-positive-hantavirus-test-cruise-ship-b2978064.html",
+              "language": "English"
+            },
             {
               "title": "Canadian from cruise ship tests positive for hantavirus",
               "url": "https://www.bbc.co.uk/news/articles/c2k2p057ezno",
@@ -2128,11 +2156,25 @@
               "title": "Health Chief Overseeing Trump Hantavirus Crisis Is a Penile Implant Specialist and Hosted a Show Called  Erection Connection  ",
               "url": "https://www.ibtimes.co.uk/urologist-leads-hantavirus-response-1797197",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-17T04:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Gripe ou mais sério ? Veja quais são os primeiros sintomas do hantavírus",
+              "url": "https://www.terra.com.br/vida-e-estilo/saude/gripe-ou-mais-serio-veja-quais-sao-os-primeiros-sintomas-do-hantavirus,b7c994adb9d1cdf1d1feb83434f449e93vbe8d75.html",
+              "language": "Portuguese"
             },
             {
-              "title": "Canadian from cruise ship tests positive for hantavirus",
-              "url": "https://www.bbc.com/news/articles/c2k2p057ezno",
-              "language": "English"
+              "title": "Entenda por que o hantavírus não representa risco para o Brasil | Repórter Brasil | TV Brasil",
+              "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/05/entenda-por-que-o-hantavirus-nao-representa-risco-para-o-brasil",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2140,7 +2182,7 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 4,
+          "count": 2,
           "latest": "2026-05-17T00:00:00Z",
           "sampleTitles": [
             {
@@ -2152,29 +2194,33 @@
               "title": "Canadiano infectado por hantavírus , total de casos ligados ao Hondius sobe para 11",
               "url": "https://www.publico.pt/2026/05/17/mundo/noticia/canadiano-infectado-hantavirus-total-casos-ligados-hondius-sobe-11-2175002",
               "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus . Canadá confirma primeiro caso positivo – Observador",
-              "url": "https://observador.pt/2026/05/16/canada-confirma-primeiro-caso-positivo-de-hantavirus-apos-ter-manifestado-sintomas-ligeiros/",
-              "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 2,
-          "latest": "2026-05-16T22:30:00Z",
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-17T03:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canada confirms first hantavirus case after passenger from MV Hondius cruise ship tests positive",
-              "url": "https://www.hindustantimes.com/world-news/canada-records-first-hantavirus-case-after-passenger-from-mv-hondius-cruise-ship-tests-positive-british-columbia-101778964096695.html",
-              "language": "English"
-            },
+              "title": "Вирусолог рассказал , возможны ли новые переносчики хантавируса в России",
+              "url": "https://www.amic.ru/news/virusolog-rasskazal-vozmozhny-li-novye-perenoschiki-hantavirusa-v-rossii-583994",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Japan",
+          "lat": 36.2,
+          "lng": 138.3,
+          "count": 1,
+          "latest": "2026-05-17T00:45:00Z",
+          "sampleTitles": [
             {
-              "title": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak",
-              "url": "https://www.thehindu.com/news/international/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result-after-ship-outbreak/article70988561.ece",
+              "title": "The Alabama urologist now leading America hantavirus response once hosted a show called  Erection Connection  and compared Biden to Nazi Germany",
+              "url": "https://attackofthefanboy.com/other-news/the-alabama-urologist-now-leading-americas-hantavirus-response-once-hosted-a-show-called-erection-connection-and-compared-biden-to-nazi-germany/",
               "language": "English"
             }
           ]
@@ -2204,34 +2250,6 @@
               "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result",
               "url": "https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-16T21:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadá confirma caso de hantavírus ligado a surto em navio",
-              "url": "https://veja.abril.com.br/saude/canada-confirma-caso-de-hantavirus-ligado-a-surto-em-navio/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-16T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirüs karantinasında olması gerekirken barda yakalandı ! ",
-              "url": "http://t24.com.tr/dunya/hantavirus-karantinasinda-olmasi-gerekirken-barda-yakalandi,1322252",
-              "language": "Turkish"
             }
           ]
         }
