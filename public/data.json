@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:23:12.334Z",
+  "generatedAt": "2026-05-17T22:22:12.641Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,37 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 84,
       "languages": {
-        "English": 53,
         "Portuguese": 4,
-        "Lithuanian": 1,
-        "Hungarian": 1,
-        "Turkish": 1,
-        "Russian": 1,
-        "Bulgarian": 3
+        "English": 78,
+        "Bulgarian": 1,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
-          "latest": "2026-05-17T17:00:00Z",
+          "count": 67,
+          "latest": "2026-05-17T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "MV Hondius cruise ship to arrive in the Netherlands on Monday",
-              "url": "https://www.nbcnews.com/health/health-news/mv-hondius-cruise-ship-arrive-netherlands-monday-rcna345547",
+              "title": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+              "url": "https://fox4beaumont.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
               "language": "English"
             },
             {
-              "title": "New York Preparing For  Worst - Case  In Deadly Hantavirus Scare",
-              "url": "https://wpdh.com/ixp/854/p/new-york-worst-case-hantavirus/",
+              "title": "Canadian cruise passenger gets presumptive positive hantavirus test",
+              "url": "https://abc17news.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
               "language": "English"
             },
             {
-              "title": "New Yorker Reveals Secret Health Battle In Hantavirus Quarantine",
-              "url": "https://wpdh.com/ixp/854/p/new-yorker-health-battle-in-quarantine/",
+              "title": "Where does hantavirus lurk in the U . S .? – NBC 7 San Diego",
+              "url": "https://www.nbcsandiego.com/news/national-international/where-does-hantavirus-lurk-in-us/4024800/",
               "language": "English"
             }
           ]
@@ -2070,94 +2067,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 12,
-          "latest": "2026-05-17T16:30:00Z",
+          "count": 7,
+          "latest": "2026-05-17T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "National lab confirms hantavirus case for Canadian cruise passenger isolating in B . C . ",
-              "url": "https://www.cbc.ca/news/canada/canadian-hantavirus-case-confirmed-phac-9.7202841",
+              "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
+              "url": "https://calgaryherald.com:443/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
               "language": "English"
             },
             {
-              "title": "Dr . Peter Lin breaks down hantavirus",
-              "url": "https://www.cbc.ca/player/play/audio/9.7199529",
+              "title": "Canadian hantavirus case confirmed by national laboratory test",
+              "url": "https://www.wellandtribune.ca/news/canada/canadians-hantavirus-case-confirmed-by-national-laboratory-test/article_cf3b89ba-40f2-5d7f-82fc-bfe6b69bd3c6.html",
               "language": "English"
             },
             {
-              "title": "Presumptive Hantavirus Case Reported Among Canadians Returning From Cruise",
-              "url": "https://vocm.com/2026/05/17/299304/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 4,
-          "latest": "2026-05-17T15:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Most crew members aboard MV Hondius to undergo quarantine in Netherlands upon arrival",
-              "url": "https://www.sentinelassam.com/more-news/international/most-crew-members-aboard-mv-hondius-to-undergo-quarantine-in-netherlands-upon-arrival",
-              "language": "English"
-            },
-            {
-              "title": "How a luxury wildlife cruise turned into a global hantavirus scare at sea",
-              "url": "https://www.moneycontrol.com/world/how-a-luxury-wildlife-cruise-turned-into-a-global-hantavirus-scare-at-sea-article-13921444.html",
-              "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 4,
-          "latest": "2026-05-17T09:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Проф . Радка Аргирова : Хантавирусът не е нечуван , нито място за страх",
-              "url": "https://www.bgonair.bg/a/2-bulgaria/418956-prof-radka-argirova-hantavirusat-ne-e-nechuvan-nito-myasto-za-strah",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Проф . Радка Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
-              "url": "https://www.cross.bg/nyama-korab-epidemiya-1797120.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
-              "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-05-17T10:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.theage.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
-              "language": "English"
-            },
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.smh.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
-              "language": "English"
-            },
-            {
-              "title": "Returned Australians learn hantavirus test results",
-              "url": "https://www.brisbanetimes.com.au/national/returned-australians-learn-hantavirus-test-results-20260517-p5zxxd.html",
+              "title": "Canadian hantavirus case confirmed by national laboratory test",
+              "url": "https://www.nsnews.com/national-news/canadians-hantavirus-case-confirmed-by-national-laboratory-test-12294257",
               "language": "English"
             }
           ]
@@ -2167,36 +2092,17 @@
           "lat": 39.4,
           "lng": -8.2,
           "count": 2,
-          "latest": "2026-05-17T11:45:00Z",
+          "latest": "2026-05-17T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "Viajantes para Argentina , Chile e Uruguai devem ter consulta preventiva devido ao hantavírus",
-              "url": "https://sapo.pt/artigo/viajantes-para-argentina-chile-e-uruguai-devem-ter-consulta-preventiva-devido-ao-hantavirus-6a099e134faa8527a1f90bf9",
+              "title": "Hantavírus : Caso positivo em voo com tripulao portuguesa – Observador",
+              "url": "https://observador.pt/2026/05/17/hantavirus-caso-positivo-do-canada-esteve-em-voo-de-repatriamento-com-tripulacao-portuguesa/",
               "language": "Portuguese"
             },
             {
-              "title": "O que sabemos sobre o hantavírus ( e o que ele sabe sobre nós ) ",
-              "url": "https://www.publico.pt/2026/05/17/opiniao/cronica/sabemos-hantavirus-sabe-2174856",
+              "title": "Canadá confirma caso positivo de passageiro do cruzeiro Hondius com hantavírus",
+              "url": "https://www.dnoticias.pt/2026/5/17/492352-canada-confirma-caso-positivo-de-passageiro-do-cruzeiro-hondius-com-hantavirus/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-17T11:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadian tourist on rat - virus cruise tests positive for Hantavirus",
-              "url": "https://www.lbc.co.uk/article/canadian-tourist-hantavirus-virus-5HjdZHj_2/",
-              "language": "English"
-            },
-            {
-              "title": "Canadian tourist tests positive ​for hantavirus after leaving luxury cruise ship",
-              "url": "https://www.independent.co.uk/news/world/americas/canada-tourist-positive-hantavirus-test-cruise-ship-b2978064.html",
-              "language": "English"
             }
           ]
         },
@@ -2205,53 +2111,67 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 1,
-          "latest": "2026-05-17T16:30:00Z",
+          "latest": "2026-05-17T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "Saúde de Maceió reforça orientaes e tranquiliza populao em relao à infeco pelo hantavírus",
-              "url": "https://www.alagoas24horas.com.br/1739172/saude-de-maceio-reforca-orientacoes-e-tranquiliza-populacao-em-relacao-a-infeccao-pelo-hantavirus/",
+              "title": "Canadense a bordo do MV Hondius testa positivo para hantavírus",
+              "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/canadense-a-bordo-do-mv-hondius-testa-positivo-para-hantavirus-1.1714485",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 1,
-          "latest": "2026-05-17T11:45:00Z",
+          "latest": "2026-05-17T21:30:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian Hondius passenger hospitalized at home with suspected hantavirus",
-              "url": "https://nltimes.nl/2026/05/17/canadian-hondius-passenger-hospitalized-home-suspected-hantavirus",
+              "title": "Inside the MV Hondius hantavirus outbreak : How a nature cruise turned into a nightmare",
+              "url": "https://www.nzherald.co.nz/world/inside-the-mv-hondius-hantavirus-outbreak-how-a-nature-cruise-turned-into-a-nightmare/premium/BKAS5FWFLNHTFB2USIPHCXVTHA/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 1,
-          "latest": "2026-05-17T11:45:00Z",
+          "latest": "2026-05-17T20:30:00Z",
           "sampleTitles": [
             {
-              "title": "Minden , amit a hantavírusról tudnod kell ! ",
-              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-mindent-tudnod-kell",
-              "language": "Hungarian"
+              "title": "Медицината е безсилна срещу смъртността на хантавируса - Свят Новини Стандарт",
+              "url": "https://www.standartnews.com/svyat/hantavirusat-porazyava-s-40-smartnost-medicinata-e-bezsilna-634002.html",
+              "language": "Bulgarian"
             }
           ]
         },
         {
-          "country": "Israel",
-          "lat": 31,
-          "lng": 34.85,
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
           "count": 1,
-          "latest": "2026-05-17T10:30:00Z",
+          "latest": "2026-05-17T19:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
-              "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
+              "title": "Cómo avanza la vigilancia del hantavirus : Canadá identifica un positivo",
+              "url": "https://www.mundiario.com/articulo/sociedad/canadiense-da-positivo-hantavirus-dos-espanolas-vuelven-dar-negativo/20260517181951386755.html",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-17T19:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "One tests positive for hantavirus , Canadian national health agency confirms",
+              "url": "https://www.thehindu.com/news/international/one-tests-positive-for-hantavirus-canadian-national-health-agency-confirms/article70991445.ece",
               "language": "English"
             }
           ]
