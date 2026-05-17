@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:27:14.874Z",
+  "generatedAt": "2026-05-17T16:25:40.467Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 67,
       "languages": {
-        "English": 60,
+        "English": 56,
+        "Portuguese": 4,
+        "Lithuanian": 1,
         "Hungarian": 1,
-        "Portuguese": 3,
         "Turkish": 1,
         "Russian": 1,
         "Bulgarian": 3
@@ -2045,7 +2046,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
+          "count": 23,
           "latest": "2026-05-17T12:15:00Z",
           "sampleTitles": [
             {
@@ -2085,6 +2086,30 @@
             {
               "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
               "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 5,
+          "latest": "2026-05-17T15:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Most crew members aboard MV Hondius to undergo quarantine in Netherlands upon arrival",
+              "url": "https://www.sentinelassam.com/more-news/international/most-crew-members-aboard-mv-hondius-to-undergo-quarantine-in-netherlands-upon-arrival",
+              "language": "English"
+            },
+            {
+              "title": "How a luxury wildlife cruise turned into a global hantavirus scare at sea",
+              "url": "https://www.moneycontrol.com/world/how-a-luxury-wildlife-cruise-turned-into-a-global-hantavirus-scare-at-sea-article-13921444.html",
+              "language": "English"
+            },
+            {
+              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
               "language": "English"
             }
           ]
@@ -2134,30 +2159,6 @@
               "title": "Вирусологът проф . Аргирова : Няма опасност от развитие на епидемия или пандемия от хантавирус",
               "url": "https://www.focus-news.net/novini/Bylgaria/Virusologut-prof-Argirova-Nyama-opasnost-ot-razvitie-na-epidemiya-ili-pandemiya-ot-hantavirus-2967069",
               "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 4,
-          "latest": "2026-05-17T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "How a luxury wildlife cruise turned into a global hantavirus scare at sea",
-              "url": "https://www.moneycontrol.com/world/how-a-luxury-wildlife-cruise-turned-into-a-global-hantavirus-scare-at-sea-article-13921444.html",
-              "language": "English"
-            },
-            {
-              "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-              "url": "https://economictimes.indiatimes.com/nri/latest-updates/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/articleshow/131149199.cms",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak crosses 10 global cases : Is this COVID - 2 . 0 ? WHO epidemiologist says world is in a  make or break  phase",
-              "url": "https://timesofindia.indiatimes.com/etimes/wellness/hantavirus-outbreak-crosses-10-global-cases-is-this-covid-2-0-who-epidemiologist-says-world-is-in-a-make-or-break-phase/articleshow/131148138.cms",
-              "language": "English"
             }
           ]
         },
