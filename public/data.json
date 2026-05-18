@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T00:55:51.358Z",
+  "generatedAt": "2026-05-18T01:47:37.605Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,32 +2031,32 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 89,
+      "totalArticles": 92,
       "languages": {
-        "English": 78,
-        "Portuguese": 11
+        "English": 79,
+        "Portuguese": 13
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 54,
-          "latest": "2026-05-18T00:30:00Z",
+          "count": 49,
+          "latest": "2026-05-18T01:30:00Z",
           "sampleTitles": [
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus",
-              "url": "https://www.wmtw.com/article/cruise-demand-undimmed-hantavirus-outbreaks/71327287",
+              "title": "Hantavirus cruise ship outbreak : Passenger recalls final days before deaths",
+              "url": "https://www.yahoo.com/news/articles/hantavirus-cruise-ship-outbreak-passenger-213641935.html",
+              "language": "English"
+            },
+            {
+              "title": "Canadian cruise passenger gets presumptive positive hantavirus test",
+              "url": "https://kesq.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
               "language": "English"
             },
             {
               "title": "Arkansas man accused of threatening a mass shooting if the country were locked down due to hantavirus",
               "url": "https://www.4029tv.com/article/arkansas-man-accused-of-threatening-a-mass-shooting-if-the-country-were-locked-down-due-to-hantavirus/71330140",
-              "language": "English"
-            },
-            {
-              "title": "Canada confirms 1st positive hantavirus case",
-              "url": "https://www.fox5ny.com/news/canada-confirms-1st-positive-hantavirus-case",
               "language": "English"
             }
           ]
@@ -2065,22 +2065,22 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 14,
-          "latest": "2026-05-18T00:30:00Z",
+          "count": 22,
+          "latest": "2026-05-18T01:30:00Z",
           "sampleTitles": [
             {
               "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "url": "https://www.echo-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
               "language": "English"
             },
             {
               "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.bridportnews.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "url": "https://www.kilburntimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
               "language": "English"
             },
             {
               "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.surreycomet.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "url": "https://www.rhyljournal.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
               "language": "English"
             }
           ]
@@ -2110,10 +2110,34 @@
           ]
         },
         {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-05-18T01:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "OMS mantém avaliao do hantavírus em  risco baixo  antes da chegada do Hondius aos Países Baixos",
+              "url": "http://www.em.com.br/internacional/2026/05/7421773-oms-mantem-avaliacao-do-hantavirus-em-risco-baixo-antes-da-chegada-do-hondius-aos-paises-baixos.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
+              "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Canadense a bordo do MV Hondius testa positivo para hantavírus",
+              "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/canadense-a-bordo-do-mv-hondius-testa-positivo-para-hantavirus-1.1714485",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 5,
+          "count": 3,
           "latest": "2026-05-17T23:30:00Z",
           "sampleTitles": [
             {
@@ -2144,20 +2168,6 @@
               "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
               "url": "https://www.independent.ie/world-news/britain/medic-with-hantavirus-symptoms-in-uk-hospital-as-nine-virus-contacts-to-arrive/a339205073.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-17T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadense a bordo do MV Hondius testa positivo para hantavírus",
-              "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/canadense-a-bordo-do-mv-hondius-testa-positivo-para-hantavirus-1.1714485",
-              "language": "Portuguese"
             }
           ]
         },
