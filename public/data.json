@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T11:26:22.551Z",
+  "generatedAt": "2026-05-18T13:23:30.791Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,33 +2031,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 81,
+      "totalArticles": 88,
       "languages": {
-        "Hungarian": 3,
-        "English": 72,
-        "Portuguese": 6
+        "English": 71,
+        "Hungarian": 4,
+        "Portuguese": 4,
+        "Bulgarian": 6,
+        "Turkish": 3
       },
       "countries": [
         {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 40,
-          "latest": "2026-05-18T05:15:00Z",
+          "count": 27,
+          "latest": "2026-05-18T12:45:00Z",
           "sampleTitles": [
             {
-              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.gazette-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "title": "Hantavirus - stricken cruise ship docks in the Netherlands",
+              "url": "https://www.hamhigh.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
               "language": "English"
             },
             {
-              "title": "Health worker hospitalised with hantavirus symptoms as nine more arrive in united kingdom ",
-              "url": "https://www.gazettelive.co.uk/news/uk-world-news/health-worker-hospitalised-hantavirus-symptoms-33962889",
+              "title": "More Brits connected to hantavirus ship arrive at Arrowe Park | Chester and District Standard",
+              "url": "https://www.chesterstandard.co.uk/news/26116454.brits-connected-hantavirus-ship-arrive-arrowe-park/",
               "language": "English"
             },
             {
-              "title": "Health worker hospitalised with hantavirus symptoms as nine more arrive in united kingdom ",
-              "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/health-worker-hospitalised-hantavirus-symptoms-33962889",
+              "title": "Hantavirus - stricken cruise ship docks in the Netherlands",
+              "url": "https://www.plymouthherald.co.uk/news/uk-world-news/hantavirus-stricken-cruise-ship-docks-10971135",
               "language": "English"
             }
           ]
@@ -2067,22 +2069,118 @@
           "lat": 39,
           "lng": -98,
           "count": 22,
-          "latest": "2026-05-18T06:45:00Z",
+          "latest": "2026-05-18T12:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - stricken cruise ship expected to arrive in the Netherlands",
-              "url": "https://abcnews.com/Health/wireStory/hantavirus-stricken-cruise-ship-expected-arrive-netherlands-133060913",
+              "title": "Hantavirus - stricken cruise ship arrives in the Netherlands for disinfection",
+              "url": "https://www.wtol.com/article/news/nation-world/hantavirus-netherlands-mv-hondius/507-d9593bc9-d67d-492f-bfa8-85de82e9559a",
               "language": "English"
             },
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus – NBC Connecticut",
-              "url": "https://www.nbcconnecticut.com/news/national-international/demand-cruises-undimmed-despite-hantavirus/3736598/",
+              "title": "How Ebola compares to hantavirus as  small number  of Americans impacted in DRC",
+              "url": "https://www.newsweek.com/how-ebola-compares-to-hantavirus-as-small-number-of-americans-impacted-in-drc-11961711",
               "language": "English"
             },
             {
-              "title": "California , Arizona Residents in Quarantine after Hantavirus",
-              "url": "https://arizonadailyindependent.com/2026/05/17/california-arizona-residents-in-quarantine-after-hantavirus/",
+              "title": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+              "url": "https://www.telegraphherald.com/news/national_world/article_2e97227f-384e-5bcc-9cc4-f7e4571f3cde.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 8,
+          "latest": "2026-05-18T11:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - hit cruise ship arrives in the Netherlands",
+              "url": "https://www.bordermail.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus - hit cruise ship arrives in the Netherlands",
+              "url": "https://www.portnews.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus - hit cruise ship arrives in the Netherlands",
+              "url": "https://www.goulburnpost.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 6,
+          "latest": "2026-05-18T12:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Корабът  Хондиус  - огнище на хантавирус , пристигна в Ротердам",
+              "url": "https://dnes.dir.bg/svyat/korabat-hondius-ognishte-na-hantavirus-pristigna-v-roterdam",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Круизният кораб , заразен с хантавирус , пристигна в Ротердам",
+              "url": "https://www.dnes.bg/a/2-svyat/721775-kruizniyat-korab-zarazen-s-hantavirus-pristigna-v-roterdam",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Круизният кораб с огнище на хантавирус пристига в Нидерландия",
+              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kruizniat-korab-s-ogniste-na-hantavirus-pristiga-v-niderlandia",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 4,
+          "latest": "2026-05-18T12:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hivatalos : megérkezett Magyarország szomszédjába a hantavírus",
+              "url": "https://www.portfolio.hu/gazdasag/20260518/hivatalos-megerkezett-magyarorszag-szomszedjaba-a-hantavirus-837460",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Pécsi Újság - Belföld - Megszólalt a hantavírusról a Tisza - kormány egészségügyi minisztere : nincs ok pánikra",
+              "url": "https://www.pecsiujsag.hu/pecs/hir/belfold/megszolalt-a-hantavirusrol-a-tisza-kormany-egeszsegugyi-minisztere-nincs-ok-panikra",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Minden , amit a hantavírusról tudnia kell",
+              "url": "https://www.blikk.hu/eletmod/egeszseg/mi-a-hantavirus-fertozes-tunetek-veszely/9mqx838",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 3,
+          "latest": "2026-05-18T12:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs görülen yolcu gemisi Rotterdam Limanı  na ulaştı",
+              "url": "https://www.haberler.com/guncel/hantaviruslu-gemi-rotterdam-da-karantinaya-alindi-19858102-haberi/",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs salgınının yaşandığı yolcu gemisi Hollandaya ulaştı",
+              "url": "https://www.ensonhaber.com/hantavirus-salgininin-yasandigi-yolcu-gemisi-hollandaya-ulasti-h1535402",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs salgınının görüldüğü MV Hondius Rotterdama ulaştı",
+              "url": "https://www.yenisafak.com/foto-galeri/dunya/hantavirus-salgininin-goruldugu-mv-hondius-rotterdama-ulasti-4825049",
+              "language": "Turkish"
             }
           ]
         },
@@ -2090,46 +2188,36 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 4,
-          "latest": "2026-05-18T05:15:00Z",
+          "count": 2,
+          "latest": "2026-05-18T12:00:00Z",
           "sampleTitles": [
             {
-              "title": "Sociedade alerta para importância de consulta antes de viagem para áreas endémicas de transmissão do hantavírus",
-              "url": "https://www.dnoticias.pt/2026/5/17/492340-sociedade-alerta-para-importancia-de-consulta-antes-de-viagem-para-areas-endemicas-de-transmissao-do-hantavirus/",
+              "title": "A DGS informa que , após confirmao de um caso de infeo por Hantavírus Andes (… ",
+              "url": "https://sapo.pt/artigo/a-dgs-informa-que-apos-confirmacao-de-um-caso-de-infecao-por-hantavirus-andes-6a0af801d2e8cc134d67a280",
               "language": "Portuguese"
             },
             {
-              "title": "Hantavírus : OMS mantém  baixo risco  para saúde pública – Observador",
-              "url": "https://observador.pt/2026/05/17/hantavirus-oms-mantem-avaliacao-de-baixo-risco-para-saude-publica/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Tripulao portuguesa no voo de repatriamento de canadiano infetado com hantavírus",
-              "url": "https://www.jn.pt/nacional/artigo/tripulacao-portuguesa-no-voo-de-repatriamento-de-canadiano-infetado-com-hantavirus/18085409",
+              "title": "Hantavírus : OMS mantém avaliao de  baixo risco  para saúde pública – Notícias de Coimbra",
+              "url": "https://www.noticiasdecoimbra.pt/hantavirus-oms-mantem-avaliacao-de-baixo-risco-para-saude-publica/",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-18T03:45:00Z",
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 2,
+          "latest": "2026-05-18T12:00:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian hantavirus case confirmed by national laboratory test",
-              "url": "https://www.gx94radio.com/2026/05/17/canadian-hantavirus-case-confirmed-by-national-laboratory-test/",
+              "title": "MV Hondius arrives at port of Rotterdam ; Hantavirus risk  low  for world population : WHO",
+              "url": "https://nltimes.nl/2026/05/18/mv-hondius-arrives-port-rotterdam-hantavirus-risk-low-world-population",
               "language": "English"
             },
             {
-              "title": "Canadian hantavirus case confirmed by national laboratory test",
-              "url": "https://www.pentictonherald.ca/news/national_news/article_28d9eed8-f57f-5cbe-9dea-e6902101f463.html",
-              "language": "English"
-            },
-            {
-              "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
-              "url": "https://calgarysun.com/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
+              "title": "Hantavirus ship Hondius to dock in Rotterdam",
+              "url": "https://www.dutchnews.nl/2026/05/hantavirus-ship-hondius-to-dock-in-rotterdam/",
               "language": "English"
             }
           ]
@@ -2138,45 +2226,26 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-18T01:30:00Z",
+          "count": 1,
+          "latest": "2026-05-18T12:15:00Z",
           "sampleTitles": [
             {
-              "title": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
-              "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "OMS mantém avaliao do hantavírus em  risco baixo  antes da chegada do Hondius aos Países Baixos",
-              "url": "http://www.em.com.br/internacional/2026/05/7421773-oms-mantem-avaliacao-do-hantavirus-em-risco-baixo-antes-da-chegada-do-hondius-aos-paises-baixos.html",
+              "title": "Cruzeiro afetado por surto de hantavírus chega a Holanda e encerra viagem | Mundo e Ciência",
+              "url": "https://odia.ig.com.br/mundo-e-ciencia/2026/05/7252414-cruzeiro-afetado-por-surto-de-hantavirus-chega-a-holanda-e-encerra-viagem.html",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Switzerland",
+          "lat": 46.8,
+          "lng": 8.2,
           "count": 1,
-          "latest": "2026-05-18T06:45:00Z",
+          "latest": "2026-05-18T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "Kuruc . info - Hegedűs Zsolt : a hantavírus nem Covid 2 . 0",
-              "url": "https://kuruc.info/r/2/302273/",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-18T03:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canada confirms first hantavirus case",
-              "url": "https://www.prokerala.com/news/articles/a1764106.html",
+              "title": "Baume - Schneider applauds WHO for hantavirus management",
+              "url": "https://www.swissinfo.ch/eng/various/baume-schneider-salutes-the-who-for-its-management-of-the-hantavirus/91430520",
               "language": "English"
             }
           ]
@@ -2186,11 +2255,39 @@
           "lat": 53.1,
           "lng": -7.7,
           "count": 1,
-          "latest": "2026-05-17T23:15:00Z",
+          "latest": "2026-05-18T09:30:00Z",
           "sampleTitles": [
             {
-              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.independent.ie/world-news/britain/medic-with-hantavirus-symptoms-in-uk-hospital-as-nine-virus-contacts-to-arrive/a339205073.html",
+              "title": "Hantavirus - hit cruise ship due ​to arrive at Rotterdam port for disinfection",
+              "url": "https://www.irishtimes.com/world/europe/2026/05/18/hantavirus-mv-hondius-cruise-ship-rotterdam-port/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-18T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - stricken cruise ship expected to arrive in Netherlands",
+              "url": "https://www.thehindu.com/news/international/hantavirus-outbreak-cruise-ship-netherlands-updates/article70992824.ece",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-05-18T07:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - stricken cruise ship expected to arrive in the Netherlands",
+              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/hantavirus-stricken-cruise-ship-expected-to-arrive-in-the-netherlands/article_f76ec884-3b30-568f-ad49-3d48244d13f8.html",
               "language": "English"
             }
           ]
