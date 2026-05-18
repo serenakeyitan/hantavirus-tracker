@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:29:48.941Z",
+  "generatedAt": "2026-05-18T07:33:20.637Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,56 +2031,57 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 92,
+      "totalArticles": 81,
       "languages": {
-        "English": 79,
-        "Portuguese": 13
+        "Hungarian": 3,
+        "English": 72,
+        "Portuguese": 6
       },
       "countries": [
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 49,
-          "latest": "2026-05-18T01:30:00Z",
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 40,
+          "latest": "2026-05-18T05:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus cruise ship outbreak : Passenger recalls final days before deaths",
-              "url": "https://www.yahoo.com/news/articles/hantavirus-cruise-ship-outbreak-passenger-213641935.html",
+              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+              "url": "https://www.gazette-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
               "language": "English"
             },
             {
-              "title": "Canadian cruise passenger gets presumptive positive hantavirus test",
-              "url": "https://kesq.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
+              "title": "Health worker hospitalised with hantavirus symptoms as nine more arrive in united kingdom ",
+              "url": "https://www.gazettelive.co.uk/news/uk-world-news/health-worker-hospitalised-hantavirus-symptoms-33962889",
               "language": "English"
             },
             {
-              "title": "Arkansas man accused of threatening a mass shooting if the country were locked down due to hantavirus",
-              "url": "https://www.4029tv.com/article/arkansas-man-accused-of-threatening-a-mass-shooting-if-the-country-were-locked-down-due-to-hantavirus/71330140",
+              "title": "Health worker hospitalised with hantavirus symptoms as nine more arrive in united kingdom ",
+              "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/health-worker-hospitalised-hantavirus-symptoms-33962889",
               "language": "English"
             }
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
           "count": 22,
-          "latest": "2026-05-18T01:30:00Z",
+          "latest": "2026-05-18T06:45:00Z",
           "sampleTitles": [
             {
-              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.echo-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "title": "Hantavirus - stricken cruise ship expected to arrive in the Netherlands",
+              "url": "https://abcnews.com/Health/wireStory/hantavirus-stricken-cruise-ship-expected-arrive-netherlands-133060913",
               "language": "English"
             },
             {
-              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.kilburntimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "title": "Demand for cruises appears undimmed despite hantavirus – NBC Connecticut",
+              "url": "https://www.nbcconnecticut.com/news/national-international/demand-cruises-undimmed-despite-hantavirus/3736598/",
               "language": "English"
             },
             {
-              "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-              "url": "https://www.rhyljournal.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+              "title": "California , Arizona Residents in Quarantine after Hantavirus",
+              "url": "https://arizonadailyindependent.com/2026/05/17/california-arizona-residents-in-quarantine-after-hantavirus/",
               "language": "English"
             }
           ]
@@ -2089,9 +2090,14 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 8,
-          "latest": "2026-05-17T23:30:00Z",
+          "count": 4,
+          "latest": "2026-05-18T05:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Sociedade alerta para importância de consulta antes de viagem para áreas endémicas de transmissão do hantavírus",
+              "url": "https://www.dnoticias.pt/2026/5/17/492340-sociedade-alerta-para-importancia-de-consulta-antes-de-viagem-para-areas-endemicas-de-transmissao-do-hantavirus/",
+              "language": "Portuguese"
+            },
             {
               "title": "Hantavírus : OMS mantém  baixo risco  para saúde pública – Observador",
               "url": "https://observador.pt/2026/05/17/hantavirus-oms-mantem-avaliacao-de-baixo-risco-para-saude-publica/",
@@ -2101,35 +2107,6 @@
               "title": "Tripulao portuguesa no voo de repatriamento de canadiano infetado com hantavírus",
               "url": "https://www.jn.pt/nacional/artigo/tripulacao-portuguesa-no-voo-de-repatriamento-de-canadiano-infetado-com-hantavirus/18085409",
               "language": "Portuguese"
-            },
-            {
-              "title": "Canadá confirma caso positivo de hantavírusde em passageiro do cruzeiro Hondius",
-              "url": "https://expresso.pt/sociedade/saude/2026-05-17-canada-confirma-caso-positivo-de-hantavirusde-em-passageiro-do-cruzeiro-hondius-32858352",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 3,
-          "latest": "2026-05-18T01:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "OMS mantém avaliao do hantavírus em  risco baixo  antes da chegada do Hondius aos Países Baixos",
-              "url": "http://www.em.com.br/internacional/2026/05/7421773-oms-mantem-avaliacao-do-hantavirus-em-risco-baixo-antes-da-chegada-do-hondius-aos-paises-baixos.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
-              "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Canadense a bordo do MV Hondius testa positivo para hantavírus",
-              "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/canadense-a-bordo-do-mv-hondius-testa-positivo-para-hantavirus-1.1714485",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2138,21 +2115,68 @@
           "lat": 56.1,
           "lng": -106.3,
           "count": 3,
-          "latest": "2026-05-17T23:30:00Z",
+          "latest": "2026-05-18T03:45:00Z",
           "sampleTitles": [
             {
-              "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
-              "url": "https://calgarysun.com/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
-              "language": "English"
-            },
-            {
-              "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
-              "url": "https://calgaryherald.com:443/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
+              "title": "Canadian hantavirus case confirmed by national laboratory test",
+              "url": "https://www.gx94radio.com/2026/05/17/canadian-hantavirus-case-confirmed-by-national-laboratory-test/",
               "language": "English"
             },
             {
               "title": "Canadian hantavirus case confirmed by national laboratory test",
-              "url": "https://www.wellandtribune.ca/news/canada/canadians-hantavirus-case-confirmed-by-national-laboratory-test/article_cf3b89ba-40f2-5d7f-82fc-bfe6b69bd3c6.html",
+              "url": "https://www.pentictonherald.ca/news/national_news/article_28d9eed8-f57f-5cbe-9dea-e6902101f463.html",
+              "language": "English"
+            },
+            {
+              "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
+              "url": "https://calgarysun.com/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-18T01:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
+              "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "OMS mantém avaliao do hantavírus em  risco baixo  antes da chegada do Hondius aos Países Baixos",
+              "url": "http://www.em.com.br/internacional/2026/05/7421773-oms-mantem-avaliacao-do-hantavirus-em-risco-baixo-antes-da-chegada-do-hondius-aos-paises-baixos.html",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-18T06:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Kuruc . info - Hegedűs Zsolt : a hantavírus nem Covid 2 . 0",
+              "url": "https://kuruc.info/r/2/302273/",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-18T03:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Canada confirms first hantavirus case",
+              "url": "https://www.prokerala.com/news/articles/a1764106.html",
               "language": "English"
             }
           ]
@@ -2167,20 +2191,6 @@
             {
               "title": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
               "url": "https://www.independent.ie/world-news/britain/medic-with-hantavirus-symptoms-in-uk-hospital-as-nine-virus-contacts-to-arrive/a339205073.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-17T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Inside the MV Hondius hantavirus outbreak : How a nature cruise turned into a nightmare",
-              "url": "https://www.nzherald.co.nz/world/inside-the-mv-hondius-hantavirus-outbreak-how-a-nature-cruise-turned-into-a-nightmare/premium/BKAS5FWFLNHTFB2USIPHCXVTHA/",
               "language": "English"
             }
           ]
