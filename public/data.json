@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T09:18:26.162Z",
+  "generatedAt": "2026-05-19T11:09:40.914Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,22 +2031,25 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 52,
+      "totalArticles": 48,
       "languages": {
-        "English": 45,
-        "Bulgarian": 3,
-        "Hungarian": 2,
-        "Russian": 1,
-        "Portuguese": 1
+        "Bulgarian": 5,
+        "English": 42,
+        "Hungarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 25,
-          "latest": "2026-05-19T03:45:00Z",
+          "count": 20,
+          "latest": "2026-05-19T10:30:00Z",
           "sampleTitles": [
+            {
+              "title": "World News : Adult dies of hantavirus in Colorado",
+              "url": "https://www.gdnonline.com:443/Details/1395181",
+              "language": "English"
+            },
             {
               "title": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
               "url": "https://www.dailydemocrat.com/2026/05/18/hantavirus-cruise-travel-demand/",
@@ -2056,11 +2059,30 @@
               "title": "Argentine scientists lay first traps in hantavirus hunt",
               "url": "https://www.digitaljournal.com/world/argentine-scientists-lay-first-traps-in-hantavirus-hunt/article",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 5,
+          "latest": "2026-05-19T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Тестват експериментално лекарство срещу хантавирус",
+              "url": "https://www.novinite.bg/articles/284956/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus",
+              "language": "Bulgarian"
             },
             {
-              "title": "Fatal Colorado hantavirus case not linked to cruise ship , officials say",
-              "url": "https://www.yahoo.com/news/articles/fatal-colorado-hantavirus-case-not-203945920.html",
-              "language": "English"
+              "title": "Великобритания тества дали японско противогрипно лекарство помага при хантавирус",
+              "url": "https://news.bg/world/velikobritaniya-testva-dali-yaponsko-protivogripno-lekarstvo-pomaga-pri-hantavirus.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Тестват експериментално лекарство срещу хантавирус",
+              "url": "https://dariknews.bg/novini/sviat/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus-2455373",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2089,26 +2111,21 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-19T08:15:00Z",
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 2,
+          "latest": "2026-05-19T10:30:00Z",
           "sampleTitles": [
             {
-              "title": "Тестват експериментално лекарство срещу хантавирус",
-              "url": "https://dariknews.bg/novini/sviat/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus-2455373",
-              "language": "Bulgarian"
+              "title": "Northern Cape dismisses Hantavirus rumours",
+              "url": "https://www.ofm.co.za/article/centralsa/341772/northern-cape-dismisses-hantavirus-rumours",
+              "language": "English"
             },
             {
-              "title": "Проф . Христова за хантавирус : Заразяването не може да стане при случаен контакт",
-              "url": "https://www.focus-news.net/novini/Bylgaria/Prof-Hristova-za-hantavirus-Zarazyavaneto-ne-mozhe-da-stane-pri-sluchaen-kontakt-2967982",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Тихата заплаха хантавирус : има ли повод за тревога у нас ? ",
-              "url": "https://dariknews.bg/novini/bylgariia/tihata-zaplaha-hantavirus-ima-li-povod-za-trevoga-u-nas-2455375",
-              "language": "Bulgarian"
+              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
+              "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
+              "language": "English"
             }
           ]
         },
@@ -2160,62 +2177,6 @@
             {
               "title": "U . S . Colorado investigates locally acquired hantavirus death",
               "url": "http://en.people.cn/n3/2026/0519/c90000-20457812.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-19T03:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
-              "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-19T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Названы профессии , представители которых могут заразиться хантавирусом",
-              "url": "https://ria.ru/20260519/virus-2093231290.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-19T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
-              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-18T23:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
-              "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
               "language": "English"
             }
           ]
