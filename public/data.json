@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T00:57:03.442Z",
+  "generatedAt": "2026-05-19T01:47:32.570Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 73,
+      "totalArticles": 68,
       "languages": {
-        "English": 65,
+        "English": 59,
+        "Russian": 1,
         "Portuguese": 7,
         "Hungarian": 1
       },
@@ -2042,23 +2043,47 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 53,
-          "latest": "2026-05-18T22:30:00Z",
+          "count": 47,
+          "latest": "2026-05-19T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus : Are we ready for another pandemic ? ",
-              "url": "https://theweek.com/health/hantavirus-are-we-ready-for-another-pandemic",
+              "title": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection | Fox Sports 1450 WVAX - AM 102 . 9FM",
+              "url": "https://wvax.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
               "language": "English"
             },
             {
-              "title": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-              "url": "https://bear953.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
+              "title": "Sheriff : Man threatens mass shooting at Walmart if hantavirus leads to lockdown",
+              "url": "https://local12.com/news/nation-world/sheriff-man-threatens-mass-shooting-walmart-hantavirus-lockdown-aaron-bynum-pandemic-covid-19-coronavirus-oakland-marion-county-arkansas-online-threat-fbi-crime-news",
               "language": "English"
             },
             {
-              "title": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-              "url": "https://www.wfmj.com/news/international/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_689195f6-4bf1-5a70-ae9a-e13eee9378ea.html",
+              "title": "Stomach bugs , not hantavirus , are the bigger threat on cruises",
+              "url": "https://www.adn.com/alaska-life/travel/2026/05/18/stomach-bugs-not-hantavirus-are-the-bigger-threat-on-cruises/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 3,
+          "latest": "2026-05-19T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
+              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus e ébola são crises de  mundo conturbado  ",
+              "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado  ",
+              "url": "https://www.dnoticias.pt/2026/5/18/492469-hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2082,25 +2107,6 @@
             {
               "title": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
               "url": "https://acidadeon.com/tudoep/tudo-saude/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-18T20:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado  ",
-              "url": "https://www.dnoticias.pt/2026/5/18/492469-hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus faz uma vítima mortal no Colorado",
-              "url": "https://sapo.pt/artigo/hantavirus-faz-uma-vitima-mortal-no-colorado-6a0b3ce7fbe134a3c1a78428",
               "language": "Portuguese"
             }
           ]
@@ -2144,30 +2150,30 @@
           ]
         },
         {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
           "count": 1,
-          "latest": "2026-05-18T17:45:00Z",
+          "latest": "2026-05-19T00:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - hit cruise ship ends deadly voyage",
-              "url": "https://www.ewn.co.za/2026/05/18/hantavirus-hit-cruise-ship-ends-deadly-voyage",
-              "language": "English"
+              "title": "Названы профессии , представители которых могут заразиться хантавирусом",
+              "url": "https://ria.ru/20260519/virus-2093231290.html",
+              "language": "Russian"
             }
           ]
         },
         {
-          "country": "Romania",
-          "lat": 45.9,
-          "lng": 25,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 1,
-          "latest": "2026-05-18T16:30:00Z",
+          "latest": "2026-05-18T23:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus - fertőzést igazoltak a megyei kórházban",
-              "url": "https://nyugatijelen.com/jelenido/hantavirus-fertozest-igazoltak-a-megyei-korhazban",
-              "language": "Hungarian"
+              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
+              "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
+              "language": "English"
             }
           ]
         }
