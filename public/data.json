@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T07:22:17.579Z",
+  "generatedAt": "2026-05-19T09:18:26.162Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,17 +2033,18 @@
       "timespan": "14d",
       "totalArticles": 52,
       "languages": {
-        "English": 48,
+        "English": 45,
+        "Bulgarian": 3,
+        "Hungarian": 2,
         "Russian": 1,
-        "Portuguese": 2,
-        "Hungarian": 1
+        "Portuguese": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 32,
+          "count": 25,
           "latest": "2026-05-19T03:45:00Z",
           "sampleTitles": [
             {
@@ -2059,6 +2060,73 @@
             {
               "title": "Fatal Colorado hantavirus case not linked to cruise ship , officials say",
               "url": "https://www.yahoo.com/news/articles/fatal-colorado-hantavirus-case-not-203945920.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 3,
+          "latest": "2026-05-19T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "MV Hondius docks in Rotterdam for disinfection after hantavirus alert",
+              "url": "https://www.sentinelassam.com/more-news/international/mv-hondius-docks-in-rotterdam-for-disinfection-after-hantavirus-alert",
+              "language": "English"
+            },
+            {
+              "title": "Public Health Agency of Canada confirms first hantavirus case in cruise passenger",
+              "url": "https://www.sentinelassam.com/more-news/international/public-health-agency-of-canada-confirms-first-hantavirus-case-in-cruise-passenger",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
+              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-19T08:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Тестват експериментално лекарство срещу хантавирус",
+              "url": "https://dariknews.bg/novini/sviat/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus-2455373",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Проф . Христова за хантавирус : Заразяването не може да стане при случаен контакт",
+              "url": "https://www.focus-news.net/novini/Bylgaria/Prof-Hristova-za-hantavirus-Zarazyavaneto-ne-mozhe-da-stane-pri-sluchaen-kontakt-2967982",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Тихата заплаха хантавирус : има ли повод за тревога у нас ? ",
+              "url": "https://dariknews.bg/novini/bylgariia/tihata-zaplaha-hantavirus-ima-li-povod-za-trevoga-u-nas-2455375",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 2,
+          "latest": "2026-05-19T08:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Meghalt egy hantavírusos beteg",
+              "url": "https://www.blikk.hu/eletmod/egeszseg/hantavirus-beteg-meghalt-hajo/eb7tnvq",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
+              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
               "language": "English"
             }
           ]
@@ -2083,34 +2151,15 @@
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-19T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
-              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus e ébola são crises de  mundo conturbado  ",
-              "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "China",
+          "lat": 35.9,
+          "lng": 104.2,
           "count": 1,
-          "latest": "2026-05-19T06:00:00Z",
+          "latest": "2026-05-19T08:45:00Z",
           "sampleTitles": [
             {
-              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
-              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
+              "title": "U . S . Colorado investigates locally acquired hantavirus death",
+              "url": "http://en.people.cn/n3/2026/0519/c90000-20457812.html",
               "language": "English"
             }
           ]
@@ -2130,20 +2179,6 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-19T02:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
-              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Russia",
           "lat": 61.5,
           "lng": 105.3,
@@ -2154,6 +2189,20 @@
               "title": "Названы профессии , представители которых могут заразиться хантавирусом",
               "url": "https://ria.ru/20260519/virus-2093231290.html",
               "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-19T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
+              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
+              "language": "Portuguese"
             }
           ]
         },
