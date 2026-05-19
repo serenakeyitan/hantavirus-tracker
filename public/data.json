@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T05:27:21.220Z",
+  "generatedAt": "2026-05-19T07:22:17.579Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 61,
+      "totalArticles": 52,
       "languages": {
-        "English": 54,
+        "English": 48,
         "Russian": 1,
-        "Portuguese": 5,
+        "Portuguese": 2,
         "Hungarian": 1
       },
       "countries": [
@@ -2043,7 +2043,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 38,
+          "count": 32,
           "latest": "2026-05-19T03:45:00Z",
           "sampleTitles": [
             {
@@ -2060,54 +2060,6 @@
               "title": "Fatal Colorado hantavirus case not linked to cruise ship , officials say",
               "url": "https://www.yahoo.com/news/articles/fatal-colorado-hantavirus-case-not-203945920.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-19T02:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
-              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-hit-liner-reaches-rotterdam-crew-being-quarantined-and-ship-disinfected/articleshow/131185057.cms",
-              "language": "English"
-            },
-            {
-              "title": "Ebola and hantavirus outbreaks sign of our  dangerou times : WHO",
-              "url": "https://www.hindustantimes.com/world-news/us-news/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who-101779129945419.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 3,
-          "latest": "2026-05-19T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
-              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus e ébola são crises de  mundo conturbado  ",
-              "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado  ",
-              "url": "https://www.dnoticias.pt/2026/5/18/492469-hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado/",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2131,6 +2083,39 @@
           ]
         },
         {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-05-19T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus e ébola são crises de  mundo conturbado  – Observador",
+              "url": "https://observador.pt/2026/05/18/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-diz-oms/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus e ébola são crises de  mundo conturbado  ",
+              "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-19T06:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
+              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "South Africa",
           "lat": -30.6,
           "lng": 22.9,
@@ -2140,6 +2125,20 @@
             {
               "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
               "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-19T02:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
+              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
               "language": "English"
             }
           ]
@@ -2168,34 +2167,6 @@
             {
               "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
               "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-18T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Navio com hantavírus chega a Roterdã ; tripulao fica em quarentena",
-              "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/navio-com-hantavirus-chega-roterda-tripulacao-fica-em-quarentena",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-18T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canadian hantavirus case confirmed at national laboratory",
-              "url": "https://www.cjme.com/2026/05/18/canadian-hantavirus-case-confirmed-at-national-laboratory/",
               "language": "English"
             }
           ]
