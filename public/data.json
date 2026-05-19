@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T03:15:27.135Z",
+  "generatedAt": "2026-05-19T05:27:21.220Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 68,
+      "totalArticles": 61,
       "languages": {
-        "English": 59,
+        "English": 54,
         "Russian": 1,
-        "Portuguese": 7,
+        "Portuguese": 5,
         "Hungarian": 1
       },
       "countries": [
@@ -2043,22 +2043,46 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 47,
-          "latest": "2026-05-19T01:15:00Z",
+          "count": 38,
+          "latest": "2026-05-19T03:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection | Fox Sports 1450 WVAX - AM 102 . 9FM",
-              "url": "https://wvax.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
+              "title": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
+              "url": "https://www.dailydemocrat.com/2026/05/18/hantavirus-cruise-travel-demand/",
               "language": "English"
             },
             {
-              "title": "Sheriff : Man threatens mass shooting at Walmart if hantavirus leads to lockdown",
-              "url": "https://local12.com/news/nation-world/sheriff-man-threatens-mass-shooting-walmart-hantavirus-lockdown-aaron-bynum-pandemic-covid-19-coronavirus-oakland-marion-county-arkansas-online-threat-fbi-crime-news",
+              "title": "Argentine scientists lay first traps in hantavirus hunt",
+              "url": "https://www.digitaljournal.com/world/argentine-scientists-lay-first-traps-in-hantavirus-hunt/article",
               "language": "English"
             },
             {
-              "title": "Stomach bugs , not hantavirus , are the bigger threat on cruises",
-              "url": "https://www.adn.com/alaska-life/travel/2026/05/18/stomach-bugs-not-hantavirus-are-the-bigger-threat-on-cruises/",
+              "title": "Fatal Colorado hantavirus case not linked to cruise ship , officials say",
+              "url": "https://www.yahoo.com/news/articles/fatal-colorado-hantavirus-case-not-203945920.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 3,
+          "latest": "2026-05-19T02:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
+              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-hit-liner-reaches-rotterdam-crew-being-quarantined-and-ship-disinfected/articleshow/131185057.cms",
+              "language": "English"
+            },
+            {
+              "title": "Ebola and hantavirus outbreaks sign of our  dangerou times : WHO",
+              "url": "https://www.hindustantimes.com/world-news/us-news/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who-101779129945419.html",
               "language": "English"
             }
           ]
@@ -2088,63 +2112,34 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 3,
-          "latest": "2026-05-18T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Navio com hantavírus chega a Roterdã ; tripulao fica em quarentena",
-              "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/navio-com-hantavirus-chega-roterda-tripulacao-fica-em-quarentena",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
-              "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/5/18/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
-              "url": "https://acidadeon.com/tudoep/tudo-saude/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 2,
-          "latest": "2026-05-18T20:00:00Z",
+          "latest": "2026-05-19T01:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-hit-liner-reaches-rotterdam-crew-being-quarantined-and-ship-disinfected/articleshow/131185057.cms",
+              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness - 19 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446152",
               "language": "English"
             },
             {
-              "title": "Ebola and hantavirus outbreaks sign of our  dangerou times : WHO",
-              "url": "https://www.hindustantimes.com/world-news/us-news/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who-101779129945419.html",
+              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness - 19 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446152&fm=psp,tsf",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-18T20:00:00Z",
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 1,
+          "latest": "2026-05-19T03:15:00Z",
           "sampleTitles": [
             {
-              "title": "Canadian hantavirus case confirmed at national laboratory",
-              "url": "https://www.cjme.com/2026/05/18/canadian-hantavirus-case-confirmed-at-national-laboratory/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit MV Hondius ship docks in Netherlands , to be disinfected",
-              "url": "https://theprovince.com/news/world/hantavirus-mv-hondius-ship-docks-netherlands/wcm/2a672411-503b-4659-b240-68b3e4867695",
+              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
+              "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
               "language": "English"
             }
           ]
@@ -2173,6 +2168,34 @@
             {
               "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
               "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-18T20:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Navio com hantavírus chega a Roterdã ; tripulao fica em quarentena",
+              "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/navio-com-hantavirus-chega-roterda-tripulacao-fica-em-quarentena",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-05-18T20:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Canadian hantavirus case confirmed at national laboratory",
+              "url": "https://www.cjme.com/2026/05/18/canadian-hantavirus-case-confirmed-at-national-laboratory/",
               "language": "English"
             }
           ]
