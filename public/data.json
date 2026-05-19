@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T18:44:20.683Z",
+  "generatedAt": "2026-05-19T19:37:56.357Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,10 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 44,
+      "totalArticles": 48,
       "languages": {
-        "English": 34,
-        "Portuguese": 2,
+        "English": 37,
+        "Portuguese": 3,
         "Hungarian": 2,
         "Bulgarian": 6
       },
@@ -2043,22 +2043,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 13,
-          "latest": "2026-05-19T18:15:00Z",
+          "count": 16,
+          "latest": "2026-05-19T19:15:00Z",
           "sampleTitles": [
             {
+              "title": "Cruise Control : Hantavirus , Rodent Control , and FIFRA Expanding Public Health Role | Bergeson & Campbell , P . C . ",
+              "url": "https://www.jdsupra.com/legalnews/cruise-control-hantavirus-rodent-7795847/",
+              "language": "English"
+            },
+            {
               "title": "Officials order quarantine for 2 passengers from ship with hantavirus",
-              "url": "https://www.baltimoresun.com/2026/05/19/us-hantavirus-quarantine/",
+              "url": "https://www.journal-advocate.com/2026/05/19/us-hantavirus-quarantine/",
               "language": "English"
             },
             {
-              "title": "Woman exposed to hantavirus on cruise ship says feds are forcing her to stay quarantined in Nebraska",
-              "url": "https://www.ksnblocal4.com/2026/05/19/woman-exposed-hantavirus-cruise-ship-says-feds-are-forcing-her-stay-quarantined-nebraska/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus panic ? Americans are more likely to die from a lightning strike",
-              "url": "https://www.theblaze.com/shows/the-liz-wheeler-show/hantavirus-panic-americans-are-more-likely-to-die-from-a-lightning-strike",
+              "title": "Hantavirus cruise ship passenger forced into federal quarantine in Nebraska",
+              "url": "https://www.foxnews.com/health/woman-says-shes-held-cruise-ship-hantavirus-scare",
               "language": "English"
             }
           ]
@@ -2088,10 +2088,34 @@
           ]
         },
         {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 3,
+          "latest": "2026-05-19T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
+              "url": "https://www.stcatharinesstandard.ca/life/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak/article_2f41fac3-7cd2-52f7-86c2-0a39a890bda4.html",
+              "language": "English"
+            },
+            {
+              "title": "B . C . patient becomes Canada first confirmed Andes hantavirus case : My Prince George Now",
+              "url": "https://www.myprincegeorgenow.com/247850/news/health-care/b-c-patient-becomes-canadas-first-confirmed-andes-hantavirus-case/",
+              "language": "English"
+            },
+            {
+              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/19/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-19T14:15:00Z",
           "sampleTitles": [
             {
@@ -2136,20 +2160,20 @@
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
           "count": 2,
-          "latest": "2026-05-19T18:15:00Z",
+          "latest": "2026-05-19T18:45:00Z",
           "sampleTitles": [
             {
-              "title": "B . C . patient becomes Canada first confirmed Andes hantavirus case : My Prince George Now",
-              "url": "https://www.myprincegeorgenow.com/247850/news/health-care/b-c-patient-becomes-canadas-first-confirmed-andes-hantavirus-case/",
+              "title": "No need to panic over Hantavirus says award - winning infectious disease expert",
+              "url": "https://www.ewn.co.za/2026/05/19/no-need-to-panic-over-hantavirus-says-award-winning-infectious-disease-expert",
               "language": "English"
             },
             {
-              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/19/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak",
+              "title": "Northern Cape dismisses Hantavirus rumours",
+              "url": "https://www.ofm.co.za/article/centralsa/341772/northern-cape-dismisses-hantavirus-rumours",
               "language": "English"
             }
           ]
@@ -2170,25 +2194,6 @@
               "title": "  Época perigosa : alerta OMS diante do surto de hantavírus e epidemia de ebola",
               "url": "https://revistaforum.com.br/saude/epoca-perigosa-alerta-oms-surto-hantavirus-epidemia-ebola/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 2,
-          "latest": "2026-05-19T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Northern Cape dismisses Hantavirus rumours",
-              "url": "https://www.ofm.co.za/article/centralsa/341772/northern-cape-dismisses-hantavirus-rumours",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
-              "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
-              "language": "English"
             }
           ]
         },
