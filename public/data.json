@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T21:36:14.488Z",
+  "generatedAt": "2026-05-19T22:31:44.702Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,59 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 48,
+      "totalArticles": 57,
       "languages": {
-        "English": 37,
-        "Portuguese": 3,
-        "Hungarian": 2,
-        "Bulgarian": 6
+        "Spanish": 3,
+        "English": 44,
+        "Portuguese": 6,
+        "Hungarian": 1,
+        "Bulgarian": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 16,
-          "latest": "2026-05-19T19:15:00Z",
+          "count": 28,
+          "latest": "2026-05-19T22:00:00Z",
           "sampleTitles": [
             {
-              "title": "Cruise Control : Hantavirus , Rodent Control , and FIFRA Expanding Public Health Role | Bergeson & Campbell , P . C . ",
-              "url": "https://www.jdsupra.com/legalnews/cruise-control-hantavirus-rodent-7795847/",
+              "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city",
+              "url": "http://www.bozemandailychronicle.com/ap_news/international/argentines-hunting-for-source-of-hantavirus-outbreak-trap-rats-in-southernmost-city/article_5c3b6c99-29bf-5d24-8791-0004aac03a45.html",
               "language": "English"
             },
             {
-              "title": "Officials order quarantine for 2 passengers from ship with hantavirus",
-              "url": "https://www.journal-advocate.com/2026/05/19/us-hantavirus-quarantine/",
+              "title": "Hantavirus update : CDC confirms 2 brought to Omaha facility ordered to quarantine",
+              "url": "https://www.wowt.com/2026/05/19/hantavirus-update-cdc-confirms-2-brought-omaha-facility-ordered-quarantine/",
               "language": "English"
             },
             {
-              "title": "Hantavirus cruise ship passenger forced into federal quarantine in Nebraska",
-              "url": "https://www.foxnews.com/health/woman-says-shes-held-cruise-ship-hantavirus-scare",
+              "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city",
+              "url": "https://www.click2houston.com/news/world/2026/05/19/argentines-hunting-for-source-of-hantavirus-outbreak-trap-rats-in-southernmost-city/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 6,
-          "latest": "2026-05-19T11:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Проф . Ива Христова разясни как се предава хантавирусът и защо няма риск от пандемия",
-              "url": "https://www.vesti.bg/bulgaria/prof.-iva-hristova-razkri-ima-liosnovanie-za-trevoga-ot-hantavirus-u-nas-6259981",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Тестват експериментално лекарство срещу хантавирус",
-              "url": "https://www.novinite.bg/articles/284956/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Великобритания тества дали японско противогрипно лекарство помага при хантавирус",
-              "url": "https://news.bg/world/velikobritaniya-testva-dali-yaponsko-protivogripno-lekarstvo-pomaga-pri-hantavirus.html",
-              "language": "Bulgarian"
             }
           ]
         },
@@ -2091,23 +2068,95 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-19T18:30:00Z",
+          "count": 5,
+          "latest": "2026-05-19T21:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/19/argentines-hunting-for-source-of-hantavirus-outbreak-trap-rats-in-southernmost-city",
+              "language": "English"
+            },
+            {
+              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
+              "url": "https://www.niagarafallsreview.ca/life/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak/article_6a697085-4026-5908-84c1-5c4471a47683.html",
+              "language": "English"
+            },
             {
               "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
               "url": "https://www.stcatharinesstandard.ca/life/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak/article_2f41fac3-7cd2-52f7-86c2-0a39a890bda4.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 3,
+          "latest": "2026-05-19T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Incógnita e investigación : así se definió qué lugares inspeccionar en Ushuaia en busca del origen del brote de hantavirus",
+              "url": "https://www.lanacion.com.ar/sociedad/incognita-e-hipotesis-asi-se-definio-que-lugares-inspeccionar-en-ushuaia-en-busca-del-origen-del-nid19052026/",
+              "language": "Spanish"
             },
             {
-              "title": "B . C . patient becomes Canada first confirmed Andes hantavirus case : My Prince George Now",
-              "url": "https://www.myprincegeorgenow.com/247850/news/health-care/b-c-patient-becomes-canadas-first-confirmed-andes-hantavirus-case/",
+              "title": "Hantavirus en el crucero MV Hondius : por qué el Malbrán sólo está investigando en Ushuaia y no en otros lugares",
+              "url": "https://www.clarin.com/sociedad/hantavirus-crucero-mv-hondius-malbran-solo-investigando-ushuaia-lugares_0_NGrN4ZaKkz.html",
+              "language": "Spanish"
+            },
+            {
+              "title": "Fernán Quirós :  Todavía no sabemos si el hantavirus del barco evolucionó  ",
+              "url": "https://www.perfil.com/noticias/modo-fontevecchia/fernan-quiros-todavia-no-sabemos-si-el-hantavirus-del-barco-evoluciono.phtml",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-05-19T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus quarantine has started . Two infection control experts explain what to expect",
+              "url": "https://theconversation.com/hantavirus-quarantine-has-started-two-infection-control-experts-explain-what-to-expect-282967",
               "language": "English"
             },
             {
-              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/19/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak",
+              "title": "Two US hantavirus cruise passengers hit with quarantine",
+              "url": "https://www.portnews.com.au/story/9250057/two-us-hantavirus-cruise-passengers-hit-with-quarantine/",
               "language": "English"
+            },
+            {
+              "title": "Two US hantavirus cruise passengers hit with quarantine",
+              "url": "https://www.hardenexpress.com.au/story/9250057/two-us-hantavirus-cruise-passengers-hit-with-quarantine/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-05-19T21:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cientistas buscam hantavírus enquanto turistas indiferentes passeiam em Ushuaia",
+              "url": "https://jornaldebrasilia.com.br/noticias/mundo/cientistas-buscam-hantavirus-enquanto-turistas-indiferentes-passeiam-em-ushuaia/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus sobrevive no sêmen por muitos anos , diz estudo",
+              "url": "https://saude.ig.com.br/2026-05-19/hantavirus-sobrevive-no-semen-por-muitos-anos--diz-estudo.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "  Época perigosa : alerta OMS diante do surto de hantavírus e epidemia de ebola",
+              "url": "https://revistaforum.com.br/saude/epoca-perigosa-alerta-oms-surto-hantavirus-epidemia-ebola/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2136,26 +2185,26 @@
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 3,
-          "latest": "2026-05-19T11:15:00Z",
+          "latest": "2026-05-19T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "Figyelmeztet a szakértő : sokkal nagyobb baj van itt , mint a hantavírus",
-              "url": "https://www.portfolio.hu/gazdasag/20260519/figyelmeztet-a-szakerto-sokkal-nagyobb-baj-van-itt-mint-a-hantavirus-837744",
-              "language": "Hungarian"
+              "title": "Проф . Ива Христова разясни как се предава хантавирусът и защо няма риск от пандемия",
+              "url": "https://www.vesti.bg/bulgaria/prof.-iva-hristova-razkri-ima-liosnovanie-za-trevoga-ot-hantavirus-u-nas-6259981",
+              "language": "Bulgarian"
             },
             {
-              "title": "Meghalt egy hantavírusos beteg",
-              "url": "https://www.blikk.hu/eletmod/egeszseg/hantavirus-beteg-meghalt-hajo/eb7tnvq",
-              "language": "Hungarian"
+              "title": "Тестват експериментално лекарство срещу хантавирус",
+              "url": "https://www.novinite.bg/articles/284956/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus",
+              "language": "Bulgarian"
             },
             {
-              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
-              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
-              "language": "English"
+              "title": "Великобритания тества дали японско противогрипно лекарство помага при хантавирус",
+              "url": "https://news.bg/world/velikobritaniya-testva-dali-yaponsko-protivogripno-lekarstvo-pomaga-pri-hantavirus.html",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2179,21 +2228,30 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-19T18:15:00Z",
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-19T19:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus sobrevive no sêmen por muitos anos , diz estudo",
-              "url": "https://saude.ig.com.br/2026-05-19/hantavirus-sobrevive-no-semen-por-muitos-anos--diz-estudo.html",
+              "title": "Hantavírus . Primeiro caso suspeito entrou nas urgências em Lisboa e testou negativo",
+              "url": "https://www.rtp.pt/noticias/pais/ha-registo-de-um-primeiro-caso-suspeito-de-hantavirus-em-portugal-teste-deu-negativo_n1742299",
               "language": "Portuguese"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-05-19T11:15:00Z",
+          "sampleTitles": [
             {
-              "title": "  Época perigosa : alerta OMS diante do surto de hantavírus e epidemia de ebola",
-              "url": "https://revistaforum.com.br/saude/epoca-perigosa-alerta-oms-surto-hantavirus-epidemia-ebola/",
-              "language": "Portuguese"
+              "title": "Figyelmeztet a szakértő : sokkal nagyobb baj van itt , mint a hantavírus",
+              "url": "https://www.portfolio.hu/gazdasag/20260519/figyelmeztet-a-szakerto-sokkal-nagyobb-baj-van-itt-mint-a-hantavirus-837744",
+              "language": "Hungarian"
             }
           ]
         },
