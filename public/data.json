@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T17:04:16.532Z",
+  "generatedAt": "2026-05-19T18:44:20.683Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,33 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 48,
+      "totalArticles": 44,
       "languages": {
-        "Bulgarian": 5,
-        "English": 42,
-        "Hungarian": 1
+        "English": 34,
+        "Portuguese": 2,
+        "Hungarian": 2,
+        "Bulgarian": 6
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 20,
-          "latest": "2026-05-19T10:30:00Z",
+          "count": 13,
+          "latest": "2026-05-19T18:15:00Z",
           "sampleTitles": [
             {
-              "title": "World News : Adult dies of hantavirus in Colorado",
-              "url": "https://www.gdnonline.com:443/Details/1395181",
+              "title": "Officials order quarantine for 2 passengers from ship with hantavirus",
+              "url": "https://www.baltimoresun.com/2026/05/19/us-hantavirus-quarantine/",
               "language": "English"
             },
             {
-              "title": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
-              "url": "https://www.dailydemocrat.com/2026/05/18/hantavirus-cruise-travel-demand/",
+              "title": "Woman exposed to hantavirus on cruise ship says feds are forcing her to stay quarantined in Nebraska",
+              "url": "https://www.ksnblocal4.com/2026/05/19/woman-exposed-hantavirus-cruise-ship-says-feds-are-forcing-her-stay-quarantined-nebraska/",
               "language": "English"
             },
             {
-              "title": "Argentine scientists lay first traps in hantavirus hunt",
-              "url": "https://www.digitaljournal.com/world/argentine-scientists-lay-first-traps-in-hantavirus-hunt/article",
+              "title": "Hantavirus panic ? Americans are more likely to die from a lightning strike",
+              "url": "https://www.theblaze.com/shows/the-liz-wheeler-show/hantavirus-panic-americans-are-more-likely-to-die-from-a-lightning-strike",
               "language": "English"
             }
           ]
@@ -2066,9 +2067,14 @@
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 5,
-          "latest": "2026-05-19T10:30:00Z",
+          "count": 6,
+          "latest": "2026-05-19T11:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Проф . Ива Христова разясни как се предава хантавирусът и защо няма риск от пандемия",
+              "url": "https://www.vesti.bg/bulgaria/prof.-iva-hristova-razkri-ima-liosnovanie-za-trevoga-ot-hantavirus-u-nas-6259981",
+              "language": "Bulgarian"
+            },
             {
               "title": "Тестват експериментално лекарство срещу хантавирус",
               "url": "https://www.novinite.bg/articles/284956/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus",
@@ -2078,11 +2084,6 @@
               "title": "Великобритания тества дали японско противогрипно лекарство помага при хантавирус",
               "url": "https://news.bg/world/velikobritaniya-testva-dali-yaponsko-protivogripno-lekarstvo-pomaga-pri-hantavirus.html",
               "language": "Bulgarian"
-            },
-            {
-              "title": "Тестват експериментално лекарство срещу хантавирус",
-              "url": "https://dariknews.bg/novini/sviat/testvat-eksperimentalno-lekarstvo-sreshtu-hantavirus-2455373",
-              "language": "Bulgarian"
             }
           ]
         },
@@ -2090,9 +2091,14 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 3,
-          "latest": "2026-05-19T08:45:00Z",
+          "count": 4,
+          "latest": "2026-05-19T14:15:00Z",
           "sampleTitles": [
+            {
+              "title": "US : Colorado confirms first Hantavirus death in two years . What do we know so far ? | Indiablooms - First Portal on Digital News Management",
+              "url": "https://www.indiablooms.com/health/us-colorado-confirms-first-hantavirus-death-in-two-years-what-do-we-know-so-far/details",
+              "language": "English"
+            },
             {
               "title": "MV Hondius docks in Rotterdam for disinfection after hantavirus alert",
               "url": "https://www.sentinelassam.com/more-news/international/mv-hondius-docks-in-rotterdam-for-disinfection-after-hantavirus-alert",
@@ -2102,11 +2108,68 @@
               "title": "Public Health Agency of Canada confirms first hantavirus case in cruise passenger",
               "url": "https://www.sentinelassam.com/more-news/international/public-health-agency-of-canada-confirms-first-hantavirus-case-in-cruise-passenger",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 3,
+          "latest": "2026-05-19T11:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Figyelmeztet a szakértő : sokkal nagyobb baj van itt , mint a hantavírus",
+              "url": "https://www.portfolio.hu/gazdasag/20260519/figyelmeztet-a-szakerto-sokkal-nagyobb-baj-van-itt-mint-a-hantavirus-837744",
+              "language": "Hungarian"
             },
             {
-              "title": "Hantavirus - stricken cruise ship docks in Netherlands",
-              "url": "https://theshillongtimes.com/2026/05/19/hantavirus-stricken-cruise-ship-docks-in-netherlands/",
+              "title": "Meghalt egy hantavírusos beteg",
+              "url": "https://www.blikk.hu/eletmod/egeszseg/hantavirus-beteg-meghalt-hajo/eb7tnvq",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
+              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-05-19T18:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "B . C . patient becomes Canada first confirmed Andes hantavirus case : My Prince George Now",
+              "url": "https://www.myprincegeorgenow.com/247850/news/health-care/b-c-patient-becomes-canadas-first-confirmed-andes-hantavirus-case/",
+              "language": "English"
+            },
+            {
+              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/05/19/us-health-officials-order-quarantine-for-2-passengers-from-cruise-ship-with-hantavirus-outbreak",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-19T18:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus sobrevive no sêmen por muitos anos , diz estudo",
+              "url": "https://saude.ig.com.br/2026-05-19/hantavirus-sobrevive-no-semen-por-muitos-anos--diz-estudo.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "  Época perigosa : alerta OMS diante do surto de hantavírus e epidemia de ebola",
+              "url": "https://revistaforum.com.br/saude/epoca-perigosa-alerta-oms-surto-hantavirus-epidemia-ebola/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2125,44 +2188,6 @@
             {
               "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
               "url": "https://www.timeslive.co.za/news/2026-05-19-hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 2,
-          "latest": "2026-05-19T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Meghalt egy hantavírusos beteg",
-              "url": "https://www.blikk.hu/eletmod/egeszseg/hantavirus-beteg-meghalt-hajo/eb7tnvq",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Minister says no reason for hantavirus panic - The Budapest Times",
-              "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 2,
-          "latest": "2026-05-19T01:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness - 19 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446152",
-              "language": "English"
-            },
-            {
-              "title": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness - 19 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446152&fm=psp,tsf",
               "language": "English"
             }
           ]
