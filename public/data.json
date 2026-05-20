@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T19:48:45.888Z",
+  "generatedAt": "2026-05-20T20:48:18.582Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 55,
       "languages": {
-        "English": 47,
+        "English": 44,
+        "Portuguese": 6,
         "Ukrainian": 1,
-        "Portuguese": 5,
         "Lithuanian": 1,
-        "Hungarian": 3,
-        "Turkish": 2
+        "Hungarian": 2,
+        "Turkish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 24,
-          "latest": "2026-05-20T19:15:00Z",
+          "count": 23,
+          "latest": "2026-05-20T20:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Clear and present danger : U . S . health officials , not hantavirus",
+              "url": "https://www.peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
+              "language": "English"
+            },
+            {
+              "title": "Clear and present danger : U . S . health officials , not hantavirus",
+              "url": "https://peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
+              "language": "English"
+            },
             {
               "title": "Health and Humor : Putting Hantavirus into perspective",
               "url": "https://www.winonapost.com/opinion/health-and-humor-putting-hantavirus-into-perspective/article_7baa6926-3726-49d1-8a22-3844d1e509c6.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak revives memories of Louisiana first fatal case | Health",
-              "url": "https://www.ktbs.com/health/hantavirus-outbreak-revives-memories-of-louisiana-s-first-fatal-case/article_b1e42da5-a9d6-4106-b023-2d88e96fe161.html",
-              "language": "English"
-            },
-            {
-              "title": "Why Hantavirus outbreak deserves our attention",
-              "url": "https://smokymountainnews.com/opinion/item/41362-why-hantavirus-outbreak-deserves-our-attention",
               "language": "English"
             }
           ]
@@ -2069,7 +2069,7 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-20T18:00:00Z",
           "sampleTitles": [
             {
@@ -2085,6 +2085,25 @@
             {
               "title": "Ebola , hantavírus : qual o risco dos novos surtos virarem uma pandemia ? Especialistas explicam",
               "url": "https://oglobo.globo.com/saude/noticia/2026/05/20/ebola-hantavirus-qual-o-risco-dos-novos-surtos-virarem-uma-pandemia-especialistas-explicam.ghtml",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-05-20T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Suspeita de hantavírus em Portugal descartada e doente recebe alta",
+              "url": "https://www.noticiasdecoimbra.pt/suspeita-de-hantavirus-em-portugal-descartada-e-doente-recebe-alta/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Primeiro caso suspeito de hantavírus em Portugal testa negativo",
+              "url": "http://www.sabado.pt/ciencia---saude/detalhe/primeiro-caso-suspeito-de-hantavirus-em-portugal-testa-negativo",
               "language": "Portuguese"
             }
           ]
@@ -2128,44 +2147,6 @@
           ]
         },
         {
-          "country": "Romania",
-          "lat": 45.9,
-          "lng": 25,
-          "count": 2,
-          "latest": "2026-05-20T07:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus - fertőzést igazoltak a megyei kórházban",
-              "url": "https://nyugatijelen.com/index.php/jelenido/hantavirus-fertozest-igazoltak-a-megyei-korhazban",
-              "language": "Hungarian"
-            },
-            {
-              "title": "Hantavírus , de nem a hajóról érkezett - 2026 . május 20 ., szerda",
-              "url": "https://www.3szek.ro/load/cikk/180831/hantavirus-de-nem-a-hajorol-erkezett",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-20T07:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.sydneysun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.australiannews.net/news/279059215/rotterdam-authorities-arrange-quarantine-for-crew-of-cruise-ship",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Ukraine",
           "lat": 48.4,
           "lng": 31.2,
@@ -2190,20 +2171,6 @@
               "title": "Welsh residents monitored after Hantavirus outbreak",
               "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-20T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Primeiro caso suspeito de hantavírus em Portugal testa negativo",
-              "url": "http://www.sabado.pt/ciencia---saude/detalhe/primeiro-caso-suspeito-de-hantavirus-em-portugal-testa-negativo",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2250,16 +2217,30 @@
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
+          "country": "Romania",
+          "lat": 45.9,
+          "lng": 25,
           "count": 1,
-          "latest": "2026-05-20T06:30:00Z",
+          "latest": "2026-05-20T07:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs o gemiden çıkmamış olabilir",
-              "url": "https://www.odatv.com/guncel/hantavirus-o-gemiden-cikmamis-olabilir-120147837",
-              "language": "Turkish"
+              "title": "Hantavírus - fertőzést igazoltak a megyei kórházban",
+              "url": "https://nyugatijelen.com/index.php/jelenido/hantavirus-fertozest-igazoltak-a-megyei-korhazban",
+              "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-05-20T07:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+              "url": "http://www.sydneysun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+              "language": "English"
             }
           ]
         }
