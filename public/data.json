@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T18:55:07.824Z",
+  "generatedAt": "2026-05-20T19:48:45.888Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 60,
+      "totalArticles": 59,
       "languages": {
-        "English": 48,
+        "English": 47,
+        "Ukrainian": 1,
         "Portuguese": 5,
         "Lithuanian": 1,
         "Hungarian": 3,
-        "Turkish": 3
+        "Turkish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 26,
-          "latest": "2026-05-20T13:15:00Z",
+          "count": 24,
+          "latest": "2026-05-20T19:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-              "url": "https://www.wgal.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+              "title": "Health and Humor : Putting Hantavirus into perspective",
+              "url": "https://www.winonapost.com/opinion/health-and-humor-putting-hantavirus-into-perspective/article_7baa6926-3726-49d1-8a22-3844d1e509c6.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-              "url": "https://www.wjcl.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+              "title": "Hantavirus outbreak revives memories of Louisiana first fatal case | Health",
+              "url": "https://www.ktbs.com/health/hantavirus-outbreak-revives-memories-of-louisiana-s-first-fatal-case/article_b1e42da5-a9d6-4106-b023-2d88e96fe161.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-              "url": "https://www.wesh.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+              "title": "Why Hantavirus outbreak deserves our attention",
+              "url": "https://smokymountainnews.com/opinion/item/41362-why-hantavirus-outbreak-deserves-our-attention",
               "language": "English"
             }
           ]
@@ -2069,8 +2070,13 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 4,
-          "latest": "2026-05-20T13:15:00Z",
+          "latest": "2026-05-20T18:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Navio atingido por hantavírus voltará a navegar em junho após desinfeco",
+              "url": "https://www.rondoniadinamica.com/noticias/2026/05/navio-atingido-por-hantavirus-voltara-a-navegar-em-junho-apos-desinfeccao,245026.shtml",
+              "language": "Portuguese"
+            },
             {
               "title": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
               "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
@@ -2080,29 +2086,24 @@
               "title": "Ebola , hantavírus : qual o risco dos novos surtos virarem uma pandemia ? Especialistas explicam",
               "url": "https://oglobo.globo.com/saude/noticia/2026/05/20/ebola-hantavirus-qual-o-risco-dos-novos-surtos-virarem-uma-pandemia-especialistas-explicam.ghtml",
               "language": "Portuguese"
-            },
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.brazilsun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-              "language": "English"
             }
           ]
         },
         {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
           "count": 2,
-          "latest": "2026-05-20T08:45:00Z",
+          "latest": "2026-05-20T18:00:00Z",
           "sampleTitles": [
             {
-              "title": "From  Covid 2 . 0  to  crisis actor : How hantavirus myths spread",
-              "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-hantavirus-myths-spread/",
+              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
+              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
               "language": "English"
             },
             {
-              "title": "From  Covid 2 . 0  to crisis actors : How hantavirus myths spread",
-              "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-from-covid-2-0-to-crisis-actors-how-hantavirus-myths-spread/",
+              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+              "url": "http://www.torontotelegraph.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
               "language": "English"
             }
           ]
@@ -2165,21 +2166,30 @@
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-05-20T06:30:00Z",
+          "country": "Ukraine",
+          "lat": 48.4,
+          "lng": 31.2,
+          "count": 1,
+          "latest": "2026-05-20T18:15:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs o gemiden çıkmamış olabilir",
-              "url": "https://www.odatv.com/guncel/hantavirus-o-gemiden-cikmamis-olabilir-120147837",
-              "language": "Turkish"
-            },
+              "title": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
+              "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
+              "language": "Ukrainian"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-20T17:15:00Z",
+          "sampleTitles": [
             {
-              "title": "Hantavirüs salgına dönüşür mü ? ",
-              "url": "https://www.sozcu.com.tr/hantavirus-salgina-donusur-mu-p321095",
-              "language": "Turkish"
+              "title": "Welsh residents monitored after Hantavirus outbreak",
+              "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
+              "language": "English"
             }
           ]
         },
@@ -2198,15 +2208,15 @@
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
           "count": 1,
-          "latest": "2026-05-20T09:15:00Z",
+          "latest": "2026-05-20T08:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.torontotelegraph.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+              "title": "From  Covid 2 . 0  to  crisis actor : How hantavirus myths spread",
+              "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-hantavirus-myths-spread/",
               "language": "English"
             }
           ]
@@ -2236,6 +2246,20 @@
               "title": "Azt halljuk a hantavírus alatt , mint korábban a koronavírusnál : lehet újabb világjárvány ? ",
               "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-terjedes-megbetegedes-karanten",
               "language": "Hungarian"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-20T06:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs o gemiden çıkmamış olabilir",
+              "url": "https://www.odatv.com/guncel/hantavirus-o-gemiden-cikmamis-olabilir-120147837",
+              "language": "Turkish"
             }
           ]
         }
