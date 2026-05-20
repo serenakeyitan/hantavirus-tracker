@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T20:48:18.582Z",
+  "generatedAt": "2026-05-20T21:38:24.837Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 55,
+      "totalArticles": 54,
       "languages": {
-        "English": 44,
+        "English": 43,
         "Portuguese": 6,
         "Ukrainian": 1,
         "Lithuanian": 1,
@@ -2227,20 +2227,6 @@
               "title": "Hantavírus - fertőzést igazoltak a megyei kórházban",
               "url": "https://nyugatijelen.com/index.php/jelenido/hantavirus-fertozest-igazoltak-a-megyei-korhazban",
               "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-20T07:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.sydneysun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-              "language": "English"
             }
           ]
         }
