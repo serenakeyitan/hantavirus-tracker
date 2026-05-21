@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T23:32:19.258Z",
+  "generatedAt": "2026-05-21T00:58:10.532Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 49,
+      "totalArticles": 46,
       "languages": {
-        "English": 39,
+        "English": 38,
         "Portuguese": 6,
         "Ukrainian": 1,
-        "Lithuanian": 1,
-        "Hungarian": 1,
-        "Turkish": 1
+        "Lithuanian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 24,
-          "latest": "2026-05-20T23:00:00Z",
+          "count": 25,
+          "latest": "2026-05-21T00:30:00Z",
           "sampleTitles": [
             {
-              "title": "Argentina Traps Rats in Search for Source of Hantavirus Outbreak",
-              "url": "https://www.breitbart.com/health/2026/05/20/argentina-traps-rats-search-source-hantavirus-outbreak/",
-              "language": "English"
-            },
-            {
-              "title": "The Ebola Outbreak is More Concerning Than The Hantavirus",
-              "url": "https://www.shtfplan.com/health/the-ebola-outbreak-is-more-concerning-than-the-hantavirus",
-              "language": "English"
-            },
-            {
               "title": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-              "url": "https://www.fox2detroit.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+              "url": "https://www.ktvu.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus | Health Tidbits with Dr . Kohli",
+              "url": "https://kosi101.com/hantavirus-health-tidbits-with-dr-kohli/",
+              "language": "English"
+            },
+            {
+              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
+              "url": "https://www.ksla.com/2026/05/19/us-health-officials-order-quarantine-2-passengers-cruise-ship-with-hantavirus-outbreak/",
               "language": "English"
             }
           ]
@@ -2194,20 +2192,6 @@
               "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
               "url": "http://www.africaleader.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
-          "count": 1,
-          "latest": "2026-05-20T08:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Azt halljuk a hantavírus alatt , mint korábban a koronavírusnál : lehet újabb világjárvány ? ",
-              "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-terjedes-megbetegedes-karanten",
-              "language": "Hungarian"
             }
           ]
         }
