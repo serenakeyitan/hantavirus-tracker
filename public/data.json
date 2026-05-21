@@ -1,162 +1,11 @@
 {
-  "generatedAt": "2026-05-21T05:31:40.704Z",
+  "generatedAt": "2026-05-21T07:27:04.778Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
       "url": "https://data.cdc.gov/resource/x9gk-5huc",
       "tier": "confirmed",
-      "rows": [
-        {
-          "state": "PENNSYLVANIA",
-          "lat": 40.590752,
-          "lng": -77.209755,
-          "total": 1,
-          "byYear": {
-            "2023": 0,
-            "2024": 1
-          }
-        },
-        {
-          "state": "NORTH DAKOTA",
-          "lat": 47.528912,
-          "lng": -99.784012,
-          "total": 3,
-          "byYear": {
-            "2023": 3,
-            "2024": 0
-          }
-        },
-        {
-          "state": "SOUTH DAKOTA",
-          "lat": 44.299782,
-          "lng": -99.438828,
-          "total": 23,
-          "byYear": {
-            "2023": 23,
-            "2024": 0
-          }
-        },
-        {
-          "state": "LOUISIANA",
-          "lat": 31.169546,
-          "lng": -91.867805,
-          "total": 50,
-          "byYear": {
-            "2023": 33,
-            "2024": 17
-          }
-        },
-        {
-          "state": "OKLAHOMA",
-          "lat": 35.565342,
-          "lng": -96.928917,
-          "total": 20,
-          "byYear": {
-            "2023": 20,
-            "2024": 0
-          }
-        },
-        {
-          "state": "ARIZONA",
-          "lat": 33.729759,
-          "lng": -111.431221,
-          "total": 194,
-          "byYear": {
-            "2023": 90,
-            "2024": 104
-          }
-        },
-        {
-          "state": "COLORADO",
-          "lat": 39.059811,
-          "lng": -105.311104,
-          "total": 29,
-          "byYear": {
-            "2023": 0,
-            "2024": 29
-          }
-        },
-        {
-          "state": "IDAHO",
-          "lat": 44.240459,
-          "lng": -114.478828,
-          "total": 49,
-          "byYear": {
-            "2023": 10,
-            "2024": 39
-          }
-        },
-        {
-          "state": "NEVADA",
-          "lat": 38.313515,
-          "lng": -117.055374,
-          "total": 110,
-          "byYear": {
-            "2023": 50,
-            "2024": 60
-          }
-        },
-        {
-          "state": "NEW MEXICO",
-          "lat": 34.840515,
-          "lng": -106.248482,
-          "total": 104,
-          "byYear": {
-            "2023": 52,
-            "2024": 52
-          }
-        },
-        {
-          "state": "UTAH",
-          "lat": 40.150032,
-          "lng": -111.862434,
-          "total": 73,
-          "byYear": {
-            "2023": 39,
-            "2024": 34
-          }
-        },
-        {
-          "state": "WYOMING",
-          "lat": 42.755966,
-          "lng": -107.30249,
-          "total": 19,
-          "byYear": {
-            "2023": 19,
-            "2024": 0
-          }
-        },
-        {
-          "state": "CALIFORNIA",
-          "lat": 36.116203,
-          "lng": -119.681564,
-          "total": 71,
-          "byYear": {
-            "2023": 19,
-            "2024": 52
-          }
-        },
-        {
-          "state": "OREGON",
-          "lat": 44.572021,
-          "lng": -122.070938,
-          "total": 20,
-          "byYear": {
-            "2023": 2,
-            "2024": 18
-          }
-        },
-        {
-          "state": "WASHINGTON",
-          "lat": 47.400902,
-          "lng": -121.490494,
-          "total": 43,
-          "byYear": {
-            "2023": 0,
-            "2024": 43
-          }
-        }
-      ]
+      "rows": []
     },
     "who": {
       "name": "WHO Disease Outbreak News",
@@ -2031,34 +1880,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 46,
+      "totalArticles": 37,
       "languages": {
-        "English": 38,
-        "Portuguese": 6,
-        "Ukrainian": 1,
-        "Lithuanian": 1
+        "English": 31,
+        "Turkish": 1,
+        "Russian": 1,
+        "Portuguese": 3,
+        "Ukrainian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 25,
-          "latest": "2026-05-21T00:30:00Z",
+          "count": 22,
+          "latest": "2026-05-21T04:30:00Z",
           "sampleTitles": [
             {
               "title": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-              "url": "https://www.ktvu.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+              "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
               "language": "English"
             },
             {
-              "title": "Hantavirus | Health Tidbits with Dr . Kohli",
-              "url": "https://kosi101.com/hantavirus-health-tidbits-with-dr-kohli/",
+              "title": "South Texas doctor addresses hantavirus fears and misconceptions",
+              "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
               "language": "English"
             },
             {
-              "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
-              "url": "https://www.ksla.com/2026/05/19/us-health-officials-order-quarantine-2-passengers-cruise-ship-with-hantavirus-outbreak/",
+              "title": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
+              "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
               "language": "English"
             }
           ]
@@ -2067,7 +1917,7 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 3,
+          "count": 2,
           "latest": "2026-05-20T18:00:00Z",
           "sampleTitles": [
             {
@@ -2079,11 +1929,34 @@
               "title": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
               "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
               "language": "Portuguese"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-21T03:15:00Z",
+          "sampleTitles": [
             {
-              "title": "Ebola , hantavírus : qual o risco dos novos surtos virarem uma pandemia ? Especialistas explicam",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/05/20/ebola-hantavirus-qual-o-risco-dos-novos-surtos-virarem-uma-pandemia-especialistas-explicam.ghtml",
-              "language": "Portuguese"
+              "title": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
+              "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-21T02:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Врач назвал причину вспышек хантавируса",
+              "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
+              "language": "Russian"
             }
           ]
         },
@@ -2091,37 +1964,13 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-20T19:45:00Z",
           "sampleTitles": [
             {
               "title": "Suspeita de hantavírus em Portugal descartada e doente recebe alta",
               "url": "https://www.noticiasdecoimbra.pt/suspeita-de-hantavirus-em-portugal-descartada-e-doente-recebe-alta/",
               "language": "Portuguese"
-            },
-            {
-              "title": "Primeiro caso suspeito de hantavírus em Portugal testa negativo",
-              "url": "http://www.sabado.pt/ciencia---saude/detalhe/primeiro-caso-suspeito-de-hantavirus-em-portugal-testa-negativo",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-20T18:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
-              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.torontotelegraph.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-              "language": "English"
             }
           ]
         },
@@ -2140,6 +1989,20 @@
           ]
         },
         {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-05-20T18:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
+              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
@@ -2149,48 +2012,6 @@
             {
               "title": "Welsh residents monitored after Hantavirus outbreak",
               "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-20T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "From  Covid 2 . 0  to  crisis actor : How hantavirus myths spread",
-              "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-hantavirus-myths-spread/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "China",
-          "lat": 35.9,
-          "lng": 104.2,
-          "count": 1,
-          "latest": "2026-05-20T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.taiwansun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-20T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-              "url": "http://www.africaleader.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
               "language": "English"
             }
           ]
