@@ -121,8 +121,8 @@ function parseHantavirosisTable(text) {
   //   shape B:  "... <N>"          (rate wrapped to the line below)
   // We try A first (it has the rate inline so we don't have to look at the
   // wrap line), then fall back to B and harvest the rate from the next line.
-  const rowRxFull = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?(\d+)\s+(\d+[.,]\d+)\s*$/;
-  const rowRxBareN = /^\s+([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?\s(\d+)\s*$/;
+  const rowRxFull = /^\s*([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?(\d+)\s+(\d+[.,]\d+)\s*$/;
+  const rowRxBareN = /^\s*([A-Za-zÁÉÍÓÚáéíóúÑñ][A-Za-zÁÉÍÓÚáéíóúÑñ. ]+?)\s+(\d+(?:[.,]\d+)?)\s+.*?\s(\d+)\s*$/;
   const total = { name: "Total País" };
 
   for (let i = 0; i < lines.length; i++) {
@@ -164,7 +164,7 @@ function parseHantavirosisTable(text) {
     rows.push({ jurisdiction: finalName, seasons });
   }
   // Latest season is the LAST element of seasons[].
-  const latestSeasonLabel = "2025-2026"; // The current BEN through SE 16, season-to-date.
+  const latestSeasonLabel = "2025-2026";
   const provinces = rows
     .map(r => {
       const c = PROVINCES[r.jurisdiction];
