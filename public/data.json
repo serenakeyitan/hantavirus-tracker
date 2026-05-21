@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T16:58:53.209Z",
+  "generatedAt": "2026-05-21T17:46:24.310Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -342,7 +342,7 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_808_se_18_vf_2052026.pdf",
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben-808-se-18-20260521.pdf",
       "bulletinIssue": 808,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
