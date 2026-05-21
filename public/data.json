@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T15:13:49.571Z",
+  "generatedAt": "2026-05-21T16:58:53.209Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,55 +2031,35 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 37,
+      "totalArticles": 53,
       "languages": {
-        "English": 31,
-        "Turkish": 1,
-        "Russian": 1,
-        "Portuguese": 3,
-        "Ukrainian": 1
+        "English": 46,
+        "Turkish": 5,
+        "Hungarian": 1,
+        "Russian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
-          "latest": "2026-05-21T04:30:00Z",
+          "count": 40,
+          "latest": "2026-05-21T16:30:00Z",
           "sampleTitles": [
             {
-              "title": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-              "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+              "title": "Why Is Nebraska Medical Center the National Quarantine Unit ? Why Hantavirus and Ebola Patients Have Been Sent to Nebraska",
+              "url": "https://www.womenshealthmag.com/health/a71365494/nebraska-medical-center-hantavirus-ebola/",
               "language": "English"
             },
             {
-              "title": "South Texas doctor addresses hantavirus fears and misconceptions",
-              "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
+              "title": "Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
+              "url": "https://www.sej.org/headlines/wet-weather-argentina-helped-fuel-cruise-ship-hantavirus-outbreak",
               "language": "English"
             },
             {
-              "title": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
-              "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
+              "title": "COVID is shaping American reaction to Ebola and hantavirus",
+              "url": "https://www.kvnf.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-20T18:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Navio atingido por hantavírus voltará a navegar em junho após desinfeco",
-              "url": "https://www.rondoniadinamica.com/noticias/2026/05/navio-atingido-por-hantavirus-voltara-a-navegar-em-junho-apos-desinfeccao,245026.shtml",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
-              "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2087,13 +2067,37 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-21T03:15:00Z",
+          "count": 6,
+          "latest": "2026-05-21T15:30:00Z",
           "sampleTitles": [
             {
-              "title": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
-              "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
+              "title": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
+              "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
               "language": "Turkish"
+            },
+            {
+              "title": "EU accelerates research into hantavirus vaccines",
+              "url": "https://aa.com.tr/en/world/eu-accelerates-research-into-hantavirus-vaccines/3944883",
+              "language": "English"
+            },
+            {
+              "title": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
+              "url": "https://www.konhaber.com/dunya/ab_hantaviruse_karsi_asi_ve_tedavi_yontemleri_gelistiriyor-2000061h",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Romania",
+          "lat": 45.9,
+          "lng": 25,
+          "count": 1,
+          "latest": "2026-05-21T15:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Gyógyultan hagyta el a kórházat a hantavírussal fertőzött fiatalember",
+              "url": "https://maszol.ro/belfold/Gyogyultan-hagyta-el-a-korhazat-a-hantavirussal-fertozoott-fiatalember",
+              "language": "Hungarian"
             }
           ]
         },
@@ -2108,62 +2112,6 @@
               "title": "Врач назвал причину вспышек хантавируса",
               "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
               "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-20T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Suspeita de hantavírus em Portugal descartada e doente recebe alta",
-              "url": "https://www.noticiasdecoimbra.pt/suspeita-de-hantavirus-em-portugal-descartada-e-doente-recebe-alta/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ukraine",
-          "lat": 48.4,
-          "lng": 31.2,
-          "count": 1,
-          "latest": "2026-05-20T18:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
-              "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
-              "language": "Ukrainian"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-20T18:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
-              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-20T17:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Welsh residents monitored after Hantavirus outbreak",
-              "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
-              "language": "English"
             }
           ]
         }
