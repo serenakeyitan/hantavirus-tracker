@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T11:07:26.196Z",
+  "generatedAt": "2026-05-22T12:57:53.249Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,34 +2031,120 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 53,
+      "totalArticles": 79,
       "languages": {
-        "English": 46,
-        "Turkish": 5,
-        "Hungarian": 1,
-        "Russian": 1
+        "English": 73,
+        "Turkish": 1,
+        "Russian": 2,
+        "Portuguese": 2,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 40,
-          "latest": "2026-05-21T16:30:00Z",
+          "count": 64,
+          "latest": "2026-05-22T05:15:00Z",
           "sampleTitles": [
             {
-              "title": "Why Is Nebraska Medical Center the National Quarantine Unit ? Why Hantavirus and Ebola Patients Have Been Sent to Nebraska",
-              "url": "https://www.womenshealthmag.com/health/a71365494/nebraska-medical-center-hantavirus-ebola/",
+              "title": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+              "url": "https://www.tspr.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
               "language": "English"
             },
             {
-              "title": "Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
-              "url": "https://www.sej.org/headlines/wet-weather-argentina-helped-fuel-cruise-ship-hantavirus-outbreak",
+              "title": "American passenger is angry about hantavirus quarantine order : NPR",
+              "url": "https://www.npr.org/transcripts/nx-s1-5827015",
               "language": "English"
             },
             {
-              "title": "COVID is shaping American reaction to Ebola and hantavirus",
-              "url": "https://www.kvnf.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+              "title": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+              "url": "https://www.wxpr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 2,
+          "latest": "2026-05-22T11:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
+              "url": "https://www.bizcommunity.com/article/hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists-623331a",
+              "language": "English"
+            },
+            {
+              "title": "Inside an African lab that helped crack the hantavirus outbreak",
+              "url": "https://www.cnbcafrica.com/2026/inside-an-african-lab-that-helped-crack-the-hantavirus-outbreak",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 2,
+          "latest": "2026-05-22T03:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "  Риск летального исхода до 40−50 %: Роспотребнадзор назвал ключевые характеристики хантавируса",
+              "url": "https://news.mail.ru/society/70980873/",
+              "language": "Russian"
+            },
+            {
+              "title": "Итальянский врач рассказал , почему эпидемия хантавируса не грозит Европе",
+              "url": "https://news.mail.ru/politics/70980528/",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-22T02:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Como o clima da Argentina contribuiu para o surto de hantavírus em cruzeiro",
+              "url": "https://revistagalileu.globo.com/saude/noticia/2026/05/como-o-clima-da-argentina-contribuiu-para-o-surto-de-hantavirus-em-cruzeiro.ghtml",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Missão científica em busca de hantavírus capturou cerca de 150 roedores em Ushuaia",
+              "url": "http://www.em.com.br/internacional/2026/05/7425246-missao-cientifica-em-busca-de-hantavirus-capturou-cerca-de-150-roedores-em-ushuaia.html",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-22T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Digested week : memories of Covid resurface with hantavirus and Ebola news",
+              "url": "https://www.theguardian.com/uk-news/2026/may/22/digested-week-memories-covid-resurface-hantavirus-ebola-news",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-05-22T11:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "All Hondius crew members in Rotterdam test negative for hantavirus",
+              "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
               "language": "English"
             }
           ]
@@ -2067,51 +2153,41 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 6,
-          "latest": "2026-05-21T15:30:00Z",
+          "count": 1,
+          "latest": "2026-05-22T09:30:00Z",
           "sampleTitles": [
             {
-              "title": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
-              "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
+              "title": "Hondius gemisinde korkutan hantavirüs alarmı : Bakanlıktan beklenen açıklama geldi",
+              "url": "https://www.haberyazar.com/genel/hondius-gemisinde-korkutan-hantavirus-alarmi-bakanliktan-beklenen-aciklama-geldi/22137",
               "language": "Turkish"
-            },
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-22T08:00:00Z",
+          "sampleTitles": [
             {
-              "title": "EU accelerates research into hantavirus vaccines",
-              "url": "https://aa.com.tr/en/world/eu-accelerates-research-into-hantavirus-vaccines/3944883",
+              "title": "Hantavirus outbreak : How an African lab identified the deadly Andes strain",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-outbreak-how-an-african-lab-contributed-to-the-scientific-breakthrough/articleshow/131258821.cms",
               "language": "English"
-            },
-            {
-              "title": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
-              "url": "https://www.konhaber.com/dunya/ab_hantaviruse_karsi_asi_ve_tedavi_yontemleri_gelistiriyor-2000061h",
-              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Romania",
-          "lat": 45.9,
-          "lng": 25,
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
           "count": 1,
-          "latest": "2026-05-21T15:00:00Z",
+          "latest": "2026-05-22T01:00:00Z",
           "sampleTitles": [
             {
-              "title": "Gyógyultan hagyta el a kórházat a hantavírussal fertőzött fiatalember",
-              "url": "https://maszol.ro/belfold/Gyogyultan-hagyta-el-a-korhazat-a-hantavirussal-fertozoott-fiatalember",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-21T02:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Врач назвал причину вспышек хантавируса",
-              "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
-              "language": "Russian"
+              "title": "Inquitante hallazgo tras el hantavirus",
+              "url": "https://www.ellitoral.com.ar/nacional/2026-5-21-20-55-0-inquitante-hallazgo-tras-el-hantavirus",
+              "language": "Spanish"
             }
           ]
         }
