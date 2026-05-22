@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T12:57:53.249Z",
+  "generatedAt": "2026-05-22T13:53:26.038Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 79,
+      "totalArticles": 78,
       "languages": {
-        "English": 73,
+        "Portuguese": 3,
+        "English": 71,
         "Turkish": 1,
         "Russian": 2,
-        "Portuguese": 2,
         "Spanish": 1
       },
       "countries": [
@@ -2044,7 +2044,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 64,
+          "count": 60,
           "latest": "2026-05-22T05:15:00Z",
           "sampleTitles": [
             {
@@ -2060,6 +2060,49 @@
             {
               "title": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
               "url": "https://www.wxpr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-05-22T13:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus em 2026 : um alerta que exige ateno",
+              "url": "https://oregional.com.br/blog/detalhes/hantavirus-em-2026-um-alerta-que-exige-atencao",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Novo caso de hantavírus é confirmado em tripulante do MV Hondius repatriado para os Países Baixos",
+              "url": "https://www.cartacapital.com.br/mundo/novo-caso-de-hantavirus-e-confirmado-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Como o clima da Argentina contribuiu para o surto de hantavírus em cruzeiro",
+              "url": "https://revistagalileu.globo.com/saude/noticia/2026/05/como-o-clima-da-argentina-contribuiu-para-o-surto-de-hantavirus-em-cruzeiro.ghtml",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 2,
+          "latest": "2026-05-22T12:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "All 27 on board Hondius test negative for hantavirus",
+              "url": "https://www.dutchnews.nl/2026/05/all-27-on-board-hondius-test-negative-for-hantavirus/",
+              "language": "English"
+            },
+            {
+              "title": "All Hondius crew members in Rotterdam test negative for hantavirus",
+              "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
               "language": "English"
             }
           ]
@@ -2103,25 +2146,6 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-22T02:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Como o clima da Argentina contribuiu para o surto de hantavírus em cruzeiro",
-              "url": "https://revistagalileu.globo.com/saude/noticia/2026/05/como-o-clima-da-argentina-contribuiu-para-o-surto-de-hantavirus-em-cruzeiro.ghtml",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Missão científica em busca de hantavírus capturou cerca de 150 roedores em Ushuaia",
-              "url": "http://www.em.com.br/internacional/2026/05/7425246-missao-cientifica-em-busca-de-hantavirus-capturou-cerca-de-150-roedores-em-ushuaia.html",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
@@ -2131,20 +2155,6 @@
             {
               "title": "Digested week : memories of Covid resurface with hantavirus and Ebola news",
               "url": "https://www.theguardian.com/uk-news/2026/may/22/digested-week-memories-covid-resurface-hantavirus-ebola-news",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
-          "count": 1,
-          "latest": "2026-05-22T11:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "All Hondius crew members in Rotterdam test negative for hantavirus",
-              "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
               "language": "English"
             }
           ]
