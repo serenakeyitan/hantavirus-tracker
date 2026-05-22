@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:37:38.898Z",
+  "generatedAt": "2026-05-22T21:29:48.633Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 67,
+      "totalArticles": 74,
       "languages": {
-        "English": 58,
-        "Bulgarian": 1,
-        "Portuguese": 5,
+        "English": 67,
         "Turkish": 1,
-        "Russian": 2
+        "Portuguese": 5,
+        "Bulgarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 44,
-          "latest": "2026-05-22T16:45:00Z",
+          "count": 60,
+          "latest": "2026-05-22T20:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | PowerTalk 1460 AM & 101 . 1 FM",
-              "url": "https://powertalk1460.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+              "url": "https://www.fox10phoenix.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
               "language": "English"
             },
             {
-              "title": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-              "url": "https://newstalk1400online.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+              "title": "Laredo Public Health encourages awareness , not fear , over hantavirus",
+              "url": "https://www.lmtonline.com/local/article/laredo-public-health-hantavirus-response-covid-19-22272258.php",
               "language": "English"
             },
             {
-              "title": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
-              "url": "https://www.nbcnews.com/health/health-news/hantavirus-cases-linked-cruise-ship-rise-12-crew-member-tests-positive-rcna346481",
+              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+              "url": "https://www.fox35orlando.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
               "language": "English"
             }
           ]
@@ -2068,7 +2067,7 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-22T13:45:00Z",
           "sampleTitles": [
             {
@@ -2089,83 +2088,54 @@
           ]
         },
         {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 3,
-          "latest": "2026-05-22T14:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO says new hantavirus case among Hondius ship crew",
-              "url": "https://www.ecr.co.za/news/news/who-says-new-hantavirus-case-among-hondius-ships-crew/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
-              "url": "https://www.bizcommunity.com/article/hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists-623331a",
-              "language": "English"
-            },
-            {
-              "title": "Inside an African lab that helped crack the hantavirus outbreak",
-              "url": "https://www.cnbcafrica.com/2026/inside-an-african-lab-that-helped-crack-the-hantavirus-outbreak",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
           "count": 2,
-          "latest": "2026-05-22T16:30:00Z",
+          "latest": "2026-05-22T19:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
+              "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
+              "language": "Turkish"
+            },
             {
               "title": "WHO chief says hantavirus cases linked to cruise ship rise to 12",
               "url": "https://aa.com.tr/en/health/who-chief-says-hantavirus-cases-linked-to-cruise-ship-rise-to-12/3945916",
               "language": "English"
-            },
-            {
-              "title": "Hondius gemisinde korkutan hantavirüs alarmı : Bakanlıktan beklenen açıklama geldi",
-              "url": "https://www.haberyazar.com/genel/hondius-gemisinde-korkutan-hantavirus-alarmi-bakanliktan-beklenen-aciklama-geldi/22137",
-              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
           "count": 2,
-          "latest": "2026-05-22T12:45:00Z",
+          "latest": "2026-05-22T18:15:00Z",
           "sampleTitles": [
             {
-              "title": "All 27 on board Hondius test negative for hantavirus",
-              "url": "https://www.dutchnews.nl/2026/05/all-27-on-board-hondius-test-negative-for-hantavirus/",
+              "title": "Local officials keep watch as hantavirus cases reach Canada",
+              "url": "https://www.wellandtribune.ca/news/niagara-region/local-officials-keep-watch-as-hantavirus-cases-reach-canada/article_8f96b602-a02c-5ab3-9dff-678d5dff5f12.html",
               "language": "English"
             },
             {
-              "title": "All Hondius crew members in Rotterdam test negative for hantavirus",
-              "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
+              "title": "Canada top doctor set to give an update on both Ebola and hantavirus today",
+              "url": "https://www.stcatharinesstandard.ca/news/canada/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/article_1576fd75-95a0-52f1-9412-6fecb475388d.html",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 2,
-          "latest": "2026-05-22T03:15:00Z",
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 1,
+          "latest": "2026-05-22T18:30:00Z",
           "sampleTitles": [
             {
-              "title": "  Риск летального исхода до 40−50 %: Роспотребнадзор назвал ключевые характеристики хантавируса",
-              "url": "https://news.mail.ru/society/70980873/",
-              "language": "Russian"
-            },
-            {
-              "title": "Итальянский врач рассказал , почему эпидемия хантавируса не грозит Европе",
-              "url": "https://news.mail.ru/politics/70980528/",
-              "language": "Russian"
+              "title": "Researchers Discover Widespread Sin Nombre Virus In Pacific Northwest Rodents",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68577025-researchers-discover-widespread-sin-nombre-virus-in-pacific-northwest-rodents-020.htm",
+              "language": "English"
             }
           ]
         },
@@ -2184,6 +2154,20 @@
           ]
         },
         {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 1,
+          "latest": "2026-05-22T14:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO says new hantavirus case among Hondius ship crew",
+              "url": "https://www.ecr.co.za/news/news/who-says-new-hantavirus-case-among-hondius-ships-crew/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2194,34 +2178,6 @@
               "title": "OMS confirma novo caso de hantavírus nos Países Baixos",
               "url": "https://sapo.pt/artigo/oms-confirma-novo-caso-de-hantavirus-nos-paises-baixos-6a105805eabb4004a48549ad",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-22T12:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Digested week : memories of Covid resurface with hantavirus and Ebola news",
-              "url": "https://www.theguardian.com/uk-news/2026/may/22/digested-week-memories-covid-resurface-hantavirus-ebola-news",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-22T08:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus outbreak : How an African lab identified the deadly Andes strain",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-outbreak-how-an-african-lab-contributed-to-the-scientific-breakthrough/articleshow/131258821.cms",
-              "language": "English"
             }
           ]
         }
