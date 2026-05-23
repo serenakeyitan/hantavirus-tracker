@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T03:13:11.865Z",
+  "generatedAt": "2026-05-23T05:20:46.960Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,73 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 76,
+      "totalArticles": 71,
       "languages": {
-        "Portuguese": 4,
+        "English": 66,
+        "Portuguese": 3,
         "Spanish": 1,
-        "English": 69,
-        "Turkish": 1,
-        "Bulgarian": 1
+        "Turkish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 62,
-          "latest": "2026-05-22T22:00:00Z",
+          "count": 61,
+          "latest": "2026-05-23T03:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-              "url": "https://www.fox9.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+              "url": "https://www.kob.com/ap-top-news/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/",
               "language": "English"
             },
             {
-              "title": "Deadly Hantavirus Lockdown is Here As Millions Are Infected Worldwide",
-              "url": "https://radaronline.com/p/deadly-hantavirus-lockdown-outbreak-more-contagious-covid/",
+              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+              "url": "https://mynorthwest.com/national/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/4241051",
               "language": "English"
             },
             {
-              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-              "url": "https://www.fox10phoenix.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-22T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
-              "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245269.shtml",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Confirmado Novo caso de hantavírus em tripulante do MV Hondius repatriado para os Países Baixos",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/22/confirmado-novo-caso-de-hantavirus-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos.ghtml",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-05-22T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
-              "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
-              "language": "Turkish"
-            },
-            {
-              "title": "WHO chief says hantavirus cases linked to cruise ship rise to 12",
-              "url": "https://aa.com.tr/en/health/who-chief-says-hantavirus-cases-linked-to-cruise-ship-rise-to-12/3945916",
+              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+              "url": "http://www.sitkasentinel.com/stories/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine,143375",
               "language": "English"
             }
           ]
@@ -2106,9 +2067,14 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-22T18:15:00Z",
+          "count": 3,
+          "latest": "2026-05-22T23:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/article_ec57ab68-c8c4-57d4-8a98-68efe2092dce.html",
+              "language": "English"
+            },
             {
               "title": "Local officials keep watch as hantavirus cases reach Canada",
               "url": "https://www.wellandtribune.ca/news/niagara-region/local-officials-keep-watch-as-hantavirus-cases-reach-canada/article_8f96b602-a02c-5ab3-9dff-678d5dff5f12.html",
@@ -2118,6 +2084,34 @@
               "title": "Canada top doctor set to give an update on both Ebola and hantavirus today",
               "url": "https://www.stcatharinesstandard.ca/news/canada/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/article_1576fd75-95a0-52f1-9412-6fecb475388d.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-22T23:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : Não representará qualquer risco para a saúde ou para o turismo em Cabo Verde",
+              "url": "https://www.noticiasdecoimbra.pt/hantavirus-nao-representara-qualquer-risco-para-a-saude-ou-para-o-turismo-em-cabo-verde/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-22T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
+              "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245269.shtml",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2136,6 +2130,20 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-22T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
+              "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "Germany",
           "lat": 51.2,
           "lng": 10.5,
@@ -2146,48 +2154,6 @@
               "title": "Researchers Discover Widespread Sin Nombre Virus In Pacific Northwest Rodents",
               "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68577025-researchers-discover-widespread-sin-nombre-virus-in-pacific-northwest-rodents-020.htm",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-22T14:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "СЗО потвърди нов случай на хантавирус в Нидерландия",
-              "url": "https://dariknews.bg/novini/sviat/szo-potvyrdi-nov-sluchaj-na-hantavirus-v-niderlandiia-2455837",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-22T14:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO says new hantavirus case among Hondius ship crew",
-              "url": "https://www.ecr.co.za/news/news/who-says-new-hantavirus-case-among-hondius-ships-crew/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-22T13:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "OMS confirma novo caso de hantavírus nos Países Baixos",
-              "url": "https://sapo.pt/artigo/oms-confirma-novo-caso-de-hantavirus-nos-paises-baixos-6a105805eabb4004a48549ad",
-              "language": "Portuguese"
             }
           ]
         }
