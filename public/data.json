@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T10:37:08.013Z",
+  "generatedAt": "2026-05-23T11:29:47.325Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -162,7 +162,183 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/emergencies/disease-outbreak-news",
       "tier": "confirmed",
-      "rows": []
+      "rows": [
+        {
+          "id": "45441730-c794-4004-a197-e7cc49df2f55",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "This is the third Disease Outbreak News report on the hantavirus cluster, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard MV Hondius, a cruise ship. Since the last DON was published on 8 May, two additional confirmed cases were reported from France and Spain. In addition, there is one inconclusive result for a case in the U",
+          "publishedAt": "2026-05-13T19:30:36Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "United States",
+              "lat": 37.0902,
+              "lng": -95.7129
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "France",
+              "lat": 46.2276,
+              "lng": 2.2137
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
+        {
+          "id": "f6d5a10e-d6a4-4156-a203-4845ea2f878a",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additi",
+          "publishedAt": "2026-05-08T21:31:10Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "Uruguay",
+              "lat": -32.5228,
+              "lng": -55.7658
+            },
+            {
+              "name": "Germany",
+              "lat": 51.1657,
+              "lng": 10.4515
+            },
+            {
+              "name": "Switzerland",
+              "lat": 46.8182,
+              "lng": 8.2275
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
+        {
+          "id": "daf6528b-00a6-41f6-9b3c-7122cc3f6cac",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild sym",
+          "publishedAt": "2026-05-04T21:48:22Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "South Korea",
+              "lat": 35.9078,
+              "lng": 127.7669
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "China",
+              "lat": 35.8617,
+              "lng": 104.1954
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        }
+      ]
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
