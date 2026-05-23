@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T18:26:57.796Z",
+  "generatedAt": "2026-05-23T19:31:41.906Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 21,
+      "totalArticles": 23,
       "languages": {
-        "Portuguese": 3,
-        "English": 16,
-        "Spanish": 1,
+        "Portuguese": 6,
+        "English": 14,
+        "Spanish": 2,
         "Turkish": 1
       },
       "countries": [
@@ -2043,9 +2043,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 14,
-          "latest": "2026-05-23T16:30:00Z",
+          "count": 12,
+          "latest": "2026-05-23T17:30:00Z",
           "sampleTitles": [
+            {
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
+              "language": "English"
+            },
             {
               "title": "Im a doomsday prepper . These are the cheap and easy steps you should take to prepare for hantavirus or WORSE",
               "url": "https://www.dailymail.com/lifestyle/article-15808455/doomsday-prepper-hantavirus-essential-items-preparations.html",
@@ -2055,11 +2060,49 @@
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
               "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 4,
+          "latest": "2026-05-23T18:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
+              "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
+              "language": "Portuguese"
             },
             {
-              "title": "Researchers highlight hidden spread of Hantavirus in Pacific Northwest rodents",
-              "url": "https://www.king5.com/article/news/local/researchers-highlight-hidden-spread-hantavirus-pacific-northwest-rodents/293-82000dbb-d8a9-4400-b520-f967fb82a569",
-              "language": "English"
+              "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
+              "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
+              "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
+          "count": 2,
+          "latest": "2026-05-23T17:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus",
+              "url": "https://www.heraldo.es/noticias/internacional/2026/05/23/operativo-ushuaia-termina-sin-capturas-roedor-asociado-hantavirus-2022848.html",
+              "language": "Spanish"
+            },
+            {
+              "title": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
+              "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
+              "language": "Spanish"
             }
           ]
         },
@@ -2074,34 +2117,6 @@
               "title": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
               "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-23T16:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
-              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-1.1716093",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
-          "count": 1,
-          "latest": "2026-05-23T15:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
-              "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
-              "language": "Spanish"
             }
           ]
         },
