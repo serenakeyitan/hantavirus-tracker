@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T16:25:40.503Z",
+  "generatedAt": "2026-05-23T17:26:31.470Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,34 +2031,90 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 36,
+      "totalArticles": 21,
       "languages": {
-        "English": 31,
-        "Turkish": 1,
         "Portuguese": 3,
-        "Spanish": 1
+        "English": 16,
+        "Spanish": 1,
+        "Turkish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 28,
-          "latest": "2026-05-23T11:45:00Z",
+          "count": 14,
+          "latest": "2026-05-23T16:30:00Z",
           "sampleTitles": [
             {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.dailyadvance.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_15c0f2eb-6154-5875-8e86-f12493844d88.html",
+              "title": "Im a doomsday prepper . These are the cheap and easy steps you should take to prepare for hantavirus or WORSE",
+              "url": "https://www.dailymail.com/lifestyle/article-15808455/doomsday-prepper-hantavirus-essential-items-preparations.html",
               "language": "English"
             },
             {
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.the-messenger.com/news/world/article_7c9609b8-14e1-5f99-9bea-ce3a30d3ac32.html",
+              "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
               "language": "English"
             },
             {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.reflector.com/news/national/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_5d037486-a89e-5c95-859b-ddc69b21a875.html",
+              "title": "Researchers highlight hidden spread of Hantavirus in Pacific Northwest rodents",
+              "url": "https://www.king5.com/article/news/local/researchers-highlight-hidden-spread-hantavirus-pacific-northwest-rodents/293-82000dbb-d8a9-4400-b520-f967fb82a569",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-23T16:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
+              "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-23T16:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-1.1716093",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
+          "count": 1,
+          "latest": "2026-05-23T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
+              "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-23T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus panic : Are we reliving Covid fears all over again ? ",
+              "url": "https://timesofindia.indiatimes.com/science/hantavirus-panic-are-we-reliving-covid-fears-all-over-again/articleshow/131280700.cms",
               "language": "English"
             }
           ]
@@ -2067,17 +2123,12 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-23T10:00:00Z",
           "sampleTitles": [
             {
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
               "url": "https://www.therecord.com/life/health-wellness/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_ed563401-c2f9-551e-a58a-f27d92461d09.html",
-              "language": "English"
-            },
-            {
-              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/article_ec57ab68-c8c4-57d4-8a98-68efe2092dce.html",
               "language": "English"
             }
           ]
@@ -2093,48 +2144,6 @@
               "title": "Dsö : Hantavirüs Salgınında Vaka Sayısı 12  ye Yükseldi",
               "url": "https://www.haberler.com/guncel/dso-hondius-gemisinde-hantavirus-vaka-sayisi-12-ye-yukseldi-19875143-haberi/",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-22T23:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : Não representará qualquer risco para a saúde ou para o turismo em Cabo Verde",
-              "url": "https://www.noticiasdecoimbra.pt/hantavirus-nao-representara-qualquer-risco-para-a-saude-ou-para-o-turismo-em-cabo-verde/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-22T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
-              "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245269.shtml",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 1,
-          "latest": "2026-05-22T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "La provincia y el Malbrán concluyeron el operativo de vigilancia por hantavirus en Ushuaia",
-              "url": "https://www.surenio.com.ar/la-provincia-y-el-malbran-concluyeron-el-operativo-de-vigilancia-por-hantavirus-en-ushuaia/",
-              "language": "Spanish"
             }
           ]
         }
