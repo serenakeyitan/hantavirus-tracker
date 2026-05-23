@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T20:21:56.684Z",
+  "generatedAt": "2026-05-23T21:21:54.976Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,17 +2033,16 @@
       "timespan": "14d",
       "totalArticles": 23,
       "languages": {
-        "Portuguese": 6,
-        "English": 14,
-        "Spanish": 2,
-        "Turkish": 1
+        "English": 13,
+        "Portuguese": 8,
+        "Spanish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 12,
+          "count": 9,
           "latest": "2026-05-23T17:30:00Z",
           "sampleTitles": [
             {
@@ -2067,9 +2066,14 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 4,
-          "latest": "2026-05-23T18:15:00Z",
+          "count": 5,
+          "latest": "2026-05-23T20:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
+              "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
+              "language": "Portuguese"
+            },
             {
               "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
               "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
@@ -2079,10 +2083,24 @@
               "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
               "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-05-23T19:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Capitão do Hondius , onde foi detectado surto de hantavírus , abandona hoje o navio",
+              "url": "https://www.dnoticias.pt/2026/5/23/493006-capitao-do-hondius-onde-foi-detectado-surto-de-hantavirus-abandona-hoje-o-navio/",
+              "language": "Portuguese"
             },
             {
-              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
-              "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao",
+              "title": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
+              "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
               "language": "Portuguese"
             }
           ]
@@ -2103,20 +2121,6 @@
               "title": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
               "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-23T16:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
-              "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2145,20 +2149,6 @@
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
               "url": "https://www.therecord.com/life/health-wellness/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_ed563401-c2f9-551e-a58a-f27d92461d09.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-23T09:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dsö : Hantavirüs Salgınında Vaka Sayısı 12  ye Yükseldi",
-              "url": "https://www.haberler.com/guncel/dso-hondius-gemisinde-hantavirus-vaka-sayisi-12-ye-yukseldi-19875143-haberi/",
-              "language": "Turkish"
             }
           ]
         }
