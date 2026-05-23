@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T14:36:58.411Z",
+  "generatedAt": "2026-05-23T15:29:27.358Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,34 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 71,
+      "totalArticles": 36,
       "languages": {
-        "English": 66,
+        "English": 31,
+        "Turkish": 1,
         "Portuguese": 3,
-        "Spanish": 1,
-        "Turkish": 1
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 61,
-          "latest": "2026-05-23T03:00:00Z",
+          "count": 28,
+          "latest": "2026-05-23T11:45:00Z",
           "sampleTitles": [
             {
-              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-              "url": "https://www.kob.com/ap-top-news/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/",
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.dailyadvance.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_15c0f2eb-6154-5875-8e86-f12493844d88.html",
               "language": "English"
             },
             {
-              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-              "url": "https://mynorthwest.com/national/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/4241051",
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.the-messenger.com/news/world/article_7c9609b8-14e1-5f99-9bea-ce3a30d3ac32.html",
               "language": "English"
             },
             {
-              "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-              "url": "http://www.sitkasentinel.com/stories/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine,143375",
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.reflector.com/news/national/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_5d037486-a89e-5c95-859b-ddc69b21a875.html",
               "language": "English"
             }
           ]
@@ -2067,23 +2067,32 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 3,
-          "latest": "2026-05-22T23:00:00Z",
+          "count": 2,
+          "latest": "2026-05-23T10:00:00Z",
           "sampleTitles": [
+            {
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.therecord.com/life/health-wellness/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_ed563401-c2f9-551e-a58a-f27d92461d09.html",
+              "language": "English"
+            },
             {
               "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
               "url": "https://www.stcatharinesstandard.ca/life/health-wellness/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/article_ec57ab68-c8c4-57d4-8a98-68efe2092dce.html",
               "language": "English"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-23T09:45:00Z",
+          "sampleTitles": [
             {
-              "title": "Local officials keep watch as hantavirus cases reach Canada",
-              "url": "https://www.wellandtribune.ca/news/niagara-region/local-officials-keep-watch-as-hantavirus-cases-reach-canada/article_8f96b602-a02c-5ab3-9dff-678d5dff5f12.html",
-              "language": "English"
-            },
-            {
-              "title": "Canada top doctor set to give an update on both Ebola and hantavirus today",
-              "url": "https://www.stcatharinesstandard.ca/news/canada/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/article_1576fd75-95a0-52f1-9412-6fecb475388d.html",
-              "language": "English"
+              "title": "Dsö : Hantavirüs Salgınında Vaka Sayısı 12  ye Yükseldi",
+              "url": "https://www.haberler.com/guncel/dso-hondius-gemisinde-hantavirus-vaka-sayisi-12-ye-yukseldi-19875143-haberi/",
+              "language": "Turkish"
             }
           ]
         },
@@ -2126,34 +2135,6 @@
               "title": "La provincia y el Malbrán concluyeron el operativo de vigilancia por hantavirus en Ushuaia",
               "url": "https://www.surenio.com.ar/la-provincia-y-el-malbran-concluyeron-el-operativo-de-vigilancia-por-hantavirus-en-ushuaia/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-22T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
-              "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
-          "count": 1,
-          "latest": "2026-05-22T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Researchers Discover Widespread Sin Nombre Virus In Pacific Northwest Rodents",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68577025-researchers-discover-widespread-sin-nombre-virus-in-pacific-northwest-rodents-020.htm",
-              "language": "English"
             }
           ]
         }
