@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:21:51.389Z",
+  "generatedAt": "2026-05-23T23:24:09.763Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 23,
+      "totalArticles": 20,
       "languages": {
-        "English": 13,
+        "English": 10,
         "Portuguese": 8,
         "Spanish": 2
       },
@@ -2042,7 +2042,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 9,
+          "count": 7,
           "latest": "2026-05-23T17:30:00Z",
           "sampleTitles": [
             {
@@ -2134,20 +2134,6 @@
             {
               "title": "Hantavirus panic : Are we reliving Covid fears all over again ? ",
               "url": "https://timesofindia.indiatimes.com/science/hantavirus-panic-are-we-reliving-covid-fears-all-over-again/articleshow/131280700.cms",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-23T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.therecord.com/life/health-wellness/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_ed563401-c2f9-551e-a58a-f27d92461d09.html",
               "language": "English"
             }
           ]
