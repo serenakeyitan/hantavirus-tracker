@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:33:54.790Z",
+  "generatedAt": "2026-05-24T20:25:33.626Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,18 +2031,18 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 15,
+      "totalArticles": 13,
       "languages": {
+        "Spanish": 2,
         "English": 6,
-        "Portuguese": 8,
-        "Spanish": 1
+        "Portuguese": 5
       },
       "countries": [
         {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 5,
+          "count": 2,
           "latest": "2026-05-24T09:15:00Z",
           "sampleTitles": [
             {
@@ -2054,11 +2054,20 @@
               "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
               "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
               "language": "Portuguese"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 1,
+          "latest": "2026-05-24T18:30:00Z",
+          "sampleTitles": [
             {
-              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
-              "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
-              "language": "Portuguese"
+              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+              "language": "Spanish"
             }
           ]
         },
