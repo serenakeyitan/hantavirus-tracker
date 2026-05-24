@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T09:43:41.167Z",
+  "generatedAt": "2026-05-24T10:37:15.261Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,10 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 21,
+      "totalArticles": 24,
       "languages": {
-        "English": 9,
-        "Portuguese": 9,
+        "Portuguese": 10,
+        "English": 11,
         "Spanish": 3
       },
       "countries": [
@@ -2042,9 +2042,14 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 5,
-          "latest": "2026-05-23T20:15:00Z",
+          "count": 6,
+          "latest": "2026-05-24T09:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
+              "language": "Portuguese"
+            },
             {
               "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
               "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
@@ -2054,11 +2059,6 @@
               "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
               "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
               "language": "Portuguese"
-            },
-            {
-              "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
-              "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2066,9 +2066,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 5,
-          "latest": "2026-05-23T17:30:00Z",
+          "count": 6,
+          "latest": "2026-05-24T07:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+              "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
+              "language": "English"
+            },
             {
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
               "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
@@ -2077,11 +2082,6 @@
             {
               "title": "Im a doomsday prepper . These are the cheap and easy steps you should take to prepare for hantavirus or WORSE",
               "url": "https://www.dailymail.com/lifestyle/article-15808455/doomsday-prepper-hantavirus-essential-items-preparations.html",
-              "language": "English"
-            },
-            {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
               "language": "English"
             }
           ]
@@ -2140,6 +2140,20 @@
               "title": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
               "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
               "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-05-24T09:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
+              "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
+              "language": "English"
             }
           ]
         }
