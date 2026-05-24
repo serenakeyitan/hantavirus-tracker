@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:24:09.763Z",
+  "generatedAt": "2026-05-24T00:56:41.488Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,35 +2033,11 @@
       "timespan": "14d",
       "totalArticles": 20,
       "languages": {
-        "English": 10,
-        "Portuguese": 8,
-        "Spanish": 2
+        "Portuguese": 9,
+        "Spanish": 3,
+        "English": 8
       },
       "countries": [
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 7,
-          "latest": "2026-05-23T17:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
-              "language": "English"
-            },
-            {
-              "title": "Im a doomsday prepper . These are the cheap and easy steps you should take to prepare for hantavirus or WORSE",
-              "url": "https://www.dailymail.com/lifestyle/article-15808455/doomsday-prepper-hantavirus-essential-items-preparations.html",
-              "language": "English"
-            },
-            {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
-              "language": "English"
-            }
-          ]
-        },
         {
           "country": "Brazil",
           "lat": -14.2,
@@ -2083,6 +2059,30 @@
               "title": "Novo caso de hantavírus é confirmado nos Países Baixos",
               "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 5,
+          "latest": "2026-05-23T17:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
+              "language": "English"
+            },
+            {
+              "title": "Im a doomsday prepper . These are the cheap and easy steps you should take to prepare for hantavirus or WORSE",
+              "url": "https://www.dailymail.com/lifestyle/article-15808455/doomsday-prepper-hantavirus-essential-items-preparations.html",
+              "language": "English"
+            },
+            {
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
+              "language": "English"
             }
           ]
         },
