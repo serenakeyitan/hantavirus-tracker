@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T20:25:33.626Z",
+  "generatedAt": "2026-05-24T21:25:59.435Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,11 +2033,30 @@
       "timespan": "14d",
       "totalArticles": 13,
       "languages": {
+        "English": 7,
         "Spanish": 2,
-        "English": 6,
-        "Portuguese": 5
+        "Portuguese": 4
       },
       "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 2,
+          "latest": "2026-05-24T20:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
+              "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+              "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
+              "language": "English"
+            }
+          ]
+        },
         {
           "country": "Brazil",
           "lat": -14.2,
@@ -2095,20 +2114,6 @@
             {
               "title": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
               "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 1,
-          "latest": "2026-05-24T07:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-              "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
               "language": "English"
             }
           ]
