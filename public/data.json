@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T17:26:42.234Z",
+  "generatedAt": "2026-05-24T18:27:53.675Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,11 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 18,
+      "totalArticles": 15,
       "languages": {
-        "English": 7,
-        "Portuguese": 9,
-        "Spanish": 2
+        "English": 6,
+        "Portuguese": 8,
+        "Spanish": 1
       },
       "countries": [
         {
@@ -2058,44 +2058,6 @@
             {
               "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
               "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 2,
-          "latest": "2026-05-24T07:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-              "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
-              "language": "English"
-            },
-            {
-              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-              "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-23T19:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Capitão do Hondius , onde foi detectado surto de hantavírus , abandona hoje o navio",
-              "url": "https://www.dnoticias.pt/2026/5/23/493006-capitao-do-hondius-onde-foi-detectado-surto-de-hantavirus-abandona-hoje-o-navio/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
-              "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
               "language": "Portuguese"
             }
           ]
@@ -2129,6 +2091,20 @@
           ]
         },
         {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 1,
+          "latest": "2026-05-24T07:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+              "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
@@ -2143,16 +2119,16 @@
           ]
         },
         {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
           "count": 1,
-          "latest": "2026-05-23T17:15:00Z",
+          "latest": "2026-05-23T19:15:00Z",
           "sampleTitles": [
             {
-              "title": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus",
-              "url": "https://www.heraldo.es/noticias/internacional/2026/05/23/operativo-ushuaia-termina-sin-capturas-roedor-asociado-hantavirus-2022848.html",
-              "language": "Spanish"
+              "title": "Capitão do Hondius , onde foi detectado surto de hantavírus , abandona hoje o navio",
+              "url": "https://www.dnoticias.pt/2026/5/23/493006-capitao-do-hondius-onde-foi-detectado-surto-de-hantavirus-abandona-hoje-o-navio/",
+              "language": "Portuguese"
             }
           ]
         }
