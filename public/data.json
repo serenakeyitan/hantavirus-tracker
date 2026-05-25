@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T23:26:33.155Z",
+  "generatedAt": "2026-05-25T00:58:12.165Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,13 +2031,32 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 13,
+      "totalArticles": 14,
       "languages": {
+        "Spanish": 3,
         "English": 7,
-        "Spanish": 2,
         "Portuguese": 4
       },
       "countries": [
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 2,
+          "latest": "2026-05-24T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+              "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+              "language": "Spanish"
+            },
+            {
+              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+              "language": "Spanish"
+            }
+          ]
+        },
         {
           "country": "United States",
           "lat": 39,
@@ -2073,20 +2092,6 @@
               "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
               "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 1,
-          "latest": "2026-05-24T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-              "language": "Spanish"
             }
           ]
         },
