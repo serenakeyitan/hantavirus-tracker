@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T08:27:46.042Z",
+  "generatedAt": "2026-05-25T09:28:18.608Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,53 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 37,
+      "totalArticles": 15,
       "languages": {
-        "English": 31,
-        "Turkish": 1,
-        "Russian": 1,
-        "Portuguese": 3,
-        "Ukrainian": 1
+        "English": 9,
+        "Spanish": 3,
+        "Portuguese": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
-          "latest": "2026-05-21T04:30:00Z",
+          "count": 4,
+          "latest": "2026-05-25T04:30:00Z",
           "sampleTitles": [
             {
-              "title": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-              "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
+              "url": "https://www.upi.com/Top_News/World-News/2026/05/24/switzerland-WHO-hantavirus-stable/3451779678560/",
               "language": "English"
             },
             {
-              "title": "South Texas doctor addresses hantavirus fears and misconceptions",
-              "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
+              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
+              "url": "https://www.yahoo.com/news/science/articles/chief-cruise-ship-hantavirus-outbreak-035927171.html",
               "language": "English"
             },
             {
-              "title": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
-              "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
+              "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
+              "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 2,
+          "latest": "2026-05-24T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+              "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+              "language": "Spanish"
+            },
+            {
+              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+              "language": "Spanish"
             }
           ]
         },
@@ -2069,100 +2086,58 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 2,
-          "latest": "2026-05-20T18:00:00Z",
+          "latest": "2026-05-24T09:15:00Z",
           "sampleTitles": [
             {
-              "title": "Navio atingido por hantavírus voltará a navegar em junho após desinfeco",
-              "url": "https://www.rondoniadinamica.com/noticias/2026/05/navio-atingido-por-hantavirus-voltara-a-navegar-em-junho-apos-desinfeccao,245026.shtml",
+              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
               "language": "Portuguese"
             },
             {
-              "title": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
-              "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
+              "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
+              "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
           "count": 1,
-          "latest": "2026-05-21T03:15:00Z",
+          "latest": "2026-05-24T12:00:00Z",
           "sampleTitles": [
             {
-              "title": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
-              "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-21T02:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Врач назвал причину вспышек хантавируса",
-              "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-20T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Suspeita de hantavírus em Portugal descartada e doente recebe alta",
-              "url": "https://www.noticiasdecoimbra.pt/suspeita-de-hantavirus-em-portugal-descartada-e-doente-recebe-alta/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ukraine",
-          "lat": 48.4,
-          "lng": 31.2,
-          "count": 1,
-          "latest": "2026-05-20T18:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
-              "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
-              "language": "Ukrainian"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-20T18:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
-              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
+              "title": "Sat , 23rd May , 2026 : Dr Fernando Gordíllo Altamirano , Hantavirus , Ebola and first recorded deaths in Australia from s in Australia from Diphtheria",
+              "url": "https://joy.org.au/saturdaymagazine/2026/05/sat-23rd-may-2026-dr-fernando-gordillo-altamirano-hantavirus-ebola-and-first-recorded-deaths-in-australia-from-s-in-australia-from-diphtheria/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
           "count": 1,
-          "latest": "2026-05-20T17:15:00Z",
+          "latest": "2026-05-24T09:00:00Z",
           "sampleTitles": [
             {
-              "title": "Welsh residents monitored after Hantavirus outbreak",
-              "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
+              "title": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
+              "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-24T03:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Understanding Ebola and hantavirus : What India needs to know",
+              "url": "https://www.theweek.in/columns/shyla-jovitha-abraham-and-dr-jame-abraham/2026/05/23/understanding-ebola-and-hantavirus-what-india-needs-to-know.html",
               "language": "English"
             }
           ]
