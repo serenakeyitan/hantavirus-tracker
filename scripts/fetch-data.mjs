@@ -134,7 +134,13 @@ async function fetchWHO() {
   const items = [];
   for (let i = 0; i < PAGES; i++) {
     const url = `https://www.who.int/api/news/diseaseoutbreaknews?sf_culture=en&$top=${PAGE}&$skip=${i * PAGE}&$orderby=PublicationDateAndTime+desc`;
-    const res = await fetch(url, { headers: { Accept: "application/json", "User-Agent": UA } });
+    let res;
+    try {
+      res = await fetch(url, { headers: { Accept: "application/json", "User-Agent": UA }, signal: AbortSignal.timeout(20000) });
+    } catch {
+      // Page timed out or network error — return whatever we collected so far.
+      break;
+    }
     if (!res.ok) throw new Error(`WHO ${res.status} on page ${i}`);
     const json = await res.json();
     const batch = json.value ?? [];
@@ -250,7 +256,11 @@ async function main() {
     generatedAt: new Date().toISOString(),
     sources: {
       cdc: { name: "CDC NNDSS Weekly", url: "https://data.cdc.gov/resource/x9gk-5huc", tier: "confirmed", rows: cdc },
-      who: { name: "WHO Disease Outbreak News", url: "https://www.who.int/emergencies/disease-outbreak-news", tier: "confirmed", rows: who },
+      who: who.length > 0
+        ? { name: "WHO Disease Outbreak News", url: "https://www.who.int/emergencies/disease-outbreak-news", tier: "confirmed", rows: who }
+        // WHO API 20 s page timeouts cause empty rows — preserve last-known-good rather
+        // than blanking the outbreak panel.
+        : (readPrevious()?.sources?.who ?? { name: "WHO Disease Outbreak News", url: "https://www.who.int/emergencies/disease-outbreak-news", tier: "confirmed", rows: [] }),
       argentina: argentina
         ? {
             name: argentina.name,
