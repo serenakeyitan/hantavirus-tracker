@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T09:28:18.608Z",
+  "generatedAt": "2026-05-25T11:28:06.264Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2033,9 +2033,10 @@
       "timespan": "14d",
       "totalArticles": 15,
       "languages": {
-        "English": 9,
-        "Spanish": 3,
-        "Portuguese": 3
+        "Portuguese": 3,
+        "Turkish": 1,
+        "English": 8,
+        "Spanish": 3
       },
       "countries": [
         {
@@ -2082,21 +2083,44 @@
           ]
         },
         {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-05-24T09:15:00Z",
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-25T10:00:00Z",
           "sampleTitles": [
             {
-              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
+              "title": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
+              "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
               "language": "Portuguese"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-25T09:30:00Z",
+          "sampleTitles": [
             {
-              "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
-              "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
-              "language": "Portuguese"
+              "title": "DSÖ , Hollanda bandıralı gemide görülen hantavirüs vakalarıyla ilgili durumun istikrarlı olduğunu bildirdi",
+              "url": "https://www.haberler.com/guncel/dso-hantavirus-gemisinde-durum-istikrarli-3-can-kaybi-var-19880921-haberi/",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-25T09:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "UK hospital staff  drowning  due to hantavirus patients isolating after cruise",
+              "url": "https://www.dailystar.co.uk/news/latest-news/uk-hospital-staff-drowning-due-37201194",
+              "language": "English"
             }
           ]
         },
@@ -2111,6 +2135,20 @@
               "title": "Sat , 23rd May , 2026 : Dr Fernando Gordíllo Altamirano , Hantavirus , Ebola and first recorded deaths in Australia from s in Australia from Diphtheria",
               "url": "https://joy.org.au/saturdaymagazine/2026/05/sat-23rd-may-2026-dr-fernando-gordillo-altamirano-hantavirus-ebola-and-first-recorded-deaths-in-australia-from-s-in-australia-from-diphtheria/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-24T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
+              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
+              "language": "Portuguese"
             }
           ]
         },
