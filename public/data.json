@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T07:46:18.756Z",
+  "generatedAt": "2026-05-25T08:25:13.728Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -162,7 +162,183 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/emergencies/disease-outbreak-news",
       "tier": "confirmed",
-      "rows": []
+      "rows": [
+        {
+          "id": "45441730-c794-4004-a197-e7cc49df2f55",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "This is the third Disease Outbreak News report on the hantavirus cluster, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard MV Hondius, a cruise ship. Since the last DON was published on 8 May, two additional confirmed cases were reported from France and Spain. In addition, there is one inconclusive result for a case in the U",
+          "publishedAt": "2026-05-13T19:30:36Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "United States",
+              "lat": 37.0902,
+              "lng": -95.7129
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "France",
+              "lat": 46.2276,
+              "lng": 2.2137
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
+        {
+          "id": "f6d5a10e-d6a4-4156-a203-4845ea2f878a",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additi",
+          "publishedAt": "2026-05-08T21:31:10Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "Uruguay",
+              "lat": -32.5228,
+              "lng": -55.7658
+            },
+            {
+              "name": "Germany",
+              "lat": 51.1657,
+              "lng": 10.4515
+            },
+            {
+              "name": "Switzerland",
+              "lat": 46.8182,
+              "lng": 8.2275
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
+        {
+          "id": "daf6528b-00a6-41f6-9b3c-7122cc3f6cac",
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+          "summary": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild sym",
+          "publishedAt": "2026-05-04T21:48:22Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "South Korea",
+              "lat": 35.9078,
+              "lng": 127.7669
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "China",
+              "lat": 35.8617,
+              "lng": 104.1954
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        }
+      ]
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
@@ -1855,53 +2031,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 15,
+      "totalArticles": 37,
       "languages": {
-        "English": 9,
-        "Spanish": 3,
-        "Portuguese": 3
+        "English": 31,
+        "Turkish": 1,
+        "Russian": 1,
+        "Portuguese": 3,
+        "Ukrainian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 4,
-          "latest": "2026-05-25T04:30:00Z",
+          "count": 22,
+          "latest": "2026-05-21T04:30:00Z",
           "sampleTitles": [
             {
-              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-              "url": "https://www.upi.com/Top_News/World-News/2026/05/24/switzerland-WHO-hantavirus-stable/3451779678560/",
+              "title": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
+              "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
               "language": "English"
             },
             {
-              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-              "url": "https://www.yahoo.com/news/science/articles/chief-cruise-ship-hantavirus-outbreak-035927171.html",
+              "title": "South Texas doctor addresses hantavirus fears and misconceptions",
+              "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
               "language": "English"
             },
             {
-              "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
-              "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
+              "title": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
+              "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 2,
-          "latest": "2026-05-24T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-              "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-              "language": "Spanish"
-            },
-            {
-              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-              "language": "Spanish"
             }
           ]
         },
@@ -1910,58 +2069,100 @@
           "lat": -14.2,
           "lng": -51.9,
           "count": 2,
-          "latest": "2026-05-24T09:15:00Z",
+          "latest": "2026-05-20T18:00:00Z",
           "sampleTitles": [
             {
-              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
+              "title": "Navio atingido por hantavírus voltará a navegar em junho após desinfeco",
+              "url": "https://www.rondoniadinamica.com/noticias/2026/05/navio-atingido-por-hantavirus-voltara-a-navegar-em-junho-apos-desinfeccao,245026.shtml",
               "language": "Portuguese"
             },
             {
-              "title": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
-              "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
+              "title": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
+              "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
               "language": "Portuguese"
             }
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
           "count": 1,
-          "latest": "2026-05-24T12:00:00Z",
+          "latest": "2026-05-21T03:15:00Z",
           "sampleTitles": [
             {
-              "title": "Sat , 23rd May , 2026 : Dr Fernando Gordíllo Altamirano , Hantavirus , Ebola and first recorded deaths in Australia from s in Australia from Diphtheria",
-              "url": "https://joy.org.au/saturdaymagazine/2026/05/sat-23rd-may-2026-dr-fernando-gordillo-altamirano-hantavirus-ebola-and-first-recorded-deaths-in-australia-from-s-in-australia-from-diphtheria/",
+              "title": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
+              "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-21T02:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Врач назвал причину вспышек хантавируса",
+              "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
+              "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-20T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Suspeita de hantavírus em Portugal descartada e doente recebe alta",
+              "url": "https://www.noticiasdecoimbra.pt/suspeita-de-hantavirus-em-portugal-descartada-e-doente-recebe-alta/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Ukraine",
+          "lat": 48.4,
+          "lng": 31.2,
+          "count": 1,
+          "latest": "2026-05-20T18:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
+              "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
+              "language": "Ukrainian"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-05-20T18:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
+              "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
           "count": 1,
-          "latest": "2026-05-24T09:00:00Z",
+          "latest": "2026-05-20T17:15:00Z",
           "sampleTitles": [
             {
-              "title": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
-              "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-24T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Understanding Ebola and hantavirus : What India needs to know",
-              "url": "https://www.theweek.in/columns/shyla-jovitha-abraham-and-dr-jame-abraham/2026/05/23/understanding-ebola-and-hantavirus-what-india-needs-to-know.html",
+              "title": "Welsh residents monitored after Hantavirus outbreak",
+              "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
               "language": "English"
             }
           ]
