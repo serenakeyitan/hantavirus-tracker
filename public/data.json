@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T09:19:22.870Z",
+  "generatedAt": "2026-05-26T13:08:50.668Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 41,
+      "totalArticles": 51,
       "languages": {
-        "Bulgarian": 2,
-        "English": 26,
+        "English": 31,
+        "Portuguese": 7,
+        "Bulgarian": 4,
+        "Russian": 1,
         "Turkish": 5,
-        "Portuguese": 5,
         "Hungarian": 1,
         "Spanish": 2
       },
@@ -2093,12 +2094,12 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 3,
-          "latest": "2026-05-25T19:30:00Z",
+          "count": 4,
+          "latest": "2026-05-26T10:15:00Z",
           "sampleTitles": [
             {
-              "title": "Espanha confirma novo caso de hantavírus",
-              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-6a149b2614f3d731cfd9756e",
+              "title": "Espanha confirma novo caso de hantavírus associado a surto em navio de cruzeiro MV Hondius",
+              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-associado-a-surto-em-navio-de-cruzeiro-mv-hondius-6a156af3cd43b947e5a34a96",
               "language": "Portuguese"
             },
             {
@@ -2107,8 +2108,8 @@
               "language": "Portuguese"
             },
             {
-              "title": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
-              "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
+              "title": "Espanha confirma novo caso de hantavírus",
+              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-6a149b2614f3d731cfd9756e",
               "language": "Portuguese"
             }
           ]
@@ -2117,17 +2118,22 @@
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 2,
-          "latest": "2026-05-26T04:15:00Z",
+          "count": 4,
+          "latest": "2026-05-26T08:15:00Z",
           "sampleTitles": [
             {
-              "title": "Още един от круизния кораб с хантавирус",
-              "url": "https://www.actualno.com/europe/oshte-edin-ot-kruiznija-korab-s-hantavirus-news_2598772.html",
+              "title": "Втори испанец от круизния кораб е дал положителна проба за хантавирус",
+              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/vtori-ispanec-ot-kruiznia-korab-e-dal-polozitelna-proba-za-hantavirus",
               "language": "Bulgarian"
             },
             {
-              "title": "Испания потвърди нов случай на хантавирус от кораба  Hondiu , пациентът е в изолация",
-              "url": "https://www.focus-news.net/novini/mejdunarodni/Ispaniya-potvurdi-nov-sluchai-na-hantavirus-ot-koraba-Hondius-pacientut-e-v-izolaciya-2971078",
+              "title": "Испания потвърди за болен от хантавирус пътник от круизния кораб „ Хондиус  ",
+              "url": "https://www.dnes.bg/a/2-svyat/722595-ispaniya-potvardi-za-bolen-ot-hantavirus-patnik-ot-kruizniya-korab-hondius",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Още един от круизния кораб с хантавирус",
+              "url": "https://www.actualno.com/europe/oshte-edin-ot-kruiznija-korab-s-hantavirus-news_2598772.html",
               "language": "Bulgarian"
             }
           ]
@@ -2186,6 +2192,20 @@
               "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
               "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
               "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
+          "count": 1,
+          "latest": "2026-05-26T11:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spain confirms new hantavirus case among cruise ship passengers quarantining in Madrid",
+              "url": "https://www.surinenglish.com/spain/spain-confirms-new-hantavirus-case-among-cruise-20260526114335-nt.html",
+              "language": "English"
             }
           ]
         },
