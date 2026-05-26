@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:42:21.627Z",
+  "generatedAt": "2026-05-26T20:45:36.873Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -342,8 +342,8 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben-808-se-18-20260521.pdf",
-      "bulletinIssue": 808,
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_809_se_19_vf.pdf",
+      "bulletinIssue": 809,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
       "totalCases": 105,
