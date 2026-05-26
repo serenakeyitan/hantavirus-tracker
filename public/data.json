@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T01:44:09.785Z",
+  "generatedAt": "2026-05-26T03:15:02.932Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,35 +2031,123 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 15,
+      "totalArticles": 40,
       "languages": {
-        "Portuguese": 3,
-        "Turkish": 1,
-        "English": 8,
-        "Spanish": 3
+        "English": 26,
+        "Turkish": 5,
+        "Portuguese": 5,
+        "Bulgarian": 1,
+        "Hungarian": 1,
+        "Spanish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 4,
-          "latest": "2026-05-25T04:30:00Z",
+          "count": 18,
+          "latest": "2026-05-25T23:45:00Z",
           "sampleTitles": [
             {
-              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-              "url": "https://www.upi.com/Top_News/World-News/2026/05/24/switzerland-WHO-hantavirus-stable/3451779678560/",
+              "title": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+              "url": "https://kvia.com/news/us-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
               "language": "English"
             },
             {
-              "title": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-              "url": "https://www.yahoo.com/news/science/articles/chief-cruise-ship-hantavirus-outbreak-035927171.html",
+              "title": "Coloradan tests positive for hantavirus",
+              "url": "https://www.9news.com/article/news/health/colorado-hantavirus-arapahoe-county/73-15fc6e79-ffcd-41d3-b31c-070218a80712",
               "language": "English"
             },
             {
-              "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
-              "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
+              "title": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
+              "url": "https://wpdh.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 5,
+          "latest": "2026-05-25T20:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
+              "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirüs Bir Salgına Dönüşür mü ? – Haber – Haberler – Güncel Haberler – Haber Sitesi",
+              "url": "https://habersefi.com/hantavirus-bir-salgina-donusur-mu/",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ  den hantavirüs açıklaması ! 12 vaka ve 3 can kaybı var - Son Dakika Dünya Haberleri",
+              "url": "https://www.posta.com.tr/dunya/dsoden-hantavirus-aciklamasi-12-vaka-ve-3-can-kaybi-var-2996486",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 3,
+          "latest": "2026-05-25T19:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Espanha confirma novo caso de hantavírus",
+              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-6a149b2614f3d731cfd9756e",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Confirmado novo caso de hantavírus em Espanha",
+              "url": "https://www.publico.pt/2026/05/25/mundo/noticia/confirmado-novo-caso-hantavirus-espanha-2175972",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
+              "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-05-25T22:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus Shrinks the Lines Between Human and Animal Health",
+              "url": "https://thetyee.ca/Analysis/2026/05/21/Hantavirus-Shrinks-Lines-Between-Human-Animal-Health/",
+              "language": "English"
+            },
+            {
+              "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
+              "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-05-25T20:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Espanhol em quarentena em Madri testa positivo para hantavírus",
+              "url": "http://www.em.com.br/internacional/2026/05/7427586-espanhol-em-quarentena-em-madri-testa-positivo-para-hantavirus.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Capitão de navio com surto de hantavírus deixa a embarcao",
+              "url": "https://www.gazetadigital.com.br/variedades/variedades/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao/847870",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2083,30 +2171,30 @@
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 1,
-          "latest": "2026-05-25T10:00:00Z",
+          "latest": "2026-05-25T20:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
-              "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
-              "language": "Portuguese"
+              "title": "Испания потвърди нов случай на хантавирус от кораба  Hondiu , пациентът е в изолация",
+              "url": "https://www.focus-news.net/novini/mejdunarodni/Ispaniya-potvurdi-nov-sluchai-na-hantavirus-ot-koraba-Hondius-pacientut-e-v-izolaciya-2971078",
+              "language": "Bulgarian"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
           "count": 1,
-          "latest": "2026-05-25T09:30:00Z",
+          "latest": "2026-05-25T20:30:00Z",
           "sampleTitles": [
             {
-              "title": "DSÖ , Hollanda bandıralı gemide görülen hantavirüs vakalarıyla ilgili durumun istikrarlı olduğunu bildirdi",
-              "url": "https://www.haberler.com/guncel/dso-hantavirus-gemisinde-durum-istikrarli-3-can-kaybi-var-19880921-haberi/",
-              "language": "Turkish"
+              "title": "Quarantined Spanish national evacuated from hantavirus cruise ship tests positive",
+              "url": "https://www.thejournal.ie/quarantined-spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive-7051383-May2026/",
+              "language": "English"
             }
           ]
         },
@@ -2120,62 +2208,6 @@
             {
               "title": "UK hospital staff  drowning  due to hantavirus patients isolating after cruise",
               "url": "https://www.dailystar.co.uk/news/latest-news/uk-hospital-staff-drowning-due-37201194",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-24T12:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Sat , 23rd May , 2026 : Dr Fernando Gordíllo Altamirano , Hantavirus , Ebola and first recorded deaths in Australia from s in Australia from Diphtheria",
-              "url": "https://joy.org.au/saturdaymagazine/2026/05/sat-23rd-may-2026-dr-fernando-gordillo-altamirano-hantavirus-ebola-and-first-recorded-deaths-in-australia-from-s-in-australia-from-diphtheria/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-24T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
-              "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-24T09:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
-              "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-24T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Understanding Ebola and hantavirus : What India needs to know",
-              "url": "https://www.theweek.in/columns/shyla-jovitha-abraham-and-dr-jame-abraham/2026/05/23/understanding-ebola-and-hantavirus-what-india-needs-to-know.html",
               "language": "English"
             }
           ]
