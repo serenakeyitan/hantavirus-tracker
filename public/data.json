@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T18:54:33.912Z",
+  "generatedAt": "2026-05-26T19:42:21.627Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,62 +2031,37 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 55,
+      "totalArticles": 67,
       "languages": {
-        "English": 35,
+        "English": 50,
         "Portuguese": 7,
         "Bulgarian": 4,
         "Russian": 1,
-        "Turkish": 5,
-        "Hungarian": 1,
-        "Spanish": 2
+        "Turkish": 4,
+        "Hungarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 20,
-          "latest": "2026-05-26T16:30:00Z",
+          "count": 34,
+          "latest": "2026-05-26T19:15:00Z",
           "sampleTitles": [
             {
-              "title": "WHO Warns Countries to Track Passengers After 12th Hantavirus Case Linked to Cruise Ship Outbreak",
-              "url": "https://www.medicaldaily.com/who-warns-countries-track-passengers-after-12th-hantavirus-case-linked-cruise-ship-outbreak-475440",
+              "title": "Three people released from Kansas hospital after hantavirus exposure",
+              "url": "https://www.wibw.com/2026/05/26/three-people-released-kansas-city-kansas-hospital-after-hantavirus-exposure/",
               "language": "English"
             },
             {
-              "title": "Spanish passenger on MV Hondius tests positive for hantavirus after being evacuated from cruise ship",
-              "url": "https://nypost.com/2026/05/26/world-news/spanish-passenger-on-mv-hondius-tests-positive-for-hantavirus-after-being-evacuated-from-cruise-ship/",
+              "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
+              "url": "https://www.wsls.com/health/2026/05/26/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/",
               "language": "English"
             },
             {
-              "title": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
-              "url": "https://kvia.com/news/us-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+              "title": "Cruise ship at center of hantavirus outbreak to undergo extra cleaning",
+              "url": "https://www.dailypress.com/2026/05/26/hantavirus-ship-cleaning/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 5,
-          "latest": "2026-05-25T20:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
-              "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirüs Bir Salgına Dönüşür mü ? – Haber – Haberler – Güncel Haberler – Haber Sitesi",
-              "url": "https://habersefi.com/hantavirus-bir-salgina-donusur-mu/",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ  den hantavirüs açıklaması ! 12 vaka ve 3 can kaybı var - Son Dakika Dünya Haberleri",
-              "url": "https://www.posta.com.tr/dunya/dsoden-hantavirus-aciklamasi-12-vaka-ve-3-can-kaybi-var-2996486",
-              "language": "Turkish"
             }
           ]
         },
@@ -2139,12 +2114,41 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 4,
+          "latest": "2026-05-25T20:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
+              "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirüs Bir Salgına Dönüşür mü ? – Haber – Haberler – Güncel Haberler – Haber Sitesi",
+              "url": "https://habersefi.com/hantavirus-bir-salgina-donusur-mu/",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ  den hantavirüs açıklaması ! 12 vaka ve 3 can kaybı var - Son Dakika Dünya Haberleri",
+              "url": "https://www.posta.com.tr/dunya/dsoden-hantavirus-aciklamasi-12-vaka-ve-3-can-kaybi-var-2996486",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 2,
-          "latest": "2026-05-25T22:30:00Z",
+          "count": 3,
+          "latest": "2026-05-26T17:30:00Z",
           "sampleTitles": [
+            {
+              "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
+              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/article_bcb5950b-f929-5dfe-95ed-b20cfaf705d3.html",
+              "language": "English"
+            },
             {
               "title": "Hantavirus Shrinks the Lines Between Human and Animal Health",
               "url": "https://thetyee.ca/Analysis/2026/05/21/Hantavirus-Shrinks-Lines-Between-Human-Animal-Health/",
@@ -2177,25 +2181,6 @@
           ]
         },
         {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 2,
-          "latest": "2026-05-24T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-              "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-              "language": "Spanish"
-            },
-            {
-              "title": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-              "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
           "country": "Spain",
           "lat": 40.5,
           "lng": -3.7,
@@ -2219,20 +2204,6 @@
             {
               "title": "Quarantined Spanish national evacuated from hantavirus cruise ship tests positive",
               "url": "https://www.thejournal.ie/quarantined-spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive-7051383-May2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-25T09:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "UK hospital staff  drowning  due to hantavirus patients isolating after cruise",
-              "url": "https://www.dailystar.co.uk/news/latest-news/uk-hospital-staff-drowning-due-37201194",
               "language": "English"
             }
           ]
