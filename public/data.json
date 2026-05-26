@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T15:12:09.623Z",
+  "generatedAt": "2026-05-26T17:11:44.481Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 51,
+      "totalArticles": 55,
       "languages": {
-        "English": 31,
+        "English": 35,
         "Portuguese": 7,
         "Bulgarian": 4,
         "Russian": 1,
@@ -2046,22 +2046,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 18,
-          "latest": "2026-05-25T23:45:00Z",
+          "count": 20,
+          "latest": "2026-05-26T16:30:00Z",
           "sampleTitles": [
+            {
+              "title": "WHO Warns Countries to Track Passengers After 12th Hantavirus Case Linked to Cruise Ship Outbreak",
+              "url": "https://www.medicaldaily.com/who-warns-countries-track-passengers-after-12th-hantavirus-case-linked-cruise-ship-outbreak-475440",
+              "language": "English"
+            },
+            {
+              "title": "Spanish passenger on MV Hondius tests positive for hantavirus after being evacuated from cruise ship",
+              "url": "https://nypost.com/2026/05/26/world-news/spanish-passenger-on-mv-hondius-tests-positive-for-hantavirus-after-being-evacuated-from-cruise-ship/",
+              "language": "English"
+            },
             {
               "title": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
               "url": "https://kvia.com/news/us-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
-              "language": "English"
-            },
-            {
-              "title": "Coloradan tests positive for hantavirus",
-              "url": "https://www.9news.com/article/news/health/colorado-hantavirus-arapahoe-county/73-15fc6e79-ffcd-41d3-b31c-070218a80712",
-              "language": "English"
-            },
-            {
-              "title": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
-              "url": "https://wpdh.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
               "language": "English"
             }
           ]
