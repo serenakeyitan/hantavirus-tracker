@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:30:20.707Z",
+  "generatedAt": "2026-05-27T00:58:18.958Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,36 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 71,
+      "totalArticles": 69,
       "languages": {
-        "English": 60,
-        "Portuguese": 4,
-        "Bulgarian": 4,
-        "Russian": 1,
-        "Turkish": 1,
-        "Hungarian": 1
+        "English": 63,
+        "Portuguese": 2,
+        "Bulgarian": 3,
+        "Russian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-05-26T22:30:00Z",
+          "count": 45,
+          "latest": "2026-05-27T00:30:00Z",
           "sampleTitles": [
             {
               "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.koco.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "url": "https://www.mynbc5.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
               "language": "English"
             },
             {
               "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.kmbc.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "url": "https://www.wgal.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
               "language": "English"
             },
             {
               "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.wjcl.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "url": "https://www.wvtm13.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
               "language": "English"
             }
           ]
@@ -2069,7 +2067,7 @@
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-26T08:15:00Z",
           "sampleTitles": [
             {
@@ -2090,10 +2088,29 @@
           ]
         },
         {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 2,
+          "latest": "2026-05-27T00:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
+              "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
+              "language": "English"
+            },
+            {
+              "title": "Brit evacuated from MV Hondius hantavirus cruise ship returns to united kingdom ",
+              "url": "https://www.mirror.co.uk/news/uk-news/brit-evacuated-mv-hondius-hantavirus-37208711",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 3,
+          "count": 2,
           "latest": "2026-05-26T17:30:00Z",
           "sampleTitles": [
             {
@@ -2104,44 +2121,6 @@
             {
               "title": "Hantavirus Shrinks the Lines Between Human and Animal Health",
               "url": "https://thetyee.ca/Analysis/2026/05/21/Hantavirus-Shrinks-Lines-Between-Human-Animal-Health/",
-              "language": "English"
-            },
-            {
-              "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
-              "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-05-26T10:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Espanha confirma novo caso de hantavírus associado a surto em navio de cruzeiro MV Hondius",
-              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-associado-a-surto-em-navio-de-cruzeiro-mv-hondius-6a156af3cd43b947e5a34a96",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Confirmado novo caso de hantavírus em Espanha",
-              "url": "https://www.publico.pt/2026/05/25/mundo/noticia/confirmado-novo-caso-hantavirus-espanha-2175972",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-26T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Brit evacuated from MV Hondius hantavirus cruise ship returns to united kingdom ",
-              "url": "https://www.mirror.co.uk/news/uk-news/brit-evacuated-mv-hondius-hantavirus-37208711",
               "language": "English"
             }
           ]
@@ -2161,6 +2140,20 @@
           ]
         },
         {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-26T10:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Espanha confirma novo caso de hantavírus associado a surto em navio de cruzeiro MV Hondius",
+              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-associado-a-surto-em-navio-de-cruzeiro-mv-hondius-6a156af3cd43b947e5a34a96",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
@@ -2170,34 +2163,6 @@
             {
               "title": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
               "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-25T20:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Espanhol em quarentena em Madri testa positivo para hantavírus",
-              "url": "http://www.em.com.br/internacional/2026/05/7427586-espanhol-em-quarentena-em-madri-testa-positivo-para-hantavirus.html",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-05-25T20:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantined Spanish national evacuated from hantavirus cruise ship tests positive",
-              "url": "https://www.thejournal.ie/quarantined-spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive-7051383-May2026/",
               "language": "English"
             }
           ]
