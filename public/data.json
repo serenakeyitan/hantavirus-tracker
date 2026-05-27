@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:36:56.571Z",
+  "generatedAt": "2026-05-27T23:32:14.370Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 75,
+      "totalArticles": 74,
       "languages": {
-        "English": 70,
+        "English": 69,
         "Portuguese": 2,
         "Hungarian": 1,
         "Turkish": 2
@@ -2043,9 +2043,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 46,
-          "latest": "2026-05-27T21:30:00Z",
+          "count": 45,
+          "latest": "2026-05-27T23:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
+              "url": "https://greatbendpost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
+              "language": "English"
+            },
             {
               "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
               "url": "https://hayspost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
@@ -2054,11 +2059,6 @@
             {
               "title": "Hantavirus is in the news",
               "url": "https://www.fontanaheraldnews.com/opinion/hantavirus-is-in-the-news/article_bf46dfdb-3d83-430b-bbc3-8484d88576d1.html",
-              "language": "English"
-            },
-            {
-              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
-              "url": "https://littleapplepost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
               "language": "English"
             }
           ]
