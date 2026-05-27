@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T19:45:06.665Z",
+  "generatedAt": "2026-05-27T20:48:12.422Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 76,
+      "totalArticles": 77,
       "languages": {
-        "English": 71,
+        "English": 72,
         "Portuguese": 2,
         "Hungarian": 1,
         "Turkish": 2
@@ -2043,9 +2043,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 48,
-          "latest": "2026-05-27T18:30:00Z",
+          "count": 49,
+          "latest": "2026-05-27T19:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
+              "url": "https://littleapplepost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
+              "language": "English"
+            },
             {
               "title": "Cruise Ship Hantavirus Outbreak Grows To 13 Cases As Spain Confirms Another Infected Passenger",
               "url": "https://www.rttnews.com/3655770/cruise-ship-hantavirus-outbreak-grows-to-13-cases-as-spain-confirms-another-infected-passenger.aspx",
@@ -2054,11 +2059,6 @@
             {
               "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
               "url": "https://jcpost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
-              "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
               "language": "English"
             }
           ]
