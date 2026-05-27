@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T09:16:09.816Z",
+  "generatedAt": "2026-05-27T11:18:24.716Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,12 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 70,
+      "totalArticles": 74,
       "languages": {
-        "English": 66,
-        "Turkish": 1,
-        "Portuguese": 2,
-        "Bulgarian": 1
+        "English": 72,
+        "Turkish": 2
       },
       "countries": [
         {
@@ -2059,6 +2057,54 @@
             {
               "title": "Poll : Utahns concerned about hantavirus outbreak",
               "url": "https://www.ksl.com:443/article/news/utah/health/poll-utahns-concerned-about-hantavirus-outbreak/51502063",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 7,
+          "latest": "2026-05-27T10:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.mandurahmail.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.manningrivertimes.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 4,
+          "latest": "2026-05-27T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO issues major update over new hantavirus case in Europe",
+              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
+              "language": "English"
+            },
+            {
+              "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
+              "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
+              "language": "English"
+            },
+            {
+              "title": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
+              "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
               "language": "English"
             }
           ]
@@ -2088,55 +2134,17 @@
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 3,
-          "latest": "2026-05-27T01:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
-              "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
-              "language": "English"
-            },
-            {
-              "title": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
-              "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
-              "language": "English"
-            },
-            {
-              "title": "Brit evacuated from MV Hondius hantavirus cruise ship returns to united kingdom ",
-              "url": "https://www.mirror.co.uk/news/uk-news/brit-evacuated-mv-hondius-hantavirus-37208711",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-27T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.theadvocate.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.singletonargus.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 1,
-          "latest": "2026-05-27T08:15:00Z",
+          "count": 2,
+          "latest": "2026-05-27T09:15:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
+              "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
+              "language": "Turkish"
+            },
             {
               "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
               "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
@@ -2183,34 +2191,6 @@
               "title": "Spain confirms new hantavirus case among cruise ship passengers quarantining in Madrid",
               "url": "https://www.surinenglish.com/spain/spain-confirms-new-hantavirus-case-among-cruise-20260526114335-nt.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-26T10:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Espanha confirma novo caso de hantavírus associado a surto em navio de cruzeiro MV Hondius",
-              "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-associado-a-surto-em-navio-de-cruzeiro-mv-hondius-6a156af3cd43b947e5a34a96",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-26T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Втори испанец от круизния кораб е дал положителна проба за хантавирус",
-              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/vtori-ispanec-ot-kruiznia-korab-e-dal-polozitelna-proba-za-hantavirus",
-              "language": "Bulgarian"
             }
           ]
         }
