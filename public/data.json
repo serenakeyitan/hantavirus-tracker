@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T07:35:38.788Z",
+  "generatedAt": "2026-05-27T09:16:09.816Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,59 +2031,59 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 70,
       "languages": {
-        "English": 63,
+        "English": 66,
+        "Turkish": 1,
         "Portuguese": 2,
-        "Bulgarian": 3,
-        "Russian": 1
+        "Bulgarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 45,
-          "latest": "2026-05-27T00:30:00Z",
+          "count": 46,
+          "latest": "2026-05-27T08:45:00Z",
           "sampleTitles": [
             {
-              "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.mynbc5.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "title": "Cruise ship at center of hantavirus outbreak to undergo extra cleaning",
+              "url": "https://www.orovillemr.com/2026/05/26/hantavirus-ship-cleaning/",
               "language": "English"
             },
             {
-              "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.wgal.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "title": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
+              "url": "https://www.medicaldaily.com/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship-475449",
               "language": "English"
             },
             {
-              "title": "Spain confirms second hantavirus case from MV Hondius",
-              "url": "https://www.wvtm13.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
+              "title": "Poll : Utahns concerned about hantavirus outbreak",
+              "url": "https://www.ksl.com:443/article/news/utah/health/poll-utahns-concerned-about-hantavirus-outbreak/51502063",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 3,
-          "latest": "2026-05-26T08:15:00Z",
+          "latest": "2026-05-27T02:15:00Z",
           "sampleTitles": [
             {
-              "title": "Втори испанец от круизния кораб е дал положителна проба за хантавирус",
-              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/vtori-ispanec-ot-kruiznia-korab-e-dal-polozitelna-proba-za-hantavirus",
-              "language": "Bulgarian"
+              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689",
+              "language": "English"
             },
             {
-              "title": "Испания потвърди за болен от хантавирус пътник от круизния кораб „ Хондиус  ",
-              "url": "https://www.dnes.bg/a/2-svyat/722595-ispaniya-potvardi-za-bolen-ot-hantavirus-patnik-ot-kruizniya-korab-hondius",
-              "language": "Bulgarian"
+              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tst",
+              "language": "English"
             },
             {
-              "title": "Още един от круизния кораб с хантавирус",
-              "url": "https://www.actualno.com/europe/oshte-edin-ot-kruiznija-korab-s-hantavirus-news_2598772.html",
-              "language": "Bulgarian"
+              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tsf",
+              "language": "English"
             }
           ]
         },
@@ -2091,9 +2091,14 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-27T00:15:00Z",
+          "count": 3,
+          "latest": "2026-05-27T01:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
+              "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
+              "language": "English"
+            },
             {
               "title": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
               "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
@@ -2107,20 +2112,62 @@
           ]
         },
         {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-05-27T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.theadvocate.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.singletonargus.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-05-27T08:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
+              "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Japan",
+          "lat": 36.2,
+          "lng": 138.3,
+          "count": 1,
+          "latest": "2026-05-27T03:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "MAHA activists arent happy with RFK Jr ., and the fallout is over HHS Secretary decision on legal protections for hantavirus treatment drugmakers",
+              "url": "https://attackofthefanboy.com/politics/maha-activists-arent-happy-with-rfk-jr-and-the-fallout-is-over-hhs-secretarys-decision-on-legal-protections-for-hantavirus-treatment-drugmakers/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 2,
+          "count": 1,
           "latest": "2026-05-26T17:30:00Z",
           "sampleTitles": [
             {
               "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
               "url": "https://www.stcatharinesstandard.ca/life/health-wellness/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/article_bcb5950b-f929-5dfe-95ed-b20cfaf705d3.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Shrinks the Lines Between Human and Animal Health",
-              "url": "https://thetyee.ca/Analysis/2026/05/21/Hantavirus-Shrinks-Lines-Between-Human-Animal-Health/",
               "language": "English"
             }
           ]
@@ -2154,16 +2201,16 @@
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 1,
-          "latest": "2026-05-25T20:45:00Z",
+          "latest": "2026-05-26T08:15:00Z",
           "sampleTitles": [
             {
-              "title": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
-              "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
-              "language": "English"
+              "title": "Втори испанец от круизния кораб е дал положителна проба за хантавирус",
+              "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/vtori-ispanec-ot-kruiznia-korab-e-dal-polozitelna-proba-za-hantavirus",
+              "language": "Bulgarian"
             }
           ]
         }
