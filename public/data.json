@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T17:12:14.137Z",
+  "generatedAt": "2026-05-27T18:53:31.191Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,10 +2031,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 77,
+      "totalArticles": 76,
       "languages": {
-        "Portuguese": 1,
-        "English": 73,
+        "English": 71,
+        "Portuguese": 2,
         "Hungarian": 1,
         "Turkish": 2
       },
@@ -2044,21 +2044,21 @@
           "lat": 39,
           "lng": -98,
           "count": 48,
-          "latest": "2026-05-27T13:30:00Z",
+          "latest": "2026-05-27T18:30:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus Cases From Cruise Outbreak Rise to 13 , Situation Remains Stable , WHO Says",
-              "url": "https://www.theepochtimes.com/world/hantavirus-cases-from-cruise-outbreak-rise-to-13-situation-remains-stable-who-says-6039246",
+              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
+              "url": "https://jcpost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
               "language": "English"
             },
             {
-              "title": "Tizenháromra emelkedett a Hondius óceánjáróhoz köthető hantavírusos esetek száma",
-              "url": "https://ujszo.com/kulfold/tizenharomra-emelkedett-az-oceanjarohoz-kotheto-esetek-szama",
-              "language": "Hungarian"
+              "title": "Cruise Ship Hantavirus Outbreak Grows To 13 Cases As Spain Confirms Another Infected Passenger",
+              "url": "https://www.rttnews.com/3655770/cruise-ship-hantavirus-outbreak-grows-to-13-cases-as-spain-confirms-another-infected-passenger.aspx",
+              "language": "English"
             },
             {
-              "title": "Cruise ship at center of hantavirus outbreak to undergo extra cleaning",
-              "url": "https://www.orovillemr.com/2026/05/26/hantavirus-ship-cleaning/",
+              "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
+              "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
               "language": "English"
             }
           ]
@@ -2112,6 +2112,30 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 3,
+          "latest": "2026-05-27T16:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
+              "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
+              "language": "English"
+            },
+            {
+              "title": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
+              "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
+              "language": "Turkish"
+            },
+            {
+              "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
+              "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "New Zealand",
           "lat": -40.9,
           "lng": 174.9,
@@ -2132,25 +2156,6 @@
               "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
               "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tsf",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-05-27T09:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
-              "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
-              "language": "Turkish"
-            },
-            {
-              "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
-              "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
-              "language": "Turkish"
             }
           ]
         },
@@ -2192,20 +2197,6 @@
             {
               "title": "MAHA activists arent happy with RFK Jr ., and the fallout is over HHS Secretary decision on legal protections for hantavirus treatment drugmakers",
               "url": "https://attackofthefanboy.com/politics/maha-activists-arent-happy-with-rfk-jr-and-the-fallout-is-over-hhs-secretarys-decision-on-legal-protections-for-hantavirus-treatment-drugmakers/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-05-26T17:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-              "url": "https://www.stcatharinesstandard.ca/life/health-wellness/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/article_bcb5950b-f929-5dfe-95ed-b20cfaf705d3.html",
               "language": "English"
             }
           ]
