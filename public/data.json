@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T21:39:01.512Z",
+  "generatedAt": "2026-05-27T22:36:56.571Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 77,
+      "totalArticles": 75,
       "languages": {
-        "English": 72,
+        "English": 70,
         "Portuguese": 2,
         "Hungarian": 1,
         "Turkish": 2
@@ -2043,22 +2043,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 49,
-          "latest": "2026-05-27T19:30:00Z",
+          "count": 46,
+          "latest": "2026-05-27T21:30:00Z",
           "sampleTitles": [
             {
               "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
-              "url": "https://littleapplepost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
+              "url": "https://hayspost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
               "language": "English"
             },
             {
-              "title": "Cruise Ship Hantavirus Outbreak Grows To 13 Cases As Spain Confirms Another Infected Passenger",
-              "url": "https://www.rttnews.com/3655770/cruise-ship-hantavirus-outbreak-grows-to-13-cases-as-spain-confirms-another-infected-passenger.aspx",
+              "title": "Hantavirus is in the news",
+              "url": "https://www.fontanaheraldnews.com/opinion/hantavirus-is-in-the-news/article_bf46dfdb-3d83-430b-bbc3-8484d88576d1.html",
               "language": "English"
             },
             {
               "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
-              "url": "https://jcpost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
+              "url": "https://littleapplepost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
               "language": "English"
             }
           ]
@@ -2155,6 +2155,20 @@
             {
               "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
               "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tsf",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 1,
+          "latest": "2026-05-27T21:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Traws Pharma , Inc .: Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68607993-traws-pharma-inc-traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks-399.htm",
               "language": "English"
             }
           ]
