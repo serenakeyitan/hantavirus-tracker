@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T13:20:10.982Z",
+  "generatedAt": "2026-05-27T15:11:23.342Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 74,
+      "totalArticles": 77,
       "languages": {
-        "English": 72,
+        "Portuguese": 1,
+        "English": 73,
+        "Hungarian": 1,
         "Turkish": 2
       },
       "countries": [
@@ -2041,22 +2043,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 46,
-          "latest": "2026-05-27T08:45:00Z",
+          "count": 48,
+          "latest": "2026-05-27T13:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus Cases From Cruise Outbreak Rise to 13 , Situation Remains Stable , WHO Says",
+              "url": "https://www.theepochtimes.com/world/hantavirus-cases-from-cruise-outbreak-rise-to-13-situation-remains-stable-who-says-6039246",
+              "language": "English"
+            },
+            {
+              "title": "Tizenháromra emelkedett a Hondius óceánjáróhoz köthető hantavírusos esetek száma",
+              "url": "https://ujszo.com/kulfold/tizenharomra-emelkedett-az-oceanjarohoz-kotheto-esetek-szama",
+              "language": "Hungarian"
+            },
             {
               "title": "Cruise ship at center of hantavirus outbreak to undergo extra cleaning",
               "url": "https://www.orovillemr.com/2026/05/26/hantavirus-ship-cleaning/",
-              "language": "English"
-            },
-            {
-              "title": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
-              "url": "https://www.medicaldaily.com/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship-475449",
-              "language": "English"
-            },
-            {
-              "title": "Poll : Utahns concerned about hantavirus outbreak",
-              "url": "https://www.ksl.com:443/article/news/utah/health/poll-utahns-concerned-about-hantavirus-outbreak/51502063",
               "language": "English"
             }
           ]
@@ -2065,22 +2067,22 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 7,
-          "latest": "2026-05-27T10:15:00Z",
+          "count": 9,
+          "latest": "2026-05-27T12:45:00Z",
           "sampleTitles": [
             {
               "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.northweststar.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
+              "url": "https://www.hardenexpress.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise outbreak rises with new case in Spain",
               "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.mandurahmail.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.manningrivertimes.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
               "language": "English"
             }
           ]
@@ -2153,6 +2155,34 @@
           ]
         },
         {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-05-27T14:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "OMS : Casos de hantavírus em cruzeiro aumentam para 13 com novo caso na Espanha",
+              "url": "https://www.infomoney.com.br/mundo/oms-casos-de-hantavirus-em-cruzeiro-aumentam-para-13-com-novo-caso-na-espanha/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 1,
+          "latest": "2026-05-27T13:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
+              "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Japan",
           "lat": 36.2,
           "lng": 138.3,
@@ -2176,20 +2206,6 @@
             {
               "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
               "url": "https://www.stcatharinesstandard.ca/life/health-wellness/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/article_bcb5950b-f929-5dfe-95ed-b20cfaf705d3.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
-          "count": 1,
-          "latest": "2026-05-26T11:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Spain confirms new hantavirus case among cruise ship passengers quarantining in Madrid",
-              "url": "https://www.surinenglish.com/spain/spain-confirms-new-hantavirus-case-among-cruise-20260526114335-nt.html",
               "language": "English"
             }
           ]
