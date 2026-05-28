@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T07:29:54.832Z",
+  "generatedAt": "2026-05-28T09:23:43.502Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,34 +2031,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 73,
+      "totalArticles": 63,
       "languages": {
-        "English": 68,
-        "Portuguese": 2,
-        "Hungarian": 1,
-        "Turkish": 2
+        "Turkish": 4,
+        "English": 55,
+        "Hungarian": 2,
+        "Portuguese": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-05-27T23:00:00Z",
+          "count": 22,
+          "latest": "2026-05-28T09:00:00Z",
           "sampleTitles": [
             {
-              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
-              "url": "https://greatbendpost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
+              "title": "Hantavirus : Cruise ship passenger quarantine is extended as two new cases of deadly disease are reported",
+              "url": "https://www.dailymail.com/news/article-15854445/Hantavirus-Cruise-Perth-quarantine-Australia.html",
               "language": "English"
             },
             {
-              "title": "Kansas legislative leaders approve extended monitoring of 3 exposed to hantavirus",
-              "url": "https://hayspost.com/posts/63ec3634-e54c-45f4-8412-bea7f850a5c7",
-              "language": "English"
+              "title": "Tényellenőrzés : a vírusként terjedő hantavírus - térkép nem igazolt eseteket mutat",
+              "url": "https://hu.euronews.com/my-europe/2026/05/28/tenyellenorzes-a-viruskent-terjedo-hantavirus-terkep-nem-igazolt-eseteket-mutat",
+              "language": "Hungarian"
             },
             {
-              "title": "Hantavirus is in the news",
-              "url": "https://www.fontanaheraldnews.com/opinion/hantavirus-is-in-the-news/article_bf46dfdb-3d83-430b-bbc3-8484d88576d1.html",
+              "title": "Ship at center of a deadly hantavirus outbreak in need of extra cleaning | News , Sports , Jobs",
+              "url": "https://www.vindy.com/news/international-news/2026/05/ship-at-center-of-a-deadly-hantavirus-outbreak-in-need-of-extra-cleaning/",
               "language": "English"
             }
           ]
@@ -2067,22 +2067,46 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 9,
-          "latest": "2026-05-27T12:45:00Z",
+          "count": 16,
+          "latest": "2026-05-28T09:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.northweststar.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.hardenexpress.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus cruise outbreak rises with new case in Spain",
-              "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "title": "Hantavirus outbreak sends a warning",
+              "url": "https://www.greenleft.org.au/2026/1454/world/hantavirus-outbreak-sends-warning",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 5,
+          "latest": "2026-05-28T09:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
+              "url": "https://www.aa.com.tr/tr/dunya/avustralya-hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresini-uzatti/3950204",
+              "language": "Turkish"
+            },
+            {
+              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
+              "url": "https://www.haberler.com/guncel/avustralya-da-hantaviruslu-gemide-karantina-uzatildi-19889322-haberi/",
+              "language": "Turkish"
+            },
+            {
+              "title": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
+              "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
               "language": "English"
             }
           ]
@@ -2115,7 +2139,7 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 4,
+          "count": 2,
           "latest": "2026-05-27T10:00:00Z",
           "sampleTitles": [
             {
@@ -2127,35 +2151,20 @@
               "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
               "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
               "language": "English"
-            },
-            {
-              "title": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
-              "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
-              "language": "English"
             }
           ]
         },
         {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 3,
-          "latest": "2026-05-27T16:15:00Z",
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-05-28T08:15:00Z",
           "sampleTitles": [
             {
-              "title": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
-              "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
+              "title": "Australia extends quarantine for 6 cruise passengers linked to hantavirus outbreak",
+              "url": "https://www.prokerala.com/news/articles/a1768366.html",
               "language": "English"
-            },
-            {
-              "title": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
-              "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
-              "language": "Turkish"
-            },
-            {
-              "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
-              "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
-              "language": "Turkish"
             }
           ]
         },
