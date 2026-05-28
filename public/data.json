@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T18:58:48.533Z",
+  "generatedAt": "2026-05-28T19:53:52.351Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 60,
       "languages": {
-        "English": 45,
+        "English": 43,
         "Turkish": 11,
         "Portuguese": 3,
         "Bulgarian": 1,
@@ -2120,30 +2120,6 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 13,
-          "latest": "2026-05-28T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine extended for hantavirus cruise ship passengers",
-              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
@@ -2164,6 +2140,30 @@
               "title": "Avustralyada hantavirüs alarmı ! Karantina süresi uzatıldı",
               "url": "https://www.radikal.com.tr/dunya/avustralyada-hantavirus-alarmi-karantina-suresi-uzatildi-31991/",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 11,
+          "latest": "2026-05-28T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine extended for hantavirus cruise ship passengers",
+              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
+              "language": "English"
+            },
+            {
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
+              "language": "English"
+            },
+            {
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
+              "language": "English"
             }
           ]
         },
