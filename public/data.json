@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:15:50.590Z",
+  "generatedAt": "2026-05-28T17:21:23.923Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,22 +2086,27 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 66,
+      "totalArticles": 64,
       "languages": {
-        "Turkish": 9,
-        "English": 52,
+        "English": 47,
+        "Turkish": 11,
+        "Portuguese": 3,
         "Bulgarian": 1,
-        "Hungarian": 2,
-        "Portuguese": 2
+        "Hungarian": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 21,
-          "latest": "2026-05-28T09:00:00Z",
+          "count": 17,
+          "latest": "2026-05-28T13:00:00Z",
           "sampleTitles": [
+            {
+              "title": "The History of Hantavirus : From War Trenches to Cruise Ships",
+              "url": "https://www.history.com/articles/hantavirus-world-war-ii-korean-war",
+              "language": "English"
+            },
             {
               "title": "Hantavirus : Cruise ship passenger quarantine is extended as two new cases of deadly disease are reported",
               "url": "https://www.dailymail.com/news/article-15854445/Hantavirus-Cruise-Perth-quarantine-Australia.html",
@@ -2111,11 +2116,6 @@
               "title": "Tényellenőrzés : a vírusként terjedő hantavírus - térkép nem igazolt eseteket mutat",
               "url": "https://hu.euronews.com/my-europe/2026/05/28/tenyellenorzes-a-viruskent-terjedo-hantavirus-terkep-nem-igazolt-eseteket-mutat",
               "language": "Hungarian"
-            },
-            {
-              "title": "Ship at center of a deadly hantavirus outbreak in need of extra cleaning | News , Sports , Jobs",
-              "url": "https://www.vindy.com/news/international-news/2026/05/ship-at-center-of-a-deadly-hantavirus-outbreak-in-need-of-extra-cleaning/",
-              "language": "English"
             }
           ]
         },
@@ -2123,7 +2123,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 18,
+          "count": 15,
           "latest": "2026-05-28T10:30:00Z",
           "sampleTitles": [
             {
@@ -2147,23 +2147,80 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 9,
-          "latest": "2026-05-28T10:45:00Z",
+          "count": 12,
+          "latest": "2026-05-28T15:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirüs görülen gemideki 6 yolcunun karantina süresini uzatıldı",
-              "url": "https://www.konhaber.com/dunya/hantavirus_gorulen_gemideki_6_yolcunun_karantina_suresini_uzatildi-2000589h",
+              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
+              "url": "https://www.dha.com.tr/dunya/avustralya-hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresini-uzatti-2881465",
               "language": "Turkish"
             },
             {
-              "title": "Avustralyadan hantavirüs kararı : 6 yolcunun karantina süresi uzatıldı",
-              "url": "https://www.birgun.net/haber/avustralyadan-hantavirus-karari-6-yolcunun-karantina-suresi-uzatildi-715183%20target=_blank%20class=stretched-link",
+              "title": "Hantavirüs görülen gemideki 6 yolcunun karantina süresi uzatıldı",
+              "url": "https://www.yenimeram.com.tr/hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresi-uzatildi/532425/",
               "language": "Turkish"
             },
             {
-              "title": "Avustralyadan hantavirüs önlemi : Karantina süresi uzatıldı",
-              "url": "https://www.dunya.com/saglik/avustralyadan-hantavirus-onlemi-karantina-suresi-uzatildi-haberi-826664",
+              "title": "Avustralyada hantavirüs alarmı ! Karantina süresi uzatıldı",
+              "url": "https://www.radikal.com.tr/dunya/avustralyada-hantavirus-alarmi-karantina-suresi-uzatildi-31991/",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 3,
+          "latest": "2026-05-28T15:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus cruise ship outbreak : Passengers evacuated from MV Hondius must now spend 42 days in quarantine in Australia",
+              "url": "https://www.independent.co.uk/news/world/australasia/hantavirus-cruise-ship-australia-quarantine-b2985108.html",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus and the Return of Pandemic - Era Fear Mongering",
+              "url": "https://theboar.org/2026/05/hantavirus-and-the-return-of-pandemic-era-fear-mongering/",
+              "language": "English"
+            },
+            {
+              "title": "WHO issues major update over new hantavirus case in Europe",
+              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 2,
+          "latest": "2026-05-28T12:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
+              "language": "English"
+            },
+            {
+              "title": "Traws Pharma , Inc .: Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68607993-traws-pharma-inc-traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks-399.htm",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-05-28T12:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : União Europeia recebe antiviral experimental doado pelo Japão",
+              "url": "https://sapo.pt/artigo/hantavirus-uniao-europeia-recebe-antiviral-experimental-doado-pelo-japao-6a182f9014f3d731cfa2049b",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2210,20 +2267,6 @@
           ]
         },
         {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
-          "count": 1,
-          "latest": "2026-05-27T21:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Traws Pharma , Inc .: Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68607993-traws-pharma-inc-traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks-399.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
@@ -2247,34 +2290,6 @@
             {
               "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
               "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-05-27T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO issues major update over new hantavirus case in Europe",
-              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Japan",
-          "lat": 36.2,
-          "lng": 138.3,
-          "count": 1,
-          "latest": "2026-05-27T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "MAHA activists arent happy with RFK Jr ., and the fallout is over HHS Secretary decision on legal protections for hantavirus treatment drugmakers",
-              "url": "https://attackofthefanboy.com/politics/maha-activists-arent-happy-with-rfk-jr-and-the-fallout-is-over-hhs-secretarys-decision-on-legal-protections-for-hantavirus-treatment-drugmakers/",
               "language": "English"
             }
           ]
