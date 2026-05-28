@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T00:52:45.837Z",
+  "generatedAt": "2026-05-28T01:40:33.607Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,9 +2031,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 74,
+      "totalArticles": 73,
       "languages": {
-        "English": 69,
+        "English": 68,
         "Portuguese": 2,
         "Hungarian": 1,
         "Turkish": 2
@@ -2043,7 +2043,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 45,
+          "count": 43,
           "latest": "2026-05-27T23:00:00Z",
           "sampleTitles": [
             {
@@ -2083,6 +2083,30 @@
             {
               "title": "Hantavirus cruise outbreak rises with new case in Spain",
               "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 4,
+          "latest": "2026-05-28T01:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "13 cases of hantavirus from cruise outbreak",
+              "url": "https://www.odt.co.nz/news/world/13-cases-hantavirus-cruise-outbreak",
+              "language": "English"
+            },
+            {
+              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689",
+              "language": "English"
+            },
+            {
+              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
+              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tst",
               "language": "English"
             }
           ]
@@ -2132,30 +2156,6 @@
               "title": "Dsö : Kruvaziyer Gemisi Kaynaklı Salgında Hantavirüs Vaka Sayısı İspanyadaki Yeni Vakayla 13  e Yükseldi",
               "url": "https://www.haberler.com/guncel/dso-hantavirus-vaka-sayisi-13-e-yukseldi-19887105-haberi/",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 3,
-          "latest": "2026-05-27T02:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689",
-              "language": "English"
-            },
-            {
-              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tst",
-              "language": "English"
-            },
-            {
-              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tsf",
-              "language": "English"
             }
           ]
         },
