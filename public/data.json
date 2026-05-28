@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:53:11.028Z",
+  "generatedAt": "2026-05-28T21:42:53.434Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,13 +2086,14 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 60,
+      "totalArticles": 59,
       "languages": {
-        "English": 43,
+        "English": 41,
+        "Bulgarian": 3,
+        "Spanish": 1,
         "Turkish": 11,
-        "Portuguese": 3,
-        "Bulgarian": 1,
-        "Hungarian": 2
+        "Portuguese": 2,
+        "Hungarian": 1
       },
       "countries": [
         {
@@ -2100,21 +2101,21 @@
           "lat": 39,
           "lng": -98,
           "count": 18,
-          "latest": "2026-05-28T17:30:00Z",
+          "latest": "2026-05-28T21:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Experimental Hantavirus Treatment Could Be Used On Sick Cruise Ship Passengers ( Latest Updates ) ",
+              "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/experimental-hantavirus-treatment-sent-to-eu-countries-where-patients-are-being-treated-latest-updates/",
+              "language": "English"
+            },
+            {
+              "title": "Kansas legislative leaders approve extended monitoring of three residents exposed to hantavirus",
+              "url": "https://www.hppr.org/hppr-news/2026-05-28/kansas-legislative-leaders-approve-extended-monitoring-of-three-residents-exposed-to-hantavirus",
+              "language": "English"
+            },
             {
               "title": "Hantavirus Outbreak Revives COVID - Era False Health Claims The Monitor",
               "url": "https://www.kff.org/health-information-trust/hantavirus-outbreak-revives-covid-era-false-health-claims/",
-              "language": "English"
-            },
-            {
-              "title": "The History of Hantavirus : From War Trenches to Cruise Ships",
-              "url": "https://www.history.com/articles/hantavirus-world-war-ii-korean-war",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus : Cruise ship passenger quarantine is extended as two new cases of deadly disease are reported",
-              "url": "https://www.dailymail.com/news/article-15854445/Hantavirus-Cruise-Perth-quarantine-Australia.html",
               "language": "English"
             }
           ]
@@ -2123,9 +2124,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 12,
-          "latest": "2026-05-28T15:00:00Z",
+          "count": 13,
+          "latest": "2026-05-28T21:00:00Z",
           "sampleTitles": [
+            {
+              "title": "EU receives experimental Hantavirus treatment doses",
+              "url": "https://aa.com.tr/en/health/eu-receives-experimental-hantavirus-treatment-doses/3950758",
+              "language": "English"
+            },
             {
               "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
               "url": "https://www.dha.com.tr/dunya/avustralya-hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresini-uzatti-2881465",
@@ -2135,11 +2141,6 @@
               "title": "Hantavirüs görülen gemideki 6 yolcunun karantina süresi uzatıldı",
               "url": "https://www.yenimeram.com.tr/hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresi-uzatildi/532425/",
               "language": "Turkish"
-            },
-            {
-              "title": "Avustralyada hantavirüs alarmı ! Karantina süresi uzatıldı",
-              "url": "https://www.radikal.com.tr/dunya/avustralyada-hantavirus-alarmi-karantina-suresi-uzatildi-31991/",
-              "language": "Turkish"
             }
           ]
         },
@@ -2147,7 +2148,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 11,
+          "count": 9,
           "latest": "2026-05-28T10:30:00Z",
           "sampleTitles": [
             {
@@ -2164,6 +2165,30 @@
               "title": "Weeks more quarantine for hantavirus cruise passengers",
               "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-05-28T21:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "ЕС изпрати първите дози експериментално лечение срещу хантавирус ᐉ Новини от Fakti . bg - Свят",
+              "url": "https://fakti.bg/world/1057425-es-izprati-parvite-dozi-eksperimentalno-lechenie-sreshtu-hantavirus",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Ще бъде ли ефикасно : Доставиха първите дози от потенциално лечение на хантавирус в Европа",
+              "url": "https://www.actualno.com/europe/shte-byde-li-efikasno-dostaviha-pyrvite-dozi-ot-potencialno-lechenie-na-hantavirus-v-evropa-news_2600117.html",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Корабът на ужасите MV Hondius плава отново след смъртоносната епидемия от хантавирус",
+              "url": "https://www.vesti.bg/sviat/korabyt-na-uzhasite-mv-hondius-plava-otnovo-sled-smyrtonosnata-epidemiia-ot-hantavirus-6260737",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2206,6 +2231,20 @@
           ]
         },
         {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-05-28T20:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "La UNTDF presentó un informe especial sobre hantavirus en Ushuaia",
+              "url": "https://www.surenio.com.ar/la-untdf-presento-un-informe-especial-sobre-hantavirus-en-ushuaia/",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2216,20 +2255,6 @@
               "title": "Hantavírus : União Europeia recebe antiviral experimental doado pelo Japão",
               "url": "https://sapo.pt/artigo/hantavirus-uniao-europeia-recebe-antiviral-experimental-doado-pelo-japao-6a182f9014f3d731cfa2049b",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-05-28T09:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Корабът на ужасите MV Hondius плава отново след смъртоносната епидемия от хантавирус",
-              "url": "https://www.vesti.bg/sviat/korabyt-na-uzhasite-mv-hondius-plava-otnovo-sled-smyrtonosnata-epidemiia-ot-hantavirus-6260737",
-              "language": "Bulgarian"
             }
           ]
         },
@@ -2257,34 +2282,6 @@
             {
               "title": "13 cases of hantavirus from cruise outbreak",
               "url": "https://www.odt.co.nz/news/world/13-cases-hantavirus-cruise-outbreak",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-05-27T14:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "OMS : Casos de hantavírus em cruzeiro aumentam para 13 com novo caso na Espanha",
-              "url": "https://www.infomoney.com.br/mundo/oms-casos-de-hantavirus-em-cruzeiro-aumentam-para-13-com-novo-caso-na-espanha/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-05-27T13:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
-              "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
               "language": "English"
             }
           ]
