@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T09:23:43.502Z",
+  "generatedAt": "2026-05-28T11:18:25.529Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2031,10 +2031,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 63,
+      "totalArticles": 66,
       "languages": {
-        "Turkish": 4,
-        "English": 55,
+        "Turkish": 9,
+        "English": 52,
+        "Bulgarian": 1,
         "Hungarian": 2,
         "Portuguese": 2
       },
@@ -2043,7 +2044,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
+          "count": 21,
           "latest": "2026-05-28T09:00:00Z",
           "sampleTitles": [
             {
@@ -2067,9 +2068,14 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 16,
-          "latest": "2026-05-28T09:00:00Z",
+          "count": 18,
+          "latest": "2026-05-28T10:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Quarantine extended for hantavirus cruise ship passengers",
+              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
+              "language": "English"
+            },
             {
               "title": "Weeks more quarantine for hantavirus cruise passengers",
               "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
@@ -2079,11 +2085,6 @@
               "title": "Weeks more quarantine for hantavirus cruise passengers",
               "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
               "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak sends a warning",
-              "url": "https://www.greenleft.org.au/2026/1454/world/hantavirus-outbreak-sends-warning",
-              "language": "English"
             }
           ]
         },
@@ -2091,66 +2092,37 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 5,
-          "latest": "2026-05-28T09:00:00Z",
+          "count": 9,
+          "latest": "2026-05-28T10:45:00Z",
           "sampleTitles": [
             {
-              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
-              "url": "https://www.aa.com.tr/tr/dunya/avustralya-hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresini-uzatti/3950204",
+              "title": "Hantavirüs görülen gemideki 6 yolcunun karantina süresini uzatıldı",
+              "url": "https://www.konhaber.com/dunya/hantavirus_gorulen_gemideki_6_yolcunun_karantina_suresini_uzatildi-2000589h",
               "language": "Turkish"
             },
             {
-              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
-              "url": "https://www.haberler.com/guncel/avustralya-da-hantaviruslu-gemide-karantina-uzatildi-19889322-haberi/",
+              "title": "Avustralyadan hantavirüs kararı : 6 yolcunun karantina süresi uzatıldı",
+              "url": "https://www.birgun.net/haber/avustralyadan-hantavirus-karari-6-yolcunun-karantina-suresi-uzatildi-715183%20target=_blank%20class=stretched-link",
               "language": "Turkish"
             },
             {
-              "title": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
-              "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
-              "language": "English"
+              "title": "Avustralyadan hantavirüs önlemi : Karantina süresi uzatıldı",
+              "url": "https://www.dunya.com/saglik/avustralyadan-hantavirus-onlemi-karantina-suresi-uzatildi-haberi-826664",
+              "language": "Turkish"
             }
           ]
         },
         {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 4,
-          "latest": "2026-05-28T01:15:00Z",
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-05-28T09:30:00Z",
           "sampleTitles": [
             {
-              "title": "13 cases of hantavirus from cruise outbreak",
-              "url": "https://www.odt.co.nz/news/world/13-cases-hantavirus-cruise-outbreak",
-              "language": "English"
-            },
-            {
-              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689",
-              "language": "English"
-            },
-            {
-              "title": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tst",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-27T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO issues major update over new hantavirus case in Europe",
-              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
-              "language": "English"
-            },
-            {
-              "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
-              "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
-              "language": "English"
+              "title": "Корабът на ужасите MV Hondius плава отново след смъртоносната епидемия от хантавирус",
+              "url": "https://www.vesti.bg/sviat/korabyt-na-uzhasite-mv-hondius-plava-otnovo-sled-smyrtonosnata-epidemiia-ot-hantavirus-6260737",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2164,6 +2136,20 @@
             {
               "title": "Australia extends quarantine for 6 cruise passengers linked to hantavirus outbreak",
               "url": "https://www.prokerala.com/news/articles/a1768366.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 1,
+          "latest": "2026-05-28T01:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "13 cases of hantavirus from cruise outbreak",
+              "url": "https://www.odt.co.nz/news/world/13-cases-hantavirus-cruise-outbreak",
               "language": "English"
             }
           ]
@@ -2206,6 +2192,20 @@
             {
               "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
               "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-05-27T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "WHO issues major update over new hantavirus case in Europe",
+              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
               "language": "English"
             }
           ]
