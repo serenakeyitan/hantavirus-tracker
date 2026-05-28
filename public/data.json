@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T17:21:23.923Z",
+  "generatedAt": "2026-05-28T18:58:48.533Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 62,
       "languages": {
-        "English": 47,
+        "English": 45,
         "Turkish": 11,
         "Portuguese": 3,
         "Bulgarian": 1,
@@ -2099,9 +2099,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 17,
-          "latest": "2026-05-28T13:00:00Z",
+          "count": 18,
+          "latest": "2026-05-28T17:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus Outbreak Revives COVID - Era False Health Claims The Monitor",
+              "url": "https://www.kff.org/health-information-trust/hantavirus-outbreak-revives-covid-era-false-health-claims/",
+              "language": "English"
+            },
             {
               "title": "The History of Hantavirus : From War Trenches to Cruise Ships",
               "url": "https://www.history.com/articles/hantavirus-world-war-ii-korean-war",
@@ -2111,11 +2116,6 @@
               "title": "Hantavirus : Cruise ship passenger quarantine is extended as two new cases of deadly disease are reported",
               "url": "https://www.dailymail.com/news/article-15854445/Hantavirus-Cruise-Perth-quarantine-Australia.html",
               "language": "English"
-            },
-            {
-              "title": "Tényellenőrzés : a vírusként terjedő hantavírus - térkép nem igazolt eseteket mutat",
-              "url": "https://hu.euronews.com/my-europe/2026/05/28/tenyellenorzes-a-viruskent-terjedo-hantavirus-terkep-nem-igazolt-eseteket-mutat",
-              "language": "Hungarian"
             }
           ]
         },
@@ -2123,7 +2123,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 15,
+          "count": 13,
           "latest": "2026-05-28T10:30:00Z",
           "sampleTitles": [
             {
@@ -2171,7 +2171,7 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 3,
+          "count": 2,
           "latest": "2026-05-28T15:15:00Z",
           "sampleTitles": [
             {
@@ -2182,11 +2182,6 @@
             {
               "title": "Hantavirus and the Return of Pandemic - Era Fear Mongering",
               "url": "https://theboar.org/2026/05/hantavirus-and-the-return-of-pandemic-era-fear-mongering/",
-              "language": "English"
-            },
-            {
-              "title": "WHO issues major update over new hantavirus case in Europe",
-              "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
               "language": "English"
             }
           ]
