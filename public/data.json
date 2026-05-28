@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T13:24:43.981Z",
+  "generatedAt": "2026-05-28T15:15:50.590Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -163,6 +163,61 @@
       "url": "https://www.who.int/emergencies/disease-outbreak-news",
       "tier": "confirmed",
       "rows": [
+        {
+          "id": "210abff3-3710-483b-b003-ec87933f1f4c",
+          "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+          "summary": "This is the fourth Disease Outbreak News report on the Andes hantavirus outbreak linked to cruise ship travel, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard M/V Hondius, a cruise ship. Since the last DON was published on 13 May, three additional confirmed cases were reported, from Canada, the Netherlands, and Spain. The p",
+          "publishedAt": "2026-05-28T14:43:00Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "United States",
+              "lat": 37.0902,
+              "lng": -95.7129
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "Canada",
+              "lat": 56.1304,
+              "lng": -106.3468
+            },
+            {
+              "name": "Spain",
+              "lat": 40.4637,
+              "lng": -3.7492
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "Cabo Verde",
+              "lat": 16.0021,
+              "lng": -24.0132
+            }
+          ]
+        },
         {
           "id": "45441730-c794-4004-a197-e7cc49df2f55",
           "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
