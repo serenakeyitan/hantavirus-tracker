@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T07:29:31.134Z",
+  "generatedAt": "2026-05-29T09:18:25.652Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 56,
+      "totalArticles": 59,
       "languages": {
-        "English": 39,
-        "Bulgarian": 3,
+        "English": 40,
+        "Bulgarian": 4,
+        "Russian": 1,
         "Spanish": 1,
         "Turkish": 11,
         "Portuguese": 1,
@@ -2100,22 +2101,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 17,
-          "latest": "2026-05-29T01:00:00Z",
+          "count": 19,
+          "latest": "2026-05-29T08:45:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus risk in Alabama is  low : what you need to know",
-              "url": "https://www.wsfa.com/2026/05/29/hantavirus-risk-alabama-is-low-what-you-need-know/",
+              "title": "Hantavirus - exposed cruise passengers may return home soon",
+              "url": "https://www.wmtw.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
               "language": "English"
             },
             {
-              "title": "Experimental Hantavirus Treatment Could Be Used On Sick Cruise Ship Passengers ( Latest Updates ) ",
-              "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/experimental-hantavirus-treatment-sent-to-eu-countries-where-patients-are-being-treated-latest-updates/",
+              "title": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch",
+              "url": "https://us.cnn.com/2026/05/28/health/hantavirus-passengers-states-quarantine",
               "language": "English"
             },
             {
-              "title": "Kansas legislative leaders approve extended monitoring of three residents exposed to hantavirus",
-              "url": "https://www.hppr.org/hppr-news/2026-05-28/kansas-legislative-leaders-approve-extended-monitoring-of-three-residents-exposed-to-hantavirus",
+              "title": "Hantavirus - exposed cruise passengers may return home soon",
+              "url": "https://www.wapt.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
               "language": "English"
             }
           ]
@@ -2172,9 +2173,14 @@
           "country": "Bulgaria",
           "lat": 42.7,
           "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-28T21:15:00Z",
+          "count": 4,
+          "latest": "2026-05-29T05:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Първите дози от експериментален препарат за лечение на хантавирус пристигнаха в Европа",
+              "url": "https://www.varna24.bg/novini/mejdunarodni/Purvite-dozi-ot-eksperimentalen-preparat-za-lechenie-na-hantavirus-pristignaha-v-Evropa-2972792",
+              "language": "Bulgarian"
+            },
             {
               "title": "ЕС изпрати първите дози експериментално лечение срещу хантавирус ᐉ Новини от Fakti . bg - Свят",
               "url": "https://fakti.bg/world/1057425-es-izprati-parvite-dozi-eksperimentalno-lechenie-sreshtu-hantavirus",
@@ -2183,11 +2189,6 @@
             {
               "title": "Ще бъде ли ефикасно : Доставиха първите дози от потенциално лечение на хантавирус в Европа",
               "url": "https://www.actualno.com/europe/shte-byde-li-efikasno-dostaviha-pyrvite-dozi-ot-potencialno-lechenie-na-hantavirus-v-evropa-news_2600117.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Корабът на ужасите MV Hondius плава отново след смъртоносната епидемия от хантавирус",
-              "url": "https://www.vesti.bg/sviat/korabyt-na-uzhasite-mv-hondius-plava-otnovo-sled-smyrtonosnata-epidemiia-ot-hantavirus-6260737",
               "language": "Bulgarian"
             }
           ]
@@ -2212,21 +2213,16 @@
           ]
         },
         {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
-          "count": 2,
-          "latest": "2026-05-28T12:00:00Z",
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-05-29T04:45:00Z",
           "sampleTitles": [
             {
-              "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
-              "language": "English"
-            },
-            {
-              "title": "Traws Pharma , Inc .: Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68607993-traws-pharma-inc-traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks-399.htm",
-              "language": "English"
+              "title": "Хантавирус : как болеют люди",
+              "url": "https://profile.ru/news/society/hantavirus-kak-bolejut-ljudi-1865321/",
+              "language": "Russian"
             }
           ]
         },
@@ -2255,6 +2251,20 @@
               "title": "Hantavírus : União Europeia recebe antiviral experimental doado pelo Japão",
               "url": "https://sapo.pt/artigo/hantavirus-uniao-europeia-recebe-antiviral-experimental-doado-pelo-japao-6a182f9014f3d731cfa2049b",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Germany",
+          "lat": 51.2,
+          "lng": 10.5,
+          "count": 1,
+          "latest": "2026-05-28T12:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
+              "language": "English"
             }
           ]
         },
