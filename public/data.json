@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T11:12:11.012Z",
+  "generatedAt": "2026-05-29T13:15:38.411Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,13 +2086,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 64,
       "languages": {
-        "English": 40,
+        "Turkish": 14,
+        "English": 42,
         "Bulgarian": 4,
         "Russian": 1,
         "Spanish": 1,
-        "Turkish": 11,
         "Portuguese": 1,
         "Hungarian": 1
       },
@@ -2101,22 +2101,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 19,
-          "latest": "2026-05-29T08:45:00Z",
+          "count": 22,
+          "latest": "2026-05-29T09:45:00Z",
           "sampleTitles": [
             {
               "title": "Hantavirus - exposed cruise passengers may return home soon",
-              "url": "https://www.wmtw.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch",
-              "url": "https://us.cnn.com/2026/05/28/health/hantavirus-passengers-states-quarantine",
+              "url": "https://www.wjcl.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
               "language": "English"
             },
             {
               "title": "Hantavirus - exposed cruise passengers may return home soon",
-              "url": "https://www.wapt.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
+              "url": "https://www.wlwt.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
+              "language": "English"
+            },
+            {
+              "title": "Ebola and hantavirus outbreaks raise questions about Trump health agency cuts",
+              "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
               "language": "English"
             }
           ]
@@ -2125,22 +2125,22 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 12,
-          "latest": "2026-05-28T21:00:00Z",
+          "count": 15,
+          "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
-              "title": "EU receives experimental Hantavirus treatment doses",
-              "url": "https://aa.com.tr/en/health/eu-receives-experimental-hantavirus-treatment-doses/3950758",
-              "language": "English"
-            },
-            {
-              "title": "Avustralya , hantavirüs görülen gemideki 6 yolcunun karantina süresini uzattı",
-              "url": "https://www.dha.com.tr/dunya/avustralya-hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresini-uzatti-2881465",
+              "title": "AB deneysel hantavirüs ilaçlarını teslim aldı",
+              "url": "https://www.ntv.com.tr/dunya/ab-deneysel-hantavirus-ilaclarini-teslim-aldi-1726296",
               "language": "Turkish"
             },
             {
-              "title": "Hantavirüs görülen gemideki 6 yolcunun karantina süresi uzatıldı",
-              "url": "https://www.yenimeram.com.tr/hantavirus-gorulen-gemideki-6-yolcunun-karantina-suresi-uzatildi/532425/",
+              "title": "AB , Deneysel Hantavirüs İlacını Sevk Etti",
+              "url": "https://www.haberaktuel.com/ab-deneysel-hantavirus-ilacini-sevk-etti-3437426",
+              "language": "Turkish"
+            },
+            {
+              "title": "ABde hantavirüs hazırlığı : Deneysel ilaç devreye alındı",
+              "url": "https://www.dunya.com/gundem/abde-hantavirus-hazirligi-deneysel-ilac-devreye-alindi-haberi-826750",
               "language": "Turkish"
             }
           ]
@@ -2278,20 +2278,6 @@
             {
               "title": "Australia extends quarantine for 6 cruise passengers linked to hantavirus outbreak",
               "url": "https://www.prokerala.com/news/articles/a1768366.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-05-28T01:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "13 cases of hantavirus from cruise outbreak",
-              "url": "https://www.odt.co.nz/news/world/13-cases-hantavirus-cruise-outbreak",
               "language": "English"
             }
           ]
