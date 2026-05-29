@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T18:59:01.064Z",
+  "generatedAt": "2026-05-29T19:53:14.835Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 63,
       "languages": {
-        "Turkish": 14,
-        "English": 42,
+        "English": 40,
+        "Turkish": 15,
         "Bulgarian": 4,
         "Russian": 1,
         "Spanish": 1,
@@ -2101,22 +2101,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
-          "latest": "2026-05-29T09:45:00Z",
+          "count": 23,
+          "latest": "2026-05-29T16:00:00Z",
           "sampleTitles": [
+            {
+              "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
+              "url": "https://www.wtvq.com/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/",
+              "language": "English"
+            },
+            {
+              "title": "Inside the Nebraska quarantine facility responding to hantavirus",
+              "url": "https://www.sciencefriday.com/segments/nebraska-quarantine-facility-hantavirus-response/",
+              "language": "English"
+            },
             {
               "title": "Hantavirus - exposed cruise passengers may return home soon",
               "url": "https://www.wjcl.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus - exposed cruise passengers may return home soon",
-              "url": "https://www.wlwt.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
-              "language": "English"
-            },
-            {
-              "title": "Ebola and hantavirus outbreaks raise questions about Trump health agency cuts",
-              "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
               "language": "English"
             }
           ]
@@ -2149,7 +2149,7 @@
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 9,
+          "count": 6,
           "latest": "2026-05-28T10:30:00Z",
           "sampleTitles": [
             {
