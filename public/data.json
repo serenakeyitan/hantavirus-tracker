@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T01:48:48.324Z",
+  "generatedAt": "2026-05-29T03:16:05.501Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,13 +2086,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 58,
+      "totalArticles": 56,
       "languages": {
-        "English": 40,
+        "English": 39,
         "Bulgarian": 3,
         "Spanish": 1,
         "Turkish": 11,
-        "Portuguese": 2,
+        "Portuguese": 1,
         "Hungarian": 1
       },
       "countries": [
@@ -2100,9 +2100,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 18,
-          "latest": "2026-05-28T21:15:00Z",
+          "count": 17,
+          "latest": "2026-05-29T01:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus risk in Alabama is  low : what you need to know",
+              "url": "https://www.wsfa.com/2026/05/29/hantavirus-risk-alabama-is-low-what-you-need-know/",
+              "language": "English"
+            },
             {
               "title": "Experimental Hantavirus Treatment Could Be Used On Sick Cruise Ship Passengers ( Latest Updates ) ",
               "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/experimental-hantavirus-treatment-sent-to-eu-countries-where-patients-are-being-treated-latest-updates/",
@@ -2112,11 +2117,6 @@
               "title": "Kansas legislative leaders approve extended monitoring of three residents exposed to hantavirus",
               "url": "https://www.hppr.org/hppr-news/2026-05-28/kansas-legislative-leaders-approve-extended-monitoring-of-three-residents-exposed-to-hantavirus",
               "language": "English"
-            },
-            {
-              "title": "Hantavirus Outbreak Revives COVID - Era False Health Claims The Monitor",
-              "url": "https://www.kff.org/health-information-trust/hantavirus-outbreak-revives-covid-era-false-health-claims/",
-              "language": "English"
             }
           ]
         },
@@ -2124,7 +2124,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 13,
+          "count": 12,
           "latest": "2026-05-28T21:00:00Z",
           "sampleTitles": [
             {
