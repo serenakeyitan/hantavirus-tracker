@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T05:23:12.357Z",
+  "generatedAt": "2026-05-30T07:08:05.395Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 56,
       "languages": {
-        "English": 38,
-        "Turkish": 14,
+        "English": 37,
+        "Turkish": 12,
         "Bulgarian": 4,
         "Russian": 1,
         "Spanish": 1,
@@ -2100,7 +2100,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 28,
+          "count": 27,
           "latest": "2026-05-30T02:15:00Z",
           "sampleTitles": [
             {
@@ -2124,7 +2124,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 14,
+          "count": 12,
           "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
@@ -2188,25 +2188,6 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-05-28T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine extended for hantavirus cruise ship passengers",
-              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Russia",
           "lat": 61.5,
           "lng": 105.3,
@@ -2258,6 +2239,20 @@
             {
               "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
               "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-05-28T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine extended for hantavirus cruise ship passengers",
+              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
               "language": "English"
             }
           ]
