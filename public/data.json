@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T01:42:44.704Z",
+  "generatedAt": "2026-05-30T03:13:43.844Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2100,9 +2100,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
-          "latest": "2026-05-29T23:45:00Z",
+          "count": 28,
+          "latest": "2026-05-30T02:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch - WSVN 7News | Miami News , Weather , Sports",
+              "url": "https://wsvn.com/news/us-world/hantavirus-exposed-cruise-passengers-may-soon-be-allowed-to-return-home-but-must-remain-under-24-7-watch/",
+              "language": "English"
+            },
             {
               "title": "What going around ? Hantavirus outbreak update : what Virginians need to know this week",
               "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
@@ -2111,11 +2116,6 @@
             {
               "title": "WHO warns of hantavirus on cruise ship , with 3 dead , 3 others sickened",
               "url": "https://www.cidrap.umn.edu/hantavirus/who-warns-hantavirus-cruise-ship-3-dead-3-others-sickened",
-              "language": "English"
-            },
-            {
-              "title": "Osterholm on hantavirus : Were missing  main point of this outbreak  ",
-              "url": "https://www.cidrap.umn.edu/hantavirus/osterholm-hantavirus-we-re-missing-main-point-outbreak",
               "language": "English"
             }
           ]
@@ -2169,30 +2169,6 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-05-28T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine extended for hantavirus cruise ship passengers",
-              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
@@ -2207,6 +2183,25 @@
             {
               "title": "Hantavirus and the Return of Pandemic - Era Fear Mongering",
               "url": "https://theboar.org/2026/05/hantavirus-and-the-return-of-pandemic-era-fear-mongering/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-05-28T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine extended for hantavirus cruise ship passengers",
+              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
+              "language": "English"
+            },
+            {
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
               "language": "English"
             }
           ]
