@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T23:33:56.950Z",
+  "generatedAt": "2026-05-30T00:56:13.790Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,37 +2086,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 63,
+      "totalArticles": 59,
       "languages": {
-        "English": 40,
-        "Turkish": 15,
+        "English": 38,
+        "Turkish": 14,
         "Bulgarian": 4,
         "Russian": 1,
         "Spanish": 1,
-        "Portuguese": 1,
-        "Hungarian": 1
+        "Portuguese": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
-          "latest": "2026-05-29T16:00:00Z",
+          "count": 27,
+          "latest": "2026-05-29T23:45:00Z",
           "sampleTitles": [
             {
-              "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-              "url": "https://www.wtvq.com/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/",
+              "title": "What going around ? Hantavirus outbreak update : what Virginians need to know this week",
+              "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
               "language": "English"
             },
             {
-              "title": "Inside the Nebraska quarantine facility responding to hantavirus",
-              "url": "https://www.sciencefriday.com/segments/nebraska-quarantine-facility-hantavirus-response/",
+              "title": "WHO warns of hantavirus on cruise ship , with 3 dead , 3 others sickened",
+              "url": "https://www.cidrap.umn.edu/hantavirus/who-warns-hantavirus-cruise-ship-3-dead-3-others-sickened",
               "language": "English"
             },
             {
-              "title": "Hantavirus - exposed cruise passengers may return home soon",
-              "url": "https://www.wjcl.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
+              "title": "Osterholm on hantavirus : Were missing  main point of this outbreak  ",
+              "url": "https://www.cidrap.umn.edu/hantavirus/osterholm-hantavirus-we-re-missing-main-point-outbreak",
               "language": "English"
             }
           ]
@@ -2125,7 +2124,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 15,
+          "count": 14,
           "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
@@ -2142,30 +2141,6 @@
               "title": "ABde hantavirüs hazırlığı : Deneysel ilaç devreye alındı",
               "url": "https://www.dunya.com/gundem/abde-hantavirus-hazirligi-deneysel-ilac-devreye-alindi-haberi-826750",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 6,
-          "latest": "2026-05-28T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine extended for hantavirus cruise ship passengers",
-              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
-            },
-            {
-              "title": "Weeks more quarantine for hantavirus cruise passengers",
-              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
-              "language": "English"
             }
           ]
         },
@@ -2190,6 +2165,30 @@
               "title": "Ще бъде ли ефикасно : Доставиха първите дози от потенциално лечение на хантавирус в Европа",
               "url": "https://www.actualno.com/europe/shte-byde-li-efikasno-dostaviha-pyrvite-dozi-ot-potencialno-lechenie-na-hantavirus-v-evropa-news_2600117.html",
               "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-05-28T10:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine extended for hantavirus cruise ship passengers",
+              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
+              "language": "English"
+            },
+            {
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.smh.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
+              "language": "English"
+            },
+            {
+              "title": "Weeks more quarantine for hantavirus cruise passengers",
+              "url": "https://www.brisbanetimes.com.au/national/weeks-more-quarantine-for-hantavirus-cruise-passengers-20260528-p601sc.html",
+              "language": "English"
             }
           ]
         },
@@ -2264,20 +2263,6 @@
             {
               "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
               "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-05-28T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australia extends quarantine for 6 cruise passengers linked to hantavirus outbreak",
-              "url": "https://www.prokerala.com/news/articles/a1768366.html",
               "language": "English"
             }
           ]
