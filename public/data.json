@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:33:59.443Z",
+  "generatedAt": "2026-05-30T12:32:15.616Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 55,
+      "totalArticles": 54,
       "languages": {
         "English": 37,
-        "Turkish": 12,
+        "Turkish": 11,
         "Bulgarian": 3,
         "Russian": 1,
         "Spanish": 1,
@@ -2100,9 +2100,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
-          "latest": "2026-05-30T02:15:00Z",
+          "count": 28,
+          "latest": "2026-05-30T10:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Surveillance ordered for hantavirus ship passengers who go home",
+              "url": "https://www.seattletimes.com/nation-world/strict-monitoring-could-delay-homecoming-of-hantavirus-ship-passengers/",
+              "language": "English"
+            },
             {
               "title": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch - WSVN 7News | Miami News , Weather , Sports",
               "url": "https://wsvn.com/news/us-world/hantavirus-exposed-cruise-passengers-may-soon-be-allowed-to-return-home-but-must-remain-under-24-7-watch/",
@@ -2112,11 +2117,6 @@
               "title": "What going around ? Hantavirus outbreak update : what Virginians need to know this week",
               "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
               "language": "English"
-            },
-            {
-              "title": "WHO warns of hantavirus on cruise ship , with 3 dead , 3 others sickened",
-              "url": "https://www.cidrap.umn.edu/hantavirus/who-warns-hantavirus-cruise-ship-3-dead-3-others-sickened",
-              "language": "English"
             }
           ]
         },
@@ -2124,7 +2124,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 12,
+          "count": 11,
           "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
@@ -2239,20 +2239,6 @@
             {
               "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
               "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-05-28T10:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine extended for hantavirus cruise ship passengers",
-              "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/naus_hantavirusquarantinejsod_2805/106734530",
               "language": "English"
             }
           ]
