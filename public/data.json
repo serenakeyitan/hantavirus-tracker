@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T05:36:54.690Z",
+  "generatedAt": "2026-05-31T07:26:11.875Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,34 +2088,57 @@
       "timespan": "14d",
       "totalArticles": 52,
       "languages": {
-        "English": 37,
-        "Turkish": 9,
+        "English": 42,
+        "Russian": 2,
+        "Turkish": 4,
         "Bulgarian": 3,
-        "Russian": 1,
-        "Spanish": 1,
-        "Portuguese": 1
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 28,
-          "latest": "2026-05-30T10:45:00Z",
+          "count": 30,
+          "latest": "2026-05-31T02:30:00Z",
           "sampleTitles": [
             {
-              "title": "Surveillance ordered for hantavirus ship passengers who go home",
-              "url": "https://www.seattletimes.com/nation-world/strict-monitoring-could-delay-homecoming-of-hantavirus-ship-passengers/",
+              "title": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
+              "url": "https://article.wn.com/view/2026/05/31/MV_Hondius_cruise_ship_given_allclear_to_sail_after_deadly_h/",
               "language": "English"
             },
             {
-              "title": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch - WSVN 7News | Miami News , Weather , Sports",
-              "url": "https://wsvn.com/news/us-world/hantavirus-exposed-cruise-passengers-may-soon-be-allowed-to-return-home-but-must-remain-under-24-7-watch/",
+              "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+              "url": "https://www.eldoradonews.com/news/2026/may/30/how-south-african-scientists-identified/",
               "language": "English"
             },
             {
-              "title": "What going around ? Hantavirus outbreak update : what Virginians need to know this week",
-              "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
+              "title": "Fancy a holiday on the hantavirus cruise ship ? Vessel hit by lethal outbreak cleared to sail again after huge disinfection",
+              "url": "https://www.dailymail.com/news/article-15861141/Cruise-ship-global-health-crisis-hantavirus-outbreak-huge-disinfection.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 5,
+          "latest": "2026-05-31T02:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
+              "url": "https://www.manchestereveningnews.co.uk/news/world-news/mv-hondius-cruise-ship-given-34039459",
+              "language": "English"
+            },
+            {
+              "title": "MV Hondius hantavirus cruise ship cleared to sail again after deadly outbreak",
+              "url": "https://www.express.co.uk/news/world/2211578/hantavirus-outbreak-cruise-ship-cleared-sail-again-weeks-after-three-deaths",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise ship MV Hondius given green light to sail again after disinfection",
+              "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/hantavirus-cruise-ship-mv-hondius-34039463",
               "language": "English"
             }
           ]
@@ -2124,7 +2147,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 10,
+          "count": 4,
           "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
@@ -2169,31 +2192,17 @@
           ]
         },
         {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-05-28T15:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus cruise ship outbreak : Passengers evacuated from MV Hondius must now spend 42 days in quarantine in Australia",
-              "url": "https://www.independent.co.uk/news/world/australasia/hantavirus-cruise-ship-australia-quarantine-b2985108.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus and the Return of Pandemic - Era Fear Mongering",
-              "url": "https://theboar.org/2026/05/hantavirus-and-the-return-of-pandemic-era-fear-mongering/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Russia",
           "lat": 61.5,
           "lng": 105.3,
-          "count": 1,
-          "latest": "2026-05-29T04:45:00Z",
+          "count": 2,
+          "latest": "2026-05-31T00:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Врач - инфекционист рассказала , опасен ли для россиян хантавирус Андес",
+              "url": "https://ria.ru/20260531/khantavirus-2095786050.html",
+              "language": "Russian"
+            },
             {
               "title": "Хантавирус : как болеют люди",
               "url": "https://profile.ru/news/society/hantavirus-kak-bolejut-ljudi-1865321/",
@@ -2212,34 +2221,6 @@
               "title": "La UNTDF presentó un informe especial sobre hantavirus en Ushuaia",
               "url": "https://www.surenio.com.ar/la-untdf-presento-un-informe-especial-sobre-hantavirus-en-ushuaia/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-05-28T12:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : União Europeia recebe antiviral experimental doado pelo Japão",
-              "url": "https://sapo.pt/artigo/hantavirus-uniao-europeia-recebe-antiviral-experimental-doado-pelo-japao-6a182f9014f3d731cfa2049b",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Germany",
-          "lat": 51.2,
-          "lng": 10.5,
-          "count": 1,
-          "latest": "2026-05-28T12:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dyadic International , Inc .: Dyadic and Scripps Research Collaborate on Rapid - Response Hantavirus Antibody and Vaccine Development",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68617670-dyadic-international-inc-dyadic-and-scripps-research-collaborate-on-rapid-response-hantavirus-antibody-and-vaccine-development-399.htm",
-              "language": "English"
             }
           ]
         }
