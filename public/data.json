@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T16:31:30.851Z",
+  "generatedAt": "2026-05-31T17:27:39.455Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 52,
+      "totalArticles": 51,
       "languages": {
-        "English": 42,
+        "English": 41,
         "Russian": 2,
         "Turkish": 4,
         "Bulgarian": 3,
