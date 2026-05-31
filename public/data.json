@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T12:36:23.215Z",
+  "generatedAt": "2026-05-31T13:36:14.651Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 51,
+      "totalArticles": 53,
       "languages": {
-        "English": 41,
+        "English": 43,
         "Russian": 2,
         "Turkish": 4,
         "Bulgarian": 3,
@@ -2123,9 +2123,14 @@
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
-          "count": 4,
-          "latest": "2026-05-31T02:00:00Z",
+          "count": 5,
+          "latest": "2026-05-31T13:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Four key checks before infamous hantavirus cruise ship MV Hondius was allowed to finally return to sea",
+              "url": "https://www.mirror.co.uk/news/world-news/hantavirus-cruise-checks-mv-hondius-37228033",
+              "language": "English"
+            },
             {
               "title": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
               "url": "https://www.manchestereveningnews.co.uk/news/world-news/mv-hondius-cruise-ship-given-34039459",
@@ -2134,11 +2139,6 @@
             {
               "title": "MV Hondius hantavirus cruise ship cleared to sail again after deadly outbreak",
               "url": "https://www.express.co.uk/news/world/2211578/hantavirus-outbreak-cruise-ship-cleared-sail-again-weeks-after-three-deaths",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cruise ship MV Hondius given green light to sail again after disinfection",
-              "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/hantavirus-cruise-ship-mv-hondius-34039463",
               "language": "English"
             }
           ]
@@ -2207,6 +2207,20 @@
               "title": "Хантавирус : как болеют люди",
               "url": "https://profile.ru/news/society/hantavirus-kak-bolejut-ljudi-1865321/",
               "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-05-31T12:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "MV Hondius fully disinfected after deadly hantavirus outbreak ; Cleared for voyages",
+              "url": "https://nltimes.nl/2026/05/31/mv-hondius-fully-disinfected-deadly-hantavirus-outbreak-cleared-voyages",
+              "language": "English"
             }
           ]
         },
