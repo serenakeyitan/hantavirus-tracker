@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:33:43.942Z",
+  "generatedAt": "2026-05-31T20:29:11.228Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 51,
+      "totalArticles": 52,
       "languages": {
-        "English": 41,
+        "English": 42,
         "Russian": 2,
         "Turkish": 4,
         "Bulgarian": 3,
@@ -2099,9 +2099,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 29,
-          "latest": "2026-05-31T02:30:00Z",
+          "count": 30,
+          "latest": "2026-05-31T19:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus quarantine to end for some US cruise passengers",
+              "url": "https://www.havasunews.com/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
+              "language": "English"
+            },
             {
               "title": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
               "url": "https://article.wn.com/view/2026/05/31/MV_Hondius_cruise_ship_given_allclear_to_sail_after_deadly_h/",
@@ -2110,11 +2115,6 @@
             {
               "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
               "url": "https://www.eldoradonews.com/news/2026/may/30/how-south-african-scientists-identified/",
-              "language": "English"
-            },
-            {
-              "title": "Fancy a holiday on the hantavirus cruise ship ? Vessel hit by lethal outbreak cleared to sail again after huge disinfection",
-              "url": "https://www.dailymail.com/news/article-15861141/Cruise-ship-global-health-crisis-hantavirus-outbreak-huge-disinfection.html",
               "language": "English"
             }
           ]
