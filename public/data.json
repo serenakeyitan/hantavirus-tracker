@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T03:18:01.192Z",
+  "generatedAt": "2026-06-01T05:44:11.866Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,10 +2088,10 @@
       "timespan": "14d",
       "totalArticles": 53,
       "languages": {
-        "English": 43,
+        "English": 44,
         "Russian": 2,
         "Turkish": 4,
-        "Bulgarian": 3,
+        "Bulgarian": 2,
         "Spanish": 1
       },
       "countries": [
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 31,
+          "count": 30,
           "latest": "2026-05-31T20:15:00Z",
           "sampleTitles": [
             {
@@ -2168,30 +2168,6 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-05-29T05:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Първите дози от експериментален препарат за лечение на хантавирус пристигнаха в Европа",
-              "url": "https://www.varna24.bg/novini/mejdunarodni/Purvite-dozi-ot-eksperimentalen-preparat-za-lechenie-na-hantavirus-pristignaha-v-Evropa-2972792",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "ЕС изпрати първите дози експериментално лечение срещу хантавирус ᐉ Новини от Fakti . bg - Свят",
-              "url": "https://fakti.bg/world/1057425-es-izprati-parvite-dozi-eksperimentalno-lechenie-sreshtu-hantavirus",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Ще бъде ли ефикасно : Доставиха първите дози от потенциално лечение на хантавирус в Европа",
-              "url": "https://www.actualno.com/europe/shte-byde-li-efikasno-dostaviha-pyrvite-dozi-ot-potencialno-lechenie-na-hantavirus-v-evropa-news_2600117.html",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
           "country": "Russia",
           "lat": 61.5,
           "lng": 105.3,
@@ -2207,6 +2183,39 @@
               "title": "Хантавирус : как болеют люди",
               "url": "https://profile.ru/news/society/hantavirus-kak-bolejut-ljudi-1865321/",
               "language": "Russian"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 2,
+          "latest": "2026-05-29T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Първите дози от експериментален препарат за лечение на хантавирус пристигнаха в Европа",
+              "url": "https://www.varna24.bg/novini/mejdunarodni/Purvite-dozi-ot-eksperimentalen-preparat-za-lechenie-na-hantavirus-pristignaha-v-Evropa-2972792",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "ЕС изпрати първите дози експериментално лечение срещу хантавирус ᐉ Новини от Fakti . bg - Свят",
+              "url": "https://fakti.bg/world/1057425-es-izprati-parvite-dozi-eksperimentalno-lechenie-sreshtu-hantavirus",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-06-01T02:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Inside the Sydney quarantine centre built to keep Ebola and hantavirus at bay",
+              "url": "https://www.brisbanetimes.com.au/national/nsw/inside-sydney-s-future-proof-quarantine-centre-20260511-p5zvmw.html",
+              "language": "English"
             }
           ]
         },
