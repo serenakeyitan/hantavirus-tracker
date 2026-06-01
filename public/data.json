@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T10:01:56.638Z",
+  "generatedAt": "2026-06-01T12:55:24.833Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,35 +2086,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 53,
+      "totalArticles": 52,
       "languages": {
-        "English": 44,
+        "English": 45,
         "Russian": 2,
         "Turkish": 4,
-        "Bulgarian": 2,
-        "Spanish": 1
+        "Bulgarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 30,
-          "latest": "2026-05-31T20:15:00Z",
+          "count": 31,
+          "latest": "2026-06-01T12:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Ebola , hantavirus are in the news but wont cause a pandemic",
+              "url": "https://www.postandcourier.com/health/ebola-hantavirus-unlikely-spark-pandemic-risks-charleston-hunters/article_002005e8-ed85-4fa4-8604-a70dcc45c30d.html",
+              "language": "English"
+            },
+            {
+              "title": "Super El Niño Could Mean More US Hantavirus Cases This Summer",
+              "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
+              "language": "English"
+            },
             {
               "title": "Hantavirus quarantine to end for some US cruise passengers",
               "url": "https://www.havasunews.com/parker_pioneer/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus quarantine to end for some US cruise passengers",
-              "url": "https://www.havasunews.com/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
-              "language": "English"
-            },
-            {
-              "title": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
-              "url": "https://article.wn.com/view/2026/05/31/MV_Hondius_cruise_ship_given_allclear_to_sail_after_deadly_h/",
               "language": "English"
             }
           ]
@@ -2147,7 +2146,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
+          "count": 3,
           "latest": "2026-05-29T11:15:00Z",
           "sampleTitles": [
             {
@@ -2187,25 +2186,6 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 2,
-          "latest": "2026-05-29T05:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Първите дози от експериментален препарат за лечение на хантавирус пристигнаха в Европа",
-              "url": "https://www.varna24.bg/novini/mejdunarodni/Purvite-dozi-ot-eksperimentalen-preparat-za-lechenie-na-hantavirus-pristignaha-v-Evropa-2972792",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "ЕС изпрати първите дози експериментално лечение срещу хантавирус ᐉ Новини от Fakti . bg - Свят",
-              "url": "https://fakti.bg/world/1057425-es-izprati-parvite-dozi-eksperimentalno-lechenie-sreshtu-hantavirus",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2234,16 +2214,16 @@
           ]
         },
         {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
           "count": 1,
-          "latest": "2026-05-28T20:00:00Z",
+          "latest": "2026-05-29T05:00:00Z",
           "sampleTitles": [
             {
-              "title": "La UNTDF presentó un informe especial sobre hantavirus en Ushuaia",
-              "url": "https://www.surenio.com.ar/la-untdf-presento-un-informe-especial-sobre-hantavirus-en-ushuaia/",
-              "language": "Spanish"
+              "title": "Първите дози от експериментален препарат за лечение на хантавирус пристигнаха в Европа",
+              "url": "https://www.varna24.bg/novini/mejdunarodni/Purvite-dozi-ot-eksperimentalen-preparat-za-lechenie-na-hantavirus-pristignaha-v-Evropa-2972792",
+              "language": "Bulgarian"
             }
           ]
         }
