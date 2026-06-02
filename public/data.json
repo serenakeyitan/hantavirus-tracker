@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T17:38:33.775Z",
+  "generatedAt": "2026-06-02T19:22:42.395Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 26,
+      "totalArticles": 32,
       "languages": {
-        "English": 20,
+        "English": 26,
         "Portuguese": 3,
         "Turkish": 3
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 17,
-          "latest": "2026-06-02T17:15:00Z",
+          "count": 23,
+          "latest": "2026-06-02T18:45:00Z",
           "sampleTitles": [
             {
               "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-              "url": "https://www.kxxv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+              "url": "https://www.kxlf.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
               "language": "English"
             },
             {
-              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-              "url": "https://www.kristv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+              "title": "Quarantined hantavirus patients transferred from isolation center to homes across US",
+              "url": "https://www.dailymail.com/health/article-15867561/hantavirus-quarantine-patients-transfer-new-york.html",
               "language": "English"
             },
             {
-              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-              "url": "https://www.ktvh.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+              "title": "Hantavirus : A Podcast With an Infectious Disease Doctor | Infection Control Today",
+              "url": "https://www.infectioncontroltoday.com/view/hantavirus-podcast-infectious-disease-doctor",
               "language": "English"
             }
           ]
