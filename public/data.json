@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T07:48:08.398Z",
+  "generatedAt": "2026-06-02T09:34:13.679Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,17 +2086,18 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 17,
+      "totalArticles": 18,
       "languages": {
-        "English": 16,
-        "Turkish": 1
+        "Portuguese": 1,
+        "Turkish": 4,
+        "English": 13
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 13,
+          "count": 11,
           "latest": "2026-06-02T05:15:00Z",
           "sampleTitles": [
             {
@@ -2117,6 +2118,30 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 4,
+          "latest": "2026-06-02T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
+              "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
+              "language": "Turkish"
+            },
+            {
+              "title": "Bilim dünyası bu sorunun yanıtını arıyor : Hantavirüs gemide nasıl yayıldı ? ",
+              "url": "https://www.yeniakit.com.tr/foto-galeri/bilim-dunyasi-bu-sorunun-yanitini-ariyor-hantavirus-gemide-nasil-yayildi-158995",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs görülen yolcu gemisindeki 18 ABDliden 5  i karantina tesisinden ayrılıyor",
+              "url": "https://www.haberler.com/guncel/hantavirus-gemisindeki-5-abd-li-yolcu-karantinadan-evlerine-donuyor-19901542-haberi/",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2126,34 +2151,6 @@
             {
               "title": "Hantavirus ship cleared as Aussies and Kiwis remains in isolation",
               "url": "https://travelweekly.com.au/hantavirus-ship-cleared-as-aussies-and-kiwis-remains-in-isolation/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-02T01:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirüse Maruz Kalan Yolcular Evde Karantinaya Alındı",
-              "url": "https://www.haberaktuel.com/hantaviruse-maruz-kalan-yolcular-evde-karantinaya-alindi-3439023",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-02T01:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Canada warns of hantavirus travel risk in Chile",
-              "url": "https://www.muskokaregion.com/news/canadian-hantavirus-travel-advice-for-chile/article_88df5090-19a5-5c5f-9a3e-847279983270.html",
               "language": "English"
             }
           ]
