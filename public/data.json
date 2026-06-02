@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T09:34:13.679Z",
+  "generatedAt": "2026-06-02T11:34:36.028Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 18,
+      "totalArticles": 19,
       "languages": {
-        "Portuguese": 1,
+        "Portuguese": 2,
         "Turkish": 4,
         "English": 13
       },
@@ -2138,6 +2138,20 @@
               "title": "Hantavirüs görülen yolcu gemisindeki 18 ABDliden 5  i karantina tesisinden ayrılıyor",
               "url": "https://www.haberler.com/guncel/hantavirus-gemisindeki-5-abd-li-yolcu-karantinadan-evlerine-donuyor-19901542-haberi/",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-06-02T09:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
+              "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
+              "language": "Portuguese"
             }
           ]
         },
