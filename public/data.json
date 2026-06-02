@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T15:31:59.574Z",
+  "generatedAt": "2026-06-02T17:38:33.775Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,33 +2086,33 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 19,
+      "totalArticles": 26,
       "languages": {
-        "Portuguese": 2,
-        "Turkish": 4,
-        "English": 13
+        "English": 20,
+        "Portuguese": 3,
+        "Turkish": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 11,
-          "latest": "2026-06-02T05:15:00Z",
+          "count": 17,
+          "latest": "2026-06-02T17:15:00Z",
           "sampleTitles": [
             {
-              "title": "Health Department : Hantavirus risk to USVI remains very low",
-              "url": "https://www.virginislandsdailynews.com/news/health-department-hantavirus-risk-to-usvi-remains-very-low/article_eaf3b274-1e12-4fe4-8cfb-8d9e2da5b638.html",
+              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+              "url": "https://www.kxxv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
               "language": "English"
             },
             {
-              "title": "Hantavirus kills Mohave County resident",
-              "url": "https://www.fox10phoenix.com/news/1-person-dead-mohave-county-hantavirus-case-health-officials-say",
+              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+              "url": "https://www.kristv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
               "language": "English"
             },
             {
-              "title": "Hantavirus death reported in Kingman , Mohave County Health Department says",
-              "url": "https://www.havasunews.com/news/nation/hantavirus-death-reported-in-kingman-mohave-county-health-department-says/article_55758273-35b6-42c7-9d48-3823de914fd6.html",
+              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+              "url": "https://www.ktvh.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
               "language": "English"
             }
           ]
@@ -2121,7 +2121,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
+          "count": 3,
           "latest": "2026-06-02T08:45:00Z",
           "sampleTitles": [
             {
@@ -2145,9 +2145,14 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 1,
-          "latest": "2026-06-02T09:15:00Z",
+          "count": 2,
+          "latest": "2026-06-02T12:45:00Z",
           "sampleTitles": [
+            {
+              "title": "O que aconteceu aos restantes passageiros do cruzeiro com hantavírus ? Há novidades",
+              "url": "https://sapo.pt/artigo/o-que-aconteceu-aos-restantes-passageiros-do-cruzeiro-com-hantavirus-ha-novidades-6a1ebaf3bc2bfc709f01bf19",
+              "language": "Portuguese"
+            },
             {
               "title": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
               "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
