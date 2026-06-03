@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T22:47:48.838Z",
+  "generatedAt": "2026-06-03T23:37:27.653Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 45,
+      "totalArticles": 47,
       "languages": {
-        "English": 37,
+        "English": 39,
         "Turkish": 4,
         "Portuguese": 4
       },
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 32,
-          "latest": "2026-06-03T16:00:00Z",
+          "count": 33,
+          "latest": "2026-06-03T23:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+              "url": "https://www.wsls.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
+              "language": "English"
+            },
             {
               "title": "Sin Nombre Hantavirus Strain Kills One In Arizona",
               "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/03/arizona-resident-dies-of-hantavirus-variant-just-as-deadly-as-cruise-ship-strain/",
@@ -2108,11 +2113,6 @@
             {
               "title": "First hantavirus death reported in Arizona in 2026",
               "url": "https://www.azfamily.com/2026/06/03/first-hantavirus-death-reported-arizona-2026/",
-              "language": "English"
-            },
-            {
-              "title": "5 Quarantined Cruise Passengers Facing Hantavirus Risk Head Home From Nebraska ; 13 Remain",
-              "url": "https://www.yankton.net/community/article_bac51dec-bd44-409a-8e11-ed98537fece2.html",
               "language": "English"
             }
           ]
@@ -2162,6 +2162,20 @@
               "title": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
               "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-06-03T23:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue",
+              "language": "English"
             }
           ]
         },
