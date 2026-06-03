@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T01:09:43.737Z",
+  "generatedAt": "2026-06-03T03:17:27.711Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 38,
+      "totalArticles": 39,
       "languages": {
-        "English": 32,
+        "English": 33,
         "Portuguese": 3,
         "Turkish": 3
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 29,
-          "latest": "2026-06-02T22:15:00Z",
+          "count": 30,
+          "latest": "2026-06-03T00:30:00Z",
           "sampleTitles": [
             {
-              "title": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
-              "url": "https://katu.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+              "title": "Five U . S . passengers from hantavirus - hit cruise ship depart quarantine in Omaha",
+              "url": "https://www.klkntv.com/five-u-s-passengers-from-hantavirus-hit-cruise-ship-depart-quarantine-in-omaha/",
               "language": "English"
             },
             {
-              "title": "Oregonian Exposed To Andes Virus Returns | News Radio 1190 KEX",
-              "url": "https://1190kex.iheart.com/content/2026-06-02-oregonian-exposed-to-andes-virus-returns/",
+              "title": "Arizona hantavirus case known as  Sin Nombre  kills 1",
+              "url": "https://nypost.com/2026/06/02/us-news/arizona-hantavirus-case-known-as-sin-nombre-kills-1/",
               "language": "English"
             },
             {
-              "title": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-              "url": "https://www.krtv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+              "title": "Cruise ship passenger exposed to hantavirus now under quarantine in Oregon",
+              "url": "https://www.kptv.com/2026/06/02/cruise-ship-passenger-exposed-hantavirus-now-under-quarantine-oregon/",
               "language": "English"
             }
           ]
