@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:26:29.224Z",
+  "generatedAt": "2026-06-04T11:09:20.030Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 65,
+      "totalArticles": 69,
       "languages": {
-        "English": 61,
-        "Portuguese": 3,
+        "Bulgarian": 3,
+        "English": 63,
+        "Portuguese": 2,
         "Turkish": 1
       },
       "countries": [
@@ -2098,41 +2099,46 @@
           "lat": 39,
           "lng": -98,
           "count": 56,
-          "latest": "2026-06-04T04:30:00Z",
+          "latest": "2026-06-04T08:15:00Z",
           "sampleTitles": [
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "http://www.sitkasentinel.com/stories/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue,146238",
+              "url": "https://www.click2houston.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
               "language": "English"
             },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.advocate-news.com/2026/06/03/hantavirus-research/",
+              "url": "https://abcnews.com/Technology/wireStory/tools-fight-hantavirus-show-promise-despite-limited-funding-133568971",
               "language": "English"
             },
             {
-              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.dailylocal.com/2026/06/03/hantavirus-research/",
+              "title": "Deadly cruise ship outbreak renews the push for hantavirus treatments and vaccines",
+              "url": "https://www.wsbradio.com/news/health/tools-fight/7WUU7JKEHUY2JJOGCNASIXZ6ZI/",
               "language": "English"
             }
           ]
         },
         {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 2,
-          "latest": "2026-06-03T07:15:00Z",
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 3,
+          "latest": "2026-06-04T10:45:00Z",
           "sampleTitles": [
             {
-              "title": "Gustavo Santos :  O hantavírus é mais uma peça de teatro encenada pela elite  ",
-              "url": "http://www.sabado.pt/vida/detalhe/gustavo-santos-nao-criamos-expectativas-quanto-ao-numero-de-pessoas-a-a-m-a-tem-nove-socios-e-mais-20-e-poucos-associados",
-              "language": "Portuguese"
+              "title": "ЕС си осигури спешни доставки на експериментален медикамент за потенциално лечение на хантавирус",
+              "url": "https://www.mediapool.bg/es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-potentsialno-lechenie-na-hantavirus-news384060.html",
+              "language": "Bulgarian"
             },
             {
-              "title": "O que aconteceu aos restantes passageiros do cruzeiro com hantavírus ? Há novidades",
-              "url": "https://sapo.pt/artigo/o-que-aconteceu-aos-restantes-passageiros-do-cruzeiro-com-hantavirus-ha-novidades-6a1ebaf3bc2bfc709f01bf19",
-              "language": "Portuguese"
+              "title": "ЕС си осигури спешни доставки на експериментален медикамент за лечение на хантавирус ᐉ Новини от Fakti . bg - Свят",
+              "url": "https://fakti.bg/world/1058807-es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-lechenie-na-hantavirus",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "Спешни дози на експериментално лекарство срещу хантавирус са изпратени в Европа",
+              "url": "https://www.actualno.com/europe/speshni-dozi-na-eksperimentalno-lekarstvo-sreshtu-hantavirus-sa-izprateni-v-evropa-news_2602625.html",
+              "language": "Bulgarian"
             }
           ]
         },
@@ -2175,6 +2181,20 @@
               "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
               "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-06-03T07:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Gustavo Santos :  O hantavírus é mais uma peça de teatro encenada pela elite  ",
+              "url": "http://www.sabado.pt/vida/detalhe/gustavo-santos-nao-criamos-expectativas-quanto-ao-numero-de-pessoas-a-a-m-a-tem-nove-socios-e-mais-20-e-poucos-associados",
+              "language": "Portuguese"
             }
           ]
         }
