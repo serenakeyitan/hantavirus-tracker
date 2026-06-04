@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T23:37:27.653Z",
+  "generatedAt": "2026-06-04T01:08:53.495Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,33 +2086,33 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 47,
+      "totalArticles": 58,
       "languages": {
-        "English": 39,
-        "Turkish": 4,
-        "Portuguese": 4
+        "English": 49,
+        "Portuguese": 5,
+        "Turkish": 4
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 33,
-          "latest": "2026-06-03T23:00:00Z",
+          "count": 41,
+          "latest": "2026-06-04T00:45:00Z",
           "sampleTitles": [
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.wsls.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
+              "url": "https://www.local10.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
               "language": "English"
             },
             {
-              "title": "Sin Nombre Hantavirus Strain Kills One In Arizona",
-              "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/03/arizona-resident-dies-of-hantavirus-variant-just-as-deadly-as-cruise-ship-strain/",
+              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+              "url": "https://www.chicoer.com/2026/06/03/hantavirus-research/",
               "language": "English"
             },
             {
-              "title": "First hantavirus death reported in Arizona in 2026",
-              "url": "https://www.azfamily.com/2026/06/03/first-hantavirus-death-reported-arizona-2026/",
+              "title": "Deadly cruise ship outbreak renews the push for hantavirus treatments and vaccines",
+              "url": "https://www.wdbo.com/news/health/tools-fight/7WUU7JKEHUY2JJOGCNASIXZ6ZI/",
               "language": "English"
             }
           ]
@@ -2161,6 +2161,20 @@
             {
               "title": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
               "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-06-04T00:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus em 2026 : um alerta que exige ateno",
+              "url": "https://www.diariodaregiao.com.br/opiniao-e-colunas/artigos/hantavirus-em-2026-um-alerta-que-exige-atencao.1780523314373",
               "language": "Portuguese"
             }
           ]
