@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T17:12:06.554Z",
+  "generatedAt": "2026-06-04T18:54:05.168Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,11 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 68,
       "languages": {
+        "Portuguese": 3,
         "Bulgarian": 3,
-        "English": 63,
-        "Portuguese": 2,
+        "English": 61,
         "Turkish": 1
       },
       "countries": [
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 56,
+          "count": 54,
           "latest": "2026-06-04T08:15:00Z",
           "sampleTitles": [
             {
@@ -2143,6 +2143,25 @@
           ]
         },
         {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-06-04T17:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "O primeiro caso positivo de hantavírus em Espanha já teve alta",
+              "url": "https://tvi.iol.pt/noticias/hantavirus/espanha/o-primeiro-caso-positivo-de-hantavirus-em-espanha-ja-teve-alta/20260604/6a21ad40d34e28842c84d4dc",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Gustavo Santos :  O hantavírus é mais uma peça de teatro encenada pela elite  ",
+              "url": "http://www.sabado.pt/vida/detalhe/gustavo-santos-nao-criamos-expectativas-quanto-ao-numero-de-pessoas-a-a-m-a-tem-nove-socios-e-mais-20-e-poucos-associados",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
@@ -2181,20 +2200,6 @@
               "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
               "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-06-03T07:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Gustavo Santos :  O hantavírus é mais uma peça de teatro encenada pela elite  ",
-              "url": "http://www.sabado.pt/vida/detalhe/gustavo-santos-nao-criamos-expectativas-quanto-ao-numero-de-pessoas-a-a-m-a-tem-nove-socios-e-mais-20-e-poucos-associados",
-              "language": "Portuguese"
             }
           ]
         }
