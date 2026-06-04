@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:17:16.588Z",
+  "generatedAt": "2026-06-04T05:42:14.172Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,33 +2086,33 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 65,
       "languages": {
-        "English": 56,
-        "Portuguese": 4,
-        "Turkish": 2
+        "English": 61,
+        "Portuguese": 3,
+        "Turkish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 50,
-          "latest": "2026-06-04T02:45:00Z",
+          "count": 56,
+          "latest": "2026-06-04T04:30:00Z",
           "sampleTitles": [
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.sun-sentinel.com/2026/06/03/hantavirus-research/",
+              "url": "http://www.sitkasentinel.com/stories/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue,146238",
               "language": "English"
             },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.capitalgazette.com/2026/06/03/hantavirus-research/",
+              "url": "https://www.advocate-news.com/2026/06/03/hantavirus-research/",
               "language": "English"
             },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.timesherald.com/2026/06/03/hantavirus-research/",
+              "url": "https://www.dailylocal.com/2026/06/03/hantavirus-research/",
               "language": "English"
             }
           ]
@@ -2121,7 +2121,7 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 3,
+          "count": 2,
           "latest": "2026-06-03T07:15:00Z",
           "sampleTitles": [
             {
@@ -2133,30 +2133,6 @@
               "title": "O que aconteceu aos restantes passageiros do cruzeiro com hantavírus ? Há novidades",
               "url": "https://sapo.pt/artigo/o-que-aconteceu-aos-restantes-passageiros-do-cruzeiro-com-hantavirus-ha-novidades-6a1ebaf3bc2bfc709f01bf19",
               "language": "Portuguese"
-            },
-            {
-              "title": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
-              "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-06-03T12:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
-              "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
-              "language": "Turkish"
-            },
-            {
-              "title": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
-              "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
-              "language": "Turkish"
             }
           ]
         },
@@ -2185,6 +2161,20 @@
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-06-03T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
+              "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
+              "language": "Turkish"
             }
           ]
         }
