@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T01:08:53.495Z",
+  "generatedAt": "2026-06-04T03:17:16.588Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,58 +2086,34 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 58,
+      "totalArticles": 62,
       "languages": {
-        "English": 49,
-        "Portuguese": 5,
-        "Turkish": 4
+        "English": 56,
+        "Portuguese": 4,
+        "Turkish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 41,
-          "latest": "2026-06-04T00:45:00Z",
+          "count": 50,
+          "latest": "2026-06-04T02:45:00Z",
           "sampleTitles": [
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.local10.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
+              "url": "https://www.sun-sentinel.com/2026/06/03/hantavirus-research/",
               "language": "English"
             },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.chicoer.com/2026/06/03/hantavirus-research/",
+              "url": "https://www.capitalgazette.com/2026/06/03/hantavirus-research/",
               "language": "English"
             },
             {
-              "title": "Deadly cruise ship outbreak renews the push for hantavirus treatments and vaccines",
-              "url": "https://www.wdbo.com/news/health/tools-fight/7WUU7JKEHUY2JJOGCNASIXZ6ZI/",
+              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+              "url": "https://www.timesherald.com/2026/06/03/hantavirus-research/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 4,
-          "latest": "2026-06-03T12:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
-              "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
-              "language": "Turkish"
-            },
-            {
-              "title": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
-              "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
-              "language": "Turkish"
-            },
-            {
-              "title": "Bilim dünyası bu sorunun yanıtını arıyor : Hantavirüs gemide nasıl yayıldı ? ",
-              "url": "https://www.yeniakit.com.tr/foto-galeri/bilim-dunyasi-bu-sorunun-yanitini-ariyor-hantavirus-gemide-nasil-yayildi-158995",
-              "language": "Turkish"
             }
           ]
         },
@@ -2166,6 +2142,25 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 2,
+          "latest": "2026-06-03T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
+              "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
+              "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
@@ -2189,20 +2184,6 @@
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-06-02T04:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus ship cleared as Aussies and Kiwis remains in isolation",
-              "url": "https://travelweekly.com.au/hantavirus-ship-cleared-as-aussies-and-kiwis-remains-in-isolation/",
               "language": "English"
             }
           ]
