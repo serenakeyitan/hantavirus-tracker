@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:16:33.509Z",
+  "generatedAt": "2026-06-05T11:11:53.576Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,18 +2086,37 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 20,
+      "totalArticles": 6,
       "languages": {
-        "English": 16,
-        "Portuguese": 1,
-        "Bulgarian": 3
+        "Bulgarian": 2,
+        "English": 3,
+        "Portuguese": 1
       },
       "countries": [
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 2,
+          "latest": "2026-06-05T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Изписват първия пациент с хантавирус в Испания",
+              "url": "https://www.bgonair.bg/a/4-world/420728-izpisvat-parviya-patsient-s-hantavirus-v-ispaniya",
+              "language": "Bulgarian"
+            },
+            {
+              "title": "В Испания пациент с хантавирус се връща в дома си",
+              "url": "https://dnes.dir.bg/svyat/v-ispaniya-patsient-s-hantavirus-se-vrashta-v-doma-si",
+              "language": "Bulgarian"
+            }
+          ]
+        },
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 14,
+          "count": 2,
           "latest": "2026-06-05T01:00:00Z",
           "sampleTitles": [
             {
@@ -2109,35 +2128,6 @@
               "title": "More hantavirus cases emerge as passengers debark cruise ship",
               "url": "https://www.cidrap.umn.edu/hantavirus/more-hantavirus-cases-emerge-passengers-debark-cruise-ship",
               "language": "English"
-            },
-            {
-              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.click2houston.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 3,
-          "latest": "2026-06-04T10:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "ЕС си осигури спешни доставки на експериментален медикамент за потенциално лечение на хантавирус",
-              "url": "https://www.mediapool.bg/es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-potentsialno-lechenie-na-hantavirus-news384060.html",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "ЕС си осигури спешни доставки на експериментален медикамент за лечение на хантавирус ᐉ Новини от Fakti . bg - Свят",
-              "url": "https://fakti.bg/world/1058807-es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-lechenie-na-hantavirus",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "Спешни дози на експериментално лекарство срещу хантавирус са изпратени в Европа",
-              "url": "https://www.actualno.com/europe/speshni-dozi-na-eksperimentalno-lekarstvo-sreshtu-hantavirus-sa-izprateni-v-evropa-news_2602625.html",
-              "language": "Bulgarian"
             }
           ]
         },
