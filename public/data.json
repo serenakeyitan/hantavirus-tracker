@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T01:00:47.190Z",
+  "generatedAt": "2026-06-05T01:52:18.258Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,21 +2086,25 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 52,
+      "totalArticles": 20,
       "languages": {
-        "English": 45,
-        "Portuguese": 3,
-        "Bulgarian": 3,
-        "Turkish": 1
+        "English": 16,
+        "Portuguese": 1,
+        "Bulgarian": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 39,
-          "latest": "2026-06-04T21:30:00Z",
+          "count": 14,
+          "latest": "2026-06-05T01:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home",
+              "url": "https://ktvz.com/news/central-oregon/2026/06/04/bend-doctor-who-took-charge-during-deadly-hantavirus-outbreak-finally-returns-home/",
+              "language": "English"
+            },
             {
               "title": "More hantavirus cases emerge as passengers debark cruise ship",
               "url": "https://www.cidrap.umn.edu/hantavirus/more-hantavirus-cases-emerge-passengers-debark-cruise-ship",
@@ -2109,11 +2113,6 @@
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
               "url": "https://www.click2houston.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
-              "language": "English"
-            },
-            {
-              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://abcnews.com/Technology/wireStory/tools-fight-hantavirus-show-promise-despite-limited-funding-133568971",
               "language": "English"
             }
           ]
@@ -2146,60 +2145,13 @@
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
-          "count": 2,
+          "count": 1,
           "latest": "2026-06-04T17:45:00Z",
           "sampleTitles": [
             {
               "title": "O primeiro caso positivo de hantavírus em Espanha já teve alta",
               "url": "https://tvi.iol.pt/noticias/hantavirus/espanha/o-primeiro-caso-positivo-de-hantavirus-em-espanha-ja-teve-alta/20260604/6a21ad40d34e28842c84d4dc",
               "language": "Portuguese"
-            },
-            {
-              "title": "Gustavo Santos :  O hantavírus é mais uma peça de teatro encenada pela elite  ",
-              "url": "http://www.sabado.pt/vida/detalhe/gustavo-santos-nao-criamos-expectativas-quanto-ao-numero-de-pessoas-a-a-m-a-tem-nove-socios-e-mais-20-e-poucos-associados",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-06-04T00:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus em 2026 : um alerta que exige ateno",
-              "url": "https://www.diariodaregiao.com.br/opiniao-e-colunas/artigos/hantavirus-em-2026-um-alerta-que-exige-atencao.1780523314373",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-03T23:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-03T12:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Lüks Kruvaziyerde Hantavirüs Alarmı : 3 Kişi Hayatını Kaybetti",
-              "url": "https://www.saglikaktuel.com/haber/luks-kruvaziyerde-hantavirus-alarmi-3-kisi-hayatini-kaybetti-107470.htm",
-              "language": "Turkish"
             }
           ]
         }
