@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T13:10:25.711Z",
+  "generatedAt": "2026-06-05T15:06:24.505Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,13 +2086,31 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 6,
+      "totalArticles": 5,
       "languages": {
-        "Bulgarian": 2,
         "English": 3,
-        "Portuguese": 1
+        "Bulgarian": 2
       },
       "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 2,
+          "latest": "2026-06-05T14:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "New York Hantavirus Patients Leave Quarantine as World Cup Crowds Surge Health Experts Are Monitoring for Potential Public Health Risks",
+              "url": "http://www.medicaldaily.com/new-york-hantavirus-patients-leave-quarantine-world-cup-crowds-surge-health-experts-are-475501",
+              "language": "English"
+            },
+            {
+              "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home",
+              "url": "https://ktvz.com/news/central-oregon/2026/06/04/bend-doctor-who-took-charge-during-deadly-hantavirus-outbreak-finally-returns-home/",
+              "language": "English"
+            }
+          ]
+        },
         {
           "country": "Bulgaria",
           "lat": 42.7,
@@ -2109,39 +2127,6 @@
               "title": "В Испания пациент с хантавирус се връща в дома си",
               "url": "https://dnes.dir.bg/svyat/v-ispaniya-patsient-s-hantavirus-se-vrashta-v-doma-si",
               "language": "Bulgarian"
-            }
-          ]
-        },
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 2,
-          "latest": "2026-06-05T01:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home",
-              "url": "https://ktvz.com/news/central-oregon/2026/06/04/bend-doctor-who-took-charge-during-deadly-hantavirus-outbreak-finally-returns-home/",
-              "language": "English"
-            },
-            {
-              "title": "More hantavirus cases emerge as passengers debark cruise ship",
-              "url": "https://www.cidrap.umn.edu/hantavirus/more-hantavirus-cases-emerge-passengers-debark-cruise-ship",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-06-04T17:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "O primeiro caso positivo de hantavírus em Espanha já teve alta",
-              "url": "https://tvi.iol.pt/noticias/hantavirus/espanha/o-primeiro-caso-positivo-de-hantavirus-em-espanha-ja-teve-alta/20260604/6a21ad40d34e28842c84d4dc",
-              "language": "Portuguese"
             }
           ]
         }
