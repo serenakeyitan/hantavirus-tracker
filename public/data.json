@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:11:45.676Z",
+  "generatedAt": "2026-06-06T08:59:28.045Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 10,
+      "totalArticles": 21,
       "languages": {
+        "English": 17,
         "Portuguese": 2,
-        "English": 6,
         "Bulgarian": 2
       },
       "countries": [
@@ -2097,22 +2097,46 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 3,
-          "latest": "2026-06-05T23:15:00Z",
+          "count": 8,
+          "latest": "2026-06-06T04:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus case was diagnosed in the 1980s in a Lufkin hospital",
-              "url": "https://lufkindailynews.com/news/local/hantavirus-case-was-diagnosed-in-the-1980s-in-a-lufkin-hospital/article_4c219488-1a8c-5f29-888e-00236cbbf2e9.html",
+              "title": "Hantavirus and the value of public trust | New University",
+              "url": "https://newuniversity.org/2026/06/05/hantavirus-and-the-value-of-public-trust/",
               "language": "English"
             },
             {
-              "title": "New York Hantavirus Patients Leave Quarantine as World Cup Crowds Surge Health Experts Are Monitoring for Potential Public Health Risks",
-              "url": "http://www.medicaldaily.com/new-york-hantavirus-patients-leave-quarantine-world-cup-crowds-surge-health-experts-are-475501",
+              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+              "url": "https://www.newsday.com/news/nation/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-d60695",
               "language": "English"
             },
             {
-              "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home",
-              "url": "https://ktvz.com/news/central-oregon/2026/06/04/bend-doctor-who-took-charge-during-deadly-hantavirus-outbreak-finally-returns-home/",
+              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+              "url": "https://www.timesargus.com/news/world/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/article_b9e01476-f34a-5006-9785-83b97dc00f52.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-06-06T04:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentina traps , tests rats as hantavirus probe expands",
+              "url": "https://www.singletonargus.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+              "language": "English"
+            },
+            {
+              "title": "Argentina traps , tests rats as hantavirus probe expands",
+              "url": "https://www.goulburnpost.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+              "language": "English"
+            },
+            {
+              "title": "Argentina traps , tests rats as hantavirus probe expands",
+              "url": "https://www.centralwesterndaily.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
               "language": "English"
             }
           ]
@@ -2171,6 +2195,20 @@
               "title": "В Испания пациент с хантавирус се връща в дома си",
               "url": "https://dnes.dir.bg/svyat/v-ispaniya-patsient-s-hantavirus-se-vrashta-v-doma-si",
               "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-06-06T05:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
+              "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
+              "language": "English"
             }
           ]
         }
