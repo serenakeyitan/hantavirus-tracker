@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T23:31:25.600Z",
+  "generatedAt": "2026-06-06T00:56:49.783Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 5,
+      "totalArticles": 10,
       "languages": {
-        "English": 3,
+        "Portuguese": 2,
+        "English": 6,
         "Bulgarian": 2
       },
       "countries": [
@@ -2096,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 2,
-          "latest": "2026-06-05T14:00:00Z",
+          "count": 3,
+          "latest": "2026-06-05T23:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus case was diagnosed in the 1980s in a Lufkin hospital",
+              "url": "https://lufkindailynews.com/news/local/hantavirus-case-was-diagnosed-in-the-1980s-in-a-lufkin-hospital/article_4c219488-1a8c-5f29-888e-00236cbbf2e9.html",
+              "language": "English"
+            },
             {
               "title": "New York Hantavirus Patients Leave Quarantine as World Cup Crowds Surge Health Experts Are Monitoring for Potential Public Health Risks",
               "url": "http://www.medicaldaily.com/new-york-hantavirus-patients-leave-quarantine-world-cup-crowds-surge-health-experts-are-475501",
@@ -2107,6 +2113,44 @@
             {
               "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home",
               "url": "https://ktvz.com/news/central-oregon/2026/06/04/bend-doctor-who-took-charge-during-deadly-hantavirus-outbreak-finally-returns-home/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 2,
+          "latest": "2026-06-06T00:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentina vai estender a outra província estudo de roedores por hantavirus",
+              "url": "http://www.em.com.br/internacional/2026/06/7435561-argentina-vai-estender-a-outra-provincia-estudo-de-roedores-por-hantavirus.html",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Argentina ampliará busca por hantavírus para outra província , além do local de onde navio partiu",
+              "url": "https://oglobo.globo.com/saude/noticia/2026/06/05/argentina-ampliara-busca-por-hantavirus-para-outra-provincia-alem-do-local-de-onde-navio-partiu.ghtml",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-06T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/05/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza",
+              "language": "English"
+            },
+            {
+              "title": "Argentina expands search for hantavirus - carrying rodents",
+              "url": "https://www.cp24.com/news/world/2026/06/05/argentina-to-expand-hantavirus-search-to-a-second-province/",
               "language": "English"
             }
           ]
