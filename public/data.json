@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:36:20.599Z",
+  "generatedAt": "2026-06-06T14:36:59.719Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 22,
+      "totalArticles": 23,
       "languages": {
-        "English": 18,
-        "Portuguese": 2,
+        "Portuguese": 3,
+        "Spanish": 1,
+        "English": 17,
         "Bulgarian": 2
       },
       "countries": [
@@ -2097,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 8,
+          "count": 7,
           "latest": "2026-06-06T04:00:00Z",
           "sampleTitles": [
             {
@@ -2195,6 +2196,34 @@
               "title": "В Испания пациент с хантавирус се връща в дома си",
               "url": "https://dnes.dir.bg/svyat/v-ispaniya-patsient-s-hantavirus-se-vrashta-v-doma-si",
               "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-06-06T12:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : Argentina alarga análise de roedores a mais uma província",
+              "url": "https://sapo.pt/artigo/hantavirus-argentina-alarga-analise-de-roedores-a-mais-uma-provincia-6a240813434934ab04b89455",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-06-06T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Del laboratorio en Nueva York al Instituto Leloir en Argentina para ganarle la batalla al hantavirus",
+              "url": "https://www.rionegro.com.ar/sociedad/del-laboratorio-en-nueva-york-al-instituto-leloir-en-argentina-para-ganarle-la-batalla-al-hantavirus/",
+              "language": "Spanish"
             }
           ]
         },
