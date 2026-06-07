@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T03:16:29.175Z",
+  "generatedAt": "2026-06-07T05:37:53.351Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 31,
+      "totalArticles": 41,
       "languages": {
-        "English": 25,
+        "English": 35,
         "Portuguese": 3,
         "Spanish": 1,
         "Bulgarian": 2
@@ -2098,22 +2098,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 12,
-          "latest": "2026-06-07T02:45:00Z",
+          "count": 22,
+          "latest": "2026-06-07T05:00:00Z",
           "sampleTitles": [
             {
-              "title": "Tools to fight hantavirus show promise despite limited funding",
-              "url": "https://www.wesh.com/article/tools-to-fight-hantavirus/71514153",
+              "title": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
+              "url": "https://www.fox7austin.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
               "language": "English"
             },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding",
-              "url": "https://www.wpbf.com/article/tools-to-fight-hantavirus/71514153",
+              "url": "https://www.ksbw.com/article/tools-to-fight-hantavirus/71514153",
               "language": "English"
             },
             {
-              "title": "Hantavirus monitoring complete for 2 Texas passengers from cruise ship outbreak , health officials say",
-              "url": "https://abc13.com/post/hantavirus-monitoring-complete-2-texas-passengers-cruise-ship-outbreak-health-officials-say/19247972/",
+              "title": "Tools to fight hantavirus show promise despite limited funding",
+              "url": "https://www.wmtw.com/article/tools-to-fight-hantavirus/71514153",
               "language": "English"
             }
           ]
