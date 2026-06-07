@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T01:03:11.481Z",
+  "generatedAt": "2026-06-07T03:16:29.175Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 27,
+      "totalArticles": 31,
       "languages": {
-        "English": 21,
+        "English": 25,
         "Portuguese": 3,
         "Spanish": 1,
         "Bulgarian": 2
@@ -2098,22 +2098,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 8,
-          "latest": "2026-06-06T15:45:00Z",
+          "count": 12,
+          "latest": "2026-06-07T02:45:00Z",
           "sampleTitles": [
             {
-              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
-              "url": "https://www.wdio.com/ap-top-news/ap-top-news-health/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/",
+              "title": "Tools to fight hantavirus show promise despite limited funding",
+              "url": "https://www.wesh.com/article/tools-to-fight-hantavirus/71514153",
               "language": "English"
             },
             {
-              "title": "Hantavirus and the value of public trust | New University",
-              "url": "https://newuniversity.org/2026/06/05/hantavirus-and-the-value-of-public-trust/",
+              "title": "Tools to fight hantavirus show promise despite limited funding",
+              "url": "https://www.wpbf.com/article/tools-to-fight-hantavirus/71514153",
               "language": "English"
             },
             {
-              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
-              "url": "https://www.newsday.com/news/nation/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-d60695",
+              "title": "Hantavirus monitoring complete for 2 Texas passengers from cruise ship outbreak , health officials say",
+              "url": "https://abc13.com/post/hantavirus-monitoring-complete-2-texas-passengers-cruise-ship-outbreak-health-officials-say/19247972/",
               "language": "English"
             }
           ]
