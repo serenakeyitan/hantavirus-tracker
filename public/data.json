@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T13:37:52.709Z",
+  "generatedAt": "2026-06-07T14:41:12.702Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 40,
+      "totalArticles": 41,
       "languages": {
-        "English": 35,
+        "English": 36,
         "Portuguese": 3,
         "Spanish": 1,
         "Bulgarian": 1
@@ -2176,6 +2176,20 @@
             {
               "title": "Argentina expands search for hantavirus - carrying rodents",
               "url": "https://www.cp24.com/news/world/2026/06/05/argentina-to-expand-hantavirus-search-to-a-second-province/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
+          "count": 1,
+          "latest": "2026-06-07T14:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak",
+              "url": "https://nltimes.nl/2026/06/07/cruise-ship-hondius-departs-rotterdam-norway-deadly-hantavirus-outbreak",
               "language": "English"
             }
           ]
