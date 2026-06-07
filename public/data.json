@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T11:38:02.105Z",
+  "generatedAt": "2026-06-07T12:39:59.123Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,12 +2086,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 41,
+      "totalArticles": 40,
       "languages": {
         "English": 35,
         "Portuguese": 3,
         "Spanish": 1,
-        "Bulgarian": 2
+        "Bulgarian": 1
       },
       "countries": [
         {
@@ -2181,25 +2181,6 @@
           ]
         },
         {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 2,
-          "latest": "2026-06-05T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Изписват първия пациент с хантавирус в Испания",
-              "url": "https://www.bgonair.bg/a/4-world/420728-izpisvat-parviya-patsient-s-hantavirus-v-ispaniya",
-              "language": "Bulgarian"
-            },
-            {
-              "title": "В Испания пациент с хантавирус се връща в дома си",
-              "url": "https://dnes.dir.bg/svyat/v-ispaniya-patsient-s-hantavirus-se-vrashta-v-doma-si",
-              "language": "Bulgarian"
-            }
-          ]
-        },
-        {
           "country": "United Kingdom",
           "lat": 54,
           "lng": -2.4,
@@ -2266,6 +2247,20 @@
               "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
               "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-06-05T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Изписват първия пациент с хантавирус в Испания",
+              "url": "https://www.bgonair.bg/a/4-world/420728-izpisvat-parviya-patsient-s-hantavirus-v-ispaniya",
+              "language": "Bulgarian"
             }
           ]
         }
