@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T09:43:38.444Z",
+  "generatedAt": "2026-06-08T11:42:13.202Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,19 +2088,23 @@
       "timespan": "14d",
       "totalArticles": 41,
       "languages": {
-        "English": 36,
+        "English": 37,
         "Portuguese": 3,
-        "Spanish": 1,
-        "Bulgarian": 1
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
-          "latest": "2026-06-07T10:00:00Z",
+          "count": 24,
+          "latest": "2026-06-08T06:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+              "url": "https://www.santafenewmexican.com/news/health_and_science/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/article_cc257bff-ce51-5a8c-9af7-77f0a70a4f0a.html",
+              "language": "English"
+            },
             {
               "title": "Two Singapore residents who were on hantavirus - hit cruise ship complete quarantine",
               "url": "https://www.channelnewsasia.com/singapore/hantavirus-quarantine-mv-hondius-test-negative-cda-6167161",
@@ -2109,11 +2113,6 @@
             {
               "title": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
               "url": "https://www.fox7austin.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
-              "language": "English"
-            },
-            {
-              "title": "Tools to fight hantavirus show promise despite limited funding",
-              "url": "https://www.ksbw.com/article/tools-to-fight-hantavirus/71514153",
               "language": "English"
             }
           ]
@@ -2261,20 +2260,6 @@
               "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
               "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Bulgaria",
-          "lat": 42.7,
-          "lng": 25.5,
-          "count": 1,
-          "latest": "2026-06-05T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Изписват първия пациент с хантавирус в Испания",
-              "url": "https://www.bgonair.bg/a/4-world/420728-izpisvat-parviya-patsient-s-hantavirus-v-ispaniya",
-              "language": "Bulgarian"
             }
           ]
         }
