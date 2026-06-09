@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T13:08:20.209Z",
+  "generatedAt": "2026-06-09T15:17:58.103Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 39,
+      "totalArticles": 41,
       "languages": {
-        "English": 37,
+        "English": 39,
         "Portuguese": 1,
         "Spanish": 1
       },
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 20,
-          "latest": "2026-06-09T10:00:00Z",
+          "count": 21,
+          "latest": "2026-06-09T12:45:00Z",
           "sampleTitles": [
+            {
+              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
+              "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
+              "language": "English"
+            },
             {
               "title": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
               "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
@@ -2109,11 +2114,6 @@
               "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered - Medicine Hat NewsMedicine Hat News",
               "url": "https://medicinehatnews.com/news/national-news/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
               "language": "English"
-            },
-            {
-              "title": "Two Texans cleared of hantavirus risk after period of isolation",
-              "url": "https://www.hppr.org/hppr-news/2026-06-08/two-texans-cleared-of-hantavirus-risk-after-period-of-isolation",
-              "language": "English"
             }
           ]
         },
@@ -2121,22 +2121,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 9,
-          "latest": "2026-06-09T10:45:00Z",
+          "count": 13,
+          "latest": "2026-06-09T14:45:00Z",
           "sampleTitles": [
             {
-              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Brandon Sun",
-              "url": "https://www.brandonsun.com/national/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
-              "language": "English"
-            },
-            {
-              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/canada/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+              "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
               "language": "English"
             },
             {
               "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-              "url": "https://panow.com/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
+              "url": "https://globalnews.ca/news/11895930/b-c-hantavirus-recovery/",
+              "language": "English"
+            },
+            {
+              "title": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
+              "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
               "language": "English"
             }
           ]
@@ -2208,20 +2208,6 @@
               "title": "Del laboratorio en Nueva York al Instituto Leloir en Argentina para ganarle la batalla al hantavirus",
               "url": "https://www.rionegro.com.ar/sociedad/del-laboratorio-en-nueva-york-al-instituto-leloir-en-argentina-para-ganarle-la-batalla-al-hantavirus/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-06-06T05:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
-              "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
-              "language": "English"
             }
           ]
         }
