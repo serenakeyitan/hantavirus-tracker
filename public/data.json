@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:00:58.062Z",
+  "generatedAt": "2026-06-09T17:47:23.561Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,11 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 41,
+      "totalArticles": 39,
       "languages": {
-        "English": 39,
-        "Portuguese": 1,
-        "Spanish": 1
+        "English": 39
       },
       "countries": [
         {
@@ -2180,34 +2178,6 @@
               "title": "Hantavirus cases remain at 13 , no new deaths reported in over month : WHO chief",
               "url": "https://aa.com.tr/en/health/hantavirus-cases-remain-at-13-no-new-deaths-reported-in-over-month-who-chief/3958632",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-06-06T12:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : Argentina alarga análise de roedores a mais uma província",
-              "url": "https://sapo.pt/artigo/hantavirus-argentina-alarga-analise-de-roedores-a-mais-uma-provincia-6a240813434934ab04b89455",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 1,
-          "latest": "2026-06-06T12:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Del laboratorio en Nueva York al Instituto Leloir en Argentina para ganarle la batalla al hantavirus",
-              "url": "https://www.rionegro.com.ar/sociedad/del-laboratorio-en-nueva-york-al-instituto-leloir-en-argentina-para-ganarle-la-batalla-al-hantavirus/",
-              "language": "Spanish"
             }
           ]
         }
