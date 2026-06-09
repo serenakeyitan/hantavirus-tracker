@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:16:04.449Z",
+  "generatedAt": "2026-06-09T11:08:27.368Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 40,
+      "totalArticles": 39,
       "languages": {
-        "English": 38,
+        "English": 37,
         "Portuguese": 1,
         "Spanish": 1
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
-          "latest": "2026-06-09T01:15:00Z",
+          "count": 20,
+          "latest": "2026-06-09T10:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
+              "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
+              "language": "English"
+            },
+            {
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered - Medicine Hat NewsMedicine Hat News",
+              "url": "https://medicinehatnews.com/news/national-news/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
+              "language": "English"
+            },
             {
               "title": "Two Texans cleared of hantavirus risk after period of isolation",
               "url": "https://www.hppr.org/hppr-news/2026-06-08/two-texans-cleared-of-hantavirus-risk-after-period-of-isolation",
-              "language": "English"
-            },
-            {
-              "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-              "url": "https://www.santafenewmexican.com/news/health_and_science/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/article_cc257bff-ce51-5a8c-9af7-77f0a70a4f0a.html",
-              "language": "English"
-            },
-            {
-              "title": "Two Singapore residents who were on hantavirus - hit cruise ship complete quarantine",
-              "url": "https://www.channelnewsasia.com/singapore/hantavirus-quarantine-mv-hondius-test-negative-cda-6167161",
               "language": "English"
             }
           ]
@@ -2121,41 +2121,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 5,
-          "latest": "2026-06-09T06:00:00Z",
+          "count": 9,
+          "latest": "2026-06-09T10:45:00Z",
           "sampleTitles": [
             {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Brandon Sun",
-              "url": "https://www.brandonsun.com/lifestyles/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Brandon Sun",
+              "url": "https://www.brandonsun.com/national/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
               "language": "English"
             },
             {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/canada/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
               "language": "English"
             },
             {
               "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-              "url": "https://www.stcatharinesstandard.ca/news/canada/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/article_b7bdcd82-0c24-5c69-9f6e-426ca14a1fa6.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 2,
-          "latest": "2026-06-06T04:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Argentina traps , tests rats as hantavirus probe expands",
-              "url": "https://www.singletonargus.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
-              "language": "English"
-            },
-            {
-              "title": "Argentina traps , tests rats as hantavirus probe expands",
-              "url": "https://www.goulburnpost.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+              "url": "https://panow.com/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
               "language": "English"
             }
           ]
