@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T05:28:24.831Z",
+  "generatedAt": "2026-06-09T07:22:55.526Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 41,
+      "totalArticles": 40,
       "languages": {
-        "English": 37,
-        "Portuguese": 3,
+        "English": 38,
+        "Portuguese": 1,
         "Spanish": 1
       },
       "countries": [
@@ -2097,7 +2097,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
+          "count": 22,
           "latest": "2026-06-09T01:15:00Z",
           "sampleTitles": [
             {
@@ -2118,10 +2118,34 @@
           ]
         },
         {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 5,
+          "latest": "2026-06-09T06:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Brandon Sun",
+              "url": "https://www.brandonsun.com/lifestyles/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+              "language": "English"
+            },
+            {
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+              "language": "English"
+            },
+            {
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+              "url": "https://www.stcatharinesstandard.ca/news/canada/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/article_b7bdcd82-0c24-5c69-9f6e-426ca14a1fa6.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 3,
+          "count": 2,
           "latest": "2026-06-06T04:00:00Z",
           "sampleTitles": [
             {
@@ -2133,49 +2157,6 @@
               "title": "Argentina traps , tests rats as hantavirus probe expands",
               "url": "https://www.goulburnpost.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
               "language": "English"
-            },
-            {
-              "title": "Argentina traps , tests rats as hantavirus probe expands",
-              "url": "https://www.centralwesterndaily.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-06-09T03:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "B . C . first hantavirus patient is recovered , discharged from hospital",
-              "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital",
-              "language": "English"
-            },
-            {
-              "title": "B . C . first hantavirus patient has recovered , discharged from hospital",
-              "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital/wcm/61295c39-b170-4186-b9ba-236bac0ed475",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-06-06T00:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Argentina vai estender a outra província estudo de roedores por hantavirus",
-              "url": "http://www.em.com.br/internacional/2026/06/7435561-argentina-vai-estender-a-outra-provincia-estudo-de-roedores-por-hantavirus.html",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Argentina ampliará busca por hantavírus para outra província , além do local de onde navio partiu",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/06/05/argentina-ampliara-busca-por-hantavirus-para-outra-provincia-alem-do-local-de-onde-navio-partiu.ghtml",
-              "language": "Portuguese"
             }
           ]
         },
