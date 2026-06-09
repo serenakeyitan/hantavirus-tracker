@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T00:55:57.278Z",
+  "generatedAt": "2026-06-09T01:42:50.973Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
-          "latest": "2026-06-08T06:15:00Z",
+          "count": 23,
+          "latest": "2026-06-09T01:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Two Texans cleared of hantavirus risk after period of isolation",
+              "url": "https://www.hppr.org/hppr-news/2026-06-08/two-texans-cleared-of-hantavirus-risk-after-period-of-isolation",
+              "language": "English"
+            },
             {
               "title": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
               "url": "https://www.santafenewmexican.com/news/health_and_science/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/article_cc257bff-ce51-5a8c-9af7-77f0a70a4f0a.html",
@@ -2108,11 +2113,6 @@
             {
               "title": "Two Singapore residents who were on hantavirus - hit cruise ship complete quarantine",
               "url": "https://www.channelnewsasia.com/singapore/hantavirus-quarantine-mv-hondius-test-negative-cda-6167161",
-              "language": "English"
-            },
-            {
-              "title": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
-              "url": "https://www.fox7austin.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
               "language": "English"
             }
           ]
@@ -2157,25 +2157,6 @@
               "title": "Argentina ampliará busca por hantavírus para outra província , além do local de onde navio partiu",
               "url": "https://oglobo.globo.com/saude/noticia/2026/06/05/argentina-ampliara-busca-por-hantavirus-para-outra-provincia-alem-do-local-de-onde-navio-partiu.ghtml",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-06-06T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/05/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza",
-              "language": "English"
-            },
-            {
-              "title": "Argentina expands search for hantavirus - carrying rodents",
-              "url": "https://www.cp24.com/news/world/2026/06/05/argentina-to-expand-hantavirus-search-to-a-second-province/",
-              "language": "English"
             }
           ]
         },
@@ -2259,6 +2240,20 @@
             {
               "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
               "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-06-06T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/05/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza",
               "language": "English"
             }
           ]
