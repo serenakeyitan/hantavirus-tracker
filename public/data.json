@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T03:15:16.574Z",
+  "generatedAt": "2026-06-09T05:28:24.831Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 40,
+      "totalArticles": 41,
       "languages": {
-        "English": 36,
+        "English": 37,
         "Portuguese": 3,
         "Spanish": 1
       },
@@ -2137,6 +2137,25 @@
             {
               "title": "Argentina traps , tests rats as hantavirus probe expands",
               "url": "https://www.centralwesterndaily.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-09T03:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "B . C . first hantavirus patient is recovered , discharged from hospital",
+              "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital",
+              "language": "English"
+            },
+            {
+              "title": "B . C . first hantavirus patient has recovered , discharged from hospital",
+              "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital/wcm/61295c39-b170-4186-b9ba-236bac0ed475",
               "language": "English"
             }
           ]
@@ -2240,20 +2259,6 @@
             {
               "title": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
               "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-06T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/05/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza",
               "language": "English"
             }
           ]
