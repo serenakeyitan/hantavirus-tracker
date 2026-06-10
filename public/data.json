@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T21:46:10.756Z",
+  "generatedAt": "2026-06-10T22:40:33.782Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,36 +2086,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 31,
+      "totalArticles": 29,
       "languages": {
-        "Turkish": 1,
-        "English": 30
+        "English": 27,
+        "Turkish": 2
       },
       "countries": [
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 14,
-          "latest": "2026-06-10T04:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Bowie County expert says hantavirus rare in East Texas region",
-              "url": "https://www.texarkanagazette.com/news/2026/jun/09/bowie-county-expert-says-hantavirus-rare-in-east/",
-              "language": "English"
-            },
-            {
-              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
-              "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
-              "language": "English"
-            },
-            {
-              "title": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
-              "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
-              "language": "English"
-            }
-          ]
-        },
         {
           "country": "Canada",
           "lat": 56.1,
@@ -2136,6 +2112,30 @@
             {
               "title": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
               "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 10,
+          "latest": "2026-06-10T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "The World Cup Real Viral Threats Arent Ebola Or Hantavirus",
+              "url": "https://www.forbes.com/sites/matthewbinnicker/2026/06/10/the-world-cups-real-viral-threats-arent-ebola-or-hantavirus/",
+              "language": "English"
+            },
+            {
+              "title": "Bowie County expert says hantavirus rare in East Texas region",
+              "url": "https://www.texarkanagazette.com/news/2026/jun/09/bowie-county-expert-says-hantavirus-rare-in-east/",
+              "language": "English"
+            },
+            {
+              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
+              "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
               "language": "English"
             }
           ]
