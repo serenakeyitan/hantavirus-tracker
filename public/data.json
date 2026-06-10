@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T19:00:19.692Z",
+  "generatedAt": "2026-06-10T19:54:38.847Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,16 +2086,17 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 32,
+      "totalArticles": 31,
       "languages": {
-        "English": 32
+        "Turkish": 1,
+        "English": 30
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 16,
+          "count": 14,
           "latest": "2026-06-10T04:00:00Z",
           "sampleTitles": [
             {
@@ -2136,6 +2137,20 @@
               "title": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
               "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-06-10T18:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Kabus başlamadan sona mı erdi ? Hantavirüste güncel tablo açıklandı - Son Dakika Dünya Haberleri CNN Türk",
+              "url": "https://www.cnnturk.com/dunya/kabus-baslamadan-sona-mi-erdi-hantaviruste-guncel-tablo-aciklandi-3429380",
+              "language": "Turkish"
             }
           ]
         },
