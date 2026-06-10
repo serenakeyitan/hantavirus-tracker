@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T03:14:53.957Z",
+  "generatedAt": "2026-06-10T05:38:31.621Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2096,8 +2096,13 @@
           "lat": 39,
           "lng": -98,
           "count": 20,
-          "latest": "2026-06-09T12:45:00Z",
+          "latest": "2026-06-10T04:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Bowie County expert says hantavirus rare in East Texas region",
+              "url": "https://www.texarkanagazette.com/news/2026/jun/09/bowie-county-expert-says-hantavirus-rare-in-east/",
+              "language": "English"
+            },
             {
               "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
               "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
@@ -2106,11 +2111,6 @@
             {
               "title": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
               "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
-              "language": "English"
-            },
-            {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered - Medicine Hat NewsMedicine Hat News",
-              "url": "https://medicinehatnews.com/news/national-news/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
               "language": "English"
             }
           ]
