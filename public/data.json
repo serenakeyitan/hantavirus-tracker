@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T01:03:27.246Z",
+  "generatedAt": "2026-06-10T03:14:53.957Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,16 +2086,16 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 39,
+      "totalArticles": 36,
       "languages": {
-        "English": 39
+        "English": 36
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 21,
+          "count": 20,
           "latest": "2026-06-09T12:45:00Z",
           "sampleTitles": [
             {
@@ -2149,34 +2149,6 @@
             {
               "title": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak",
               "url": "https://nltimes.nl/2026/06/07/cruise-ship-hondius-departs-rotterdam-norway-deadly-hantavirus-outbreak",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-06-06T17:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Scientists testing rodents for hantavirus in Argentina famous wine region of Mendoza after cruise ship outbreak",
-              "url": "https://www.independent.co.uk/news/world/americas/hantavirus-origin-cruise-ship-rats-b2990941.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-06T15:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus cases remain at 13 , no new deaths reported in over month : WHO chief",
-              "url": "https://aa.com.tr/en/health/hantavirus-cases-remain-at-13-no-new-deaths-reported-in-over-month-who-chief/3958632",
               "language": "English"
             }
           ]
