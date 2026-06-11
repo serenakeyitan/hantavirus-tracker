@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:54:45.347Z",
+  "generatedAt": "2026-06-11T21:45:04.298Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,32 +2086,32 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 46,
+      "totalArticles": 54,
       "languages": {
-        "English": 41,
-        "Turkish": 5
+        "English": 50,
+        "Turkish": 4
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 38,
-          "latest": "2026-06-11T20:30:00Z",
+          "count": 49,
+          "latest": "2026-06-11T21:15:00Z",
           "sampleTitles": [
             {
-              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://www.wkyufm.org/news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
-              "language": "English"
-            },
-            {
-              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://news.wjct.org/national-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
-              "language": "English"
-            },
-            {
               "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
-              "url": "https://www.clickondetroit.com/health/2026/06/11/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
+              "url": "https://www.cnn.com/2026/06/11/health/hantavirus-cruise-passenger-evacuated",
+              "language": "English"
+            },
+            {
+              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+              "url": "https://www.kgou.org/health/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "language": "English"
+            },
+            {
+              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+              "url": "https://www.wncw.org/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
               "language": "English"
             }
           ]
@@ -2120,7 +2120,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 4,
+          "count": 3,
           "latest": "2026-06-11T16:45:00Z",
           "sampleTitles": [
             {
@@ -2137,20 +2137,6 @@
               "title": "Hantavirüs kabusunda beklenmeyen gelişme ! Tehlike başlamadan bitti mi ? ",
               "url": "https://www.ozgurkocaeli.com.tr/haber/28149061/hantavirus-kabusunda-beklenmeyen-gelisme-tehlike-baslamadan-bitti-mi",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-09T14:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-              "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
-              "language": "English"
             }
           ]
         }
