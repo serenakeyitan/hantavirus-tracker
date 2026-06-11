@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T17:21:14.373Z",
+  "generatedAt": "2026-06-11T19:06:20.867Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,12 +2086,36 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 24,
+      "totalArticles": 40,
       "languages": {
-        "English": 22,
-        "Turkish": 2
+        "English": 35,
+        "Turkish": 5
       },
       "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 19,
+          "latest": "2026-06-11T18:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+              "url": "https://www.kedm.org/npr-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "language": "English"
+            },
+            {
+              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+              "url": "https://www.krcu.org/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "language": "English"
+            },
+            {
+              "title": "U . S . restrictions related to Ebola and hantavirus raise public health concerns : NPR",
+              "url": "https://www.npr.org/transcripts/nx-s1-5854492",
+              "language": "English"
+            }
+          ]
+        },
         {
           "country": "Canada",
           "lat": 56.1,
@@ -2117,39 +2141,25 @@
           ]
         },
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 6,
-          "latest": "2026-06-10T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "The World Cup Real Viral Threats Arent Ebola Or Hantavirus",
-              "url": "https://www.forbes.com/sites/matthewbinnicker/2026/06/10/the-world-cups-real-viral-threats-arent-ebola-or-hantavirus/",
-              "language": "English"
-            },
-            {
-              "title": "Bowie County expert says hantavirus rare in East Texas region",
-              "url": "https://www.texarkanagazette.com/news/2026/jun/09/bowie-county-expert-says-hantavirus-rare-in-east/",
-              "language": "English"
-            },
-            {
-              "title": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
-              "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-10T18:45:00Z",
+          "count": 4,
+          "latest": "2026-06-11T16:45:00Z",
           "sampleTitles": [
             {
-              "title": "Kabus başlamadan sona mı erdi ? Hantavirüste güncel tablo açıklandı - Son Dakika Dünya Haberleri CNN Türk",
-              "url": "https://www.cnnturk.com/dunya/kabus-baslamadan-sona-mi-erdi-hantaviruste-guncel-tablo-aciklandi-3429380",
+              "title": "DSÖ  den Hantavirüs Açıklaması : Yolcu Gemisindeki Vaka Sayısı 13  e Ulaştı",
+              "url": "https://www.saglikaktuel.com/haber/dsoden-hantavirus-aciklamasi-yolcu-gemisindeki-vaka-sayisi-13e-ulasti-107526.htm",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ , 2 Mayıstan bu yana hantavirüsle ilgili yeni ölüm bildirilmediğini açıkladı",
+              "url": "https://medimagazin.com.tr/guncel/dso-2-mayistan-bu-yana-hantavirusle-ilgili-yeni-olum-bildirilmedigini-acikladi-120564",
+              "language": "Turkish"
+            },
+            {
+              "title": "Hantavirüs kabusunda beklenmeyen gelişme ! Tehlike başlamadan bitti mi ? ",
+              "url": "https://www.ozgurkocaeli.com.tr/haber/28149061/hantavirus-kabusunda-beklenmeyen-gelisme-tehlike-baslamadan-bitti-mi",
               "language": "Turkish"
             }
           ]
