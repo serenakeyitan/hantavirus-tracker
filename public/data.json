@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T19:06:20.867Z",
+  "generatedAt": "2026-06-11T20:54:45.347Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 40,
+      "totalArticles": 46,
       "languages": {
-        "English": 35,
+        "English": 41,
         "Turkish": 5
       },
       "countries": [
@@ -2096,46 +2096,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 19,
-          "latest": "2026-06-11T18:45:00Z",
+          "count": 38,
+          "latest": "2026-06-11T20:30:00Z",
           "sampleTitles": [
             {
               "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://www.kedm.org/npr-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "url": "https://www.wkyufm.org/news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
               "language": "English"
             },
             {
               "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://www.krcu.org/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "url": "https://news.wjct.org/national-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
               "language": "English"
             },
             {
-              "title": "U . S . restrictions related to Ebola and hantavirus raise public health concerns : NPR",
-              "url": "https://www.npr.org/transcripts/nx-s1-5854492",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 13,
-          "latest": "2026-06-09T14:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-              "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
-              "language": "English"
-            },
-            {
-              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-              "url": "https://globalnews.ca/news/11895930/b-c-hantavirus-recovery/",
-              "language": "English"
-            },
-            {
-              "title": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
-              "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
+              "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
+              "url": "https://www.clickondetroit.com/health/2026/06/11/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
               "language": "English"
             }
           ]
@@ -2161,6 +2137,20 @@
               "title": "Hantavirüs kabusunda beklenmeyen gelişme ! Tehlike başlamadan bitti mi ? ",
               "url": "https://www.ozgurkocaeli.com.tr/haber/28149061/hantavirus-kabusunda-beklenmeyen-gelisme-tehlike-baslamadan-bitti-mi",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-06-09T14:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+              "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
+              "language": "English"
             }
           ]
         }
