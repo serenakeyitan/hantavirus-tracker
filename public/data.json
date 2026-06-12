@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T18:46:47.995Z",
+  "generatedAt": "2026-06-12T19:43:37.913Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,17 +2088,21 @@
       "timespan": "14d",
       "totalArticles": 66,
       "languages": {
-        "English": 65,
-        "Turkish": 1
+        "English": 66
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 64,
-          "latest": "2026-06-12T14:15:00Z",
+          "count": 65,
+          "latest": "2026-06-12T19:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Officials investigating possible hantavirus case in San Quentin prison",
+              "url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
+              "language": "English"
+            },
             {
               "title": "San Quentin prison reports possible hantavirus case",
               "url": "https://www.eastbaytimes.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
@@ -2107,11 +2111,6 @@
             {
               "title": "US pays to evacuate American on hantavirus ship from Pitcairn",
               "url": "https://www.wesh.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-              "language": "English"
-            },
-            {
-              "title": "US pays to evacuate American on hantavirus ship from Pitcairn",
-              "url": "https://www.4029tv.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
               "language": "English"
             }
           ]
@@ -2127,20 +2126,6 @@
               "title": "Global study launched to investigate Andes virus outbreak – Channel Africa",
               "url": "https://www.channelafrica.co.za/channelafrica/news/global-study-launched-to-investigate-andes-virus-outbreak/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-11T16:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ  den Hantavirüs Açıklaması : Yolcu Gemisindeki Vaka Sayısı 13  e Ulaştı",
-              "url": "https://www.saglikaktuel.com/haber/dsoden-hantavirus-aciklamasi-yolcu-gemisindeki-vaka-sayisi-13e-ulasti-107526.htm",
-              "language": "Turkish"
             }
           ]
         }
