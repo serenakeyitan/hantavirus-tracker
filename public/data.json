@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:16:24.414Z",
+  "generatedAt": "2026-06-12T05:41:16.025Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 63,
       "languages": {
-        "English": 59,
+        "English": 60,
         "Turkish": 3
       },
       "countries": [
@@ -2096,9 +2096,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 59,
-          "latest": "2026-06-12T00:15:00Z",
+          "count": 60,
+          "latest": "2026-06-12T03:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Single - dose vaccine provides complete protection against Andes hantavirus",
+              "url": "https://www.news-medical.net/news/20260611/Single-dose-vaccine-provides-complete-protection-against-Andes-hantavirus.aspx",
+              "language": "English"
+            },
             {
               "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Boston News , Weather , Sports",
               "url": "https://whdh.com/news/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
@@ -2107,11 +2112,6 @@
             {
               "title": "Hantavirus outbreak : Passengers exposed to hantavirus leave Omaha",
               "url": "https://www.ketv.com/article/omaha-hantavirus-passengers-leave-nebraska-medicine-quarantine/71562237",
-              "language": "English"
-            },
-            {
-              "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
-              "url": "https://www.seattletimes.com/seattle-news/health/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
               "language": "English"
             }
           ]
