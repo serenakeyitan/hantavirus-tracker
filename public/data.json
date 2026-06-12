@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T23:36:10.893Z",
+  "generatedAt": "2026-06-12T01:05:23.229Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 62,
       "languages": {
-        "English": 56,
+        "English": 59,
         "Turkish": 3
       },
       "countries": [
@@ -2096,22 +2096,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 56,
-          "latest": "2026-06-11T23:15:00Z",
+          "count": 59,
+          "latest": "2026-06-12T00:15:00Z",
           "sampleTitles": [
             {
+              "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Boston News , Weather , Sports",
+              "url": "https://whdh.com/news/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus outbreak : Passengers exposed to hantavirus leave Omaha",
+              "url": "https://www.ketv.com/article/omaha-hantavirus-passengers-leave-nebraska-medicine-quarantine/71562237",
+              "language": "English"
+            },
+            {
               "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
-              "url": "https://isp.netscape.com:443/news/world/story/0001/20260611/33ba5ddb8374d0083271669e7ba52b04",
-              "language": "English"
-            },
-            {
-              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://kansaspublicradio.org/npr-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
-              "language": "English"
-            },
-            {
-              "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-              "url": "https://www.wkms.org/npr-news/2026-06-11/white-house-response-to-hantavirus-and-ebola-contrasts-with-covid-criticisms",
+              "url": "https://www.seattletimes.com/seattle-news/health/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
               "language": "English"
             }
           ]
