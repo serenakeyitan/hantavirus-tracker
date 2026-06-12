@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T15:09:41.311Z",
+  "generatedAt": "2026-06-12T17:05:32.613Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,32 +2086,46 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 63,
+      "totalArticles": 67,
       "languages": {
-        "English": 60,
-        "Turkish": 3
+        "English": 66,
+        "Turkish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 60,
-          "latest": "2026-06-12T03:15:00Z",
+          "count": 65,
+          "latest": "2026-06-12T14:15:00Z",
           "sampleTitles": [
             {
-              "title": "Single - dose vaccine provides complete protection against Andes hantavirus",
-              "url": "https://www.news-medical.net/news/20260611/Single-dose-vaccine-provides-complete-protection-against-Andes-hantavirus.aspx",
+              "title": "San Quentin prison reports possible hantavirus case",
+              "url": "https://www.eastbaytimes.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
               "language": "English"
             },
             {
-              "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Boston News , Weather , Sports",
-              "url": "https://whdh.com/news/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
+              "title": "US pays to evacuate American on hantavirus ship from Pitcairn",
+              "url": "https://www.wesh.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
               "language": "English"
             },
             {
-              "title": "Hantavirus outbreak : Passengers exposed to hantavirus leave Omaha",
-              "url": "https://www.ketv.com/article/omaha-hantavirus-passengers-leave-nebraska-medicine-quarantine/71562237",
+              "title": "US pays to evacuate American on hantavirus ship from Pitcairn",
+              "url": "https://www.4029tv.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 1,
+          "latest": "2026-06-12T14:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Global study launched to investigate Andes virus outbreak – Channel Africa",
+              "url": "https://www.channelafrica.co.za/channelafrica/news/global-study-launched-to-investigate-andes-virus-outbreak/",
               "language": "English"
             }
           ]
@@ -2120,22 +2134,12 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
+          "count": 1,
           "latest": "2026-06-11T16:45:00Z",
           "sampleTitles": [
             {
               "title": "DSÖ  den Hantavirüs Açıklaması : Yolcu Gemisindeki Vaka Sayısı 13  e Ulaştı",
               "url": "https://www.saglikaktuel.com/haber/dsoden-hantavirus-aciklamasi-yolcu-gemisindeki-vaka-sayisi-13e-ulasti-107526.htm",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ , 2 Mayıstan bu yana hantavirüsle ilgili yeni ölüm bildirilmediğini açıkladı",
-              "url": "https://medimagazin.com.tr/guncel/dso-2-mayistan-bu-yana-hantavirusle-ilgili-yeni-olum-bildirilmedigini-acikladi-120564",
-              "language": "Turkish"
-            },
-            {
-              "title": "Hantavirüs kabusunda beklenmeyen gelişme ! Tehlike başlamadan bitti mi ? ",
-              "url": "https://www.ozgurkocaeli.com.tr/haber/28149061/hantavirus-kabusunda-beklenmeyen-gelisme-tehlike-baslamadan-bitti-mi",
               "language": "Turkish"
             }
           ]
