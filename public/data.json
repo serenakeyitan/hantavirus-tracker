@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:36:08.009Z",
+  "generatedAt": "2026-06-13T01:03:54.746Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,18 +2086,23 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 58,
       "languages": {
-        "English": 59
+        "English": 58
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 58,
-          "latest": "2026-06-12T19:00:00Z",
+          "count": 57,
+          "latest": "2026-06-12T23:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus ruled out for San Quentin inmate",
+              "url": "https://www.pressdemocrat.com/2026/06/12/hantavirus-ruled-out-for-san-quentin-inmate/",
+              "language": "English"
+            },
             {
               "title": "Officials investigating possible hantavirus case in San Quentin prison",
               "url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
@@ -2106,11 +2111,6 @@
             {
               "title": "San Quentin prison reports possible hantavirus case",
               "url": "https://www.eastbaytimes.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
-              "language": "English"
-            },
-            {
-              "title": "US pays to evacuate American on hantavirus ship from Pitcairn",
-              "url": "https://www.wesh.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
               "language": "English"
             }
           ]
