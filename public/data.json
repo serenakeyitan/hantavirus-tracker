@@ -1,11 +1,162 @@
 {
-  "generatedAt": "2026-06-14T03:17:35.423Z",
+  "generatedAt": "2026-06-14T05:40:36.918Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
       "url": "https://data.cdc.gov/resource/x9gk-5huc",
       "tier": "confirmed",
-      "rows": []
+      "rows": [
+        {
+          "state": "PENNSYLVANIA",
+          "lat": 40.590752,
+          "lng": -77.209755,
+          "total": 1,
+          "byYear": {
+            "2023": 0,
+            "2024": 1
+          }
+        },
+        {
+          "state": "NORTH DAKOTA",
+          "lat": 47.528912,
+          "lng": -99.784012,
+          "total": 3,
+          "byYear": {
+            "2023": 3,
+            "2024": 0
+          }
+        },
+        {
+          "state": "SOUTH DAKOTA",
+          "lat": 44.299782,
+          "lng": -99.438828,
+          "total": 23,
+          "byYear": {
+            "2023": 23,
+            "2024": 0
+          }
+        },
+        {
+          "state": "LOUISIANA",
+          "lat": 31.169546,
+          "lng": -91.867805,
+          "total": 50,
+          "byYear": {
+            "2023": 33,
+            "2024": 17
+          }
+        },
+        {
+          "state": "OKLAHOMA",
+          "lat": 35.565342,
+          "lng": -96.928917,
+          "total": 20,
+          "byYear": {
+            "2023": 20,
+            "2024": 0
+          }
+        },
+        {
+          "state": "ARIZONA",
+          "lat": 33.729759,
+          "lng": -111.431221,
+          "total": 194,
+          "byYear": {
+            "2023": 90,
+            "2024": 104
+          }
+        },
+        {
+          "state": "COLORADO",
+          "lat": 39.059811,
+          "lng": -105.311104,
+          "total": 29,
+          "byYear": {
+            "2023": 0,
+            "2024": 29
+          }
+        },
+        {
+          "state": "IDAHO",
+          "lat": 44.240459,
+          "lng": -114.478828,
+          "total": 49,
+          "byYear": {
+            "2023": 10,
+            "2024": 39
+          }
+        },
+        {
+          "state": "NEVADA",
+          "lat": 38.313515,
+          "lng": -117.055374,
+          "total": 110,
+          "byYear": {
+            "2023": 50,
+            "2024": 60
+          }
+        },
+        {
+          "state": "NEW MEXICO",
+          "lat": 34.840515,
+          "lng": -106.248482,
+          "total": 104,
+          "byYear": {
+            "2023": 52,
+            "2024": 52
+          }
+        },
+        {
+          "state": "UTAH",
+          "lat": 40.150032,
+          "lng": -111.862434,
+          "total": 73,
+          "byYear": {
+            "2023": 39,
+            "2024": 34
+          }
+        },
+        {
+          "state": "WYOMING",
+          "lat": 42.755966,
+          "lng": -107.30249,
+          "total": 19,
+          "byYear": {
+            "2023": 19,
+            "2024": 0
+          }
+        },
+        {
+          "state": "CALIFORNIA",
+          "lat": 36.116203,
+          "lng": -119.681564,
+          "total": 71,
+          "byYear": {
+            "2023": 19,
+            "2024": 52
+          }
+        },
+        {
+          "state": "OREGON",
+          "lat": 44.572021,
+          "lng": -122.070938,
+          "total": 20,
+          "byYear": {
+            "2023": 2,
+            "2024": 18
+          }
+        },
+        {
+          "state": "WASHINGTON",
+          "lat": 47.400902,
+          "lng": -121.490494,
+          "total": 43,
+          "byYear": {
+            "2023": 0,
+            "2024": 43
+          }
+        }
+      ]
     },
     "who": {
       "name": "WHO Disease Outbreak News",
