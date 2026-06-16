@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:06:27.133Z",
+  "generatedAt": "2026-06-16T21:53:36.975Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 29,
+      "totalArticles": 30,
       "languages": {
-        "English": 28,
+        "English": 29,
         "Portuguese": 1
       },
       "countries": [
@@ -2096,7 +2096,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 22,
+          "count": 21,
           "latest": "2026-06-16T18:00:00Z",
           "sampleTitles": [
             {
@@ -2131,6 +2131,34 @@
             {
               "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
               "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-06-16T21:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-06-16T20:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will , WSJ reports",
+              "url": "https://www.hindustantimes.com/india-news/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports-101781635439707.html",
               "language": "English"
             }
           ]
