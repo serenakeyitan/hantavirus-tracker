@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T16:37:37.194Z",
+  "generatedAt": "2026-06-16T18:33:44.852Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 28,
+      "totalArticles": 29,
       "languages": {
-        "English": 28
+        "English": 28,
+        "Portuguese": 1
       },
       "countries": [
         {
@@ -2096,8 +2097,13 @@
           "lat": 39,
           "lng": -98,
           "count": 22,
-          "latest": "2026-06-16T11:45:00Z",
+          "latest": "2026-06-16T18:00:00Z",
           "sampleTitles": [
+            {
+              "title": "American Says Hantavirus Quarantine Order  Feels Like Retaliation  ",
+              "url": "https://www.newsweek.com/american-says-hantavirus-quarantine-order-feels-like-retaliation-12079203",
+              "language": "English"
+            },
             {
               "title": "Kennedy orders Florida woman to stay in Hantavirus quarantine , despite CDC recommendation",
               "url": "https://www.sun-sentinel.com/2026/06/15/kennedy-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
@@ -2106,11 +2112,6 @@
             {
               "title": "RFK Jr . orders woman to stay in hantavirus quarantine , despite CDC recommendation",
               "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
-              "language": "English"
-            },
-            {
-              "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38 - year - old male inmate ruled a false positive , officials say",
-              "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-suspected-hantavirus-case-38-year-old-male-inmate-ruled-false-positive-officials-say/19284773/",
               "language": "English"
             }
           ]
@@ -2131,6 +2132,20 @@
               "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
               "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-06-16T16:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : EUA ordena que mulher permaneça em quarentena - 16 / 06 / 2026 - Equilíbrio e Saúde",
+              "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/eua-mantem-passageira-de-navio-isolada-por-hantavirus-contra-sua-vontade-e-uma-prisao.shtml",
+              "language": "Portuguese"
             }
           ]
         },
