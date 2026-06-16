@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T18:33:44.852Z",
+  "generatedAt": "2026-06-16T20:06:27.133Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -397,11 +397,11 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_811_se_21_962026.pdf",
-      "bulletinIssue": 811,
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_812_se_22_vf.pdf",
+      "bulletinIssue": 812,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
-      "totalCases": 107,
+      "totalCases": 108,
       "andesCases": 12,
       "rows": [
         {
@@ -459,8 +459,8 @@
           "region": "NOA",
           "lat": -24.7859,
           "lng": -65.4117,
-          "cases": 31,
-          "ratePer100k": 2.04,
+          "cases": 32,
+          "ratePer100k": 2.11,
           "isAndesRegion": false,
           "seasonLabel": "2025-2026"
         },
