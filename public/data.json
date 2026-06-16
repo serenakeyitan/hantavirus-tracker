@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T12:39:20.182Z",
+  "generatedAt": "2026-06-16T14:41:46.449Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,18 +2086,23 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 29,
+      "totalArticles": 28,
       "languages": {
-        "English": 29
+        "English": 28
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 23,
-          "latest": "2026-06-16T08:00:00Z",
+          "count": 22,
+          "latest": "2026-06-16T11:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Kennedy orders Florida woman to stay in Hantavirus quarantine , despite CDC recommendation",
+              "url": "https://www.sun-sentinel.com/2026/06/15/kennedy-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . orders woman to stay in hantavirus quarantine , despite CDC recommendation",
               "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
@@ -2106,11 +2111,6 @@
             {
               "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38 - year - old male inmate ruled a false positive , officials say",
               "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-suspected-hantavirus-case-38-year-old-male-inmate-ruled-false-positive-officials-say/19284773/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus and the EPA : A Collaborative Defense Against Viral Threats A Conversation with Dana S . Lateulere and James V . Aidala | Bergeson & Campbell , P . C . ",
-              "url": "https://www.jdsupra.com:443/legalnews/hantavirus-and-the-epa-a-collaborative-8476951/",
               "language": "English"
             }
           ]
