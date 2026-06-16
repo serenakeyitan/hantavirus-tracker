@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T22:42:14.521Z",
+  "generatedAt": "2026-06-16T23:35:33.780Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 31,
+      "totalArticles": 33,
       "languages": {
-        "English": 29,
+        "English": 31,
         "Turkish": 1,
         "Portuguese": 1
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 21,
-          "latest": "2026-06-16T22:00:00Z",
+          "count": 23,
+          "latest": "2026-06-16T23:00:00Z",
           "sampleTitles": [
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.adn.com/nation-world/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/",
+              "url": "https://mynorthwest.com/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/4248606",
               "language": "English"
             },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.dailygazette.com/ade/ap/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_5987efc8-4125-5c71-96c2-3d663bfac880.html",
+              "url": "http://www.bozemandailychronicle.com/ap_news/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_bcb24416-83f3-579d-b24d-c9278aca38fe.html",
               "language": "English"
             },
             {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.clickorlando.com/news/politics/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/",
+              "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will , WSJ reports",
+              "url": "https://kelo.com/2026/06/16/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports/",
               "language": "English"
             }
           ]
