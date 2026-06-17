@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T19:47:30.778Z",
+  "generatedAt": "2026-06-17T20:52:43.294Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 64,
+      "totalArticles": 65,
       "languages": {
-        "English": 60,
+        "English": 61,
         "Turkish": 3,
         "Portuguese": 1
       },
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 52,
-          "latest": "2026-06-17T13:45:00Z",
+          "count": 53,
+          "latest": "2026-06-17T19:15:00Z",
           "sampleTitles": [
+            {
+              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+              "url": "https://www.wlrn.org/health/2026-06-17/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
               "url": "https://www.paradisepost.com/2026/06/16/hantavirus-quarantine/",
@@ -2108,11 +2113,6 @@
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
               "url": "https://www.oneidadispatch.com/2026/06/16/hantavirus-quarantine/",
-              "language": "English"
-            },
-            {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.wboc.com/news/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_4fc8e14f-33b4-5217-9019-b331038936cc.html",
               "language": "English"
             }
           ]
