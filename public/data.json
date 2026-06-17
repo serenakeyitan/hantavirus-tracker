@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:38:40.724Z",
+  "generatedAt": "2026-06-17T23:37:05.617Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 66,
+      "totalArticles": 68,
       "languages": {
-        "English": 62,
+        "English": 64,
         "Turkish": 3,
         "Portuguese": 1
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 54,
-          "latest": "2026-06-17T22:15:00Z",
+          "count": 58,
+          "latest": "2026-06-17T23:15:00Z",
           "sampleTitles": [
             {
               "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-              "url": "https://www.fox35orlando.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+              "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
               "language": "English"
             },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.wlrn.org/health/2026-06-17/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
+              "url": "https://www.ky3.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
               "language": "English"
             },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.paradisepost.com/2026/06/16/hantavirus-quarantine/",
+              "url": "https://www.wowt.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
               "language": "English"
             }
           ]
@@ -2142,20 +2142,15 @@
           ]
         },
         {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 2,
-          "latest": "2026-06-16T05:15:00Z",
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-06-17T23:15:00Z",
           "sampleTitles": [
             {
-              "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
-              "url": "https://www.nzdoctor.co.nz/article/opinion/ebola-hantavirus-diphtheria-how-distrust-health-care-fuelling-multiple-outbreaks",
-              "language": "English"
-            },
-            {
-              "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
-              "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
+              "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
+              "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
               "language": "English"
             }
           ]
@@ -2231,15 +2226,15 @@
           ]
         },
         {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
           "count": 1,
-          "latest": "2026-06-14T22:00:00Z",
+          "latest": "2026-06-16T05:15:00Z",
           "sampleTitles": [
             {
               "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
-              "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
+              "url": "https://www.nzdoctor.co.nz/article/opinion/ebola-hantavirus-diphtheria-how-distrust-health-care-fuelling-multiple-outbreaks",
               "language": "English"
             }
           ]
