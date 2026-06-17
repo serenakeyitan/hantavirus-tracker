@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T08:01:08.928Z",
+  "generatedAt": "2026-06-17T09:50:56.966Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 55,
+      "totalArticles": 60,
       "languages": {
-        "English": 53,
+        "English": 58,
         "Turkish": 1,
         "Portuguese": 1
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 46,
-          "latest": "2026-06-17T02:45:00Z",
+          "count": 51,
+          "latest": "2026-06-17T08:30:00Z",
           "sampleTitles": [
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.dailylocal.com/2026/06/16/hantavirus-quarantine/",
+              "url": "https://www.oneidadispatch.com/2026/06/16/hantavirus-quarantine/",
               "language": "English"
             },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.twincities.com/2026/06/16/hantavirus-quarantine/",
+              "url": "https://www.wboc.com/news/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_4fc8e14f-33b4-5217-9019-b331038936cc.html",
               "language": "English"
             },
             {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.chicoer.com/2026/06/16/hantavirus-quarantine/",
+              "title": "RFK Jr . orders passenger from hantavirus - stricken cruise to remain in quarantine in Nebraska , despite CDC recommendation",
+              "url": "https://www.waaytv.com/news/health/rfk-jr-orders-passenger-from-hantavirus-stricken-cruise-to-remain-in-quarantine-in-nebraska-despite/article_d3eac2da-c345-5c89-aac4-0250329486c0.html",
               "language": "English"
             }
           ]
