@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T17:08:34.628Z",
+  "generatedAt": "2026-06-17T18:56:36.246Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 64,
       "languages": {
-        "Turkish": 2,
-        "English": 59,
+        "English": 60,
+        "Turkish": 3,
         "Portuguese": 1
       },
       "countries": [
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 51,
-          "latest": "2026-06-17T08:30:00Z",
+          "count": 52,
+          "latest": "2026-06-17T13:45:00Z",
           "sampleTitles": [
+            {
+              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+              "url": "https://www.paradisepost.com/2026/06/16/hantavirus-quarantine/",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
               "url": "https://www.oneidadispatch.com/2026/06/16/hantavirus-quarantine/",
@@ -2109,11 +2114,6 @@
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
               "url": "https://www.wboc.com/news/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_4fc8e14f-33b4-5217-9019-b331038936cc.html",
               "language": "English"
-            },
-            {
-              "title": "RFK Jr . orders passenger from hantavirus - stricken cruise to remain in quarantine in Nebraska , despite CDC recommendation",
-              "url": "https://www.waaytv.com/news/health/rfk-jr-orders-passenger-from-hantavirus-stricken-cruise-to-remain-in-quarantine-in-nebraska-despite/article_d3eac2da-c345-5c89-aac4-0250329486c0.html",
-              "language": "English"
             }
           ]
         },
@@ -2121,9 +2121,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 2,
-          "latest": "2026-06-17T11:15:00Z",
+          "count": 3,
+          "latest": "2026-06-17T14:00:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ  den Yolcu Gemisindeki Hantavirüs Salgınına İlişkin Açıklama : Durum İstikrarlı",
+              "url": "https://www.saglikaktuel.com/haber/dsoden-yolcu-gemisindeki-hantavirus-salginina-iliskin-aciklama-durum-istikrarli-107574.htm",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
               "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
@@ -2151,6 +2156,20 @@
             {
               "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
               "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-06-17T14:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight",
+              "url": "https://www.travelwires.com/klm-confirms-hantavirus-patient-was-briefly-on-board-jnb-flight/",
               "language": "English"
             }
           ]
@@ -2221,20 +2240,6 @@
             {
               "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
               "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Netherlands",
-          "lat": 52.1,
-          "lng": 5.3,
-          "count": 1,
-          "latest": "2026-06-13T18:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
-              "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
               "language": "English"
             }
           ]
