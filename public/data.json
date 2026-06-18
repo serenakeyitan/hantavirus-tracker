@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T21:46:32.241Z",
+  "generatedAt": "2026-06-18T22:45:54.846Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2142,6 +2142,20 @@
           ]
         },
         {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-06-18T21:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine over for almost all hantavirus ship passengers and crew",
+              "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2222,20 +2236,6 @@
               "title": "Hantavírus : EUA ordena que mulher permaneça em quarentena - 16 / 06 / 2026 - Equilíbrio e Saúde",
               "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/eua-mantem-passageira-de-navio-isolada-por-hantavirus-contra-sua-vontade-e-uma-prisao.shtml",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-06-16T05:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
-              "url": "https://www.nzdoctor.co.nz/article/opinion/ebola-hantavirus-diphtheria-how-distrust-health-care-fuelling-multiple-outbreaks",
-              "language": "English"
             }
           ]
         }
