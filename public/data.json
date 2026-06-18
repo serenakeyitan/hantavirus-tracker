@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:08:23.965Z",
+  "generatedAt": "2026-06-18T09:36:56.512Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 71,
+      "totalArticles": 72,
       "languages": {
-        "English": 67,
+        "English": 68,
         "Turkish": 3,
         "Portuguese": 1
       },
@@ -2097,9 +2097,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 60,
-          "latest": "2026-06-18T00:30:00Z",
+          "count": 61,
+          "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus Is Spreading - Windermere Sun - For Healthier / Happier / More Sustainable Living",
+              "url": "https://www.windermeresun.com/2026/06/17/hantavirus-is-spreading/",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
               "url": "https://www.fox26houston.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
@@ -2108,11 +2113,6 @@
             {
               "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
               "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-              "language": "English"
-            },
-            {
-              "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-              "url": "https://www.fox5dc.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
               "language": "English"
             }
           ]
