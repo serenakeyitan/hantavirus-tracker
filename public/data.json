@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T03:15:48.380Z",
+  "generatedAt": "2026-06-18T05:42:46.399Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 68,
+      "totalArticles": 71,
       "languages": {
-        "English": 64,
+        "English": 67,
         "Turkish": 3,
         "Portuguese": 1
       },
@@ -2097,22 +2097,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 58,
-          "latest": "2026-06-17T23:15:00Z",
+          "count": 60,
+          "latest": "2026-06-18T00:30:00Z",
           "sampleTitles": [
+            {
+              "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
+              "url": "https://www.fox26houston.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
               "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
               "language": "English"
             },
             {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.ky3.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
-              "language": "English"
-            },
-            {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-              "url": "https://www.wowt.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
+              "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
+              "url": "https://www.fox5dc.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
               "language": "English"
             }
           ]
