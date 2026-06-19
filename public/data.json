@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T03:16:43.339Z",
+  "generatedAt": "2026-06-19T05:49:55.793Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2097,7 +2097,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 61,
+          "count": 60,
           "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
             {
@@ -2138,6 +2138,25 @@
               "title": "Kennedy , Hantavirüs Tehlikesi Nedeniyle Yolcuyu Nebraskada Karantein Altında Tuttu",
               "url": "https://www.haberaktuel.com/kennedy-hantavirus-tehlikesi-nedeniyle-yolcuyu-nebraskada-karantein-altinda-tuttu-3447726",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-19T03:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
+              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
+              "language": "English"
+            },
+            {
+              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
+              "language": "English"
             }
           ]
         },
@@ -2193,20 +2212,6 @@
             {
               "title": "Madrid Gómez Ulla hospital discharges last hantavirus patient",
               "url": "https://www.surinenglish.com/spain/madrids-gomez-ulla-hospital-discharges-last-hantavirus-20260617093535-nt.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-16T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
               "language": "English"
             }
           ]
