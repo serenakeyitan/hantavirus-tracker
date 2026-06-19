@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T18:43:16.697Z",
+  "generatedAt": "2026-06-19T19:37:12.488Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,9 +2088,9 @@
       "timespan": "14d",
       "totalArticles": 70,
       "languages": {
-        "English": 65,
+        "Hungarian": 2,
+        "English": 64,
         "Bulgarian": 1,
-        "Hungarian": 1,
         "Turkish": 3
       },
       "countries": [
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 58,
+          "count": 56,
           "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
             {
