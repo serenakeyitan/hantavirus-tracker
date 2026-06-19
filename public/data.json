@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T11:37:11.093Z",
+  "generatedAt": "2026-06-19T13:18:22.331Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,11 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 72,
+      "totalArticles": 71,
       "languages": {
         "Bulgarian": 1,
         "Hungarian": 1,
-        "English": 67,
+        "English": 66,
         "Turkish": 3
       },
       "countries": [
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 59,
+          "count": 58,
           "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
             {
