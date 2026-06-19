@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:46:58.317Z",
+  "generatedAt": "2026-06-19T11:37:11.093Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,16 +2088,17 @@
       "timespan": "14d",
       "totalArticles": 72,
       "languages": {
-        "English": 68,
-        "Turkish": 3,
-        "Portuguese": 1
+        "Bulgarian": 1,
+        "Hungarian": 1,
+        "English": 67,
+        "Turkish": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 60,
+          "count": 59,
           "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
             {
@@ -2157,6 +2158,34 @@
               "title": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "lat": 42.7,
+          "lng": 25.5,
+          "count": 1,
+          "latest": "2026-06-19T10:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Круизният кораб , на който пламна хантавирус , вече не е под карантина",
+              "url": "https://www.dnes.bg/a/2-svyat/725526-kruizniyat-korab-na-koyto-plamna-hantavirus-veche-ne-e-pod-karantina",
+              "language": "Bulgarian"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-06-19T08:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hazatérhetnek a hantavírusos hajó utasai",
+              "url": "https://444.hu/2026/06/19/hazaterhetnek-a-hantavirusos-hajo-utasai",
+              "language": "Hungarian"
             }
           ]
         },
@@ -2227,20 +2256,6 @@
               "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will , WSJ reports",
               "url": "https://www.hindustantimes.com/india-news/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports-101781635439707.html",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-06-16T16:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : EUA ordena que mulher permaneça em quarentena - 16 / 06 / 2026 - Equilíbrio e Saúde",
-              "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/eua-mantem-passageira-de-navio-isolada-por-hantavirus-contra-sua-vontade-e-uma-prisao.shtml",
-              "language": "Portuguese"
             }
           ]
         }
