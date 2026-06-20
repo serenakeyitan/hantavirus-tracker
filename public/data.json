@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T11:42:49.580Z",
+  "generatedAt": "2026-06-20T12:44:56.865Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,8 +2088,8 @@
       "timespan": "14d",
       "totalArticles": 70,
       "languages": {
-        "Hungarian": 2,
         "English": 64,
+        "Hungarian": 2,
         "Bulgarian": 1,
         "Turkish": 3
       },
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 56,
+          "count": 54,
           "latest": "2026-06-18T08:45:00Z",
           "sampleTitles": [
             {
@@ -2114,6 +2114,30 @@
             {
               "title": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
               "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 4,
+          "latest": "2026-06-20T12:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "How Andes virus broke the rules",
+              "url": "https://felixonline.co.uk/articles/how-andes-virus-broke-the-rules/",
+              "language": "English"
+            },
+            {
+              "title": "  It not science , it coercion : health experts decry RFK Jr order on hantavirus quarantine | Hantavirus",
+              "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
+              "language": "English"
+            },
+            {
+              "title": "The real reason a hantavirus disaster was averted | Hantavirus",
+              "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
               "language": "English"
             }
           ]
@@ -2139,25 +2163,6 @@
               "title": "Kennedy , Hantavirüs Tehlikesi Nedeniyle Yolcuyu Nebraskada Karantein Altında Tuttu",
               "url": "https://www.haberaktuel.com/kennedy-hantavirus-tehlikesi-nedeniyle-yolcuyu-nebraskada-karantein-altinda-tuttu-3447726",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-06-19T16:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "The real reason a hantavirus disaster was averted | Hantavirus",
-              "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
-              "language": "English"
-            },
-            {
-              "title": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight",
-              "url": "https://www.travelwires.com/klm-confirms-hantavirus-patient-was-briefly-on-board-jnb-flight/",
-              "language": "English"
             }
           ]
         },
