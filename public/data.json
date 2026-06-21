@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T18:38:03.627Z",
+  "generatedAt": "2026-06-21T19:35:09.235Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 50,
+          "count": 49,
           "latest": "2026-06-21T13:30:00Z",
           "sampleTitles": [
             {
@@ -2158,6 +2158,20 @@
               "title": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
               "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "South Africa",
+          "lat": -30.6,
+          "lng": 22.9,
+          "count": 1,
+          "latest": "2026-06-21T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus incident highlights hidden risks in shipping delays",
+              "url": "https://www.businessday.co.za/economy/2026-06-21-hantavirus-incident-highlights-hidden-risks-in-shipping-delays/",
+              "language": "English"
             }
           ]
         },
