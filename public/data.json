@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T03:17:23.409Z",
+  "generatedAt": "2026-06-21T05:42:30.319Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,19 +2086,19 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 69,
+      "totalArticles": 67,
       "languages": {
-        "English": 63,
+        "English": 62,
         "Hungarian": 2,
         "Bulgarian": 1,
-        "Turkish": 3
+        "Turkish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 53,
+          "count": 52,
           "latest": "2026-06-20T17:00:00Z",
           "sampleTitles": [
             {
@@ -2146,7 +2146,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
+          "count": 2,
           "latest": "2026-06-17T14:00:00Z",
           "sampleTitles": [
             {
@@ -2157,11 +2157,6 @@
             {
               "title": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
               "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
-              "language": "Turkish"
-            },
-            {
-              "title": "Kennedy , Hantavirüs Tehlikesi Nedeniyle Yolcuyu Nebraskada Karantein Altında Tuttu",
-              "url": "https://www.haberaktuel.com/kennedy-hantavirus-tehlikesi-nedeniyle-yolcuyu-nebraskada-karantein-altinda-tuttu-3447726",
               "language": "Turkish"
             }
           ]
