@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T21:33:48.383Z",
+  "generatedAt": "2026-06-21T22:31:13.416Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2099,8 +2099,13 @@
           "lat": 39,
           "lng": -98,
           "count": 49,
-          "latest": "2026-06-21T13:30:00Z",
+          "latest": "2026-06-21T22:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus quarantine ends for 18 Americans exposed on a cruise ship",
+              "url": "https://www.staradvertiser.com/2026/06/21/breaking-news/hantavirus-quarantine-ends-for-18-americans-exposed-on-a-cruise-ship/",
+              "language": "English"
+            },
             {
               "title": "As hantavirus quarantine ends , cruise passengers and scientists share what they learned",
               "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
@@ -2109,11 +2114,6 @@
             {
               "title": "Colorado public health officials investigating hantavirus death not linked to cruise ship cluster – KTBB News , Weather , Talk",
               "url": "https://ktbb.com/post/?p=1513754",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Is Spreading - Windermere Sun - For Healthier / Happier / More Sustainable Living",
-              "url": "https://www.windermeresun.com/2026/06/17/hantavirus-is-spreading/",
               "language": "English"
             }
           ]
