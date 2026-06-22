@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T21:05:59.787Z",
+  "generatedAt": "2026-06-22T22:37:53.338Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,32 +2088,32 @@
       "timespan": "14d",
       "totalArticles": 61,
       "languages": {
-        "English": 56,
+        "English": 55,
+        "Turkish": 3,
         "Hungarian": 2,
-        "Bulgarian": 1,
-        "Turkish": 2
+        "Bulgarian": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 43,
-          "latest": "2026-06-22T20:30:00Z",
+          "count": 41,
+          "latest": "2026-06-22T22:15:00Z",
           "sampleTitles": [
             {
+              "title": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+              "url": "https://www.orlandosentinel.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+              "language": "English"
+            },
+            {
+              "title": "Quarantine ends for last hantavirus ship passengers in Nebraska",
+              "url": "https://www.chicagotribune.com/2026/06/22/nebraska-quarantine-hantavirus-ship/",
+              "language": "English"
+            },
+            {
               "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-              "url": "https://www.khqa.com/news/nation-world/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article_0594fffb-8cdd-5754-8ae3-1480e098393f.html",
-              "language": "English"
-            },
-            {
-              "title": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-              "url": "https://www.canoncitydailyrecord.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
-              "language": "English"
-            },
-            {
-              "title": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-              "url": "https://www.twincities.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+              "url": "https://www.clickondetroit.com/health/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/",
               "language": "English"
             }
           ]
@@ -2143,31 +2143,17 @@
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-06-22T19:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
-              "language": "English"
-            },
-            {
-              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
-              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
-          "count": 2,
-          "latest": "2026-06-22T13:00:00Z",
+          "count": 3,
+          "latest": "2026-06-22T21:30:00Z",
           "sampleTitles": [
+            {
+              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
+              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
+              "language": "English"
+            },
             {
               "title": "Hantavirus cruise passengers to be released from quarantine",
               "url": "https://www.smh.com.au/national/hantavirus-cruise-passengers-to-be-released-from-quarantine-20260622-p60952.html",
@@ -2184,9 +2170,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 2,
-          "latest": "2026-06-17T14:00:00Z",
+          "count": 3,
+          "latest": "2026-06-22T21:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
+              "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
+              "language": "Turkish"
+            },
             {
               "title": "DSÖ  den Yolcu Gemisindeki Hantavirüs Salgınına İlişkin Açıklama : Durum İstikrarlı",
               "url": "https://www.saglikaktuel.com/haber/dsoden-yolcu-gemisindeki-hantavirus-salginina-iliskin-aciklama-durum-istikrarli-107574.htm",
@@ -2196,6 +2187,25 @@
               "title": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
               "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-22T19:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
+              "language": "English"
+            },
+            {
+              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
+              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
+              "language": "English"
             }
           ]
         },
