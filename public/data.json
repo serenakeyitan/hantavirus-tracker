@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:01:13.679Z",
+  "generatedAt": "2026-06-22T13:59:38.486Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 63,
+      "totalArticles": 62,
       "languages": {
-        "English": 58,
+        "English": 57,
         "Hungarian": 2,
         "Bulgarian": 1,
         "Turkish": 2
@@ -2098,7 +2098,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 47,
+          "count": 45,
           "latest": "2026-06-21T22:00:00Z",
           "sampleTitles": [
             {
@@ -2138,6 +2138,25 @@
             {
               "title": "The real reason a hantavirus disaster was averted | Hantavirus",
               "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 2,
+          "latest": "2026-06-22T13:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus cruise passengers to be released from quarantine",
+              "url": "https://www.smh.com.au/national/hantavirus-cruise-passengers-to-be-released-from-quarantine-20260622-p60952.html",
+              "language": "English"
+            },
+            {
+              "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
+              "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
               "language": "English"
             }
           ]
@@ -2227,20 +2246,6 @@
             {
               "title": "Quarantine over for almost all hantavirus ship passengers and crew",
               "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-06-17T23:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
-              "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
               "language": "English"
             }
           ]
