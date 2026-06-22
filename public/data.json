@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T17:38:11.403Z",
+  "generatedAt": "2026-06-22T19:12:22.599Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2099,8 +2099,13 @@
           "lat": 39,
           "lng": -98,
           "count": 43,
-          "latest": "2026-06-21T22:00:00Z",
+          "latest": "2026-06-22T18:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Research Roundup : mRNA flu vaccine rec , Bundibugyo virus tests support , Hantavirus test partnership",
+              "url": "https://www.ghtcoalition.org/blog/research-roundup-6-22-26",
+              "language": "English"
+            },
             {
               "title": "Hantavirus quarantine ends for 18 Americans exposed on a cruise ship",
               "url": "https://www.staradvertiser.com/2026/06/21/breaking-news/hantavirus-quarantine-ends-for-18-americans-exposed-on-a-cruise-ship/",
@@ -2109,11 +2114,6 @@
             {
               "title": "As hantavirus quarantine ends , cruise passengers and scientists share what they learned",
               "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
-              "language": "English"
-            },
-            {
-              "title": "Colorado public health officials investigating hantavirus death not linked to cruise ship cluster – KTBB News , Weather , Talk",
-              "url": "https://ktbb.com/post/?p=1513754",
               "language": "English"
             }
           ]
