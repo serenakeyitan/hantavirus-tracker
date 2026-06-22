@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T22:37:53.338Z",
+  "generatedAt": "2026-06-22T23:34:24.416Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 61,
+      "totalArticles": 62,
       "languages": {
-        "English": 55,
+        "English": 56,
         "Turkish": 3,
         "Hungarian": 2,
         "Bulgarian": 1
@@ -2098,9 +2098,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 41,
-          "latest": "2026-06-22T22:15:00Z",
+          "count": 42,
+          "latest": "2026-06-22T22:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Origins of Cruise - Ship Hantavirus Outbreak Under Scrutiny",
+              "url": "https://www.independent.com/2026/06/22/origins-of-cruise-ship-hantavirus-outbreak-under-scrutiny/",
+              "language": "English"
+            },
             {
               "title": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
               "url": "https://www.orlandosentinel.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
@@ -2109,11 +2114,6 @@
             {
               "title": "Quarantine ends for last hantavirus ship passengers in Nebraska",
               "url": "https://www.chicagotribune.com/2026/06/22/nebraska-quarantine-hantavirus-ship/",
-              "language": "English"
-            },
-            {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-              "url": "https://www.clickondetroit.com/health/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/",
               "language": "English"
             }
           ]
