@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:48:53.211Z",
+  "generatedAt": "2026-06-23T21:37:52.934Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,8 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 73,
+      "totalArticles": 74,
       "languages": {
+        "Russian": 1,
         "English": 66,
         "Turkish": 3,
         "Portuguese": 1,
@@ -2231,6 +2232,20 @@
               "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
               "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Russia",
+          "lat": 61.5,
+          "lng": 105.3,
+          "count": 1,
+          "latest": "2026-06-23T21:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "В Небраске завершили карантин пассажиров с риском хантавируса",
+              "url": "https://pronedra.ru/hantavirus-ship-passengers-quarantine-821770.html",
+              "language": "Russian"
             }
           ]
         },
