@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T23:34:24.416Z",
+  "generatedAt": "2026-06-23T00:56:10.149Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2098,22 +2098,46 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 42,
-          "latest": "2026-06-22T22:30:00Z",
+          "count": 40,
+          "latest": "2026-06-23T00:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship",
+              "url": "https://abcnews.com/Health/quarantine-ends-18-americans-exposed-hantavirus-cruise-ship/story?id=134107656",
+              "language": "English"
+            },
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+              "url": "https://www.wsls.com/health/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/",
+              "language": "English"
+            },
             {
               "title": "Origins of Cruise - Ship Hantavirus Outbreak Under Scrutiny",
               "url": "https://www.independent.com/2026/06/22/origins-of-cruise-ship-hantavirus-outbreak-under-scrutiny/",
               "language": "English"
-            },
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 4,
+          "latest": "2026-06-22T23:30:00Z",
+          "sampleTitles": [
             {
-              "title": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-              "url": "https://www.orlandosentinel.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
+              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
               "language": "English"
             },
             {
-              "title": "Quarantine ends for last hantavirus ship passengers in Nebraska",
-              "url": "https://www.chicagotribune.com/2026/06/22/nebraska-quarantine-hantavirus-ship/",
+              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
+              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus cruise passengers to be released from quarantine",
+              "url": "https://www.smh.com.au/national/hantavirus-cruise-passengers-to-be-released-from-quarantine-20260622-p60952.html",
               "language": "English"
             }
           ]
@@ -2138,30 +2162,6 @@
             {
               "title": "The real reason a hantavirus disaster was averted | Hantavirus",
               "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-06-22T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
-              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus cruise passengers to be released from quarantine",
-              "url": "https://www.smh.com.au/national/hantavirus-cruise-passengers-to-be-released-from-quarantine-20260622-p60952.html",
-              "language": "English"
-            },
-            {
-              "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
-              "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
               "language": "English"
             }
           ]
@@ -2205,6 +2205,20 @@
             {
               "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
               "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 1,
+          "latest": "2026-06-22T23:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+              "url": "https://www.thehindu.com/news/international/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article71134866.ece",
               "language": "English"
             }
           ]
