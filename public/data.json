@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T17:39:29.656Z",
+  "generatedAt": "2026-06-23T18:49:19.016Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 62,
+      "totalArticles": 72,
       "languages": {
-        "English": 56,
+        "English": 65,
         "Turkish": 3,
+        "Portuguese": 1,
         "Hungarian": 2,
         "Bulgarian": 1
       },
@@ -2098,22 +2099,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 39,
-          "latest": "2026-06-23T01:45:00Z",
+          "count": 42,
+          "latest": "2026-06-23T18:15:00Z",
           "sampleTitles": [
             {
-              "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship",
-              "url": "https://kvia.com/health/2026/06/22/quarantine-ends-for-americans-exposed-to-hantavirus-on-cruise-ship/",
+              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+              "url": "https://www.wptv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             },
             {
-              "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship",
-              "url": "https://abcnews.com/Health/quarantine-ends-18-americans-exposed-hantavirus-cruise-ship/story?id=134107656",
+              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+              "url": "https://www.wcpo.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             },
             {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-              "url": "https://www.wsls.com/health/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/",
+              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+              "url": "https://www.ksby.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             }
           ]
@@ -2147,8 +2148,13 @@
           "lat": 54,
           "lng": -2.4,
           "count": 4,
-          "latest": "2026-06-20T12:00:00Z",
+          "latest": "2026-06-23T14:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
+              "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
+              "language": "English"
+            },
             {
               "title": "How Andes virus broke the rules",
               "url": "https://felixonline.co.uk/articles/how-andes-virus-broke-the-rules/",
@@ -2158,10 +2164,29 @@
               "title": "  It not science , it coercion : health experts decry RFK Jr order on hantavirus quarantine | Hantavirus",
               "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "India",
+          "lat": 20.6,
+          "lng": 78.96,
+          "count": 3,
+          "latest": "2026-06-23T14:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Captain , most crew members on Hantavirus cruise ship completed quarantine : WHO chief",
+              "url": "https://www.prokerala.com/news/articles/a1779043.html",
+              "language": "English"
             },
             {
-              "title": "The real reason a hantavirus disaster was averted | Hantavirus",
-              "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
+              "title": "Hantavirus Cruise Ship Crew Completes Quarantine : WHO",
+              "url": "https://www.newkerala.com/news/a/captain-most-crew-members-hantavirus-cruise-ship-completed-231.htm",
+              "language": "English"
+            },
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+              "url": "https://www.thehindu.com/news/international/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article71134866.ece",
               "language": "English"
             }
           ]
@@ -2171,21 +2196,21 @@
           "lat": 38.96,
           "lng": 35.24,
           "count": 3,
-          "latest": "2026-06-22T21:00:00Z",
+          "latest": "2026-06-23T10:00:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
+              "url": "https://www.birgun.net/haber/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-719921",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
+              "url": "https://www.bursahakimiyet.com.tr/dunya/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-1654847",
+              "language": "Turkish"
+            },
             {
               "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
               "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ  den Yolcu Gemisindeki Hantavirüs Salgınına İlişkin Açıklama : Durum İstikrarlı",
-              "url": "https://www.saglikaktuel.com/haber/dsoden-yolcu-gemisindeki-hantavirus-salginina-iliskin-aciklama-durum-istikrarli-107574.htm",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
-              "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
               "language": "Turkish"
             }
           ]
@@ -2210,16 +2235,16 @@
           ]
         },
         {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
           "count": 1,
-          "latest": "2026-06-22T23:45:00Z",
+          "latest": "2026-06-23T03:45:00Z",
           "sampleTitles": [
             {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-              "url": "https://www.thehindu.com/news/international/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article71134866.ece",
-              "language": "English"
+              "title": "Ebola e hantavírus começam como gripe e enganam o corpo",
+              "url": "https://noticias.r7.com/fala-ciencia/ebola-e-hantavirus-comecam-como-gripe-e-enganam-o-corpo-23062026/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2275,20 +2300,6 @@
             {
               "title": "Quarantine over for almost all hantavirus ship passengers and crew",
               "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
-          "count": 1,
-          "latest": "2026-06-17T10:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Madrid Gómez Ulla hospital discharges last hantavirus patient",
-              "url": "https://www.surinenglish.com/spain/madrids-gomez-ulla-hospital-discharges-last-hantavirus-20260617093535-nt.html",
               "language": "English"
             }
           ]
