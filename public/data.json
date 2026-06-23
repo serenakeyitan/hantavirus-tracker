@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T19:41:07.265Z",
+  "generatedAt": "2026-06-23T20:48:53.211Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 72,
+      "totalArticles": 73,
       "languages": {
-        "English": 65,
+        "English": 66,
         "Turkish": 3,
         "Portuguese": 1,
         "Hungarian": 2,
@@ -2099,46 +2099,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 42,
-          "latest": "2026-06-23T18:15:00Z",
+          "count": 45,
+          "latest": "2026-06-23T20:00:00Z",
           "sampleTitles": [
             {
               "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.wptv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+              "url": "https://www.wkbw.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             },
             {
               "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.wcpo.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+              "url": "https://www.kjrh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             },
             {
               "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.ksby.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 5,
-          "latest": "2026-06-23T02:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
-              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
-              "language": "English"
-            },
-            {
-              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
-              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
-              "language": "English"
-            },
-            {
-              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
-              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
+              "url": "https://www.wxyz.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
               "language": "English"
             }
           ]
@@ -2163,6 +2139,30 @@
             {
               "title": "  It not science , it coercion : health experts decry RFK Jr order on hantavirus quarantine | Hantavirus",
               "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 4,
+          "latest": "2026-06-23T02:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
+              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
+              "language": "English"
+            },
+            {
+              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
+              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
+              "language": "English"
+            },
+            {
+              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
+              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
               "language": "English"
             }
           ]
