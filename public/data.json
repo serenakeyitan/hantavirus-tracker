@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T19:36:58.133Z",
+  "generatedAt": "2026-06-24T20:40:56.080Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,12 +2086,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 78,
+      "totalArticles": 77,
       "languages": {
-        "English": 70,
+        "Portuguese": 2,
+        "English": 68,
         "Russian": 1,
         "Turkish": 3,
-        "Portuguese": 1,
         "Hungarian": 2,
         "Bulgarian": 1
       },
@@ -2169,30 +2169,6 @@
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 3,
-          "latest": "2026-06-24T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
-              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
-              "language": "English"
-            },
-            {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
-              "language": "English"
-            },
-            {
-              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
-              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
@@ -2237,6 +2213,39 @@
               "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
               "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-24T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
+              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
+              "language": "English"
+            },
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 1,
+          "latest": "2026-06-24T20:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
+              "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2307,20 +2316,6 @@
               "title": "Hazatérhetnek a hantavírusos hajó utasai",
               "url": "https://444.hu/2026/06/19/hazaterhetnek-a-hantavirusos-hajo-utasai",
               "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-06-18T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine over for almost all hantavirus ship passengers and crew",
-              "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
-              "language": "English"
             }
           ]
         }
