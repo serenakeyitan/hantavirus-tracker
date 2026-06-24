@@ -74,7 +74,17 @@ function runPdftotext(pdfPath, txtPath) {
 function parseHantavirosisTable(text) {
   // Find the table header (the "Tabla 1" labeled "Casos confirmados" — not the deaths table).
   const headerIdx = text.search(/Tabla 1\.\s*Hantavirosis:\s*Casos confirmados/i);
-  if (headerIdx < 0) throw new Error("Tabla 1 not found");
+  if (headerIdx < 0) {
+    // BEN 813+ dropped the dedicated Hantavirosis chapter. The only surviving data
+    // is a national aggregate row in the ENO summary table:
+    //   "Hantavirosis    <median_2022-2025>    <acumulado_YYYY_SExx>    Por encima…"
+    // Extract that aggregate so the caller can log it; provinces will be empty
+    // which triggers the fetch-data.mjs fallback to last-known-good provincial data.
+    const enoRx = /Hantavirosis\s+(\d+)\s+(\d+)\s/i;
+    const em = text.match(enoRx);
+    const enoTotal = em ? Number(em[2]) : null;
+    return { provinces: [], totalCases: enoTotal, enoFallback: true };
+  }
   const tableSlice = text.slice(headerIdx, headerIdx + 5000);
   const lines = tableSlice.split(/\r?\n/);
 
@@ -204,7 +214,12 @@ export async function fetchArgentinaBEN() {
   runPdftotext(pdfPath, txtPath);
   const text = readFileSync(txtPath, "utf8");
 
-  const { provinces, totalCases } = parseHantavirosisTable(text);
+  const { provinces, totalCases, enoFallback } = parseHantavirosisTable(text);
+  if (enoFallback) {
+    // Provincial breakdown removed from this BEN issue; returning 0 provinces so
+    // fetch-data.mjs falls back to last-known-good provincial data.
+    console.log(`  -> WARN: parser returned 0 provinces for bulletin ${issue} (ENO-only format, national total=${totalCases})`);
+  }
   return {
     name: "Argentina BEN (Ministerio de Salud)",
     sourceUrl: pdfUrl,
