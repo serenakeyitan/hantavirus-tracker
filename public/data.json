@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:41:33.875Z",
+  "generatedAt": "2026-06-24T19:36:58.133Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 73,
+      "totalArticles": 78,
       "languages": {
+        "English": 70,
         "Russian": 1,
-        "English": 65,
         "Turkish": 3,
         "Portuguese": 1,
         "Hungarian": 2,
@@ -2100,22 +2100,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 44,
-          "latest": "2026-06-23T20:00:00Z",
+          "count": 48,
+          "latest": "2026-06-24T19:00:00Z",
           "sampleTitles": [
             {
-              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.wkbw.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+              "title": "Person from MN is exposed to hantavirus , officials say risk is low to general public",
+              "url": "https://www.voiceofalexandria.com/news/local/person-from-mn-is-exposed-to-hantavirus-officials-say-risk-is-low-to-general-public/article_77f71f74-0ea4-43cd-b783-c5bda4d531ef.html",
               "language": "English"
             },
             {
-              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.kjrh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+              "title": "Quarantine ends for hantavirus outbreak from MV Hondius",
+              "url": "https://www.wdbo.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
               "language": "English"
             },
             {
-              "title": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-              "url": "https://www.wxyz.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+              "title": "Quarantine ends for hantavirus outbreak from MV Hondius",
+              "url": "https://www.wsbradio.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
               "language": "English"
             }
           ]
@@ -2169,6 +2169,30 @@
           ]
         },
         {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 3,
+          "latest": "2026-06-24T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
+              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
+              "language": "English"
+            },
+            {
+              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
+              "language": "English"
+            },
+            {
+              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
+              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
@@ -2213,25 +2237,6 @@
               "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
               "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-06-22T19:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
-              "language": "English"
-            },
-            {
-              "title": "Almost all passengers , crew from hantavirus ship out of quarantine",
-              "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
-              "language": "English"
             }
           ]
         },
