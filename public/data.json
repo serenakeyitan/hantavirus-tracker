@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T11:02:22.774Z",
+  "generatedAt": "2026-06-25T12:54:11.273Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 81,
+      "totalArticles": 79,
       "languages": {
         "Portuguese": 5,
-        "English": 70,
+        "English": 68,
         "Hungarian": 1,
         "Turkish": 4,
         "Russian": 1
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 55,
+          "count": 54,
           "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
@@ -2216,25 +2216,6 @@
           ]
         },
         {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 2,
-          "latest": "2026-06-24T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
-              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
-              "language": "English"
-            },
-            {
-              "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2245,6 +2226,20 @@
               "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
               "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-06-24T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
+              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
+              "language": "English"
             }
           ]
         },
