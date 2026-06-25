@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T23:30:11.094Z",
+  "generatedAt": "2026-06-25T00:58:08.422Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,11 +2086,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 78,
+      "totalArticles": 79,
       "languages": {
-        "English": 70,
+        "English": 69,
+        "Hungarian": 1,
+        "Portuguese": 4,
         "Turkish": 4,
-        "Portuguese": 3,
         "Russian": 1
       },
       "countries": [
@@ -2098,22 +2099,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 53,
-          "latest": "2026-06-24T23:00:00Z",
+          "count": 54,
+          "latest": "2026-06-25T00:15:00Z",
           "sampleTitles": [
+            {
+              "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+              "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+              "language": "English"
+            },
+            {
+              "title": "A halálos hantavírus - járvány július 2 - án érhet véget a WHO szerint",
+              "url": "https://hu.euronews.com/egeszseg/2026/06/24/a-halalos-hantavirus-jarvany-julius-2-an-erhet-veget-a-who-szerint",
+              "language": "Hungarian"
+            },
             {
               "title": "US public health agency concludes hantavirus response as outbreak eases - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
               "url": "https://dominicanrepublicpost.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
-              "language": "English"
-            },
-            {
-              "title": "Transcript - Update on CDC Hantavirus Response – 6 / 24 / 26",
-              "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
-              "language": "English"
-            },
-            {
-              "title": "Deadly Hantavirus outbreak should end on 2 July , WHO says",
-              "url": "https://www.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says",
               "language": "English"
             }
           ]
@@ -2167,6 +2168,30 @@
           ]
         },
         {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-06-25T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
+              "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
+              "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Ebola e hantavírus começam como gripe e enganam o corpo",
+              "url": "https://noticias.r7.com/fala-ciencia/ebola-e-hantavirus-comecam-como-gripe-e-enganam-o-corpo-23062026/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
@@ -2187,25 +2212,6 @@
               "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
               "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
               "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-06-24T21:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
-              "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Ebola e hantavírus começam como gripe e enganam o corpo",
-              "url": "https://noticias.r7.com/fala-ciencia/ebola-e-hantavirus-comecam-como-gripe-e-enganam-o-corpo-23062026/",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2266,20 +2272,6 @@
             {
               "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
               "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "South Africa",
-          "lat": -30.6,
-          "lng": 22.9,
-          "count": 1,
-          "latest": "2026-06-21T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus incident highlights hidden risks in shipping delays",
-              "url": "https://www.businessday.co.za/economy/2026-06-21-hantavirus-incident-highlights-hidden-risks-in-shipping-delays/",
               "language": "English"
             }
           ]
