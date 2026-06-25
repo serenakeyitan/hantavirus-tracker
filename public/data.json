@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T01:49:17.235Z",
+  "generatedAt": "2026-06-25T03:14:09.825Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,11 +2086,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 79,
+      "totalArticles": 81,
       "languages": {
-        "English": 69,
+        "Portuguese": 5,
+        "English": 70,
         "Hungarian": 1,
-        "Portuguese": 4,
         "Turkish": 4,
         "Russian": 1
       },
@@ -2099,22 +2099,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 54,
-          "latest": "2026-06-25T00:15:00Z",
+          "count": 55,
+          "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
-              "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-              "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+              "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
+              "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
+              "language": "Portuguese"
+            },
+            {
+              "title": "US public health agency concludes hantavirus response as outbreak eases",
+              "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
               "language": "English"
             },
             {
-              "title": "A halálos hantavírus - járvány július 2 - án érhet véget a WHO szerint",
-              "url": "https://hu.euronews.com/egeszseg/2026/06/24/a-halalos-hantavirus-jarvany-julius-2-an-erhet-veget-a-who-szerint",
-              "language": "Hungarian"
-            },
-            {
-              "title": "US public health agency concludes hantavirus response as outbreak eases - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-              "url": "https://dominicanrepublicpost.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
+              "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+              "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
               "language": "English"
             }
           ]
@@ -2139,30 +2139,6 @@
             {
               "title": "Hantavirus Cruise Ship Crew Completes Quarantine : WHO",
               "url": "https://www.newkerala.com/news/a/captain-most-crew-members-hantavirus-cruise-ship-completed-231.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 4,
-          "latest": "2026-06-23T02:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
-              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
-              "language": "English"
-            },
-            {
-              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
-              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
-              "language": "English"
-            },
-            {
-              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
-              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
               "language": "English"
             }
           ]
@@ -2212,6 +2188,30 @@
               "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
               "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-06-23T02:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
+              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
+              "language": "English"
+            },
+            {
+              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
+              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
+              "language": "English"
+            },
+            {
+              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
+              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
+              "language": "English"
             }
           ]
         },
