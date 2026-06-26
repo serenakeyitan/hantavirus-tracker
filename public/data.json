@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:31:17.113Z",
+  "generatedAt": "2026-06-26T23:30:26.748Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,9 +2086,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 77,
+      "totalArticles": 76,
       "languages": {
-        "English": 68,
+        "English": 67,
         "Portuguese": 4,
         "Hungarian": 1,
         "Turkish": 3,
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 37,
+          "count": 36,
           "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
@@ -2128,17 +2128,17 @@
           "sampleTitles": [
             {
               "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            },
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            },
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
               "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "language": "English"
+            },
+            {
+              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+              "url": "https://cranbrooktownsman.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "language": "English"
+            },
+            {
+              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+              "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
               "language": "English"
             }
           ]
