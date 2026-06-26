@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:15:28.408Z",
+  "generatedAt": "2026-06-26T05:31:32.925Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,10 +2086,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 77,
+      "totalArticles": 78,
       "languages": {
-        "English": 67,
-        "Portuguese": 5,
+        "English": 69,
+        "Portuguese": 4,
         "Hungarian": 1,
         "Turkish": 3,
         "Russian": 1
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 42,
+          "count": 37,
           "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
@@ -2123,22 +2123,22 @@
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
-          "count": 14,
-          "latest": "2026-06-26T01:15:00Z",
+          "count": 26,
+          "latest": "2026-06-26T03:00:00Z",
           "sampleTitles": [
             {
               "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://aldergrovestar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
               "language": "English"
             },
             {
               "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://ladysmithchronicle.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
               "language": "English"
             },
             {
               "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://yukon-news.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering-2/",
+              "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
               "language": "English"
             }
           ]
@@ -2147,7 +2147,7 @@
           "country": "India",
           "lat": 20.6,
           "lng": 78.96,
-          "count": 4,
+          "count": 3,
           "latest": "2026-06-24T22:15:00Z",
           "sampleTitles": [
             {
@@ -2171,7 +2171,7 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 3,
+          "count": 2,
           "latest": "2026-06-25T00:00:00Z",
           "sampleTitles": [
             {
@@ -2182,11 +2182,6 @@
             {
               "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
               "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Ebola e hantavírus começam como gripe e enganam o corpo",
-              "url": "https://noticias.r7.com/fala-ciencia/ebola-e-hantavirus-comecam-como-gripe-e-enganam-o-corpo-23062026/",
               "language": "Portuguese"
             }
           ]
@@ -2248,20 +2243,6 @@
             {
               "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
               "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 1,
-          "latest": "2026-06-23T02:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
-              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
               "language": "English"
             }
           ]
