@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T01:00:35.466Z",
+  "generatedAt": "2026-06-26T01:51:24.172Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,10 +2088,10 @@
       "timespan": "14d",
       "totalArticles": 77,
       "languages": {
+        "English": 67,
         "Portuguese": 5,
-        "English": 66,
         "Hungarian": 1,
-        "Turkish": 4,
+        "Turkish": 3,
         "Russian": 1
       },
       "countries": [
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 52,
+          "count": 42,
           "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
@@ -2115,6 +2115,30 @@
             {
               "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
               "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 14,
+          "latest": "2026-06-26T01:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+              "url": "https://aldergrovestar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "language": "English"
+            },
+            {
+              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+              "url": "https://ladysmithchronicle.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+              "language": "English"
+            },
+            {
+              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+              "url": "https://yukon-news.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering-2/",
               "language": "English"
             }
           ]
@@ -2171,7 +2195,7 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 3,
+          "count": 2,
           "latest": "2026-06-23T10:00:00Z",
           "sampleTitles": [
             {
@@ -2183,35 +2207,6 @@
               "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
               "url": "https://www.bursahakimiyet.com.tr/dunya/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-1654847",
               "language": "Turkish"
-            },
-            {
-              "title": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
-              "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-06-23T02:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
-              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
-              "language": "English"
-            },
-            {
-              "title": "First hantavirus cruise ship passengers released from Perth quarantine",
-              "url": "https://www.perthnow.com.au/news/first-hantavirus-cruise-ship-passengers-released-from-perth-quarantine-c-22469539",
-              "language": "English"
-            },
-            {
-              "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
-              "url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038",
-              "language": "English"
             }
           ]
         },
@@ -2226,20 +2221,6 @@
               "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
               "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-06-24T18:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
-              "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
-              "language": "English"
             }
           ]
         },
@@ -2267,6 +2248,20 @@
             {
               "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
               "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 1,
+          "latest": "2026-06-23T02:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
+              "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c?nk=d42921bcc5f026ae8f5bb9ccafd307d2-1782180106",
               "language": "English"
             }
           ]
