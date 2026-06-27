@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T05:23:07.555Z",
+  "generatedAt": "2026-06-27T07:12:04.810Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,163 +2086,21 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 76,
+      "totalArticles": 1,
       "languages": {
-        "English": 67,
-        "Portuguese": 4,
-        "Hungarian": 1,
-        "Turkish": 3,
-        "Russian": 1
+        "English": 1
       },
       "countries": [
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 36,
-          "latest": "2026-06-25T01:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
-              "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
-              "language": "Portuguese"
-            },
-            {
-              "title": "US public health agency concludes hantavirus response as outbreak eases",
-              "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
-              "language": "English"
-            },
-            {
-              "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-              "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 26,
-          "latest": "2026-06-26T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            },
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://cranbrooktownsman.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            },
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 3,
-          "latest": "2026-06-24T22:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO Issues Fresh Update On Hantavirus And Ebola Outbreaks As Cases Spread Across Borders",
-              "url": "https://www.newsx.com/world/who-issues-fresh-update-on-hantavirus-and-ebola-outbreaks-as-cases-spread-across-borders-240610/",
-              "language": "English"
-            },
-            {
-              "title": "Captain , most crew members on Hantavirus cruise ship completed quarantine : WHO chief",
-              "url": "https://www.prokerala.com/news/articles/a1779043.html",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Cruise Ship Crew Completes Quarantine : WHO",
-              "url": "https://www.newkerala.com/news/a/captain-most-crew-members-hantavirus-cruise-ship-completed-231.htm",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-06-25T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
-              "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
-              "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 2,
-          "latest": "2026-06-23T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
-              "url": "https://www.birgun.net/haber/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-719921",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
-              "url": "https://www.bursahakimiyet.com.tr/dunya/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-1654847",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
+          "country": "Netherlands",
+          "lat": 52.1,
+          "lng": 5.3,
           "count": 1,
-          "latest": "2026-06-24T20:00:00Z",
+          "latest": "2026-06-13T18:45:00Z",
           "sampleTitles": [
             {
-              "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
-              "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-06-23T21:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "В Небраске завершили карантин пассажиров с риском хантавируса",
-              "url": "https://pronedra.ru/hantavirus-ship-passengers-quarantine-821770.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-06-23T14:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
-              "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
+              "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
+              "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
               "language": "English"
             }
           ]
