@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T16:28:50.791Z",
+  "generatedAt": "2026-06-27T17:27:43.071Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,12 +2086,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 74,
+      "totalArticles": 72,
       "languages": {
-        "English": 66,
+        "English": 65,
         "Portuguese": 4,
         "Hungarian": 1,
-        "Turkish": 2,
+        "Turkish": 1,
         "Russian": 1
       },
       "countries": [
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 35,
+          "count": 33,
           "latest": "2026-06-25T01:15:00Z",
           "sampleTitles": [
             {
@@ -2187,6 +2187,20 @@
           ]
         },
         {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-06-27T14:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
+              "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Portugal",
           "lat": 39.4,
           "lng": -8.2,
@@ -2225,20 +2239,6 @@
               "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
               "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-23T10:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
-              "url": "https://www.birgun.net/haber/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-719921",
-              "language": "Turkish"
             }
           ]
         }
