@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T15:15:19.216Z",
+  "generatedAt": "2026-06-29T17:06:37.943Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,10 +2088,11 @@
       "timespan": "14d",
       "totalArticles": 71,
       "languages": {
-        "Turkish": 4,
-        "English": 61,
+        "Turkish": 11,
+        "Spanish": 1,
+        "Hungarian": 2,
+        "English": 52,
         "Portuguese": 4,
-        "Hungarian": 1,
         "Russian": 1
       },
       "countries": [
@@ -2123,7 +2124,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 24,
+          "count": 16,
           "latest": "2026-06-29T01:15:00Z",
           "sampleTitles": [
             {
@@ -2140,6 +2141,30 @@
               "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
               "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 8,
+          "latest": "2026-06-29T15:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "DSÖ : Hantavirüs salgınında sona geldik",
+              "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
+              "language": "Turkish"
+            },
+            {
+              "title": "O kadar köpürtüldü ama ... Hantavirüste sona gelindi",
+              "url": "https://www.odatv.com/ozel/o-kadar-kopurtuldu-ama-hantaviruste-sona-gelindi-120152767",
+              "language": "Turkish"
+            },
+            {
+              "title": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
+              "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
+              "language": "Turkish"
             }
           ]
         },
@@ -2164,30 +2189,6 @@
               "title": "Hantavirus outbreak nearing its end , WHO chief says",
               "url": "https://www.easternriverinachronicle.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 3,
-          "latest": "2026-06-29T07:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
-              "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091",
-              "language": "Turkish"
-            },
-            {
-              "title": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
-              "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
-              "language": "Turkish"
-            },
-            {
-              "title": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
-              "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091%20target=_blank%20class=stretched-link",
-              "language": "Turkish"
             }
           ]
         },
@@ -2226,6 +2227,34 @@
               "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
               "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-06-29T15:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
+              "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Hungary",
+          "lat": 47.2,
+          "lng": 19.5,
+          "count": 1,
+          "latest": "2026-06-29T12:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Index - Külföld - WHO : a végéhez közelít a luxushajón kitört hantavírusjárvány",
+              "url": "https://index.hu/kulfold/2026/06/29/who-hantavirus-jarvany-karanten-luxushajo-oceanjaro-vege/",
+              "language": "Hungarian"
             }
           ]
         },
