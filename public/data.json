@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T07:53:34.401Z",
+  "generatedAt": "2026-06-29T09:43:00.137Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,39 +2086,15 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 72,
+      "totalArticles": 71,
       "languages": {
-        "Turkish": 3,
-        "English": 63,
+        "Turkish": 4,
+        "English": 61,
         "Portuguese": 4,
         "Hungarian": 1,
         "Russian": 1
       },
       "countries": [
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 26,
-          "latest": "2026-06-29T01:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "US Ends Hantavirus Outbreak Response with No Answers",
-              "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
-              "language": "English"
-            },
-            {
-              "title": "CDC concludes hantavirus response as outbreak eases",
-              "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
-              "language": "English"
-            },
-            {
-              "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
-              "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
-              "language": "Portuguese"
-            }
-          ]
-        },
         {
           "country": "Canada",
           "lat": 56.1,
@@ -2140,6 +2116,30 @@
               "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
               "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 24,
+          "latest": "2026-06-29T01:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "US Ends Hantavirus Outbreak Response with No Answers",
+              "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
+              "language": "English"
+            },
+            {
+              "title": "CDC concludes hantavirus response as outbreak eases",
+              "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
+              "language": "English"
+            },
+            {
+              "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
+              "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
+              "language": "Portuguese"
             }
           ]
         },
@@ -2171,9 +2171,14 @@
           "country": "Turkey",
           "lat": 38.96,
           "lng": 35.24,
-          "count": 2,
-          "latest": "2026-06-29T07:30:00Z",
+          "count": 3,
+          "latest": "2026-06-29T07:45:00Z",
           "sampleTitles": [
+            {
+              "title": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
+              "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091",
+              "language": "Turkish"
+            },
             {
               "title": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
               "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
