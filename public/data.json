@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:41:27.364Z",
+  "generatedAt": "2026-06-29T21:34:39.394Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,12 +2088,11 @@
       "timespan": "14d",
       "totalArticles": 71,
       "languages": {
+        "Portuguese": 5,
         "Turkish": 11,
         "Spanish": 1,
         "Hungarian": 2,
-        "English": 52,
-        "Portuguese": 4,
-        "Russian": 1
+        "English": 52
       },
       "countries": [
         {
@@ -2193,6 +2192,30 @@
           ]
         },
         {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-06-29T19:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
+              "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
+              "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
+              "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
           "country": "Ireland",
           "lat": 53.1,
           "lng": -7.7,
@@ -2208,25 +2231,6 @@
               "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
               "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-06-25T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
-              "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
-              "language": "Portuguese"
-            },
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
-              "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2283,20 +2287,6 @@
               "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
               "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Russia",
-          "lat": 61.5,
-          "lng": 105.3,
-          "count": 1,
-          "latest": "2026-06-23T21:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "В Небраске завершили карантин пассажиров с риском хантавируса",
-              "url": "https://pronedra.ru/hantavirus-ship-passengers-quarantine-821770.html",
-              "language": "Russian"
             }
           ]
         }
