@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T01:01:39.822Z",
+  "generatedAt": "2026-06-29T03:17:46.692Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2100,22 +2100,22 @@
           "lat": 39,
           "lng": -98,
           "count": 33,
-          "latest": "2026-06-25T01:15:00Z",
+          "latest": "2026-06-29T01:15:00Z",
           "sampleTitles": [
+            {
+              "title": "US Ends Hantavirus Outbreak Response with No Answers",
+              "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
+              "language": "English"
+            },
+            {
+              "title": "CDC concludes hantavirus response as outbreak eases",
+              "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
+              "language": "English"
+            },
             {
               "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
               "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
               "language": "Portuguese"
-            },
-            {
-              "title": "US public health agency concludes hantavirus response as outbreak eases",
-              "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
-              "language": "English"
-            },
-            {
-              "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-              "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-              "language": "English"
             }
           ]
         },
