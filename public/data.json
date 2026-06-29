@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:40:59.615Z",
+  "generatedAt": "2026-06-29T07:53:34.401Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2088,8 +2088,8 @@
       "timespan": "14d",
       "totalArticles": 72,
       "languages": {
-        "Turkish": 2,
-        "English": 64,
+        "Turkish": 3,
+        "English": 63,
         "Portuguese": 4,
         "Hungarian": 1,
         "Russian": 1
@@ -2099,7 +2099,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
+          "count": 26,
           "latest": "2026-06-29T01:15:00Z",
           "sampleTitles": [
             {
@@ -2168,6 +2168,25 @@
           ]
         },
         {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 2,
+          "latest": "2026-06-29T07:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
+              "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
+              "language": "Turkish"
+            },
+            {
+              "title": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
+              "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091%20target=_blank%20class=stretched-link",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
           "country": "Ireland",
           "lat": 53.1,
           "lng": -7.7,
@@ -2202,20 +2221,6 @@
               "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
               "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-29T04:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
-              "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091%20target=_blank%20class=stretched-link",
-              "language": "Turkish"
             }
           ]
         },
