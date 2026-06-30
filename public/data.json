@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T05:29:00.557Z",
+  "generatedAt": "2026-06-30T07:26:21.624Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2086,13 +2086,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 71,
+      "totalArticles": 69,
       "languages": {
+        "Spanish": 2,
         "Portuguese": 5,
         "Turkish": 11,
-        "Spanish": 1,
         "Hungarian": 2,
-        "English": 52
+        "English": 49
       },
       "countries": [
         {
@@ -2123,7 +2123,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 16,
+          "count": 13,
           "latest": "2026-06-29T01:15:00Z",
           "sampleTitles": [
             {
@@ -2216,6 +2216,25 @@
           ]
         },
         {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 2,
+          "latest": "2026-06-30T03:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
+              "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
+              "language": "Spanish"
+            },
+            {
+              "title": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
+              "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
           "country": "Ireland",
           "lat": 53.1,
           "lng": -7.7,
@@ -2231,20 +2250,6 @@
               "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
               "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 1,
-          "latest": "2026-06-29T15:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
-              "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
-              "language": "Spanish"
             }
           ]
         },
