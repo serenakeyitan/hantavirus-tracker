@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:09:28.173Z",
+  "generatedAt": "2026-07-03T03:24:37.931Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -163,6 +163,51 @@
       "url": "https://www.who.int/emergencies/disease-outbreak-news",
       "tier": "confirmed",
       "rows": [
+        {
+          "id": "b4022b8d-0ad5-4022-b1ac-1d6661578e74",
+          "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+          "summary": "This is the fifth Disease Outbreak News posting on the Andes hantavirus (ANDV) outbreak linked to the cruise ship M/V Hondius. The outbreak identification followed the notification to the World Health Organization (WHO) on 2 May 2026 of severe acute respiratory illness cases onboard. Since the previous Disease Outbreak News was published on 28 May 2026, one of the probable cases from Tristan da Cu",
+          "publishedAt": "2026-07-02T18:27:48Z",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611",
+          "species": "andes",
+          "countries": [
+            {
+              "name": "Netherlands",
+              "lat": 52.1326,
+              "lng": 5.2913
+            },
+            {
+              "name": "Argentina",
+              "lat": -38.4161,
+              "lng": -63.6167
+            },
+            {
+              "name": "Chile",
+              "lat": -35.6751,
+              "lng": -71.543
+            },
+            {
+              "name": "France",
+              "lat": 46.2276,
+              "lng": 2.2137
+            },
+            {
+              "name": "United Kingdom",
+              "lat": 55.3781,
+              "lng": -3.436
+            },
+            {
+              "name": "Ireland",
+              "lat": 53.1424,
+              "lng": -7.6921
+            },
+            {
+              "name": "South Africa",
+              "lat": -30.5595,
+              "lng": 22.9375
+            }
+          ]
+        },
         {
           "id": "210abff3-3710-483b-b003-ec87933f1f4c",
           "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
