@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:22:48.049Z",
+  "generatedAt": "2026-07-06T12:49:40.055Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 71,
+      "totalArticles": 72,
       "languages": {
-        "English": 51,
+        "English": 53,
         "Spanish": 2,
-        "Portuguese": 5,
+        "Portuguese": 4,
         "Turkish": 11,
         "Hungarian": 2
       },
@@ -2168,23 +2168,23 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 12,
-          "latest": "2026-06-29T01:15:00Z",
+          "count": 14,
+          "latest": "2026-07-06T07:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus doesnt linger , requires close contact : Officials – KTBB News , Weather , Talk",
+              "url": "https://ktbb.com/post/?p=1517875",
+              "language": "English"
+            },
+            {
+              "title": "Health : WHO declares hantavirus outbreak linked to cruise ship over",
+              "url": "https://www.gdnonline.com:443/Details/1399714",
+              "language": "English"
+            },
             {
               "title": "US Ends Hantavirus Outbreak Response with No Answers",
               "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
               "language": "English"
-            },
-            {
-              "title": "CDC concludes hantavirus response as outbreak eases",
-              "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
-              "language": "English"
-            },
-            {
-              "title": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
-              "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2323,20 +2323,6 @@
               "title": "WHO Issues Fresh Update On Hantavirus And Ebola Outbreaks As Cases Spread Across Borders",
               "url": "https://www.newsx.com/world/who-issues-fresh-update-on-hantavirus-and-ebola-outbreaks-as-cases-spread-across-borders-240610/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-06-24T20:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "OMS prevê declarar fim do surto de hantavírus a 2 de julho – Observador",
-              "url": "https://observador.pt/2026/06/24/hantavirus-oms-prepara-se-para-declarar-fim-do-surto-em-2-de-julho-se-nao-surgirem-novos-casos/",
-              "language": "Portuguese"
             }
           ]
         }
