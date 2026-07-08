@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:49:11.763Z",
+  "generatedAt": "2026-07-08T05:53:26.034Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,12 +2131,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 70,
+      "totalArticles": 64,
       "languages": {
-        "English": 52,
+        "English": 48,
         "Spanish": 2,
-        "Portuguese": 3,
-        "Turkish": 11,
+        "Portuguese": 2,
+        "Turkish": 10,
         "Hungarian": 2
       },
       "countries": [
@@ -2168,7 +2168,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 14,
+          "count": 9,
           "latest": "2026-07-06T19:45:00Z",
           "sampleTitles": [
             {
@@ -2237,6 +2237,30 @@
           ]
         },
         {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 3,
+          "latest": "2026-07-08T05:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Oceanwide Expeditions CEO responds to hantavirus incident",
+              "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
+              "language": "English"
+            },
+            {
+              "title": "Ann Lane -  People started dying , the Captain told us it was Hantavirus  | Brendan OConnor",
+              "url": "https://www.rte.ie/radio/radio1/clips/22624964/",
+              "language": "English"
+            },
+            {
+              "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
+              "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
+              "language": "English"
+            }
+          ]
+        },
+        {
           "country": "Argentina",
           "lat": -38.4,
           "lng": -63.6,
@@ -2259,37 +2283,13 @@
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
-          "count": 2,
+          "count": 1,
           "latest": "2026-06-29T19:15:00Z",
           "sampleTitles": [
             {
               "title": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
               "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
               "language": "Portuguese"
-            },
-            {
-              "title": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
-              "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 2,
-          "latest": "2026-06-27T18:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Ann Lane -  People started dying , the Captain told us it was Hantavirus  | Brendan OConnor",
-              "url": "https://www.rte.ie/radio/radio1/clips/22624964/",
-              "language": "English"
-            },
-            {
-              "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
-              "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
-              "language": "English"
             }
           ]
         },
@@ -2304,20 +2304,6 @@
               "title": "Index - Külföld - WHO : a végéhez közelít a luxushajón kitört hantavírusjárvány",
               "url": "https://index.hu/kulfold/2026/06/29/who-hantavirus-jarvany-karanten-luxushajo-oceanjaro-vege/",
               "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "India",
-          "lat": 20.6,
-          "lng": 78.96,
-          "count": 1,
-          "latest": "2026-06-24T22:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "WHO Issues Fresh Update On Hantavirus And Ebola Outbreaks As Cases Spread Across Borders",
-              "url": "https://www.newsx.com/world/who-issues-fresh-update-on-hantavirus-and-ebola-outbreaks-as-cases-spread-across-borders-240610/",
-              "language": "English"
             }
           ]
         }
