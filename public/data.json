@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:22:08.102Z",
+  "generatedAt": "2026-07-08T22:08:44.719Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 60,
+      "totalArticles": 59,
       "languages": {
         "English": 45,
         "Spanish": 2,
-        "Portuguese": 2,
+        "Portuguese": 1,
         "Turkish": 10,
         "Hungarian": 1
       },
@@ -2189,30 +2189,6 @@
           ]
         },
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 7,
-          "latest": "2026-07-08T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus Outbreak Connected to Cruise Ship is Officially Over",
-              "url": "https://wattsupwiththat.com/2026/07/07/hantavirus-outbreak-connected-to-cruise-ship-is-officially-over/",
-              "language": "English"
-            },
-            {
-              "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
-              "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus doesnt linger , requires close contact : Officials – KTBB News , Weather , Talk",
-              "url": "https://ktbb.com/post/?p=1517875",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Australia",
           "lat": -25.3,
           "lng": 133.8,
@@ -2232,6 +2208,30 @@
             {
               "title": "Hantavirus outbreak nearing its end , WHO chief says",
               "url": "https://www.easternriverinachronicle.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 6,
+          "latest": "2026-07-08T08:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavirus Outbreak Connected to Cruise Ship is Officially Over",
+              "url": "https://wattsupwiththat.com/2026/07/07/hantavirus-outbreak-connected-to-cruise-ship-is-officially-over/",
+              "language": "English"
+            },
+            {
+              "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
+              "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
+              "language": "English"
+            },
+            {
+              "title": "Hantavirus doesnt linger , requires close contact : Officials – KTBB News , Weather , Talk",
+              "url": "https://ktbb.com/post/?p=1517875",
               "language": "English"
             }
           ]
