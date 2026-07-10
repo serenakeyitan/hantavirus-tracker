@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T23:14:25.065Z",
+  "generatedAt": "2026-07-10T03:28:24.061Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,39 +2131,15 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 59,
+      "totalArticles": 34,
       "languages": {
-        "English": 45,
+        "English": 20,
         "Spanish": 2,
         "Portuguese": 1,
         "Turkish": 10,
         "Hungarian": 1
       },
       "countries": [
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 27,
-          "latest": "2026-06-30T19:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
-              "url": "https://cheknews.ca/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship-1333475/",
-              "language": "English"
-            },
-            {
-              "title": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
-              "url": "https://www.niagarafallsreview.ca/life/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/article_8f837cc9-aa3e-5dbc-b2d1-ace1c43017ad.html",
-              "language": "English"
-            },
-            {
-              "title": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-              "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-              "language": "English"
-            }
-          ]
-        },
         {
           "country": "Turkey",
           "lat": 38.96,
@@ -2256,6 +2232,25 @@
             {
               "title": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
               "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 2,
+          "latest": "2026-06-30T19:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
+              "url": "https://cheknews.ca/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship-1333475/",
+              "language": "English"
+            },
+            {
+              "title": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
+              "url": "https://www.niagarafallsreview.ca/life/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/article_8f837cc9-aa3e-5dbc-b2d1-ace1c43017ad.html",
               "language": "English"
             }
           ]
