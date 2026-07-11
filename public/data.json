@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T17:05:28.430Z",
+  "generatedAt": "2026-07-11T19:05:24.792Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 33,
+      "totalArticles": 32,
       "languages": {
-        "English": 19,
+        "English": 18,
         "Spanish": 2,
         "Portuguese": 1,
         "Turkish": 10,
@@ -2213,25 +2213,6 @@
           ]
         },
         {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 2,
-          "latest": "2026-07-08T05:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Oceanwide Expeditions CEO responds to hantavirus incident",
-              "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
-              "language": "English"
-            },
-            {
-              "title": "Ann Lane -  People started dying , the Captain told us it was Hantavirus  | Brendan OConnor",
-              "url": "https://www.rte.ie/radio/radio1/clips/22624964/",
-              "language": "English"
-            }
-          ]
-        },
-        {
           "country": "Canada",
           "lat": 56.1,
           "lng": -106.3,
@@ -2266,6 +2247,20 @@
               "title": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
               "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
               "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Ireland",
+          "lat": 53.1,
+          "lng": -7.7,
+          "count": 1,
+          "latest": "2026-07-08T05:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Oceanwide Expeditions CEO responds to hantavirus incident",
+              "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
+              "language": "English"
             }
           ]
         },
