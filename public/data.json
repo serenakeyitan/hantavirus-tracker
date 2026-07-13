@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T13:24:44.149Z",
+  "generatedAt": "2026-07-13T16:35:33.901Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,12 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 13,
+      "totalArticles": 11,
       "languages": {
         "English": 9,
-        "Spanish": 2,
-        "Portuguese": 1,
-        "Turkish": 1
+        "Spanish": 1,
+        "Portuguese": 1
       },
       "countries": [
         {
@@ -2183,25 +2182,6 @@
           ]
         },
         {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 2,
-          "latest": "2026-06-30T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
-              "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
-              "language": "Spanish"
-            },
-            {
-              "title": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
-              "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
           "country": "Ireland",
           "lat": 53.1,
           "lng": -7.7,
@@ -2216,6 +2196,20 @@
           ]
         },
         {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-06-30T03:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
+              "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
           "country": "Brazil",
           "lat": -14.2,
           "lng": -51.9,
@@ -2226,20 +2220,6 @@
               "title": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
               "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-06-29T15:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ : Hantavirüs salgınında sona geldik",
-              "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
-              "language": "Turkish"
             }
           ]
         }
