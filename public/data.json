@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T10:32:28.239Z",
+  "generatedAt": "2026-07-13T13:24:44.149Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,68 +2131,19 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 32,
+      "totalArticles": 13,
       "languages": {
-        "English": 18,
+        "English": 9,
         "Spanish": 2,
         "Portuguese": 1,
-        "Turkish": 10,
-        "Hungarian": 1
+        "Turkish": 1
       },
       "countries": [
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 8,
-          "latest": "2026-06-29T15:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "DSÖ : Hantavirüs salgınında sona geldik",
-              "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
-              "language": "Turkish"
-            },
-            {
-              "title": "O kadar köpürtüldü ama ... Hantavirüste sona gelindi",
-              "url": "https://www.odatv.com/ozel/o-kadar-kopurtuldu-ama-hantaviruste-sona-gelindi-120152767",
-              "language": "Turkish"
-            },
-            {
-              "title": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
-              "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 7,
-          "latest": "2026-06-29T04:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavirus outbreak nearing its end , WHO chief says",
-              "url": "https://www.hardenexpress.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak nearing its end , WHO chief says",
-              "url": "https://www.northerndailyleader.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus outbreak nearing its end , WHO chief says",
-              "url": "https://www.easternriverinachronicle.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-              "language": "English"
-            }
-          ]
-        },
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 6,
+          "count": 4,
           "latest": "2026-07-08T08:45:00Z",
           "sampleTitles": [
             {
@@ -2279,16 +2230,16 @@
           ]
         },
         {
-          "country": "Hungary",
-          "lat": 47.2,
-          "lng": 19.5,
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
           "count": 1,
-          "latest": "2026-06-29T12:15:00Z",
+          "latest": "2026-06-29T15:45:00Z",
           "sampleTitles": [
             {
-              "title": "Index - Külföld - WHO : a végéhez közelít a luxushajón kitört hantavírusjárvány",
-              "url": "https://index.hu/kulfold/2026/06/29/who-hantavirus-jarvany-karanten-luxushajo-oceanjaro-vege/",
-              "language": "Hungarian"
+              "title": "DSÖ : Hantavirüs salgınında sona geldik",
+              "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
+              "language": "Turkish"
             }
           ]
         }
