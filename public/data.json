@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:45:07.185Z",
+  "generatedAt": "2026-07-13T20:17:00.744Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 11,
+      "totalArticles": 10,
       "languages": {
         "English": 9,
-        "Spanish": 1,
-        "Portuguese": 1
+        "Spanish": 1
       },
       "countries": [
         {
@@ -2206,20 +2205,6 @@
               "title": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
               "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-06-29T19:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
-              "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
-              "language": "Portuguese"
             }
           ]
         }
