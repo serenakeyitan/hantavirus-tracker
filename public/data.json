@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:36:14.498Z",
+  "generatedAt": "2026-07-14T05:32:38.842Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,10 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 10,
+      "totalArticles": 9,
       "languages": {
-        "English": 9,
-        "Spanish": 1
+        "English": 9
       },
       "countries": [
         {
@@ -2191,20 +2190,6 @@
               "title": "Oceanwide Expeditions CEO responds to hantavirus incident",
               "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
-          "count": 1,
-          "latest": "2026-06-30T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
-              "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
-              "language": "Spanish"
             }
           ]
         }
