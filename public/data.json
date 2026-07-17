@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:14:49.055Z",
+  "generatedAt": "2026-07-17T17:13:31.042Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,8 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 7,
+      "totalArticles": 8,
       "languages": {
+        "Spanish": 1,
         "English": 7
       },
       "countries": [
@@ -2157,6 +2158,20 @@
               "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
               "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 1,
+          "latest": "2026-07-17T15:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
+              "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
+              "language": "Spanish"
             }
           ]
         },
