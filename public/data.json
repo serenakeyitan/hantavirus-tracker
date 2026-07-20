@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T18:05:38.108Z",
+  "generatedAt": "2026-07-20T20:22:31.765Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,17 +2131,17 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 5,
+      "totalArticles": 4,
       "languages": {
         "Spanish": 1,
-        "English": 4
+        "English": 3
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 3,
+          "count": 2,
           "latest": "2026-07-14T16:00:00Z",
           "sampleTitles": [
             {
@@ -2152,11 +2152,6 @@
             {
               "title": "Hantavirus Outbreak Connected to Cruise Ship is Officially Over",
               "url": "https://wattsupwiththat.com/2026/07/07/hantavirus-outbreak-connected-to-cruise-ship-is-officially-over/",
-              "language": "English"
-            },
-            {
-              "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
-              "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
               "language": "English"
             }
           ]
