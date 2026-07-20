@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:01:29.684Z",
+  "generatedAt": "2026-07-20T23:56:43.053Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,19 +2131,24 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 4,
+      "totalArticles": 5,
       "languages": {
-        "Spanish": 1,
-        "English": 3
+        "English": 4,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 2,
-          "latest": "2026-07-14T16:00:00Z",
+          "count": 3,
+          "latest": "2026-07-20T22:00:00Z",
           "sampleTitles": [
+            {
+              "title": "After cruise ship outbreak , review examines how hantavirus affects the brain",
+              "url": "https://www.cidrap.umn.edu/hantavirus/after-cruise-ship-outbreak-review-examines-how-hantavirus-affects-brain",
+              "language": "English"
+            },
             {
               "title": "Hantavirus Infection Neurological Effects Uncovered",
               "url": "https://www.miragenews.com/hantavirus-infections-neurological-effects-1709818/",
