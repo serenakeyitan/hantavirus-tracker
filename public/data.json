@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T23:56:43.053Z",
+  "generatedAt": "2026-07-21T02:57:05.040Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 5,
+      "totalArticles": 6,
       "languages": {
-        "English": 4,
+        "English": 5,
         "Spanish": 1
       },
       "countries": [
@@ -2141,9 +2141,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 3,
-          "latest": "2026-07-20T22:00:00Z",
+          "count": 4,
+          "latest": "2026-07-21T00:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source",
+              "url": "https://www.bendsource.com/news/localnews/doctor-on-hantavirus-cruise-is-one-of-the-top-birders-in-the-world/",
+              "language": "English"
+            },
             {
               "title": "After cruise ship outbreak , review examines how hantavirus affects the brain",
               "url": "https://www.cidrap.umn.edu/hantavirus/after-cruise-ship-outbreak-review-examines-how-hantavirus-affects-brain",
@@ -2152,11 +2157,6 @@
             {
               "title": "Hantavirus Infection Neurological Effects Uncovered",
               "url": "https://www.miragenews.com/hantavirus-infections-neurological-effects-1709818/",
-              "language": "English"
-            },
-            {
-              "title": "Hantavirus Outbreak Connected to Cruise Ship is Officially Over",
-              "url": "https://wattsupwiththat.com/2026/07/07/hantavirus-outbreak-connected-to-cruise-ship-is-officially-over/",
               "language": "English"
             }
           ]
