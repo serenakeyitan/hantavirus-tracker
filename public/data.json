@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:49:23.039Z",
+  "generatedAt": "2026-07-22T13:58:09.182Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 49,
+      "totalArticles": 51,
       "languages": {
+        "English": 33,
         "Turkish": 14,
         "Portuguese": 2,
-        "English": 31,
         "Spanish": 2
       },
       "countries": [
@@ -2143,9 +2143,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 25,
-          "latest": "2026-07-22T04:45:00Z",
+          "count": 26,
+          "latest": "2026-07-22T09:30:00Z",
           "sampleTitles": [
+            {
+              "title": "Venezuela reports isolated hantavirus deaths in two states",
+              "url": "https://www.mcall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+              "language": "English"
+            },
             {
               "title": "Venezuela reports isolated hantavirus deaths in two states",
               "url": "https://www.orlandosentinel.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
@@ -2154,11 +2159,6 @@
             {
               "title": "Venezuela reports isolated hantavirus deaths in two states",
               "url": "https://www.capitalgazette.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela reports isolated hantavirus deaths in two states",
-              "url": "https://www.dailylocal.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
               "language": "English"
             }
           ]
@@ -2184,6 +2184,25 @@
               "title": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
               "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 2,
+          "latest": "2026-07-22T13:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "What is Hantavirus – and what are the symptoms ? All you need to know as three dead in Venezuela",
+              "url": "https://www.independent.co.uk/news/world/americas/what-is-hantavirus-symptoms-venezuela-cases-b3019290.html",
+              "language": "English"
+            },
+            {
+              "title": "Colchester nurses helped to stop Hantavirus spread",
+              "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
+              "language": "English"
             }
           ]
         },
@@ -2216,20 +2235,6 @@
             {
               "title": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  ",
               "url": "https://www.nzherald.co.nz/world/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/premium/ZGXVKSCTPRBKZC2LTC7G4KQBHI/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 1,
-          "latest": "2026-07-22T05:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Colchester nurses helped to stop Hantavirus spread",
-              "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
               "language": "English"
             }
           ]
