@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:22:31.761Z",
+  "generatedAt": "2026-07-22T21:15:01.223Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 53,
+      "totalArticles": 54,
       "languages": {
-        "English": 34,
+        "English": 35,
         "Portuguese": 3,
         "Turkish": 14,
         "Spanish": 2
@@ -2143,9 +2143,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 27,
-          "latest": "2026-07-22T16:30:00Z",
+          "count": 28,
+          "latest": "2026-07-22T20:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Venezuela Confirms 3 Hantavirus - Related Deaths",
+              "url": "https://www.breitbart.com/health/2026/07/22/venezuela-confirms-3-hantavirus-related-deaths/",
+              "language": "English"
+            },
             {
               "title": "Venezuela confirms 3 deaths from hantavirus infections , 2 more suspected",
               "url": "https://www.latimes.com/world-nation/story/2026-07-22/venezuela-confirms-3-deaths-from-hantavirus-infections-2-more-suspected",
@@ -2154,11 +2159,6 @@
             {
               "title": "Venezuela reports isolated hantavirus deaths in two states",
               "url": "https://www.mcall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela reports isolated hantavirus deaths in two states",
-              "url": "https://www.orlandosentinel.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
               "language": "English"
             }
           ]
