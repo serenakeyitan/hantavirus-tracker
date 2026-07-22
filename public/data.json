@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:30:33.222Z",
+  "generatedAt": "2026-07-22T09:27:52.995Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,32 +2131,119 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 6,
+      "totalArticles": 49,
       "languages": {
-        "English": 5,
-        "Spanish": 1
+        "Turkish": 14,
+        "Portuguese": 2,
+        "English": 31,
+        "Spanish": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 4,
-          "latest": "2026-07-21T00:00:00Z",
+          "count": 25,
+          "latest": "2026-07-22T04:45:00Z",
           "sampleTitles": [
             {
-              "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source",
-              "url": "https://www.bendsource.com/news/localnews/doctor-on-hantavirus-cruise-is-one-of-the-top-birders-in-the-world/",
+              "title": "Venezuela reports isolated hantavirus deaths in two states",
+              "url": "https://www.orlandosentinel.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
               "language": "English"
             },
             {
-              "title": "After cruise ship outbreak , review examines how hantavirus affects the brain",
-              "url": "https://www.cidrap.umn.edu/hantavirus/after-cruise-ship-outbreak-review-examines-how-hantavirus-affects-brain",
+              "title": "Venezuela reports isolated hantavirus deaths in two states",
+              "url": "https://www.capitalgazette.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
               "language": "English"
             },
             {
-              "title": "Hantavirus Infection Neurological Effects Uncovered",
-              "url": "https://www.miragenews.com/hantavirus-infections-neurological-effects-1709818/",
+              "title": "Venezuela reports isolated hantavirus deaths in two states",
+              "url": "https://www.dailylocal.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 14,
+          "latest": "2026-07-22T09:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Bakanlık doğruladı : Hantavirüsten 3 kişi hayatını kaybetti – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı",
+              "url": "https://www.turktime.com/haber/bakanlik-dogruladi-hantavirus-ten-3-kisi-hayatini-kaybetti/750077",
+              "language": "Turkish"
+            },
+            {
+              "title": "Venezuelada hantavirüs 3 can aldı",
+              "url": "https://www.yeniakit.com.tr/haber/venezuelada-hantavirus-3-can-aldi-2013664.html",
+              "language": "Turkish"
+            },
+            {
+              "title": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
+              "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
+              "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 2,
+          "latest": "2026-07-22T08:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Venezuela confirma três mortes por hantavírus mas descarta ligao a óbitos de médicos em Barinas",
+              "url": "https://sapo.pt/artigo/venezuela-confirma-tres-mortes-por-hantavirus-mas-descarta-ligacao-a-obitos-de-medicos-em-barinas-6a607009503f077bd1d6017e",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
+              "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "lat": -40.9,
+          "lng": 174.9,
+          "count": 1,
+          "latest": "2026-07-22T06:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  ",
+              "url": "https://www.nzherald.co.nz/world/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/premium/ZGXVKSCTPRBKZC2LTC7G4KQBHI/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "lat": 54,
+          "lng": -2.4,
+          "count": 1,
+          "latest": "2026-07-22T05:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Colchester nurses helped to stop Hantavirus spread",
+              "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Canada",
+          "lat": 56.1,
+          "lng": -106.3,
+          "count": 1,
+          "latest": "2026-07-22T00:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected – Winnipeg Free Press",
+              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/07/21/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected",
               "language": "English"
             }
           ]
@@ -2172,20 +2259,6 @@
               "title": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
               "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Ireland",
-          "lat": 53.1,
-          "lng": -7.7,
-          "count": 1,
-          "latest": "2026-07-08T05:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Oceanwide Expeditions CEO responds to hantavirus incident",
-              "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
-              "language": "English"
             }
           ]
         }
