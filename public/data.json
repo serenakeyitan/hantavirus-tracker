@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T13:58:09.182Z",
+  "generatedAt": "2026-07-22T15:46:27.110Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 51,
+      "totalArticles": 52,
       "languages": {
+        "Portuguese": 3,
         "English": 33,
         "Turkish": 14,
-        "Portuguese": 2,
         "Spanish": 2
       },
       "countries": [
@@ -2221,6 +2221,20 @@
             {
               "title": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
               "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 1,
+          "latest": "2026-07-22T13:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Hantavírus : Venezuela registra três mortes , mas descarta transmissão entre pessoas",
+              "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/hantavirus-venezuela-registra-tres-mortes-mas-descarta-transmissao-entre-pessoas.ghtml",
               "language": "Portuguese"
             }
           ]
