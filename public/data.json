@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T14:03:54.578Z",
+  "generatedAt": "2026-07-23T16:28:05.117Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 54,
+      "totalArticles": 56,
       "languages": {
-        "English": 35,
+        "English": 37,
         "Portuguese": 3,
         "Turkish": 14,
         "Spanish": 2
@@ -2143,22 +2143,22 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 28,
-          "latest": "2026-07-22T20:00:00Z",
+          "count": 30,
+          "latest": "2026-07-23T03:15:00Z",
           "sampleTitles": [
+            {
+              "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness",
+              "url": "https://www.newswise.com/articles/cruise-ship-hantavirus-outbreak-highlights-need-for-clear-public-health-communication-and-global-disease-preparedness",
+              "language": "English"
+            },
+            {
+              "title": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
+              "url": "https://www.yahoo.com/news/world/articles/venezuela-confirms-3-people-died-232052478.html",
+              "language": "English"
+            },
             {
               "title": "Venezuela Confirms 3 Hantavirus - Related Deaths",
               "url": "https://www.breitbart.com/health/2026/07/22/venezuela-confirms-3-hantavirus-related-deaths/",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela confirms 3 deaths from hantavirus infections , 2 more suspected",
-              "url": "https://www.latimes.com/world-nation/story/2026-07-22/venezuela-confirms-3-deaths-from-hantavirus-infections-2-more-suspected",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela reports isolated hantavirus deaths in two states",
-              "url": "https://www.mcall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
               "language": "English"
             }
           ]
