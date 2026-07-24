@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T07:33:09.415Z",
+  "generatedAt": "2026-07-24T10:19:30.406Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,8 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 56,
+      "totalArticles": 57,
       "languages": {
+        "Russian": 1,
         "English": 37,
         "Portuguese": 3,
         "Turkish": 14,
@@ -2222,6 +2223,20 @@
               "title": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
               "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Ukraine",
+          "lat": 48.4,
+          "lng": 31.2,
+          "count": 1,
+          "latest": "2026-07-23T23:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Во Львовской области зафиксировали случай редкой инфекции : у жителя Стрыя диагностировали хантавирус",
+              "url": "https://vesti-ua.net/novosti/obschestvo/286971-vo-lvovskoy-oblasti-zafiksirovali-sluchay-redkoy-infekcii-u-zhitelya-stryya-diagnostirovali-hantavirus.html",
+              "language": "Russian"
             }
           ]
         },
