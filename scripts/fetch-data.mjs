@@ -208,11 +208,15 @@ async function main() {
   // but the previous run had real data, keep the previous Argentina block
   // rather than overwriting it with nulls. The fetch log above still surfaces
   // the regression to the cron output.
+  // When the parser regresses to 0 provinces, save the current bulletin metadata
+  // so the fallback block can still reflect the latest-checked bulletin ID/URL.
+  let argentineFallbackMeta = null;
   if (argentina && argentina.provinces.length === 0) {
     const prev = readPrevious();
     const prevAr = prev?.sources?.argentina;
     if (prevAr?.rows?.length) {
       console.log(`  -> WARN: parser returned 0 provinces for bulletin ${argentina.bulletinIssue}, keeping previous (BEN #${prevAr.bulletinIssue}, ${prevAr.rows.length} provinces)`);
+      argentineFallbackMeta = { bulletinIssue: argentina.bulletinIssue, url: argentina.sourceUrl };
       argentina = null; // signal to skip below and reuse prev block
     }
   }
@@ -273,8 +277,15 @@ async function main() {
             rows: argentina.provinces,
           }
         // Fall back to last-known-good when the fetch was suppressed because
-        // the parser regressed (see WARN log above).
-        : (readPrevious()?.sources?.argentina ?? null),
+        // the parser regressed (see WARN log above). Still update bulletinIssue/url
+        // so the UI shows which BEN was last checked, not just the last good one.
+        : (() => {
+            const prev = readPrevious()?.sources?.argentina ?? null;
+            if (!prev) return null;
+            return argentineFallbackMeta
+              ? { ...prev, bulletinIssue: argentineFallbackMeta.bulletinIssue, url: argentineFallbackMeta.url }
+              : prev;
+          })(),
       hondius: hondius && {
         name: hondius.name,
         url: hondius.sourceUrl,
