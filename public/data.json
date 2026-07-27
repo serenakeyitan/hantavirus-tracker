@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T23:07:05.670Z",
+  "generatedAt": "2026-07-27T03:19:05.356Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,13 +2131,13 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 57,
+      "totalArticles": 58,
       "languages": {
+        "Spanish": 3,
         "Russian": 1,
         "English": 37,
         "Portuguese": 3,
-        "Turkish": 14,
-        "Spanish": 2
+        "Turkish": 14
       },
       "countries": [
         {
@@ -2185,6 +2185,25 @@
               "title": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
               "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
               "language": "Turkish"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 2,
+          "latest": "2026-07-27T02:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Mujer de 40 años permanece grave y conectada a ventilación tras contagiarse de Hantavirus en Palena : fue trasladada a Concepción",
+              "url": "https://www.adnradio.cl/2026/07/26/mujer-de-40-anos-permanece-grave-y-conectada-a-ventilacion-tras-contagiarse-de-hantavirus-en-palena-fue-trasladada-a-concepcion/",
+              "language": "Spanish"
+            },
+            {
+              "title": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
+              "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
+              "language": "Spanish"
             }
           ]
         },
@@ -2279,20 +2298,6 @@
               "title": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected – Winnipeg Free Press",
               "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/07/21/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 1,
-          "latest": "2026-07-17T15:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
-              "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
-              "language": "Spanish"
             }
           ]
         }
