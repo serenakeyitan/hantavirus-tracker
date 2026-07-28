@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:36:41.180Z",
+  "generatedAt": "2026-07-28T19:26:36.945Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2133,9 +2133,9 @@
       "timespan": "14d",
       "totalArticles": 58,
       "languages": {
-        "Spanish": 3,
+        "Spanish": 4,
         "Russian": 1,
-        "English": 37,
+        "English": 36,
         "Portuguese": 3,
         "Turkish": 14
       },
@@ -2144,7 +2144,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 30,
+          "count": 29,
           "latest": "2026-07-23T03:15:00Z",
           "sampleTitles": [
             {
@@ -2192,9 +2192,14 @@
           "country": "Chile",
           "lat": -35.7,
           "lng": -71.5,
-          "count": 2,
-          "latest": "2026-07-27T02:45:00Z",
+          "count": 3,
+          "latest": "2026-07-28T18:45:00Z",
           "sampleTitles": [
+            {
+              "title": "Por primera vez : Minsal declara Alerta Sanitaria por hantavirus y  multiamenaza sanitaria  hasta 2027",
+              "url": "https://www.pudahuel.cl/noticias/2026/07/por-primera-vez-minsal-declara-alerta-sanitaria-por-hantavirus-y-multiamenaza-sanitaria-hasta-2027/",
+              "language": "Spanish"
+            },
             {
               "title": "Mujer de 40 años permanece grave y conectada a ventilación tras contagiarse de Hantavirus en Palena : fue trasladada a Concepción",
               "url": "https://www.adnradio.cl/2026/07/26/mujer-de-40-anos-permanece-grave-y-conectada-a-ventilacion-tras-contagiarse-de-hantavirus-en-palena-fue-trasladada-a-concepcion/",
