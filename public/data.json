@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T02:44:59.838Z",
+  "generatedAt": "2026-07-29T05:53:46.460Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,11 +2131,11 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 58,
+      "totalArticles": 68,
       "languages": {
-        "Spanish": 4,
+        "Spanish": 12,
+        "English": 38,
         "Russian": 1,
-        "English": 36,
         "Portuguese": 3,
         "Turkish": 14
       },
@@ -2144,7 +2144,7 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 29,
+          "count": 28,
           "latest": "2026-07-23T03:15:00Z",
           "sampleTitles": [
             {
@@ -2192,22 +2192,65 @@
           "country": "Chile",
           "lat": -35.7,
           "lng": -71.5,
-          "count": 3,
-          "latest": "2026-07-28T18:45:00Z",
+          "count": 7,
+          "latest": "2026-07-29T03:00:00Z",
           "sampleTitles": [
             {
-              "title": "Por primera vez : Minsal declara Alerta Sanitaria por hantavirus y  multiamenaza sanitaria  hasta 2027",
-              "url": "https://www.pudahuel.cl/noticias/2026/07/por-primera-vez-minsal-declara-alerta-sanitaria-por-hantavirus-y-multiamenaza-sanitaria-hasta-2027/",
+              "title": "Alerta por Hantavirus en Chile por  multiamenaza sanitaria : esto dicen los expertos sobre la situación epidemiológica",
+              "url": "https://www.24horas.cl/actualidad/nacional/alerta-por-hantavirus-en-chile-por-multiamenaza-sanitaria-esto-dicen-expertos",
               "language": "Spanish"
             },
             {
-              "title": "Mujer de 40 años permanece grave y conectada a ventilación tras contagiarse de Hantavirus en Palena : fue trasladada a Concepción",
-              "url": "https://www.adnradio.cl/2026/07/26/mujer-de-40-anos-permanece-grave-y-conectada-a-ventilacion-tras-contagiarse-de-hantavirus-en-palena-fue-trasladada-a-concepcion/",
+              "title": "Minsal declara por primera vez Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
+              "url": "https://www.lanacion.cl/minsal-declara-por-primera-vez-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
               "language": "Spanish"
             },
             {
-              "title": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
-              "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
+              "title": "Alerta Sanitaria por hantavirus : OHiggins está entre las regiones con casos",
+              "url": "https://www.elrancaguino.cl/2026/07/28/alerta-sanitaria-hantavirus-region-casos-2026/",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Australia",
+          "lat": -25.3,
+          "lng": 133.8,
+          "count": 3,
+          "latest": "2026-07-28T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+              "url": "https://www.brisbanetimes.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+              "language": "English"
+            },
+            {
+              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+              "url": "https://www.theage.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+              "language": "English"
+            },
+            {
+              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+              "url": "https://www.smh.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Mexico",
+          "lat": 23.6,
+          "lng": -102.5,
+          "count": 2,
+          "latest": "2026-07-29T05:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "CHILE ACTIVA ALERTA SANITARIA POR HANTAVIRUS EN GRAN PARTE DEL PAIS ANTE AUMENTO DE CASOS Y MUERTES",
+              "url": "https://www.calibre800.com/2026/07/28/chile-activa-alerta-sanitaria-por-hantavirus-en-gran-parte-del-pais-ante-aumento-de-casos-y-muertes/",
+              "language": "Spanish"
+            },
+            {
+              "title": "Chile declara alerta sanitaria preventiva por hantavirus",
+              "url": "https://www.eluniversal.com.mx/mundo/chile-declara-alerta-sanitaria-preventiva-por-hantavirus-autoridades-descartan-una-epidemia-en-curso/",
               "language": "Spanish"
             }
           ]
@@ -2247,6 +2290,20 @@
               "title": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
               "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
               "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Argentina",
+          "lat": -38.4,
+          "lng": -63.6,
+          "count": 1,
+          "latest": "2026-07-29T02:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "Chile emite alerta sanitaria por hantavirus en 13 de sus 16 regiones debido al aumento de casos",
+              "url": "https://www.cadena3.com/noticia/mundo/chile-emite-alerta-sanitaria-por-hantavirus-en-13-de-sus-16-regiones-debido-al-aumento-de-casos_578003",
+              "language": "Spanish"
             }
           ]
         },
