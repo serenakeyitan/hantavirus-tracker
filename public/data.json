@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:03:34.789Z",
+  "generatedAt": "2026-07-31T04:23:33.172Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,126 +2131,27 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 65,
+      "totalArticles": 6,
       "languages": {
-        "Spanish": 13,
-        "English": 35,
-        "Russian": 1,
-        "Portuguese": 2,
-        "Turkish": 14
+        "Spanish": 5,
+        "Turkish": 1
       },
       "countries": [
         {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 27,
-          "latest": "2026-07-23T03:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness",
-              "url": "https://www.newswise.com/articles/cruise-ship-hantavirus-outbreak-highlights-need-for-clear-public-health-communication-and-global-disease-preparedness",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
-              "url": "https://www.yahoo.com/news/world/articles/venezuela-confirms-3-people-died-232052478.html",
-              "language": "English"
-            },
-            {
-              "title": "Venezuela Confirms 3 Hantavirus - Related Deaths",
-              "url": "https://www.breitbart.com/health/2026/07/22/venezuela-confirms-3-hantavirus-related-deaths/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 14,
-          "latest": "2026-07-22T09:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Bakanlık doğruladı : Hantavirüsten 3 kişi hayatını kaybetti – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı",
-              "url": "https://www.turktime.com/haber/bakanlik-dogruladi-hantavirus-ten-3-kisi-hayatini-kaybetti/750077",
-              "language": "Turkish"
-            },
-            {
-              "title": "Venezuelada hantavirüs 3 can aldı",
-              "url": "https://www.yeniakit.com.tr/haber/venezuelada-hantavirus-3-can-aldi-2013664.html",
-              "language": "Turkish"
-            },
-            {
-              "title": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
-              "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
-              "language": "Turkish"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 7,
-          "latest": "2026-07-29T03:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Alerta por Hantavirus en Chile por  multiamenaza sanitaria : esto dicen los expertos sobre la situación epidemiológica",
-              "url": "https://www.24horas.cl/actualidad/nacional/alerta-por-hantavirus-en-chile-por-multiamenaza-sanitaria-esto-dicen-expertos",
-              "language": "Spanish"
-            },
-            {
-              "title": "Minsal declara por primera vez Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
-              "url": "https://www.lanacion.cl/minsal-declara-por-primera-vez-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
-              "language": "Spanish"
-            },
-            {
-              "title": "Alerta Sanitaria por hantavirus : OHiggins está entre las regiones con casos",
-              "url": "https://www.elrancaguino.cl/2026/07/28/alerta-sanitaria-hantavirus-region-casos-2026/",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Australia",
-          "lat": -25.3,
-          "lng": 133.8,
-          "count": 3,
-          "latest": "2026-07-28T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-              "url": "https://www.brisbanetimes.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-              "language": "English"
-            },
-            {
-              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-              "url": "https://www.theage.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-              "language": "English"
-            },
-            {
-              "title": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-              "url": "https://www.smh.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Argentina",
-          "lat": -38.4,
-          "lng": -63.6,
+          "country": "Spain",
+          "lat": 40.5,
+          "lng": -3.7,
           "count": 2,
-          "latest": "2026-07-29T13:45:00Z",
+          "latest": "2026-07-30T21:45:00Z",
           "sampleTitles": [
             {
-              "title": "Chile emite alerta sanitaria por aumento de letalidad del hantavirus en todo el país",
-              "url": "https://www.cadena3.com/noticia/mundo/chile-emite-alerta-sanitaria-por-aumento-de-letalidad-del-hantavirus-en-todo-el-pais_578182",
+              "title": "Alerta sanitaria por hantavirus en Chile : qué significa , cuáles son los síntomas y cómo prevenir la enfermedad",
+              "url": "https://elpais.com/chile/2026-07-30/alerta-sanitaria-por-hantavirus-en-chile-que-significa-cuales-son-los-sintomas-y-como-prevenir-la-enfermedad.html",
               "language": "Spanish"
             },
             {
-              "title": "Chile emite alerta sanitaria por hantavirus en 13 de sus 16 regiones debido al aumento de casos",
-              "url": "https://www.cadena3.com/noticia/mundo/chile-emite-alerta-sanitaria-por-hantavirus-en-13-de-sus-16-regiones-debido-al-aumento-de-casos_578003",
+              "title": "Hantavirus | Chile declara por primera vez la Alerta Sanitaria por hantavirus , con un 21 % más de letalidad que el año anterior",
+              "url": "https://www.lasprovincias.es/internacional/america-latina/chile-declara-primera-vez-alerta-sanitaria-hantavirus-20260729165615-nt.html",
               "language": "Spanish"
             }
           ]
@@ -2259,107 +2160,13 @@
           "country": "Mexico",
           "lat": 23.6,
           "lng": -102.5,
-          "count": 2,
-          "latest": "2026-07-29T05:30:00Z",
+          "count": 1,
+          "latest": "2026-07-30T11:00:00Z",
           "sampleTitles": [
             {
-              "title": "CHILE ACTIVA ALERTA SANITARIA POR HANTAVIRUS EN GRAN PARTE DEL PAIS ANTE AUMENTO DE CASOS Y MUERTES",
-              "url": "https://www.calibre800.com/2026/07/28/chile-activa-alerta-sanitaria-por-hantavirus-en-gran-parte-del-pais-ante-aumento-de-casos-y-muertes/",
+              "title": "Declara Chile alerta sanitaria por hantavirus en casi todo el país - Noticias Quadratín Chihuahua",
+              "url": "https://chihuahua.quadratin.com.mx/principal/declara-chile-alerta-sanitaria-por-hantavirus-en-casi-todo-el-pais/",
               "language": "Spanish"
-            },
-            {
-              "title": "Chile declara alerta sanitaria preventiva por hantavirus",
-              "url": "https://www.eluniversal.com.mx/mundo/chile-declara-alerta-sanitaria-preventiva-por-hantavirus-autoridades-descartan-una-epidemia-en-curso/",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "United Kingdom",
-          "lat": 54,
-          "lng": -2.4,
-          "count": 2,
-          "latest": "2026-07-22T13:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "What is Hantavirus – and what are the symptoms ? All you need to know as three dead in Venezuela",
-              "url": "https://www.independent.co.uk/news/world/americas/what-is-hantavirus-symptoms-venezuela-cases-b3019290.html",
-              "language": "English"
-            },
-            {
-              "title": "Colchester nurses helped to stop Hantavirus spread",
-              "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Ukraine",
-          "lat": 48.4,
-          "lng": 31.2,
-          "count": 1,
-          "latest": "2026-07-23T23:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Во Львовской области зафиксировали случай редкой инфекции : у жителя Стрыя диагностировали хантавирус",
-              "url": "https://vesti-ua.net/novosti/obschestvo/286971-vo-lvovskoy-oblasti-zafiksirovali-sluchay-redkoy-infekcii-u-zhitelya-stryya-diagnostirovali-hantavirus.html",
-              "language": "Russian"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 1,
-          "latest": "2026-07-22T13:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Hantavírus : Venezuela registra três mortes , mas descarta transmissão entre pessoas",
-              "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/hantavirus-venezuela-registra-tres-mortes-mas-descarta-transmissao-entre-pessoas.ghtml",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-07-22T08:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Venezuela confirma três mortes por hantavírus mas descarta ligao a óbitos de médicos em Barinas",
-              "url": "https://sapo.pt/artigo/venezuela-confirma-tres-mortes-por-hantavirus-mas-descarta-ligacao-a-obitos-de-medicos-em-barinas-6a607009503f077bd1d6017e",
-              "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "New Zealand",
-          "lat": -40.9,
-          "lng": 174.9,
-          "count": 1,
-          "latest": "2026-07-22T06:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  ",
-              "url": "https://www.nzherald.co.nz/world/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/premium/ZGXVKSCTPRBKZC2LTC7G4KQBHI/",
-              "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Canada",
-          "lat": 56.1,
-          "lng": -106.3,
-          "count": 1,
-          "latest": "2026-07-22T00:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected – Winnipeg Free Press",
-              "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/07/21/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected",
-              "language": "English"
             }
           ]
         }
