@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T23:02:46.258Z",
+  "generatedAt": "2026-08-01T02:53:34.202Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,12 +2131,37 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 6,
+      "totalArticles": 11,
       "languages": {
-        "Spanish": 5,
+        "English": 6,
+        "Spanish": 4,
         "Turkish": 1
       },
       "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 6,
+          "latest": "2026-07-31T18:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+              "url": "https://www.wdsu.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+              "language": "English"
+            },
+            {
+              "title": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+              "url": "https://www.ketv.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+              "language": "English"
+            },
+            {
+              "title": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+              "url": "https://www.wlwt.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+              "language": "English"
+            }
+          ]
+        },
         {
           "country": "Spain",
           "lat": 40.5,
@@ -2152,20 +2177,6 @@
             {
               "title": "Hantavirus | Chile declara por primera vez la Alerta Sanitaria por hantavirus , con un 21 % más de letalidad que el año anterior",
               "url": "https://www.lasprovincias.es/internacional/america-latina/chile-declara-primera-vez-alerta-sanitaria-hantavirus-20260729165615-nt.html",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Mexico",
-          "lat": 23.6,
-          "lng": -102.5,
-          "count": 1,
-          "latest": "2026-07-30T11:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "Declara Chile alerta sanitaria por hantavirus en casi todo el país - Noticias Quadratín Chihuahua",
-              "url": "https://chihuahua.quadratin.com.mx/principal/declara-chile-alerta-sanitaria-por-hantavirus-en-casi-todo-el-pais/",
               "language": "Spanish"
             }
           ]
