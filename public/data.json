@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T16:27:08.778Z",
+  "generatedAt": "2026-08-03T18:51:35.914Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,10 +2131,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 11,
+      "totalArticles": 12,
       "languages": {
+        "Spanish": 5,
         "English": 6,
-        "Spanish": 4,
         "Turkish": 1
       },
       "countries": [
@@ -2177,6 +2177,20 @@
             {
               "title": "Hantavirus | Chile declara por primera vez la Alerta Sanitaria por hantavirus , con un 21 % más de letalidad que el año anterior",
               "url": "https://www.lasprovincias.es/internacional/america-latina/chile-declara-primera-vez-alerta-sanitaria-hantavirus-20260729165615-nt.html",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 1,
+          "latest": "2026-08-03T17:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
+              "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
               "language": "Spanish"
             }
           ]
