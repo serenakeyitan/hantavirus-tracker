@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:12:59.547Z",
+  "generatedAt": "2026-08-04T18:28:10.568Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -442,8 +442,8 @@
     },
     "argentina": {
       "name": "Argentina BEN (Ministerio de Salud)",
-      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_818_se_28_vff.pdf",
-      "bulletinIssue": 818,
+      "url": "https://www.argentina.gob.ar/sites/default/files/2026/01/ben_819_se_29_vf.pdf",
+      "bulletinIssue": 819,
       "tier": "confirmed",
       "seasonLabel": "2025-2026 SE 27→",
       "totalCases": 108,
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 12,
+      "totalArticles": 13,
       "languages": {
-        "Spanish": 5,
+        "Spanish": 6,
         "English": 6,
         "Turkish": 1
       },
@@ -2163,6 +2163,25 @@
           ]
         },
         {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 2,
+          "latest": "2026-08-04T12:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
+              "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
+              "language": "Spanish"
+            },
+            {
+              "title": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
+              "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
+              "language": "Spanish"
+            }
+          ]
+        },
+        {
           "country": "Spain",
           "lat": 40.5,
           "lng": -3.7,
@@ -2177,20 +2196,6 @@
             {
               "title": "Hantavirus | Chile declara por primera vez la Alerta Sanitaria por hantavirus , con un 21 % más de letalidad que el año anterior",
               "url": "https://www.lasprovincias.es/internacional/america-latina/chile-declara-primera-vez-alerta-sanitaria-hantavirus-20260729165615-nt.html",
-              "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 1,
-          "latest": "2026-08-03T17:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
-              "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
               "language": "Spanish"
             }
           ]
