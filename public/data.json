@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T00:07:40.629Z",
+  "generatedAt": "2026-08-06T04:14:24.358Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 13,
+      "totalArticles": 14,
       "languages": {
-        "Spanish": 6,
+        "Spanish": 7,
         "English": 6,
         "Turkish": 1
       },
@@ -2166,9 +2166,14 @@
           "country": "Chile",
           "lat": -35.7,
           "lng": -71.5,
-          "count": 2,
-          "latest": "2026-08-04T12:45:00Z",
+          "count": 3,
+          "latest": "2026-08-05T23:15:00Z",
           "sampleTitles": [
+            {
+              "title": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
+              "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
+              "language": "Spanish"
+            },
             {
               "title": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
               "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
