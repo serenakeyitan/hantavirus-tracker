@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T14:54:07.133Z",
+  "generatedAt": "2026-08-07T15:57:07.063Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 22,
+      "totalArticles": 24,
       "languages": {
-        "English": 9,
+        "English": 11,
         "Hungarian": 1,
         "Portuguese": 6,
         "Spanish": 6
@@ -2143,9 +2143,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 9,
-          "latest": "2026-08-07T08:00:00Z",
+          "count": 10,
+          "latest": "2026-08-07T15:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Young People Remain At Risk For Hantavirus Post Cruise Ship Epidemic",
+              "url": "https://www.rttnews.com/3677963/young-people-remain-at-risk-for-hantavirus-post-cruise-ship-epidemic.aspx",
+              "language": "English"
+            },
             {
               "title": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
               "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
@@ -2154,11 +2159,6 @@
             {
               "title": "Hantavirus detected in France tourist now isolated in Spain",
               "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
-              "language": "English"
-            },
-            {
-              "title": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  |",
-              "url": "https://www.virginislandsdailynews.com/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/article_1b5b935b-729a-4ae5-b4e6-64ca714234e6.html",
               "language": "English"
             }
           ]
