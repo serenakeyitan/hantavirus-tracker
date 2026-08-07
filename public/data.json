@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:08:51.648Z",
+  "generatedAt": "2026-08-07T11:46:49.232Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,10 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 20,
+      "totalArticles": 22,
       "languages": {
-        "English": 8,
+        "English": 9,
+        "Hungarian": 1,
         "Portuguese": 6,
         "Spanish": 6
       },
@@ -2142,9 +2143,14 @@
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 8,
-          "latest": "2026-08-06T23:00:00Z",
+          "count": 9,
+          "latest": "2026-08-07T08:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
+              "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
+              "language": "Hungarian"
+            },
             {
               "title": "Hantavirus detected in France tourist now isolated in Spain",
               "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
@@ -2153,11 +2159,6 @@
             {
               "title": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  |",
               "url": "https://www.virginislandsdailynews.com/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/article_1b5b935b-729a-4ae5-b4e6-64ca714234e6.html",
-              "language": "English"
-            },
-            {
-              "title": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-              "url": "https://www.wdsu.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
               "language": "English"
             }
           ]
