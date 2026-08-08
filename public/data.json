@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:58:15.687Z",
+  "generatedAt": "2026-08-08T05:47:53.252Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2133,10 +2133,10 @@
       "timespan": "14d",
       "totalArticles": 24,
       "languages": {
-        "English": 11,
+        "English": 12,
         "Hungarian": 1,
         "Portuguese": 6,
-        "Spanish": 6
+        "Spanish": 5
       },
       "countries": [
         {
@@ -2236,16 +2236,16 @@
           ]
         },
         {
-          "country": "Spain",
-          "lat": 40.5,
-          "lng": -3.7,
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
           "count": 1,
-          "latest": "2026-07-30T21:45:00Z",
+          "latest": "2026-08-07T19:45:00Z",
           "sampleTitles": [
             {
-              "title": "Alerta sanitaria por hantavirus en Chile : qué significa , cuáles son los síntomas y cómo prevenir la enfermedad",
-              "url": "https://elpais.com/chile/2026-07-30/alerta-sanitaria-por-hantavirus-en-chile-que-significa-cuales-son-los-sintomas-y-como-prevenir-la-enfermedad.html",
-              "language": "Spanish"
+              "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
+              "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
+              "language": "English"
             }
           ]
         }
