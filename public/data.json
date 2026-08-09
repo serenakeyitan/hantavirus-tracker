@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:44:45.846Z",
+  "generatedAt": "2026-08-09T05:06:40.592Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,12 +2131,12 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 24,
+      "totalArticles": 25,
       "languages": {
+        "Spanish": 6,
         "English": 12,
         "Hungarian": 1,
-        "Portuguese": 6,
-        "Spanish": 5
+        "Portuguese": 6
       },
       "countries": [
         {
@@ -2160,6 +2160,30 @@
               "title": "Hantavirus detected in France tourist now isolated in Spain",
               "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
               "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 4,
+          "latest": "2026-08-09T04:30:00Z",
+          "sampleTitles": [
+            {
+              "title": "Indagan muerte de menor por presunto hantavirus : Esta es la hipótesis",
+              "url": "https://www.tvn.cl/noticias/actualidad/indagan-muerte-de-menor-por-presunto-hantavirus-esta-es-la-hipotesis",
+              "language": "Spanish"
+            },
+            {
+              "title": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
+              "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
+              "language": "Spanish"
+            },
+            {
+              "title": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
+              "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
+              "language": "Spanish"
             }
           ]
         },
@@ -2208,30 +2232,6 @@
               "title": "França deteta novo caso de hantavírus em Espanha – Observador",
               "url": "https://observador.pt/2026/08/06/detetado-novo-caso-de-hantavirus-em-espanha-de-cidadao-franco-argentino-que-esteve-em-franca/",
               "language": "Portuguese"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 3,
-          "latest": "2026-08-05T23:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
-              "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
-              "language": "Spanish"
-            },
-            {
-              "title": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
-              "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
-              "language": "Spanish"
-            },
-            {
-              "title": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
-              "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
-              "language": "Spanish"
             }
           ]
         },
