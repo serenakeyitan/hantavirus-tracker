@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:40:37.516Z",
+  "generatedAt": "2026-08-15T04:33:04.108Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,54 +2131,23 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 11,
+      "totalArticles": 3,
       "languages": {
-        "English": 6,
-        "Spanish": 1,
-        "Hungarian": 1,
-        "Portuguese": 3
+        "English": 2,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 4,
+          "count": 1,
           "latest": "2026-08-14T08:45:00Z",
           "sampleTitles": [
             {
               "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus",
               "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
               "language": "English"
-            },
-            {
-              "title": "Young People Remain At Risk For Hantavirus Post Cruise Ship Epidemic",
-              "url": "https://www.rttnews.com/3677963/young-people-remain-at-risk-for-hantavirus-post-cruise-ship-epidemic.aspx",
-              "language": "English"
-            },
-            {
-              "title": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
-              "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
-              "language": "Hungarian"
-            }
-          ]
-        },
-        {
-          "country": "Brazil",
-          "lat": -14.2,
-          "lng": -51.9,
-          "count": 2,
-          "latest": "2026-08-06T22:00:00Z",
-          "sampleTitles": [
-            {
-              "title": "França tem novo caso de hantavírus 4 meses após surto no navio",
-              "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/franca-registra-novo-caso-de-hantavirus-4-meses-apos-surto-registrado-no-navio-de-cruzeiro",
-              "language": "Portuguese"
-            },
-            {
-              "title": "França anuncia caso de hantavírus da cepa Andes em turista franco - argentino",
-              "url": "https://jornaldebrasilia.com.br/noticias/mundo/franca-anuncia-caso-de-hantavirus-da-cepa-andes-em-turista-franco-argentino/",
-              "language": "Portuguese"
             }
           ]
         },
@@ -2207,20 +2176,6 @@
               "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
               "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Portugal",
-          "lat": 39.4,
-          "lng": -8.2,
-          "count": 1,
-          "latest": "2026-08-06T21:15:00Z",
-          "sampleTitles": [
-            {
-              "title": "França deteta novo caso de hantavírus transmissível entre humanos",
-              "url": "https://www.acorianooriental.pt/noticia/franca-deteta-novo-caso-de-hantavirus-transmissivel-entre-humanos-379443",
-              "language": "Portuguese"
             }
           ]
         }
