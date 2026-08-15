@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:31:53.627Z",
+  "generatedAt": "2026-08-15T14:23:10.397Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 3,
+      "totalArticles": 2,
       "languages": {
-        "English": 2,
+        "English": 1,
         "Spanish": 1
       },
       "countries": [
@@ -2162,20 +2162,6 @@
               "title": "Indagan muerte de menor por presunto hantavirus : Esta es la hipótesis",
               "url": "https://www.tvn.cl/noticias/actualidad/indagan-muerte-de-menor-por-presunto-hantavirus-esta-es-la-hipotesis",
               "language": "Spanish"
-            }
-          ]
-        },
-        {
-          "country": "Turkey",
-          "lat": 38.96,
-          "lng": 35.24,
-          "count": 1,
-          "latest": "2026-08-07T19:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
-              "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
-              "language": "English"
             }
           ]
         }
