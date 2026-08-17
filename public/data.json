@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:45:44.168Z",
+  "generatedAt": "2026-08-17T13:39:53.099Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,10 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 2,
+      "totalArticles": 1,
       "languages": {
-        "English": 1,
-        "Spanish": 1
+        "English": 1
       },
       "countries": [
         {
@@ -2148,20 +2147,6 @@
               "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus",
               "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
               "language": "English"
-            }
-          ]
-        },
-        {
-          "country": "Chile",
-          "lat": -35.7,
-          "lng": -71.5,
-          "count": 1,
-          "latest": "2026-08-09T04:30:00Z",
-          "sampleTitles": [
-            {
-              "title": "Indagan muerte de menor por presunto hantavirus : Esta es la hipótesis",
-              "url": "https://www.tvn.cl/noticias/actualidad/indagan-muerte-de-menor-por-presunto-hantavirus-esta-es-la-hipotesis",
-              "language": "Spanish"
             }
           ]
         }
