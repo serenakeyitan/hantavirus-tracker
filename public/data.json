@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:26:16.841Z",
+  "generatedAt": "2026-08-18T22:24:59.411Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,22 +2131,111 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 1,
+      "totalArticles": 14,
       "languages": {
-        "English": 1
+        "English": 6,
+        "Hungarian": 1,
+        "Portuguese": 6,
+        "Spanish": 1
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 1,
-          "latest": "2026-08-14T08:45:00Z",
+          "count": 4,
+          "latest": "2026-08-07T15:00:00Z",
           "sampleTitles": [
             {
-              "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus",
-              "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
+              "title": "Young People Remain At Risk For Hantavirus Post Cruise Ship Epidemic",
+              "url": "https://www.rttnews.com/3677963/young-people-remain-at-risk-for-hantavirus-post-cruise-ship-epidemic.aspx",
               "language": "English"
+            },
+            {
+              "title": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
+              "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
+              "language": "Hungarian"
+            },
+            {
+              "title": "Hantavirus detected in France tourist now isolated in Spain",
+              "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Brazil",
+          "lat": -14.2,
+          "lng": -51.9,
+          "count": 3,
+          "latest": "2026-08-06T22:00:00Z",
+          "sampleTitles": [
+            {
+              "title": "França tem novo caso de hantavírus 4 meses após surto no navio",
+              "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/franca-registra-novo-caso-de-hantavirus-4-meses-apos-surto-registrado-no-navio-de-cruzeiro",
+              "language": "Portuguese"
+            },
+            {
+              "title": "França anuncia caso de hantavírus da cepa Andes em turista franco - argentino",
+              "url": "https://jornaldebrasilia.com.br/noticias/mundo/franca-anuncia-caso-de-hantavirus-da-cepa-andes-em-turista-franco-argentino/",
+              "language": "Portuguese"
+            },
+            {
+              "title": "Turista franco - argentino testa positivo para hantavírus , anuncia governo francês",
+              "url": "https://jornaldebrasilia.com.br/noticias/saude/turista-franco-argentino-testa-positivo-para-hantavirus-anuncia-governo-frances/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Portugal",
+          "lat": 39.4,
+          "lng": -8.2,
+          "count": 3,
+          "latest": "2026-08-06T21:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "França deteta novo caso de hantavírus transmissível entre humanos",
+              "url": "https://www.acorianooriental.pt/noticia/franca-deteta-novo-caso-de-hantavirus-transmissivel-entre-humanos-379443",
+              "language": "Portuguese"
+            },
+            {
+              "title": "França confirma novo caso de hantavírus transmissível entre humanos",
+              "url": "https://sapo.pt/artigo/franca-confirma-novo-caso-de-hantavirus-transmissivel-entre-humanos-6a74c190f08268d1e0347f43",
+              "language": "Portuguese"
+            },
+            {
+              "title": "França deteta novo caso de hantavírus em Espanha – Observador",
+              "url": "https://observador.pt/2026/08/06/detetado-novo-caso-de-hantavirus-em-espanha-de-cidadao-franco-argentino-que-esteve-em-franca/",
+              "language": "Portuguese"
+            }
+          ]
+        },
+        {
+          "country": "Turkey",
+          "lat": 38.96,
+          "lng": 35.24,
+          "count": 1,
+          "latest": "2026-08-07T19:45:00Z",
+          "sampleTitles": [
+            {
+              "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
+              "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
+              "language": "English"
+            }
+          ]
+        },
+        {
+          "country": "Chile",
+          "lat": -35.7,
+          "lng": -71.5,
+          "count": 1,
+          "latest": "2026-08-05T23:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
+              "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
+              "language": "Spanish"
             }
           ]
         }
