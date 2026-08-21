@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:49:29.472Z",
+  "generatedAt": "2026-08-21T07:42:51.431Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,9 +2131,26 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 0,
-      "languages": {},
-      "countries": []
+      "totalArticles": 1,
+      "languages": {
+        "English": 1
+      },
+      "countries": [
+        {
+          "country": "United States",
+          "lat": 39,
+          "lng": -98,
+          "count": 1,
+          "latest": "2026-08-21T03:15:00Z",
+          "sampleTitles": [
+            {
+              "title": "RFK Jr . praises UNMC Hantavirus response during Omaha visit",
+              "url": "https://www.ketv.com/article/rfk-jr-visits-unmc/73489395",
+              "language": "English"
+            }
+          ]
+        }
+      ]
     },
     "paho": {
       "name": "PAHO Epidemiological Alert",
