@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:21:21.134Z",
+  "generatedAt": "2026-08-21T03:04:23.395Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,26 +2131,9 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 1,
-      "languages": {
-        "English": 1
-      },
-      "countries": [
-        {
-          "country": "United States",
-          "lat": 39,
-          "lng": -98,
-          "count": 1,
-          "latest": "2026-08-14T08:45:00Z",
-          "sampleTitles": [
-            {
-              "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus",
-              "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
-              "language": "English"
-            }
-          ]
-        }
-      ]
+      "totalArticles": 0,
+      "languages": {},
+      "countries": []
     },
     "paho": {
       "name": "PAHO Epidemiological Alert",
