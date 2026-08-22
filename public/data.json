@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:28:40.213Z",
+  "generatedAt": "2026-08-22T06:41:53.517Z",
   "sources": {
     "cdc": {
       "name": "CDC NNDSS Weekly",
@@ -2131,18 +2131,23 @@
       "url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "tier": "reported",
       "timespan": "14d",
-      "totalArticles": 1,
+      "totalArticles": 2,
       "languages": {
-        "English": 1
+        "English": 2
       },
       "countries": [
         {
           "country": "United States",
           "lat": 39,
           "lng": -98,
-          "count": 1,
-          "latest": "2026-08-21T03:15:00Z",
+          "count": 2,
+          "latest": "2026-08-21T21:00:00Z",
           "sampleTitles": [
+            {
+              "title": "Hantavirus Detected on Pine Ridge Reservation",
+              "url": "https://www.kotatv.com/2026/08/21/hantavirus-detected-pine-ridge-reservation-officials-urge-precautions/",
+              "language": "English"
+            },
             {
               "title": "RFK Jr . praises UNMC Hantavirus response during Omaha visit",
               "url": "https://www.ketv.com/article/rfk-jr-visits-unmc/73489395",
